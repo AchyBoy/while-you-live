@@ -26,7 +26,7 @@ They were on shelves that went to the ceiling, and in stacks on the floor beside
 
 She sat. He went into the kitchen, and she heard the tick of the kettle, the clink of cups, and the particular care of someone who lived alone and did things in the same order every day.
 
-She looked around, because looking around was a habit she had never been able to break. A calendar from the feed store, still on last month. A pair of reading glasses on the windowsill and a second pair on the table, as if he had lost the first and given up. On the wall, one framed photograph: a woman laughing on a beach, the colors faded to orange, the kind of photo that had been taken on film. A heavy old radio. A bird feeder outside the window, freshly filled.
+She looked around, because looking around was a habit she had never been able to break. A calendar from the feed store, still on last month. A pair of reading glasses on the windowsill and a second pair on the table, as if he had lost the first and given up. On the wall, one framed photograph: a woman laughing on a beach, the colors faded to orange, the kind of photo that had been taken on film. A heavy old radio. A bird feeder outside the window, freshly filled. On the mantel, among the clocks and candlesticks, a small wooden frame stood empty, its glass polished clean, as if it were waiting for something.
 
 He came back with a tray. Two cups, a teapot in a knitted cover, a plate of shortbread that had come out of a tin.
 
