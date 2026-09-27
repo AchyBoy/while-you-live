@@ -71,6 +71,21 @@
   .sheet .seg { display: flex; border: 1px solid var(--rule); border-radius: 8px; overflow: hidden; }
   .sheet .seg button { padding: 8px 14px; }
   .sheet .seg button.on { background: var(--ink); color: var(--paper); }
+  .pen { margin-left: .2em; padding: .15em .45em; font-size: .85em; color: var(--soft); opacity: .7; vertical-align: .05em; }
+  .pen.has { opacity: 1; }
+  .pen.has { color: var(--accent); }
+  .cmt { position: fixed; inset: auto 0 0 0; z-index: 12; background: var(--paper); border-top: 1px solid var(--rule);
+         padding: 16px 18px calc(env(safe-area-inset-bottom) + 16px); font-size: 16px; display: none;
+         box-shadow: 0 -10px 30px rgba(0,0,0,.18); max-height: 75vh; overflow: auto; }
+  .cmt.open { display: block; }
+  .cmt .quote { color: var(--soft); font-style: italic; margin-bottom: 10px; }
+  .cmt .old { border-left: 3px solid var(--accent); padding: 4px 10px; margin: 8px 0; display: flex; gap: 10px; justify-content: space-between; }
+  .cmt .old button { color: var(--soft); }
+  .cmt textarea { width: 100%; min-height: 90px; font: inherit; font-size: 16px; color: var(--ink); background: transparent;
+                  border: 1px solid var(--rule); border-radius: 8px; padding: 10px; }
+  .cmt .acts { display: flex; justify-content: space-between; align-items: center; margin-top: 10px; }
+  .cmt .save { padding: 8px 20px; border-radius: 999px; background: var(--ink); color: var(--paper); }
+  .cmt .status { color: var(--soft); font-size: 14px; }
 </style>
 </head>
 <body>
@@ -86,6 +101,12 @@
     <div class="seg"><button data-size="-1">A&minus;</button><button data-size="1">A+</button></div></div>
   <div class="row"><span>Page</span>
     <div class="seg" id="themeSeg"><button data-theme="auto">Auto</button><button data-theme="light">Light</button><button data-theme="dark">Dark</button></div></div>
+</div>
+<div class="cmt" id="cmt">
+  <div class="quote" id="cmtQuote"></div>
+  <div id="cmtOld"></div>
+  <textarea id="cmtText" placeholder="Your note on this paragraph"></textarea>
+  <div class="acts"><button id="cmtClose">Close</button><span class="status" id="cmtStatus"></span><button class="save" id="cmtSave">Save</button></div>
 </div>
 <script>
 const BOOK = {"series": "While You Live", "title": "Sic Semper", "number": 1};
@@ -148,6 +169,7 @@ function go(num, y) {
       ${next ? `<button class="next" data-go="${next.num}"><small>Next</small>${next.title}</button>` : ""}
     </nav></article>`;
   main.querySelectorAll("[data-go]").forEach(b => b.onclick = () => go(Number(b.dataset.go), 0));
+  addPens(c.num);
   $("where").textContent = `${c.num}. ${c.title}`;
   history.replaceState(null, "", "#ch" + c.num);
   store.set("pos", { ch: c.num, y: y || 0 });
@@ -169,11 +191,85 @@ function onScroll() {
 }
 addEventListener("scroll", onScroll, { passive: true });
 
+
+// ---- paragraph comments (only for whoever opened the page with ?c=<key>) ----
+const API = "https://api.jobhubgo.com/api/yam/";
+(function () { const k = new URLSearchParams(location.search).get("c"); if (k) store.set("ckey", k); })();
+const CKEY = store.get("ckey", null);
+let comments = [];
+async function loadComments() {
+  if (!CKEY) return;
+  try { const r = await fetch(API + CKEY); const j = await r.json(); comments = (j.data && j.data.comments) || []; } catch {}
+  markPens();
+}
+async function saveComments(mutate) {
+  // Re-read, apply, write; retry once if someone else wrote in between.
+  for (let i = 0; i < 2; i++) {
+    let cur = [];
+    try { const j = await (await fetch(API + CKEY)).json(); cur = (j.data && j.data.comments) || []; } catch {}
+    const next = mutate(cur.slice());
+    try {
+      const r = await fetch(API + CKEY, { method: "PUT", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ data: { comments: next }, updatedAt: Date.now() }) });
+      const j = await r.json();
+      if (j.ok) { comments = next; markPens(); return true; }
+    } catch {}
+  }
+  return false;
+}
+function markPens() {
+  document.querySelectorAll(".pen").forEach(b => {
+    b.classList.toggle("has", comments.some(c => c.ch === Number(b.dataset.ch) && c.p === Number(b.dataset.p)));
+  });
+}
+function addPens(chNum) {
+  if (!CKEY) return;
+  main.querySelectorAll(".chapter p:not(.break):not(.end)").forEach((p, i) => {
+    const text = p.textContent.trim();
+    const b = document.createElement("button");
+    b.className = "pen"; b.textContent = "✎"; b.dataset.ch = chNum; b.dataset.p = i;
+    b.setAttribute("aria-label", "Comment on this paragraph");
+    b.onclick = (e) => { e.stopPropagation(); openCmt(chNum, i, text); };
+    p.appendChild(b);
+  });
+  markPens();
+}
+let cmtAt = null;
+function renderOld() {
+  const mine = comments.filter(c => c.ch === cmtAt.ch && c.p === cmtAt.p);
+  $("cmtOld").innerHTML = mine.map(c => `<div class="old"><span></span><button data-id="${c.id}">Delete</button></div>`).join("");
+  $("cmtOld").querySelectorAll(".old span").forEach((el, i) => el.textContent = mine[i].text);
+  $("cmtOld").querySelectorAll("button").forEach(b => b.onclick = async () => {
+    $("cmtStatus").textContent = "Deleting...";
+    await saveComments(cur => cur.filter(c => c.id !== b.dataset.id));
+    $("cmtStatus").textContent = ""; renderOld();
+  });
+}
+function openCmt(ch, p, text) {
+  cmtAt = { ch, p, quote: text.slice(0, 80) };
+  $("cmtQuote").textContent = "“" + text.slice(0, 90) + (text.length > 90 ? "...”" : "”");
+  $("cmtText").value = ""; $("cmtStatus").textContent = "";
+  renderOld();
+  $("cmt").classList.add("open");
+}
+$("cmtClose").onclick = () => $("cmt").classList.remove("open");
+$("cmtSave").onclick = async () => {
+  const text = $("cmtText").value.trim();
+  if (!text) return;
+  $("cmtStatus").textContent = "Saving...";
+  const c = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6), ch: cmtAt.ch, p: cmtAt.p,
+              quote: cmtAt.quote, text, at: new Date().toISOString() };
+  const ok = await saveComments(cur => cur.concat([c]));
+  if (ok) { $("cmtText").value = ""; $("cmtStatus").textContent = "Saved"; renderOld(); }
+  else $("cmtStatus").textContent = "Didn't save, try again";
+};
+
 // start
 const h = location.hash;
 if (h.startsWith("#ch")) go(Number(h.slice(3)), 0);
 else if (h === "#contents") toc();
 else cover();
+loadComments();
 </script>
 </body>
 </html>
