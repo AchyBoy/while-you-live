@@ -4,11 +4,11 @@
 
 The electric bill was on top because it was the only one printed in red.
 
-Iola Barnett moved it to the bottom of the pile, which changed nothing, and then moved it back, which changed less. Through the wall she could hear Freda on the phone, laughing the low, careful laugh she used when she didn't want her mother to catch the words. Sixteen. Iola had been sixteen once, and a much worse liar.
+Iola Barnett moved it to the bottom of the pile, which changed nothing, and then moved it back, which changed less. Through the wall she could hear Freda on the phone, laughing the low, careful laugh she saved for friends. Sixteen. A good kid, everyone said so, and Iola believed it. But lately there was a door in her daughter that stayed shut, and Iola had not yet found out what was behind it.
 
-The kitchen still smelled of the rice she had burned at six and scraped into the trash at five past. On the laptop, the job she was supposed to be finishing sat open: four hundred words on why a family should choose one brand of gutter guard over another. So far she had written *Rain happens.* It was true. She suspected it was the best sentence she would write all week.
+Dinner was done and the dishes put away. Tomorrow's lunches were already in the fridge, and the permission slip for Friday was signed and clipped to Freda's bag. On the laptop, the job she was supposed to be finishing sat open: four hundred words on why a family should choose one brand of gutter guard over another. So far she had written *Rain happens.* It was true. She suspected it was the best sentence she would write all week.
 
-There had been a time when people quoted her. Not often, and not on television, but in rooms that mattered, by people who had read the whole piece. She had been the reporter who checked the thing everyone else assumed. That was the job, as far as she had ever understood it. You checked.
+There had been a time when people quoted her. Not often, and not on television, but in rooms that mattered, by people who had read the whole piece. She had been the reporter who went and checked the thing everyone else took for granted. As far as she had ever understood it, that was the whole job: find out whether it was true.
 
 Then there had been the auction house story, and then there had been lawyers, and now there was rain.
 
@@ -22,9 +22,13 @@ It was from a firm she had never heard of, Aldine, Mercer and Voss, with an addr
 
 *We act for a private client who wishes to engage a writer to record the recollections of an elderly gentleman. The sessions would take place at the gentleman's home, at his convenience and yours. Our client will pay three thousand dollars per session, for no fewer than ten sessions, with travel costs covered in full. You would be free to decline at any point.*
 
-*Our client has read your work, including the work you were not permitted to finish.*
+*We should say plainly that the gentleman is not famous, and that his recollections will not, on their face, seem credible. Our client does not ask you to believe them. He asks you to listen carefully, to write down what you are told in the way it is told, and from time to time to put to the gentleman a question our client will send you. Whether any of it is ever published is a matter for you and the gentleman. Our client has no interest in it.*
 
-*Our client asks us to add that he has always believed you about Bookbinder.*
+*Our client has read your work, including the work you were not permitted to finish. He chose you because you were not permitted to finish it.*
+
+*He asks that you not try to find out who he is. He expects that you will try anyway, and he does not hold it against you.*
+
+*Lastly, our client asks us to add that he has always believed you about Bookbinder.*
 
 She read that line four times. Then she put the letter face down on the counter, the way she would put down a hot pan, and stood with her hand flat on top of it.
 
@@ -84,7 +88,9 @@ She sat down at the laptop. *Rain happens,* it said.
 
 On the back of the envelope she wrote *Bookbinder,* and then, under it, *who else,* and underlined *who.* She had not done that in six years, written a question down so she could look at it. It felt like picking up an instrument she used to play and finding that her hands still knew where to go.
 
-The number on the letterhead went to a woman who said that Mr. Aldine was expecting her call, which Iola did not like, and that the gentleman lived about two hours north, which was fine, and that the first session could be as soon as Thursday, which was too soon.
+In the morning, after the school run, she called the number on the letterhead.
+
+A woman answered on the second ring. She said that Mr. Aldine had been expecting to hear from her, which Iola did not like. She said that the gentleman lived about two hours north, which was fine. And she said the first session could be as soon as Thursday at ten, which was too soon, and which Iola heard herself agree to.
 
 "Can you tell me who your client is?"
 
@@ -92,7 +98,7 @@ The number on the letterhead went to a woman who said that Mr. Aldine was expect
 
 "Can you tell me who the gentleman is?"
 
-"He'll tell you himself, I expect," the woman said. "He's been told you might be coming. He said he'd put the kettle on."
+"He'll tell you himself, I expect," the woman said. "I'll let him know it's Thursday at ten. He said to tell you he'll have the kettle on."
 
 "Does he know why?"
 
