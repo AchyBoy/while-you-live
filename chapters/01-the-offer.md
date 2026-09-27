@@ -8,7 +8,7 @@ Iola Barnett moved it to the bottom of the pile, which changed nothing, and then
 
 Dinner was done and the dishes put away. Tomorrow's lunches were already in the fridge, and the permission slip for Friday was signed and clipped to Freda's bag. On the laptop, the job she was supposed to be finishing sat open: four hundred words on why a family should choose one brand of gutter guard over another. So far she had written *Rain happens.* It was true. She suspected it was the best sentence she would write all week.
 
-The gutter people paid sixty dollars for four hundred words, and they paid on time, which put them ahead of most. There was also a dentist who wanted a blog, a man who was writing his memoirs about forty years in the carpet trade and could not spell carpet, and a real estate office that sent her photos of houses and asked her to make them sound bigger. She did all of it well. She did it well the way you carry groceries well. Nobody was ever going to quote her on the gutter guards.
+The gutter people paid sixty dollars for four hundred words, and they paid on time, which put them ahead of most. There was also a dentist who wanted a blog, a man who was writing his memoirs about forty years in the carpet trade and could not spell carpet, and a real estate office that sent her photos of houses and asked her to make them sound bigger. She did all of it well, and on time, and none of it would ever be read twice. Nobody was going to quote her on the gutter guards.
 
 There had been a time when people quoted her. Not often, and not on television, but in rooms that mattered, by people who had read the whole piece. She had been the reporter who went and checked the thing everyone else took for granted. As far as she had ever understood it, that was the whole job: find out whether it was true.
 
@@ -20,7 +20,7 @@ It had taken her eight months. She had met him in diners and parking lots and on
 
 On Monday, Carrow House sued.
 
-On Wednesday, her source was gone. Not fired, not arrested, not quoted in a rival paper denying everything. Gone. His apartment was empty, his phone was off, and nobody who knew him would say where he had gone, if they knew. Without him, the documents he had given her were only documents. Carrow's lawyers called them forgeries of forgeries. The paper's lawyers called it a difficult position. By the end of the year the paper had printed a correction that took up more space than some of her stories had, and Iola had been let go with a handshake and a box.
+On Wednesday, her source was gone. Not fired, not arrested, not quoted in a rival paper denying everything. Gone. His apartment was empty, his phone was off, and nobody who knew him would say where he had gone, if they knew. Without him, the documents he had given her were only documents. Carrow's lawyers said the documents were themselves fakes, made up to smear an honest business. The paper's lawyers called it a difficult position. By the end of the year the paper had printed a correction that took up more space than some of her stories had, and Iola had been let go with a handshake and a box.
 
 Everyone in the business knew what that meant. It meant she had made it up.
 
@@ -54,7 +54,7 @@ Two people on earth had known that name. One of them was standing in her kitchen
 
 "Is that from the lawyers?"
 
-Freda was in the doorway, phone against her chest, the call not ended, only muffled. She had her father's height and none of his patience. She was reading the back of the letter through the paper, the way she read everything, upside down and faster than she let on.
+Freda was in the doorway, phone against her chest, the call not ended, only muffled. She had her father's height and none of his patience. Her eyes were already on the letter under her mother's hand. She read everything that way, upside down and faster than she let on.
 
 "Different lawyers," Iola said.
 
@@ -62,7 +62,7 @@ Freda was in the doorway, phone against her chest, the call not ended, only muff
 
 "Richer."
 
-Freda came in and took an apple from the bowl she never ate apples from. She did not ask to see the letter, which meant she wanted to. Iola turned it over. There was no point. Her daughter had been reading over her shoulder since she was four.
+Freda came in and took an apple from the bowl, though she never ate the apples. She did not ask to see the letter, which meant she wanted to. Iola turned it face up and slid it across. There was no point hiding it. Her daughter had been reading over her shoulder since she was four.
 
 Freda skimmed it the way you skim a menu when you already know what you're having, and then she stopped at the bottom.
 
@@ -82,7 +82,7 @@ Below the typed signature of someone named R. Aldine, in a different ink, there 
 
 "People make typos in handwriting."
 
-"That's not what a typo is." Freda read the figures again. The phone against her chest said something small and impatient. "Three thousand dollars. Each time."
+"That's not what a typo is." Freda read the figures again. From the phone against her chest, her friend's voice said something small and impatient. "Three thousand dollars. Each time."
 
 "I can read."
 
