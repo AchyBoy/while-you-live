@@ -20,7 +20,7 @@ It had taken her eight months. She had met him in diners and parking lots and on
 
 On Monday, Carrow House sued.
 
-On Wednesday, her source was gone. Not fired, not arrested, not quoted in a rival paper denying everything. Gone. His apartment was empty, his phone was off, and nobody who knew him would say where he had gone, if they knew. Without him, the documents he had given her were only documents. Carrow's lawyers said the documents were themselves fakes, made up to smear an honest business. The paper's lawyers called it a difficult position. By the end of the year the paper had printed a correction that took up more space than some of her stories had, and Iola had been let go with a handshake and a box.
+On Wednesday, her source was gone. Not fired, not arrested, not quoted in a rival paper denying everything. Gone. His apartment was dark, his phone was off, and nobody who knew him would say where he had gone, if they knew. Without him, the documents he had given her were only documents. Carrow's lawyers said the documents were themselves fakes, made up to smear an honest business. The paper's lawyers called it a difficult position. By the end of the year the paper had printed a correction that took up more space than some of her stories had, and Iola had been let go with a handshake and a box.
 
 Everyone in the business knew what that meant. It meant she had made it up.
 

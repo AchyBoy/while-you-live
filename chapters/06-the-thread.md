@@ -1,0 +1,119 @@
+# Sic Semper
+
+## Chapter 6: The Thread
+
+The email from Aldine, Mercer and Voss came on Tuesday morning. It was two lines long.
+
+*Ms. Barnett, our client thanks you for the first session and has one question for the next. Please ask the gentleman what color the thread was.*
+
+She read it three times, and then she had to go back through her own transcript to find out what it meant. It took her ten minutes. It was a single sentence near the start, when he was describing waking in the field, looking at his own sleeves: *There was a hole in one elbow that somebody had darned with the wrong color thread.*
+
+She had typed that sentence herself on Friday and had not given it a second thought. Somebody else had read it and given it a great deal of thought. Somebody had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
+
+It was, she had to admit, exactly what she would have done.
+
+* * *
+
+On Thursday the kettle was on again. The stairs still had a book on every step. The chess game by the window had moved on by two pieces, and she wondered who he played against, and then decided he played against himself.
+
+She set out the two recorders. She said the date and the time. Then she read him the email.
+
+"Blue," he said.
+
+He said it at once, without looking up and without thinking, the way you would say the color of your own front door.
+
+"Union blue," he went on. "Which was the joke of it, in that coat. His mother had run out of gray the winter before he went, and she used what she had, and she told him that if anybody asked, he should say he'd taken a Yankee prisoner and kept the thread for a souvenir." He smiled a little. "I never met anyone who asked. Until now."
+
+"It's an odd question," Iola said.
+
+"It is." He was quiet for a moment, and his eyes went, just briefly, to the mantel, and then back. "Your client reads carefully."
+
+"Yes."
+
+"So do you, I think. You had to look for it."
+
+"I had to look for it," she admitted.
+
+He nodded, as if that settled something, and did not say what.
+
+* * *
+
+He talked for most of the morning about the farm.
+
+About Margaret Keene, who had come forty miles on a rumor to find a son who was no longer there, and whom he had let go on believing. About the doctor who wanted to take the leg, and the three weeks of fever, and the craft of becoming someone who already existed: never say a name first, never tell a story from your own past. About Lottie, fourteen, who read novels in the hayloft and brought him newspapers and gossip, and who told him the story about the President and the young officer and *get down, you fool.* About a cousin named Ned, writing in pencil from a prison camp at the bottom of the peninsula, where the rations were short and the water was bad. And about a man named Damon, who had lifted him out of the ditch, and who could read, and who had hidden it, and who had walked away down the lane on the first of November and not looked back.
+
+"Did you see him again?" Iola asked. "Damon."
+
+He looked at her for a long moment.
+
+"We'll get there," he said.
+
+At noon he made soup. He would not let her help. It was a thick vegetable soup out of a big dented pot that had clearly made a great many pots of soup, and he served it with bread from the town bakery and apologized for the bread, which did not need an apology.
+
+They ate at the kitchen table, and he asked her about herself.
+
+He asked the way he did everything, without pushing. Where she had grown up. Whether she liked the city. How long she had been a reporter. What she used to report on. She had not meant to tell him much of anything, but the soup was good and the kitchen was warm, and it had been a long time since anyone had asked her a question and then actually waited for the answer.
+
+So she told him about Carrow House.
+
+She told it badly, the way people tell the worst year of their lives, which is to say all out of order and with too much in it. She told him about the call to the newsroom, and the first meeting in a diner where her source had ordered a grilled cheese and a cup of tomato soup and not touched either one. That became a joke between them, later: he always ordered the grilled cheese and the soup, and he never once ate them. She told him about the laundromat. She told him about that summer, which was the hottest she could remember, and how the air conditioning in the newsroom had broken in July and nobody fixed it until September.
+
+She told him about her source's building, a brick walk-up over a dry cleaner's, with a landlord named Petrakis who complained about everything: the tenants, the pipes, the parking, the city. A woman on the second floor called Petrakis about noise so often that he had stopped answering her. The dry cleaner's steam came up through the floor in the mornings, so the whole building smelled of hot cotton.
+
+She told him about the Sunday the story ran, and the Monday the lawsuit came, and the Wednesday her source was gone.
+
+"Gone how?"
+
+"Gone. The phone was off. He didn't show up at Carrow. Petrakis let the police in on the Friday, and the apartment was empty. Well, not empty. His things were there, some of them. But he wasn't. And his cat was shut in the bedroom, half starved, poor thing. Petrakis took it to the shelter and then complained to me for ten minutes about the smell. I remember he wanted to know who was going to pay for the carpet." She shook her head. "And that was it. That was the last anybody saw of him. By the end of the year the paper had printed the correction, and I was out."
+
+"I'm sorry," he said.
+
+"It was a long time ago."
+
+"It doesn't sound like it."
+
+She did not answer that. He took her bowl and filled it again without asking, and set it in front of her, and began to talk about something else entirely: the bakery in town, which had been run by the same family for three generations and was going to close in the spring because none of the grandchildren wanted it.
+
+* * *
+
+After lunch they went back to the living room, and he went back to 1864.
+
+He talked about the letter from Point Lookout, and how his mother had carried it in her apron pocket all that fall. He talked about what it did to a family to have a son in a place like that, where you knew he was hungry and could do nothing, where every letter might be the last one. He said that the men in those camps had written home as if they would be back by Christmas, every one of them, even the ones who knew better. He said it was the only thing they had left to decide.
+
+"Ned wrote that he thought often of home," he said. "He said to tell my mother not to worry. You don't write that to people unless you mean to come back to them."
+
+He was looking at the window. The pencil on the notepad had stopped.
+
+"Then he meant to come home," he said.
+
+Iola looked up from her notebook. "Ned?"
+
+"No." He turned from the window. "Your man. With the cat."
+
+She did not understand him at first, and then she did.
+
+"A man who is running away," he said, gently, "takes his cat. Or he gives it to a neighbor, or he leaves the door open and a full bowl down, or he calls someone. People are very sentimental about their animals, even when they're frightened. Especially then. He shut it in the bedroom, the way you do when you're going out for an hour and you don't want it under your feet. He meant to come back that evening."
+
+Iola laughed. It came out louder than she meant.
+
+"Or he panicked," she said. "Or he forgot. People forget things when they're running for their lives."
+
+"Perhaps," he said.
+
+"You've known about this for twenty minutes."
+
+"Perhaps I'm wrong," he agreed. "I'm wrong often. Shall I go on about Ned?"
+
+He went on about Ned. She wrote it all down. She did not look at him again for some time.
+
+* * *
+
+On the drive home she tried to remember the name of the cat.
+
+She had been in that apartment. Once, early on, before she knew better than to meet a source at home. The cat had come and sat on her notebook. It had been gray, with white feet. He had told her its name, and she had written half a page of notes that day, and she could see the page in her mind, and she could not see the name.
+
+She could not remember whether she had ever asked what happened to it after the shelter.
+
+It did not matter. It had been six years. It was a cat.
+
+At the red light at the bottom of the hill, she took out her notebook and wrote, in the margin of that day's page: *cat, bedroom, door shut. Meant to come back?* And then, because she was honest with herself on paper, she did not cross it out.
