@@ -26,7 +26,7 @@ They were on shelves that went to the ceiling, and in stacks on the floor beside
 
 She sat. He went into the kitchen, and she heard the tick of the kettle, the clink of cups, and the particular care of someone who lived alone and did things in the same order every day.
 
-She looked around, because looking around was a habit she had never been able to break. A calendar from the feed store, still on last month. A pair of reading glasses on the windowsill and a second pair on the table, as if he had lost the first and given up. On the wall, one framed photograph: a woman laughing on a beach, the colors faded to orange, the kind of photo that had been taken on film. A heavy old radio. A cat bowl on the kitchen floor, empty and dry, and no cat anywhere.
+She looked around, because looking around was a habit she had never been able to break. A calendar from the feed store, still on last month. A pair of reading glasses on the windowsill and a second pair on the table, as if he had lost the first and given up. On the wall, one framed photograph: a woman laughing on a beach, the colors faded to orange, the kind of photo that had been taken on film. A heavy old radio. A bird feeder outside the window, freshly filled.
 
 He came back with a tray. Two cups, a teapot in a knitted cover, a plate of shortbread that had come out of a tin.
 
@@ -36,7 +36,9 @@ Iola kept her face still, which was a thing she was good at.
 
 "The lawyers told you about me," she said.
 
-"The lawyers told me your name and that you used to be a reporter," he said. "Nothing else. They're very discreet. I think they're paid to be." He handed her a cup. "You were watching from the window?"
+"The lawyers told me your name and that you used to be a reporter," he said. "Nothing else. They're very discreet. I think they're paid to be." He handed her a cup.
+
+"You were watching from the window," she said.
 
 "I was. I'm old. It's what we do." He smiled, and it changed his face completely, took ten years off it. "Also, you have printed directions in that folder. Nobody under sixty prints directions unless they're the kind of person who has been let down by something before and doesn't intend to be let down again."
 
@@ -54,7 +56,7 @@ She took out her phone and set it on the table between them, and beside it, beca
 
 "Whichever one I trusted."
 
-He laughed at that, a real laugh, and reached for the notepad and pencil on the arm of his chair. While she checked the levels and said the date and the time into the phone, the way she always had, he wrote something at the top of the page, underlined it, and then, without looking down, began to draw in the margin. She saw it the way you see a stranger's doodle on a train: a five-pointed star drawn in one long line, with a tiny letter tucked into each point. Greek, she thought, or something like it. He went over it twice more while she talked, the way people go over a doodle when their mind is somewhere else.
+He laughed at that, a real laugh, and reached for the notepad and pencil on the arm of his chair. While she checked the levels and said the date and the time into the phone, the way she always had, he began, without looking down, to draw in the margin. She saw it the way you see a stranger's doodle on a train: a five-pointed star drawn in one long line, with a tiny letter tucked into each point. Greek, she thought, or something like it. He went over it twice more while she talked, the way people go over a doodle when their mind is somewhere else.
 
 "Mr. Hale," she said.
 
@@ -80,9 +82,9 @@ Iola had interviewed a man who believed he had been abducted by aliens, twice, a
 
 So she only said, "How long is a very long time?"
 
-"Longer than I would like you to write down today," he said. "Let's start where your client asked us to start."
+"Longer than I would like you to write down today," he said. "Where would you like to start?"
 
-She had not told him about the handwritten line. She was nearly sure she hadn't. She opened the folder, found the letter, and read it out.
+"My client sent a question," she said. She opened the folder, found the letter, and read out the handwritten line at the bottom.
 
 "'Please ask him what he thinks of 1865.'"
 
