@@ -34,17 +34,17 @@ He came back with a tray. Two cups, a teapot in a knitted cover, a plate of shor
 
 Iola looked at him. She had not said one word about Freda. She was sure of it. She went back over everything she had said since she got out of the car, which was not much, and none of it was Freda.
 
-"How could you possibly know that?"
+"I'm sorry?" she said. "What? How do you know I have a daughter?"
 
-"You sat in your car with the engine off and sent a text before you got out," he said. "Then you waited for the answer. You'd rather keep a stranger waiting on his porch than skip it, so it mattered. Somebody asked you to let them know you'd got here safely, and you promised. A husband would have called." He poured. "Your passenger seat is pushed all the way back, as far as it goes, and you're not tall, so you didn't do that. Somebody taller rides with you, often enough that you've stopped moving it back. There's a hair tie around the gearshift, and your own hair is pinned up with clips, so it isn't yours. And it's a school day, and you were here at ten, from two hours away, so you left at eight, which is when schools open. You drove her there first. Then she asked you to text her when you arrived, because a stranger's letter had sent her mother two hours up a gravel road, and she didn't like it."
+"You sat in your car with the engine off and sent a text before you got out," he said. "Then you waited for the answer. You'd rather keep a stranger waiting on his porch than skip it, so it mattered. Somebody asked you to let them know you'd got here safely, and you promised. A husband would have called." He poured. "There's a hair tie around the gearshift, and your own hair is pinned up with clips, so it isn't yours. Somebody with long hair rides with you, often enough to leave it there. And it's a school day, and you were here at ten, from two hours away, so you left at eight, which is when schools open. You drove her there first. Then she asked you to text her when you arrived, because a stranger's letter had sent her mother two hours up a gravel road, and she didn't like it."
 
 "You were watching from the window."
 
 "I was. I'm old. It's what we do." He smiled, and it changed his face completely, took ten years off it. "Also, you have printed directions in that folder. Most people trust their phones. People who print directions have usually been let down before, and don't intend to be let down again."
 
-"That's a lot to get from a car seat and a text."
+"That's a lot to get from a text and a hair tie."
 
-"It isn't guessing," he said. "Guessing is for people who didn't look. It's noticing, and then checking. I suspect you already know that."
+"When you've lived as long as I have," he said, "you learn to notice the things other people think don't matter. I suspect you already know that."
 
 She took out her phone and set it on the table between them, and beside it, because she had been burned before, a small digital recorder she had owned for eleven years.
 
