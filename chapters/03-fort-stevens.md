@@ -52,7 +52,7 @@ I want you to understand something, because it matters for everything I am going
 
 We lay in that field for two days.
 
-The heat did not break. Men fainted and were dragged back into the shade. Water came up in buckets from a spring and never lasted. Every so often the fort's big guns would fire, and the ground would jump under us, and a house or a stand of trees somewhere out in front would come apart. Our own sharpshooters had climbed into the upper windows of the farmhouses in front of the fort and into the tops of the trees, and they kept shooting at the wall, slowly and carefully, one shot at a time. The Union men on the wall answered them the same way. You learned to keep your head down, and you learned it fast.
+The heat did not break. Men fainted and were dragged back into the shade. Water came up in buckets from a spring and never lasted. Every so often the fort's big guns would fire, and the ground would jump under us, and a house or a stand of trees somewhere out in front would come apart. Our own sharpshooters had climbed into the upper windows of the farmhouses in front of the fort and into the tops of the trees, and they fired at anyone on the wall who gave them a clean shot. The men on the wall did the same to us. You learned to keep your head down, and you learned it fast.
 
 On the second afternoon, the twelfth, I saw him.
 
@@ -78,7 +78,7 @@ I pushed myself up onto one knee, out past the end of the stone wall, to see whe
 
 That was a mistake. I have made it, in one form or another, in more lives than I would like to tell you. I wanted to see. I always want to see.
 
-Somebody on the wall saw me move. The shot came from my right, from the fort's end of the field, and it went through my left leg just above the knee, the leg I had put out past the end of the wall to hold myself up. It did not hurt at first. It felt as if someone had struck the leg with a heavy stick, very hard, and then the leg was not there anymore, and I was on my back in the grass looking up at the white sky.
+Somebody on the wall saw me move. The shot took me in the left leg, just above the knee, where it stuck out past the end of the wall. It did not hurt at first. It felt as if someone had struck the leg with a heavy stick, very hard, and then the leg was not there anymore, and I was on my back in the grass looking up at the white sky.
 
 Then it hurt.
 
