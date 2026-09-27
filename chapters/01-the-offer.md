@@ -6,9 +6,9 @@ The electric bill was on top because it was the only one printed in red.
 
 Iola Barnett moved it to the bottom of the pile, which changed nothing, and then moved it back, which changed less. Through the wall she could hear Freda on the phone, laughing the low, careful laugh she saved for friends. Sixteen. A good kid, everyone said so, and Iola believed it. But lately there was a door in her daughter that stayed shut, and Iola had not yet found out what was behind it.
 
-Dinner was done and the dishes put away. Tomorrow's lunches were already in the fridge, and the permission slip for Friday was signed and clipped to Freda's bag. On the laptop, the job she was supposed to be finishing sat open: four hundred words on why a family should choose one brand of gutter guard over another. So far she had written *Rain happens.* It was true. She suspected it was the best sentence she would write all week.
+Dinner was done and the dishes put away. Tomorrow's lunches were already in the fridge, and the permission slip for Friday was signed and clipped to Freda's bag. On the laptop, tonight's job sat open: four hundred words on why a family should choose one brand of gutter guard over another.
 
-The gutter people paid sixty dollars for four hundred words, and they paid on time, which put them ahead of most. There was also a dentist who wanted a blog, a man who was writing his memoirs about forty years in the carpet trade and could not spell carpet, and a real estate office that sent her photos of houses and asked her to make them sound bigger. She did all of it well, and on time, and none of it would ever be read twice. Nobody was going to quote her on the gutter guards.
+These days Iola wrote whatever people paid her to write. The gutter company paid sixty dollars a piece and paid on time, which put it ahead of most. There was also a dentist who wanted a blog, a retired man writing a memoir about forty years in the carpet business, and a real estate office that sent her photos of houses and asked her to make them sound bigger. She did all of it well and on time. It paid most of the bills. None of it would ever be read twice.
 
 There had been a time when people quoted her. Not often, and not on television, but in rooms that mattered, by people who had read the whole piece. She had been the reporter who went and checked the thing everyone else took for granted. As far as she had ever understood it, that was the whole job: find out whether it was true.
 
@@ -24,7 +24,6 @@ On Wednesday, her source was gone. Not fired, not arrested, not quoted in a riva
 
 Everyone in the business knew what that meant. It meant she had made it up.
 
-And now there was rain.
 
 The envelope had come that afternoon. She had left it unopened on the counter beside the fruit bowl, because nothing good arrived in paper that heavy. Heavy paper meant lawyers, and lawyers were how the last story had ended.
 
@@ -38,9 +37,7 @@ It was from a firm she had never heard of, Aldine, Mercer and Voss, with an addr
 
 *We should say plainly that the gentleman is not famous, and that his recollections will not, on their face, seem credible. Our client does not ask you to believe them. He asks you to listen carefully, to write down what you are told in the way it is told, and from time to time to put to the gentleman a question our client will send you. Whether any of it is ever published is a matter for you and the gentleman. Our client has no interest in it.*
 
-*Our client has read your work, including the work you were not permitted to finish. He chose you because you were not permitted to finish it.*
-
-*He asks that you not try to find out who he is. He expects that you will try anyway, and he does not hold it against you.*
+*Our client has followed your work for some years, including your reporting on Carrow House, and he knows how that ended. He asks us to tell you that it is the reason he chose you. He needs someone who checks everything and accepts nothing until she has, and who knows what it costs to be right when no one believes you.*
 
 *Lastly, our client asks us to add that he has always believed you about Bookbinder.*
 
@@ -68,21 +65,21 @@ Freda skimmed it the way you skim a menu when you already know what you're havin
 
 Below the typed signature of someone named R. Aldine, in a different ink, there was one more line, written by hand. The writing was old-fashioned, the kind taught when handwriting was still a subject in school, and it leaned a little too far to the right. The downstrokes shook, very slightly, like a picture hung on a wall that trucks drove past.
 
-*Please begin with 1865.*
+*Please ask him what he thinks of 1865.*
 
 "Somebody's grandpa wrote that," Freda said.
 
 "Maybe it's the gentleman."
 
-"No, the gentleman's the one you're interviewing. This is the one paying." Freda tapped the line with the apple. "Why would they want you to start in 1865?"
+"No, the gentleman's the one you're interviewing. This is the one paying." Freda tapped the line with the apple. "What happened in 1865?"
 
-"Maybe it's a typo."
+"The Civil War ended. Lincoln was shot."
 
-"It's handwritten, Mom."
+"So he's a history guy."
 
-"People make typos in handwriting."
+"Apparently."
 
-"That's not what a typo is." Freda read the figures again. From the phone against her chest, her friend's voice said something small and impatient. "Three thousand dollars. Each time."
+"Weird thing to pay for." Freda read the figures again. From the phone against her chest, her friend's voice said something small and impatient. "Three thousand dollars. Each time."
 
 "I can read."
 
@@ -97,8 +94,6 @@ Freda looked at her, and for one second she was not sixteen at all. She was the 
 "I don't know yet."
 
 "You're going to go." Freda lifted the phone back to her ear, said "Sorry, my mom," into it, in the voice that meant *my mom* was a long and tragic story, and went back to her room. The door closed. It didn't slam. Iola had learned to be grateful for the difference.
-
-She sat down at the laptop. *Rain happens,* it said.
 
 She finished the gutter guards first, because she had said she would, and because sixty dollars was sixty dollars. It took twenty minutes. Then she opened a new window and did what she had not done for six years. She started checking.
 
