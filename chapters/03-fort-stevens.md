@@ -44,15 +44,15 @@ Another man said that if they could just get over that one wall, they would all 
 
 "Them ain't clerks," said the second man. "Them's the Sixth Corps. I seen their flags."
 
-Nobody answered him after that.
+The first man opened his mouth to argue, and then shut it again. After that nobody said much of anything. A few of them looked back over their shoulders at the road we had come in on, the way men do when they are working out how far it is to somewhere safe.
 
 So. It was summer, it was the war between the states, and I was on the side that had come to take the capital and was beginning to understand that it could not. I did not know the year for certain until that afternoon, when a boy down the line read aloud from a newspaper he had taken off a dead man, and the date at the top of it said July of 1864. I did not know my own full name until the next morning, when I found a letter in my jacket addressed to a Christopher, with a Maryland return address, in a mother's careful hand.
 
-I did not know what would happen next. People always forget that. I am not a prophet. I have never once woken up knowing how a thing would end. I only ever know what I have lived, and I had never lived this.
+I want you to understand something, because it matters for everything I am going to tell you. I did not know what would happen next. I am not a prophet. I have never once woken up knowing how a thing would end. I only ever know what I have lived, and I had never lived this.
 
 We lay in that field for two days.
 
-The heat did not break. Men fainted and were dragged back into the shade. Water came up in buckets from a spring and never lasted. Every so often the fort's big guns would fire, and the ground would jump under us, and a house or a stand of trees somewhere out in front would come apart. Our own sharpshooters had climbed into the upper windows of the farmhouses in front of the fort and into the tops of the trees, and they kept up a steady, patient fire at the wall, and the men on the wall kept up a steady, patient fire back.
+The heat did not break. Men fainted and were dragged back into the shade. Water came up in buckets from a spring and never lasted. Every so often the fort's big guns would fire, and the ground would jump under us, and a house or a stand of trees somewhere out in front would come apart. Our own sharpshooters had climbed into the upper windows of the farmhouses in front of the fort and into the tops of the trees, and they kept shooting at the wall, slowly and carefully, one shot at a time. The Union men on the wall answered them the same way. You learned to keep your head down, and you learned it fast.
 
 On the second afternoon, the twelfth, I saw him.
 
@@ -74,17 +74,17 @@ A rifle cracked from one of the trees ahead of me. On the wall, a man standing n
 
 The others moved then. Hands took the tall man by the arms and the coat. Someone was shouting. I could not hear the words at that distance, only the sharpness of them. For one moment longer he stood there, as if he were deciding whether to be offended. Then he stepped down behind the earth, and the wall was only a wall again.
 
-I lifted my head to see where he had gone.
+I pushed myself up onto one knee, out past the end of the stone wall, to see where he had gone.
 
 That was a mistake. I have made it, in one form or another, in more lives than I would like to tell you. I wanted to see. I always want to see.
 
-The shot came from my right, from the fort's end of the field, and it went through my left leg just above the knee. It did not hurt at first. It felt as if someone had struck the leg with a heavy stick, very hard, and then the leg was not there anymore, and I was on my back in the grass looking up at the white sky.
+Somebody on the wall saw me move. The shot came from my right, from the fort's end of the field, and it went through my left leg just above the knee, the leg I had put out past the end of the wall to hold myself up. It did not hurt at first. It felt as if someone had struck the leg with a heavy stick, very hard, and then the leg was not there anymore, and I was on my back in the grass looking up at the white sky.
 
 Then it hurt.
 
 Toward evening the men in blue came out of the fort, the ones from the boats, the ones that were not clerks. They came across the fields in long lines, and our skirmishers fell back in front of them, and for an hour the air was nothing but noise. Somebody dragged me behind the stone wall. Somebody tied a belt around my leg and pulled it tight enough that I screamed, and I heard my own voice and did not recognize it.
 
-When it was dark, the army left.
+It was full dark before anyone came back for me. By then the word was going down the line, man to man, in low voices: we were pulling out. No fires. No talking. Leave whatever you can't carry. I lay there with the belt biting into my leg and listened to men I did not know yet getting ready to leave me.
 
 I heard it go. You can hear an army leave, even a quiet one: the wagons, the horses, the long shuffle of feet on a dry road, the voices telling each other to hush. Old Jube was going back the way he had come, back to the Potomac and over it into Virginia, and he was taking everyone who could walk.
 
