@@ -30,11 +30,13 @@ She looked around, because looking around was a habit she had never been able to
 
 He came back with a tray. Two cups, a teapot in a knitted cover, a plate of shortbread that had come out of a tin.
 
-"You drove someone to school this morning," he said, setting the tray down.
+"You have a daughter," he said, setting the tray down. "She's taller than you are, and you drove her to school this morning."
 
-Iola looked at him.
+Iola looked at him. She had not said one word about Freda. She was sure of it. She went back over everything she had said since she got out of the car, which was not much, and none of it was Freda.
 
-"Your passenger seat," he said. "I saw it when you opened your door. It's pushed all the way back, as far as it goes, and you're not tall, so you didn't do that. Someone taller than you rides with you, often enough that you've stopped moving it back. There's a hair tie around the gearshift, the thick kind. And it's a school day, and you were here at ten, from two hours away, so you left at eight, which is about when schools open." He poured. "A daughter, I'd guess. Tall, like her father, I expect. But I wouldn't bet the house on any of it."
+"How could you possibly know that?"
+
+"Your passenger seat," he said. "I saw it when you opened your door. It's pushed all the way back, as far as it goes, and you're not tall, so you didn't do that. Someone taller than you rides with you, often enough that you've stopped moving it back. There's a hair tie around the gearshift, and your own hair is pinned up with clips, so it isn't yours. Somebody with long hair rides in that seat. And it's a school day, and you were here at ten, from two hours away, so you left at eight, which is about when schools open." He poured. "A daughter, then. Tall, like her father, I expect. But I wouldn't bet the house on any of it."
 
 "You were watching from the window."
 
