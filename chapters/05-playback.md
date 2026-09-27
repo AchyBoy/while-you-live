@@ -22,7 +22,7 @@ For the second hour, she thought about how he had said *I was always glad of tha
 
 * * *
 
-The house was lit up when she pulled in, every window, the way Freda left it when she was home alone and pretending she didn't mind.
+The house was lit up when she parked out front, every window, the way Freda left it when she was home alone and pretending she didn't mind.
 
 Freda was at the kitchen table with her laptop and a stack of chemistry worksheets, a pencil behind one ear and another in her hand. She looked up when the door opened, and for a second her face did something that looked like relief, and then she remembered she was sixteen and put it away.
 
@@ -106,7 +106,7 @@ That proved nothing either, she reminded herself. Some people were very good.
 
 At eleven, she opened her laptop and started checking.
 
-Lincoln at Fort Stevens was easy. There were books about it, and articles, and a marker at the fort itself, now a small park in the middle of a neighborhood in Washington. Lincoln had come out to the fort on July 12, 1864, and stood on the parapet under fire, and an army surgeon standing near him had been shot. Everything Tom Hale had said about it was in the record.
+Lincoln at Fort Stevens was easy. There were books about it, and articles, and what was left of the fort itself, now a small grassy park in Brightwood, twenty minutes from her own front door. She had lived in Washington her whole adult life and never once been. Lincoln had come out to the fort on July 12, 1864, and stood on the parapet under fire, and an army surgeon standing near him had been shot. Everything Tom Hale had said about it was in the record.
 
 That was the problem. Everything he had said about it was in the record. Anyone could have read it.
 
@@ -124,7 +124,7 @@ She wrote that down in her notebook, and then she drew a line through it, becaus
 
 Then, after a moment, she wrote it down again underneath.
 
-The inauguration was harder, but not much. It had rained on the morning of March 4, 1865, and the streets had been deep in mud. And a newspaper correspondent standing near the platform had written that as Lincoln rose to speak, the sun broke through the clouds, and that Lincoln himself had noticed it and later said it made his heart jump.
+The inauguration was harder, but not much. It had rained on the morning of March 4, 1865, and the streets had been deep in mud. And a newspaper correspondent standing near the platform had written that as Lincoln rose to speak, the sun broke through the clouds, and that Lincoln himself had noticed it, and told a friend afterward that he was just superstitious enough to take it as a good omen.
 
 Also in the record. Also proof of nothing.
 
