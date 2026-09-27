@@ -54,7 +54,7 @@ She took out her phone and set it on the table between them, and beside it, beca
 
 "Whichever one I trusted."
 
-He laughed at that, a real laugh, and picked up the notepad and pencil from the arm of his chair and settled them on his knee. The top page was already covered in doodles, the kind people make on the phone or while they wait: the same shape, over and over, some of it gone over so many times the pencil had shone. She saw it the way you see a stranger's doodles on a train. A five-pointed star, each one drawn in one long line, with a tiny letter tucked into each point. Greek, she thought, or something like it. While she checked the levels and said the date and time into the phone, the way she always had, his pencil found one of the stars and began, without his looking down, to go over it again.
+He laughed at that, a real laugh, and picked up the notepad and pencil from the arm of his chair and settled them on his knee. The top page was already covered in doodles, the kind people make on the phone or while they wait: the same shape, over and over, some gone over so many times that the pencil lead shone. She saw it the way you see a stranger's doodles on a train. A five-pointed star, each one drawn in one long line, with a tiny letter tucked into each point. Greek, she thought, or something like it. While she checked the levels and said the date and time into the phone, the way she always had, his pencil found one of the stars and began, without his looking down, to go over it again.
 
 "Mr. Hale," she said.
 
