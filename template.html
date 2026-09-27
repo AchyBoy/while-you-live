@@ -86,6 +86,33 @@
   .cmt .acts { display: flex; justify-content: space-between; align-items: center; margin-top: 10px; }
   .cmt .save { padding: 8px 20px; border-radius: 999px; background: var(--ink); color: var(--paper); }
   .cmt .status { color: var(--soft); font-size: 14px; }
+
+  /* fixed since you last looked (pencil readers only) */
+  :root { --fix: #2f8a4f; --fixbg: rgba(47,138,79,.09); }
+  :root[data-theme="dark"] { --fix: #5cc47f; --fixbg: rgba(92,196,127,.10); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --fix: #5cc47f; --fixbg: rgba(92,196,127,.10); } }
+  .chapter p.fixed { outline: 2px solid var(--fix); outline-offset: 5px; border-radius: 3px; background: var(--fixbg); margin: 14px 0; }
+  .tag { display: inline-block; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; font-family: -apple-system, system-ui, sans-serif;
+         font-weight: 600; padding: 2px 7px; border-radius: 999px; color: #fff; background: var(--fix); vertical-align: .2em; text-indent: 0; }
+  .tag.new { background: var(--accent); }
+  .chapter p.fixed > .tag { margin-right: .5em; }
+  .toc .tag { margin-left: auto; align-self: center; }
+  .fixbar { border: 2px solid var(--fix); background: var(--fixbg); border-radius: 10px; padding: 10px 14px; margin: 0 0 1.6em;
+            font-size: 16px; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; }
+  .fixbar b { flex: 1 1 100%; font-weight: 600; color: var(--fix); }
+  .fixbar button { padding: 5px 12px; border-radius: 999px; border: 1px solid var(--fix); color: var(--fix); }
+  .fixbar button.done { background: var(--fix); color: #fff; }
+  .cover .fixes { margin-top: 1.6em; font-size: .75em; }
+  .cover .fixes button { color: var(--fix); text-decoration: underline; margin: 0 .3em; }
+
+  /* this page is out of date */
+  .stale { position: fixed; inset: 0; z-index: 50; background: rgba(0,0,0,.6); display: none; align-items: center; justify-content: center; padding: 24px; }
+  .stale.open { display: flex; }
+  .stale .box { background: var(--paper); border: 3px solid #c0392b; border-radius: 14px; padding: 24px 22px; max-width: 26em; text-align: center;
+                font-size: 17px; box-shadow: 0 20px 60px rgba(0,0,0,.4); }
+  .stale h3 { margin: 0 0 .4em; font-size: 1.4em; color: #c0392b; }
+  .stale .go { margin-top: 16px; width: 100%; padding: 14px; border-radius: 999px; background: #c0392b; color: #fff; font-size: 18px; font-weight: 600; }
+  .stale .later { margin-top: 12px; color: var(--soft); font-size: 14px; text-decoration: underline; }
 </style>
 </head>
 <body>
@@ -108,7 +135,14 @@
   <textarea id="cmtText" placeholder="Your note on this paragraph"></textarea>
   <div class="acts"><button id="cmtClose">Close</button><span class="status" id="cmtStatus"></span><button class="save" id="cmtSave">Save</button></div>
 </div>
+<div class="stale" id="stale"><div class="box">
+  <h3>This page is out of date</h3>
+  <div>A newer version of the book is up. Reload before you read or leave notes, or you'll be marking things that are already fixed.</div>
+  <button class="go" id="staleGo">Reload now</button>
+  <button class="later" id="staleLater">Later</button>
+</div></div>
 <script>
+const BUILD = /*BUILD*/0;
 const BOOK = /*BOOK*/null;
 const CHAPTERS = /*CHAPTERS*/[];
 const $ = (id) => document.getElementById(id);
@@ -143,14 +177,16 @@ function cover() {
     <div class="star">&#10043;</div>
     <button class="begin" id="begin">${c ? "Continue reading" : "Begin"}</button>
     <button class="resume" id="toc">Contents</button>
+    ${coverFixes()}
   </section>`;
   $("where").textContent = "";
   $("begin").onclick = () => go(c ? c.num : CHAPTERS[0].num, c ? saved.y : 0);
   $("toc").onclick = () => toc();
+  main.querySelectorAll(".fixes [data-ch]").forEach(b => b.onclick = () => go(Number(b.dataset.ch), 0));
 }
 function toc() {
   main.innerHTML = `<section class="toc"><h2>${BOOK.title}</h2><ol>${CHAPTERS.map(c =>
-    `<li><button data-ch="${c.num}"><span class="n">${c.num}</span><span>${c.title}</span></button></li>`).join("")}</ol></section>`;
+    `<li><button data-ch="${c.num}"><span class="n">${c.num}</span><span>${c.title}</span>${badge(c)}</button></li>`).join("")}</ol></section>`;
   main.querySelectorAll("[data-ch]").forEach(b => b.onclick = () => go(Number(b.dataset.ch), 0));
   $("where").textContent = "Contents";
   history.replaceState(null, "", "#contents");
@@ -162,6 +198,7 @@ function go(num, y) {
   const c = CHAPTERS[i], prev = CHAPTERS[i - 1], next = CHAPTERS[i + 1];
   main.innerHTML = `<article class="chapter">
     <header><div class="num">Chapter ${c.num}</div><h2>${c.title}</h2></header>
+    <div id="fixbarSlot"></div>
     ${c.html}
     ${next ? "" : `<p class="end">More chapters to come.</p>`}
     <nav class="nav">
@@ -170,6 +207,7 @@ function go(num, y) {
     </nav></article>`;
   main.querySelectorAll("[data-go]").forEach(b => b.onclick = () => go(Number(b.dataset.go), 0));
   addPens(c.num);
+  markFixes(c);
   $("where").textContent = `${c.num}. ${c.title}`;
   history.replaceState(null, "", "#ch" + c.num);
   store.set("pos", { ch: c.num, y: y || 0 });
@@ -246,6 +284,7 @@ function renderOld() {
   });
 }
 function openCmt(ch, p, text) {
+  if (staleV) { showStale(); return; }
   cmtAt = { ch, p, quote: text.slice(0, 80) };
   $("cmtQuote").textContent = "“" + text.slice(0, 90) + (text.length > 90 ? "...”" : "”");
   $("cmtText").value = ""; $("cmtStatus").textContent = "";
@@ -258,11 +297,73 @@ $("cmtSave").onclick = async () => {
   if (!text) return;
   $("cmtStatus").textContent = "Saving...";
   const c = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6), ch: cmtAt.ch, p: cmtAt.p,
-              quote: cmtAt.quote, text, at: new Date().toISOString() };
+              quote: cmtAt.quote, text, at: new Date().toISOString(), v: BUILD };
   const ok = await saveComments(cur => cur.concat([c]));
   if (ok) { $("cmtText").value = ""; $("cmtStatus").textContent = "Saved"; renderOld(); }
   else $("cmtStatus").textContent = "Didn't save, try again";
 };
+
+// ---- fixed since you last looked (pencil readers only) ----
+// Each paragraph carries the build time its text last changed (c.pt). "seen" is, per chapter,
+// the newest change the reader has acknowledged. A chapter they've never opened is NEW.
+function seenAt(num) { return store.get("seen", {})[num] || 0; }
+function setSeen(num, t) { const s = store.get("seen", {}); s[num] = Math.max(s[num] || 0, t); store.set("seen", s); }
+function fixCount(c) { const since = Math.max(seenAt(c.num), c.added); return c.pt.filter(t => t > since).length; }
+function isNew(c) { return c.added > seenAt(c.num); }
+function badge(c) {
+  if (!CKEY) return "";
+  if (isNew(c)) return `<span class="tag new">New</span>`;
+  const n = fixCount(c);
+  return n ? `<span class="tag">${n} fixed</span>` : "";
+}
+function coverFixes() {
+  if (!CKEY) return "";
+  const fixed = CHAPTERS.filter(c => !isNew(c) && fixCount(c));
+  const fresh = CHAPTERS.filter(isNew);
+  if (!fixed.length && !fresh.length) return "";
+  const list = (cs) => cs.map(c => `<button data-ch="${c.num}">Ch ${c.num}</button>`).join("");
+  return `<div class="fixes">${fixed.length ? `<div><span class="tag">Fixed</span> ${list(fixed)}</div>` : ""}
+    ${fresh.length ? `<div style="margin-top:.5em"><span class="tag new">New</span> ${list(fresh)}</div>` : ""}</div>`;
+}
+function markFixes(c) {
+  if (!CKEY) return;
+  if (isNew(c)) { setSeen(c.num, c.added); return; }  // a new chapter is all new; nothing to box
+  const since = seenAt(c.num);
+  const ps = [...main.querySelectorAll(".chapter p:not(.break):not(.end)")];
+  const boxed = ps.filter((p, i) => c.pt[i] > since);
+  if (!boxed.length) return;
+  boxed.forEach(p => { p.classList.add("fixed"); const t = document.createElement("span"); t.className = "tag"; t.textContent = "Fixed"; p.prepend(t); });
+  const slot = $("fixbarSlot");
+  slot.innerHTML = `<div class="fixbar"><b>${boxed.length} paragraph${boxed.length > 1 ? "s" : ""} fixed since you last looked, boxed in green.</b>
+    <button id="fixNext">Show me &darr;</button><button class="done" id="fixDone">Got it, clear the boxes</button></div>`;
+  let at = 0;
+  $("fixNext").onclick = () => { boxed[at % boxed.length].scrollIntoView({ block: "center" }); at++; };
+  $("fixDone").onclick = () => {
+    setSeen(c.num, Math.max(...c.pt));
+    boxed.forEach(p => { p.classList.remove("fixed"); const t = p.querySelector(":scope > .tag"); if (t) t.remove(); });
+    slot.innerHTML = "";
+  };
+}
+
+// ---- this page is out of date ----
+let staleV = 0;
+function showStale() { $("stale").classList.add("open"); }
+$("staleGo").onclick = () => {
+  const q = new URLSearchParams(location.search); q.delete("c"); q.set("v", staleV || Date.now());
+  location.replace(location.pathname + "?" + q + location.hash);
+};
+$("staleLater").onclick = () => $("stale").classList.remove("open");
+async function checkVersion() {
+  try {
+    const r = await fetch("version.json?t=" + Date.now(), { cache: "no-store" });
+    const j = await r.json();
+    if (j.v > BUILD) { const first = !staleV; staleV = j.v; if (first) showStale(); }
+  } catch {}
+}
+document.addEventListener("visibilitychange", () => { if (!document.hidden) checkVersion(); });
+addEventListener("focus", checkVersion);
+setInterval(checkVersion, 3 * 60 * 1000);
+checkVersion();
 
 // start
 const h = location.hash;
