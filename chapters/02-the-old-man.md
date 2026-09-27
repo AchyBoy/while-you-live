@@ -30,21 +30,19 @@ She looked around, because looking around was a habit she had never been able to
 
 He came back with a tray. Two cups, a teapot in a knitted cover, a plate of shortbread that had come out of a tin.
 
-"You texted someone before you got out of the car," he said, setting it down. "Short message, both thumbs, and then you waited for an answer before you'd move. That's a promise being kept. Someone made you promise to tell them you'd arrived safely." He poured. "Your daughter, I expect. A husband would have called."
+"You drove someone to school this morning," he said, setting the tray down.
 
-Iola kept her face still, which was a thing she was good at.
+Iola looked at him.
 
-"The lawyers told you about me," she said.
+"Your passenger seat," he said. "I saw it when you opened your door. It's pushed all the way back, as far as it goes, and you're not tall, so you didn't do that. Someone taller than you rides with you, often enough that you've stopped moving it back. There's a hair tie around the gearshift, the thick kind. And it's a school day, and you were here at ten, from two hours away, so you left at eight, which is about when schools open." He poured. "A daughter, I'd guess. Tall, like her father, I expect. But I wouldn't bet the house on any of it."
 
-"The lawyers told me your name and that you used to be a reporter," he said. "Nothing else. They're very discreet. I think they're paid to be." He handed her a cup.
+"You were watching from the window."
 
-"You were watching from the window," she said.
+"I was. I'm old. It's what we do." He smiled, and it changed his face completely, took ten years off it. "Also, you have printed directions in that folder. Most people trust their phones. People who print directions have usually been let down before, and don't intend to be let down again."
 
-"I was. I'm old. It's what we do." He smiled, and it changed his face completely, took ten years off it. "Also, you have printed directions in that folder. Nobody under sixty prints directions unless they're the kind of person who has been let down by something before and doesn't intend to be let down again."
+"That's a lot to get from a car seat and a folder."
 
-"That's a lot to get from a folder."
-
-"It's a lot to get from anything," he agreed. "Most of it's wrong, most of the time. You just have to be wrong in useful directions."
+"Most guesses are wrong," he said. "The trick isn't guessing. It's noticing, and then checking. I suspect you already know that."
 
 She took out her phone and set it on the table between them, and beside it, because she had been burned before, a small digital recorder she had owned for eleven years.
 
@@ -56,13 +54,13 @@ She took out her phone and set it on the table between them, and beside it, beca
 
 "Whichever one I trusted."
 
-He laughed at that, a real laugh, and reached for the notepad and pencil on the arm of his chair. While she checked the levels and said the date and the time into the phone, the way she always had, he began, without looking down, to draw in the margin. She saw it the way you see a stranger's doodle on a train: a five-pointed star drawn in one long line, with a tiny letter tucked into each point. Greek, she thought, or something like it. He went over it twice more while she talked, the way people go over a doodle when their mind is somewhere else.
+He laughed at that, a real laugh, and picked up the notepad and pencil from the arm of his chair and settled them on his knee. The top page was already covered in doodles, the kind people make on the phone or while they wait: the same shape, over and over, some of it gone over so many times the pencil had shone. She saw it the way you see a stranger's doodles on a train. A five-pointed star, each one drawn in one long line, with a tiny letter tucked into each point. Greek, she thought, or something like it. While she checked the levels and said the date and time into the phone, the way she always had, his pencil found one of the stars and began, without his looking down, to go over it again.
 
 "Mr. Hale," she said.
 
 "Tom."
 
-"Tom. I should tell you how I work. I'll ask you questions and I'll record the answers. I'll check the things that can be checked. If something doesn't add up, I'll tell you, and I'll ask again. That isn't me being rude. It's the job."
+"Tom. Before we start, let me explain how I work. With your permission, I'll record our conversations. Anything that can be verified, I'll verify: names, dates, places. If something you tell me doesn't match the record, I'll tell you, and I'll ask you about it. I'm not trying to catch you out. It's how I make sure that what I write down is accurate."
 
 "I know," he said. "It's why I agreed."
 
