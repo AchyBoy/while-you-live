@@ -86,6 +86,8 @@ I thought about Ned.
 
 I had never met Ned. That is the truth, and it is the part I have never been able to explain to anyone. The boy whose body I was living in had grown up with him, and gone across the river with him, and fought beside him, and I had none of it. Only the letters. The pencil. *I am sorry to be so much trouble.* And my mother's hand going to her apron pocket, over and over, all that fall.
 
+I knew what that second letter meant, and I knew that a plan made in December would come too late for him, or very nearly. But there were two more boys from our company in that camp, and thousands of other women's sons, and if there was any chance at all for Ned, it was not going to come from waiting on Grant. It would have to come soon, and it would have to come from somebody doing something.
+
 I thought about the other side of it, too. I am not a fool, and I was not a fool then. There were Union men in Southern camps. Everybody knew about Andersonville, down in Georgia, where the Yankee prisoners were dying faster than at any camp in the North. If the arithmetic was cruel, it was cruel in both directions, and a trade would send those men home too. Booth said that himself, when I raised it. I think he believed it mattered. I think he believed it mattered a little less.
 
 And I thought about the tall man on the wall at Fort Stevens, looking out at us like a farmer looking at weather.
