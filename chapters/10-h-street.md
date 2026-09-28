@@ -36,25 +36,35 @@ He smiled a little, as though he knew exactly what she was not asking.
 
 I told my mother I had found work in the city. It was nearly true.
 
-A lame boy was no use on a farm with no one left to work it, and Washington in the last winter of the war was full of work. The government had grown enormous. Every office needed clerks, every hospital needed orderlies, every stable needed a man to muck it out. A Maryland farm boy with a bad leg and a decent hand could find something. If anyone asked about the leg, I was to say a wagon had rolled over it at harvest. Nobody in Washington knew that Kit Keene had ever crossed the Potomac. He had never been captured, so he had never been paroled, and his name was not written down anywhere the Union could find it. As far as the government was concerned, I was only a farm boy who limped.
+The farm needed money more than it needed a lame boy. There was no cash for feed, no one to hire, and no crop worth selling until the tobacco went to market in the spring. Washington in the last winter of the war was full of work, and full of wages, and whatever I earned there I could send home. The government had grown enormous. Every office needed clerks, every hospital needed orderlies, every stable needed a man to muck it out. A Maryland farm boy with a bad leg and a decent hand could find something. If anyone asked about the leg, I was to say a wagon had rolled over it at harvest. Nobody in Washington knew that Kit Keene had ever crossed the Potomac. He had never been captured, so he had never been paroled, and the only papers with his name on them were muster rolls in a Confederate office somewhere in Richmond, where no Union clerk could read them. As far as the government was concerned, I was only a farm boy who limped.
 
 I took a room in a tall narrow house near the Navy Yard, with a family from Charles County who knew my mother's people and asked me nothing at all. I found work copying invoices for a lumber merchant on the waterfront. And every day, on my way to work and on my way home, I walked past the end of the Navy Yard Bridge, and I watched the soldiers who guarded it.
 
 That was my part. Booth had said so. Everything else could be planned in a parlor, but somebody had to know that bridge. What time the guard changed. How many men were on it at night. Whether they stopped every wagon or only the ones that looked like trouble. Whether they were bored. I watched them for two months, and I wrote down what I saw on the backs of the lumber merchant's invoices, in a code that was only a list of prices, and I found out they were very bored indeed.
 
+In February, the exchange started again.
+
+After nearly two years, the two governments came to terms, and the boats began to carry prisoners down the Chesapeake and up the James River to be traded. The first men from Point Lookout went in the middle of the month. My mother wrote to me the week it was in the newspapers. She wrote in a hand I hardly recognized, it was so quick. *They are sending them home, Kit. Ned will be on the next boat.*
+
+He was not on the next boat. Or the one after. They went by lists, and nobody would tell a family whose name was on which list, or why. Every week my mother wrote to me, and every week the letter ended the same way: *Not yet.*
+
+I told myself that the plan was still needed. That a few boats were not all the camps. That the exchange had stopped before and could stop again. All of that was true. I noticed, even then, that I was telling it to myself rather often.
+
 * * *
 
 Booth took me to H Street for the first time in the middle of February.
 
-It was a plain brick house with three stories and an attic, on a plain street a few blocks from the Patent Office, with steps up to the front door. He knocked, and the woman who opened it had a round, pleasant face, and dark hair parted in the middle, and a rosary in the pocket of her apron. She looked at Booth with a kind of fond exasperation, the way you look at a nephew who is charming and never on time. Then she looked at me, and at my cane, and her face changed.
+It was a plain brick house with three stories and an attic, on a plain street a few blocks from the Patent Office, with steps up to the front door. He knocked, and the woman who opened it had a round, pleasant face, and dark hair parted in the middle, and a rosary in the pocket of her apron. She looked at Booth with a kind of fond exasperation, the way you look at a nephew who is charming and never on time.
 
-"I know you," she said.
+"Mrs. Surratt," Booth said, "this is Kit Keene. Margaret Keene's boy, from Bryantown."
 
-I had no idea who she was. I have told you the rule: never say a name first. So I smiled, and waited, and let her tell me.
+Her face changed.
 
-"The boy in the potatoes," she said. "At the tavern, in the summer. Your mother was Margaret Keene. I gave her blankets for you." She took my hand in both of hers. "Well. Look at you. Walking."
+The name meant nothing to me. I have told you the rule: never say a name first, and never pretend to know more than you do. So I smiled, and waited, and let her tell me.
 
-It was the widow from Surrattsville. Her name was Mary Surratt. She had leased the tavern out that autumn and come to the city to take in boarders, and this was her house.
+"The boy in the potatoes," she said. "At the tavern, in the summer. I never saw your face, only the sacks, and your mother's. I gave her blankets for you." She took my hand in both of hers. "Well. Look at you. Walking."
+
+It was the widow from Surrattsville. Her name was Mary Surratt. She had come to the city that autumn to take in boarders, and in December she leased the tavern out, and this was her house.
 
 I want to tell you exactly what I thought of her that first night, because a great deal came to depend on it later, and because I have had a long time to wonder whether I was right.
 
@@ -64,7 +74,7 @@ She knew. That is what I thought, that night. I did not know yet how much.
 
 * * *
 
-Her son was in the parlor. John Surratt was twenty years old, tall and very thin, with a sharp face and a little pointed beard he was plainly proud of. He had been a courier for the Confederacy since he was eighteen, carrying letters across the river and back, and he had never once been caught, and he could not stop telling you so. Not in words. In the way he sat, and the way he checked the window, and the way he lowered his voice to say ordinary things. John Surratt loved a secret more than he loved any cause a secret could serve. I have met that kind of man in every century. They are brave, and useful, and they will get you killed, because they cannot bear for anyone not to know how much they know.
+Her son was in the parlor. He was the courier Dr. Mudd had promised to introduce to Booth before Christmas, the young man who knew every road between here and Richmond. John Surratt was twenty years old, tall and very thin, with a sharp face and a little pointed beard he was plainly proud of. He had been a courier for the Confederacy since he was seventeen, carrying letters across the river and back, and he had never once been caught, and he could not stop telling you so. Not in words. In the way he sat, and the way he checked the window, and the way he lowered his voice to say ordinary things. John Surratt loved a secret more than he loved any cause a secret could serve. I have met that kind of man in every century. They are brave, and useful, and they will get you killed, because they cannot bear for anyone not to know how much they know.
 
 There was another young man in the parlor, reading a newspaper by the lamp, and I noticed him because nobody introduced him. His name, I learned later, was Louis Weichmann. He had been at school with John, and he boarded in the house and shared John's room, and he worked as a clerk in a government office in the War Department. He was plump and soft-spoken and polite, and he said good evening to Booth, and to me, and went back to his newspaper.
 
@@ -116,7 +126,7 @@ It was madness, Arnold said. A theater full of people. Gas lamps. Soldiers in th
 
 The room went quiet. Booth stopped walking.
 
-Arnold told it afterward, when he was on trial for his life, and I have read his account more than once. He said that Booth said that any man who backed out now deserved to be shot. And that he, Arnold, said that two could play at that game.
+Arnold told it afterward, in an account of his own, and I have read it more than once. He said that Booth said that any man who backed out now deserved to be shot. And that he, Arnold, said that two could play at that game.
 
 I was in the room. That is about how it went. I would add only that when Booth said it, he was smiling, and that nobody laughed, and that I looked across the table at Powell and saw that Powell was not smiling at all. He was looking at Booth, waiting to see if he meant it.
 
@@ -126,13 +136,27 @@ They all looked at me. Booth looked at me longest.
 
 "Well?" he said.
 
-"They won't," I said. "Not if the horsemen are going south, and say they're going home. They stop the ones coming in."
+"They won't," I said. "There's an order that nobody crosses after nine o'clock at night. It's written down, and the sergeants know it. But the war is nearly over, and they're bored, and they're watching for rebels coming into the city, not farm boys going home. A man riding south who says he's going home to Maryland, they let him go. I've watched them do it."
 
 Booth began to smile again, slowly, and this time it was real.
 
-Two days later we had our chance. The President was to drive out to a hospital at the edge of the city, on the afternoon of the seventeenth, to see a play performed for the wounded soldiers. On a quiet road. In his carriage. With almost no guard.
+I should have stopped there. But there was a thing I had been carrying for a month, and the wine had loosened it.
+
+"And the exchange?" I said. "It's started again. They're sending men home from Point Lookout every few weeks. My mother reads the lists."
+
+The smile did not go anywhere. Booth only waved his cigar, as if I had mentioned the weather.
+
+"A few boatloads," he said, "when it suits Grant. It's a Yankee trick, Kit, to make us feel grateful while they finish us. They'll stop it again the day it stops suiting them." He leaned on the table toward me. "We're past trading prisoners. Take him, and the North has to talk to us, and the war ends. That's what this is for now."
+
+It was not the reason he had given me in the barn.
+
+I noticed it. I want you to know that I noticed. And I told myself it was the same reason, only bigger, the way a man's reasons grow when the stakes do. I have told myself that sort of thing in a great many lives. I am nearly always wrong.
 
 "The road, then," Booth said, and raised his glass to Arnold, and Arnold, after a moment, raised his.
+
+The next day, word came. The President was to drive out to a hospital at the edge of the city on the afternoon of the seventeenth, to see a play performed for the wounded soldiers. On a quiet road. In his carriage. With almost no guard.
+
+We had our chance.
 
 * * *
 

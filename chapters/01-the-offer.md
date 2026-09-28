@@ -35,7 +35,7 @@ It was from a firm she had never heard of, Aldine, Mercer and Voss, with an addr
 
 *We act for a private client who wishes to engage a writer to record the recollections of an elderly gentleman. The sessions would take place at the gentleman's home, at his convenience and yours. Our client will pay three thousand dollars per session, for no fewer than ten sessions, with travel costs covered in full. You would be free to decline at any point.*
 
-*We should say plainly that the gentleman is not famous, and that his recollections will not, on their face, seem credible. Our client does not ask you to believe them. He asks you to listen carefully, to write down what you are told in the way it is told, and from time to time to put to the gentleman a question our client will send you. Whether any of it is ever published is a matter for you and the gentleman. Our client has no interest in it.*
+*We should say plainly that the gentleman is not famous, and that his recollections will not, on their face, seem credible. Our client does not ask you to believe them. He asks you to listen carefully, to write down what you are told in the way it is told, to send us a typed copy after each session, and from time to time to put to the gentleman a question our client will send you. Whether any of it is ever published is a matter for you and the gentleman. Our client has no interest in it.*
 
 *Our client has followed your work for some years, including your reporting on Carrow House, and he knows how that ended. He asks us to tell you that it is the reason he chose you. He needs someone who checks everything and accepts nothing until she has, and who knows what it costs to be right when no one believes you.*
 

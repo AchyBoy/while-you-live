@@ -4,7 +4,7 @@
 
 No email came from Aldine, Mercer and Voss that week.
 
-The second payment landed on Friday afternoon, the same as the first, with the note *Session 2* and nothing else. Iola kept checking her inbox through the weekend and into the next week, for the client's question, and on Wednesday night she realized she was disappointed, and did not like that at all.
+The second payment landed that same Thursday afternoon, the way the first one had, with the note *Session 2* and nothing else. Iola kept checking her inbox through the weekend and into the next week, for the client's question, and on Wednesday night she realized she was disappointed, and did not like that at all.
 
 "No question this time?" he asked, when she had set out the recorders on Thursday.
 
@@ -152,9 +152,7 @@ He did not buy a horse. He said he would think it over and come back before Chri
 
 He did come back, in the middle of December.
 
-He went to Mass again, and stayed with Dr. Queen again, and then went to Dr. Mudd's, and bought a horse at last from Dr. Mudd's next-door neighbor, a man named Gardiner. It was a big dark bay, and it was blind in one eye. Everyone in the county knew about it by the end of the week, because it was a poor horse for a rich man to buy, and because nobody could understand why a man who rode like that would want it.
-
-I would see that horse again.
+He went to Mass again, and stayed with Dr. Queen again, and called on Dr. Mudd. He said he was still looking for a horse.
 
 But he had not come back for horses. On his second day in the county he rode up our lane alone, in the rain, and asked my mother if he might have a word with her son.
 

@@ -94,7 +94,9 @@ He was going back to Washington before Christmas, he said. There was a young man
 
 "My mother," I said, "thinks you've come to buy a horse."
 
-He laughed at that. He bought the one-eyed horse from Gardiner two days later, as if to prove me right.
+He laughed at that. Two days later he bought a horse at last, from Dr. Mudd's next-door neighbor, a man named Gardiner, as if to prove me right. It was a big dark bay, and it was blind in one eye. Everyone in the county knew about it by the end of the week, because it was a poor horse for a rich man to buy, and nobody could understand why a man who rode like that would want it.
+
+I would see that horse again.
 
 On his last evening in the county, he stood on our porch in his fine coat, with the rain finally stopped and the fields gone blue in the cold, and he shook my hand.
 

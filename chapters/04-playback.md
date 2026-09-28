@@ -96,7 +96,9 @@ She checked the time on the playback. Eleven seconds. Eleven seconds of the stov
 
 *"What I think of it,"* he said at last.
 
-She listened to the whole thing. The rain and the mud. The sun coming out when Lincoln stood to speak. The heat in the field. The man with the missing tooth. The tall man on the wall. The bullet. The army leaving in the dark. His voice did not change much as he told it, and it did not perform. It was the voice of a man describing a place he had lived, not a story he had learned. It went slower in some places than others, and stopped sometimes to go back and correct a small detail, the way people do when they are remembering and not reciting.
+She listened to the whole thing. The rain and the mud. The sun coming out when Lincoln stood to speak. The heat in the field. The boy with the missing tooth. The tall man on the wall. The bullet. The army leaving in the dark. His voice did not change much as he told it, and it did not perform. It was the voice of a man describing a place he had lived, not a story he had learned. It went slower in some places than others, and stopped sometimes to go back and correct a small detail, the way people do when they are remembering and not reciting.
+
+Once she stopped the tape and played a line back. *It was the hottest day I had felt in a hundred years.* It was the kind of thing anybody says about a hot day. He was in his seventies. She wrote it down anyway, with a question mark, and let the tape run on.
 
 Liars did not usually correct themselves. It made them look unsure. The good ones, the ones who had rehearsed, told it smooth.
 

@@ -8,7 +8,7 @@ The email from Aldine, Mercer and Voss came on Tuesday morning. It was two lines
 
 She read it three times, and then she had to go back through her own transcript to find out what it meant. It took her ten minutes. It was a single sentence near the start, when he was describing waking in the field, looking at his own sleeves: *There was a hole in one elbow that somebody had darned with the wrong color thread.*
 
-She had typed that sentence herself on Friday and had not given it a second thought. Somebody else had read it and given it a great deal of thought. Somebody had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
+She had typed that sentence herself on Friday, and sent it off to Aldine with the rest, and had not given it a second thought. Somebody else had read it and given it a great deal of thought. Somebody had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
 
 It was, she had to admit, exactly what she would have done.
 
@@ -37,8 +37,6 @@ He said it at once, without looking up and without thinking, the way you would s
 He nodded, as if that settled something, and did not say what.
 
 "Where were we?" he said. "The wagon. Yes." He settled back in his chair, and the pencil began to move again on the notepad. "A woman's voice, in the dark. I was lying behind a stone wall with a belt around my leg, and she said, *He's alive.*"
-
-* * *
 
 * * *
 
