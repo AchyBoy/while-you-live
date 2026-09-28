@@ -2,6 +2,22 @@
 
 ## Chapter 7: The Actor
 
+No email came from Aldine, Mercer and Voss that week.
+
+The second payment landed on Friday afternoon, the same as the first, with the note *Session 2* and nothing else. Iola kept checking her inbox through the weekend and into the next week, for the client's question, and on Wednesday night she realized she was disappointed, and did not like that at all.
+
+"No question this time?" he asked, when she had set out the recorders on Thursday.
+
+"Nothing. Just the money."
+
+"Hm," he said. He looked at the mantel for a moment, the way he had before, and then back at her. "Well. Perhaps your client is thinking."
+
+"About what?"
+
+"I couldn't say." He picked up the notepad. "Where were we? Damon had gone down the lane. And the farm went quiet."
+
+* * *
+
 *November 1864*
 
 The farm went quiet after Damon left.
