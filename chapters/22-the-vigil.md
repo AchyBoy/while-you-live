@@ -88,7 +88,7 @@ The doctor's sleeves were rolled down, and buttoned at the wrist. All night, eve
 
 Damon turned his head and looked at me. And I looked at him. For a moment, one long moment, in the rain, in front of that house, we only looked at each other. Two men who had just noticed the same small thing, in the same second, and said it in the same two words.
 
-I did not know what to make of it. I have wondered about it since, often. I think he did too.
+I had put him down, on the farm, as a word spelled wrong. Standing there in the rain, I had the strangest feeling that he was spelled wrong in the same way I was. I did not know what to make of it. I think he felt it too.
 
 Then the word came down the steps, and ran out into the crowd, and went up Tenth Street and down it, the way the news had gone out from the steps of Ford's the morning before. And the bells began. First one church, somewhere up toward the Avenue, and then another, and then all of them, all over the city, in the rain.
 
