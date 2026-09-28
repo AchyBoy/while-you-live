@@ -58,7 +58,9 @@ So I said, "Mama," because that was the word the body wanted, and she held on ti
 
 There was a man with her. He lifted me from behind the wall and laid me in the back of the wagon on a pile of feed sacks as carefully as if I were made of glass, and he never once looked at my face. He was tall, not much past thirty, with a scar through one eyebrow and a face that gave away nothing at all. I heard her call him Damon. *Damon, the blanket. Damon, mind his leg.* He did everything she asked before she had quite finished asking it.
 
-Much later, on the road, my mother told me it was Damon who had found me. He had stopped the stragglers on the road north and asked every one of them for Kit's company, and where its wounded had been left, and then he had walked the stone walls in the dark with a shaded lantern until he came to mine. "I don't know how he knew where to look," she said. "He always does." I put that away.
+Much later, on the road, my mother told me it was Damon who had found me. He had stopped the stragglers on the road north and asked every one of them for Kit's company, and where its wounded had been left, and then he had walked the stone walls in the dark with a shaded lantern until he came to mine. "I don't know how he knew where to look," she said. "He always does."
+
+It was a strange thing for a field hand to know. I decided there was more to Damon than anyone on that farm had noticed, and from then on I kept an eye on him.
 
 Before we set off, he put sacks of new potatoes over me and around me until I was a lump among the potatoes, and I lay in the dark and the smell of earth and listened to the wheels.
 
@@ -83,8 +85,6 @@ A doctor came from Bryantown, a thin, nervous man who smelled of tobacco and cam
 I did not die. I lived because my mother sat up with me every night for three weeks, and bathed the wound with boiled water and salt when the doctor said not to, and because the bullet had gone clean through and missed the bone, and because this body was young and had been fed well all its life. And, perhaps, because I did not want to die yet. I had seen something from that field that I did not understand, and I have never been able to leave a thing I do not understand.
 
 While I had the fever I was allowed to say strange things. Afterward I had to be more careful.
-
-One afternoon near the end of it, my mother sat by the bed mending the coat I had been wounded in, and when she came to the elbow she laughed and held it up to show me the blue darn. She told me the whole story of it, the gray running out and the Yankee prisoner I was to claim, as if I had been there. I laughed in the right place. It was the first thing I learned about Kit that nobody else in that house could have told me.
 
 There is a craft to becoming someone who already exists. You must never say a name first. You wait until someone else says it, and then you use it as though you have always known it. You must never tell a story from your past; you let others tell them, and you laugh in the right places, and you say *I don't remember that* often enough that it becomes a joke about the war and your head. You learn where the cups are kept by watching who reaches for them. You learn which chair was yours by sitting in the wrong one and seeing the small hurt look on a younger sister's face.
 
@@ -134,7 +134,7 @@ That night, and for a good many nights after, I lay awake and turned it over.
 
 A field hand on a Charles County farm, who had never been to school, because no one on that farm would have let him, reading a newspaper faster than I could. And hiding it. Not from my mother. From me. As if he had seen something in me, since the war, that he did not trust.
 
-I did not know what to make of it. I filed it under Damon, next to the man who had never once looked me in the face, and left it there.
+I did not know what to make of it. I added him to a list I have kept in my head for a very long time: the people who were sharper than they let anyone see. It is a short list.
 
 * * *
 
