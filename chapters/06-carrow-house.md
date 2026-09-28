@@ -14,11 +14,11 @@ She told it badly, the way people tell the worst year of their lives, which is t
 
 She told him about her source's building, a brick walk-up over a dry cleaner's, with a landlord named Petrakis who complained about everything: the tenants, the pipes, the parking, the city. A woman on the second floor called Petrakis about noise so often that he had stopped answering her. The dry cleaner's steam came up through the floor in the mornings, so the whole building smelled of hot cotton.
 
-She told him about the Sunday the story ran, and the Monday the lawsuit came, and the Wednesday her source was gone.
+She told him about the Sunday the story ran, and how her source had called her that morning from a pay phone to say he had bought ten copies, and then felt foolish, because who was he going to give them to. She told him about the Monday the lawsuit came. She had told her source to stay away from Carrow that week, to take some sick days until it blew over, and he had said he would. They were supposed to meet on the Wednesday, at the diner, at noon. He didn't come.
 
 "Gone how?"
 
-"Gone. The phone was off. He didn't show up at Carrow. Petrakis let the police in on the Friday, and the apartment was empty. Well, not empty. His things were there, some of them. But he wasn't. And his cat was shut in the bedroom, half starved, poor thing. Petrakis took it to the shelter and then complained to me for ten minutes about the smell. I remember he wanted to know who was going to pay for the carpet." She shook her head. "And that was it. That was the last anybody saw of him. By the end of the year the paper had printed the correction, and I was out."
+"Gone. The phone was off. He wasn't at the diner, and he wasn't at home. Petrakis let the police in on the Friday, and the apartment was empty. Well, not empty. His things were there, some of them. But he wasn't. And his cat was shut in the bedroom, half starved, poor thing. Petrakis took it to the shelter and then complained to me for ten minutes about the smell. I remember he wanted to know who was going to pay for the carpet." She shook her head. "And that was it. That was the last anybody saw of him. By the end of the year the paper had printed the correction, and I was out."
 
 "I'm sorry," he said.
 

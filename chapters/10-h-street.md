@@ -66,6 +66,24 @@ The name meant nothing to me. I have told you the rule: never say a name first, 
 
 It was the widow from Surrattsville. Her name was Mary Surratt. She had come to the city that autumn to take in boarders, and in December she leased the tavern out, and this was her house.
 
+* * *
+
+Iola had stopped writing.
+
+"Mary Surratt," she said. "The one they hanged."
+
+"Yes."
+
+She knew the name the way everyone knows it, from a line in a history book: the first woman the federal government ever executed. She had never once thought of her as someone who opened a door, or had a face, or gave a stranger's mother two blankets on a hot day.
+
+"You knew her," she said.
+
+"I ate at her table." He was looking at the notepad, not at her. "You're going to ask me whether she knew what they were planning. Everyone who has ever heard of her asks that. I'll tell you what I thought that first night. Later, I'll tell you what I came to think, and they aren't the same, and I'd ask you not to hurry me from one to the other."
+
+She thought about hurrying him. Then she picked up her pen.
+
+* * *
+
 I want to tell you exactly what I thought of her that first night, because a great deal came to depend on it later, and because I have had a long time to wonder whether I was right.
 
 I thought she was kind. I thought she was devout; she went to Mass every morning at St. Patrick's, a few blocks away, and the rosary was worn smooth. I thought she was a widow who had been left with debts by a husband who drank, and who was doing what she had to do to keep her children fed. And I thought she was a woman who had learned, over a long time, exactly which questions not to ask. Men came and went from her house at all hours. Her son rode off to Richmond and came back with papers sewn into his boots. She served them all supper and asked them how the weather had been on the road.
@@ -76,17 +94,25 @@ She knew. That is what I thought, that night. I did not know yet how much.
 
 Her son was in the parlor. He was the courier Dr. Mudd had promised to introduce to Booth before Christmas, the young man who knew every road between here and Richmond. John Surratt was twenty years old, tall and very thin, with a sharp face and a little pointed beard he was plainly proud of. He had been a courier for the Confederacy since he was seventeen, carrying letters across the river and back, and he had never once been caught, and he could not stop telling you so. Not in words. In the way he sat, and the way he checked the window, and the way he lowered his voice to say ordinary things. John Surratt loved a secret more than he loved any cause a secret could serve. I have met that kind of man in every century. They are brave, and useful, and they will get you killed, because they cannot bear for anyone not to know how much they know.
 
-There was another young man in the parlor, reading a newspaper by the lamp, and I noticed him because nobody introduced him. His name, I learned later, was Louis Weichmann. He had been at school with John, and he boarded in the house and shared John's room, and he worked as a clerk in a government office in the War Department. He was plump and soft-spoken and polite, and he said good evening to Booth, and to me, and went back to his newspaper.
+There was another young man in the parlor, reading a newspaper by the lamp, and I noticed him because nobody introduced him. His name, I learned later, was Louis Weichmann. He had been at school with John, and he boarded in the house and shared John's room, and he worked as a clerk in the War Department, in the office of the Commissary General of Prisoners. He was plump and soft-spoken and polite, and he said good evening to Booth, and to me, and went back to his newspaper.
 
 He did not turn a page for the next half hour.
 
 I watched him not turn it. He was listening to every word. He was not one of us, and he was not against us. He was a young man who had put himself in a room where interesting things were said, and who was remembering all of them, and who had not yet decided what he would do with what he remembered. I thought, *if this goes wrong, that one will talk.* I did not think it as a prophecy. I thought it the way you notice that a bridge rail is loose.
 
-I said so to Booth, later, walking back down H Street in the cold.
-
 "Weichmann?" He laughed. "Weichmann is John's oldest friend. He's harmless."
 
 "He's a clerk in the War Department," I said, "and he shares a room with a Confederate courier. Nobody is harmless who is in both of those places at once."
+
+It was only later, lying awake in my narrow room by the Navy Yard, that I understood what office that was. The Commissary General of Prisoners. The office that kept the lists: every prisoner in every Northern camp, his name and his regiment and where he was held, and whether he was sick, and whether he was dead. Weichmann sat at a desk in that office every day. He could have found Edward Hurley of St. Mary's County in an afternoon. He could have told my mother whether Ned was on a list, or when.
+
+I never asked him.
+
+I wanted to. I lay there and wanted to more than I have wanted most things. But to ask, I would have had to give him my name, and Ned's, and my mother's, and the name of our county, and tell him why a farm boy with a limp cared so much about one prisoner at Point Lookout. And I had already decided that Weichmann was the one who would talk. So I did not give him my name. Not then, and not ever. From that night on, when I was in that house, I made sure that nobody said it where he could hear.
+
+I chose the plan over my cousin. I did not put it to myself that way at the time. I have put it to myself that way since, a great many times.
+
+But all of that was later. That first night, walking back down H Street in the cold, I only said to Booth what I thought of Weichmann.
 
 Booth stopped under a streetlamp and looked at me for a moment, and I thought he was going to argue. Then he laughed again, and put his arm through mine, and said I was a gloomy devil and he was glad to have me, and talked about something else.
 
@@ -160,6 +186,38 @@ We had our chance.
 
 * * *
 
+He stopped there. The light outside had gone gray.
+
+"You'll look for me," he said, "in what Weichmann told the court, and in what Arnold wrote down afterward. You'll look carefully, because that's what you do."
+
+"Yes."
+
+"You won't find me. Nobody mentions me." He turned the pencil over. "Now you know why."
+
+* * *
+
 The house is still there. Iola looked it up that night, at the kitchen table, with Freda across from her doing her homework.
 
 It was not 541 anymore. The city had renumbered the streets long ago, and it was 604 H Street now, in the middle of Chinatown, with a restaurant on the ground floor and a historical marker by the door. She had walked past it a hundred times. She had eaten there once, years ago, with people from the paper, and never looked up.
+
+Then she did what she had come home meaning to do, and looked for Edward Hurley.
+
+It was harder than she expected. Some of the Point Lookout records were online and some were not, and the ones that were had been typed up from handwritten lists by volunteers, and the index stopped and started. She found Hurleys. She found a Hurly and a Hurlee and an E. Hurley with no county beside it, which could have been anyone at all. The rest of the records, the site said, were on microfilm at the National Archives, on Pennsylvania Avenue. She looked at the map. It was twenty minutes from her front door.
+
+She wrote it on the calendar, in the next free morning: *Archives. Hurley.*
+
+"Did the cousin die yet?" Freda said, without looking up.
+
+"He hasn't said."
+
+"You didn't ask him?"
+
+"I didn't ask him."
+
+Freda looked up then, and gave her a small, approving nod, like a teacher, and went back to her homework.
+
+The phone lay face down beside the chemistry book. It buzzed once, a little after nine. Freda turned it over, and read whatever it was, and Iola watched her face close like a door. Then Freda turned it face down again and picked up her pencil and wrote something very carefully in the margin of her worksheet, and did not look at her mother, and Iola did not look at her.
+
+*Somebody is saying things to your daughter.*
+
+She turned the page of her notebook, and did not turn it back, and did not ask.
