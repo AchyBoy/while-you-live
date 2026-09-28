@@ -134,7 +134,7 @@ That night, and for a good many nights after, I lay awake and turned it over.
 
 A field hand on a Charles County farm, who had never been to school, because no one on that farm would have let him, reading a newspaper faster than I could. And hiding it. Not from my mother. From me. As if he had seen something in me, since the war, that he did not trust.
 
-I did not know what to make of it. I added him to a list I have kept in my head for a very long time: the people who were sharper than they let anyone see. It is a short list.
+I did not know what to make of it. There have always been a few people, here and there across my lives, who seemed out of place in their own skins. I noticed them the way you notice a word spelled wrong. Damon was one.
 
 * * *
 
