@@ -42,7 +42,25 @@ I tried to imagine it. I could not stop trying. The road by the hospital. The ca
 
 I had not let myself imagine his face before. Sitting under those trees, I found I could not stop.
 
-Three o'clock. Four. The guard changed at the far end of the bridge, exactly when I had written down that it would, and the new sentry was even more bored than the old one. Five. The light began to go. The horse beside me cropped the wet grass and did not care about any of it.
+Three o'clock. The guard changed at the far end of the bridge, exactly when I had written down that it would.
+
+The new sentry noticed me. The old one never had. This one was young, and his uniform still had the creases from being folded, and he walked the length of the bridge twice, looking at the trees where I sat. On the third time he came off the end of it and down the bank toward me with his rifle across his body, and I understood that a man who has been sitting under a tree for two hours with a second horse, saddled, on a lead, is a man a new sentry is going to ask about.
+
+I had perhaps thirty seconds while he came down the bank. I used them to look at him.
+
+New uniform, so new to the post. That meant he had been told the rules that morning, and would want to be seen keeping them. He came toward me instead of calling out, so he was not frightened, only curious and a little proud of himself. His boots were caked to the ankle in red clay, so he had walked out that morning from the camp on the Maryland side, where the roads were worse than ours. And he had a good farm boy's walk, flat-footed, and when he passed my horse he ran his hand down its neck without thinking about it. He was from the country. He had horses at home. He missed them.
+
+"What's the other horse for?" he said.
+
+I did not tell him I was waiting for anyone. A man who says he is waiting for someone is asked who. I told him the horse was lame, and let him look.
+
+He crouched and picked up the off foreleg, the way I had known he would, because he had horses at home, and he found the stone I had wedged into the frog of the hoof an hour before, when I first saw the guard would change. He dug it out with his thumbnail and held it up and looked at me as if I were a fool.
+
+"I didn't have a pick," I said. "I was letting her rest it. My brother'll kill me if she's lamed. It's his."
+
+He laughed, and put the stone in my hand, and told me to walk her slow for a mile and she'd be fine, and went back up the bank to his bridge feeling that he had done his job, and a kindness besides. He never looked at me again. Why would he? He had already found the thing that was wrong.
+
+Four o'clock. Five. The light began to go. The horse beside me cropped the wet grass and did not care about any of it.
 
 It was nearly dark when a single rider came across the bridge at a hard trot, and my heart went up again, and then I saw that it was John Surratt, alone.
 

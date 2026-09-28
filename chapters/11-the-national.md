@@ -42,9 +42,7 @@ It was a card on the table, the day's dishes written out by hand. Most hotels pr
 
 "Isn't it something," Booth said. "The headwaiter says it's one of the new men. He won't tell me which. He says if the guests find out, they'll all want letters written, and he'll never see the man again." He laughed. "I told him I'd pay double for a love letter in that hand. I could use one."
 
-I put the card down. I did not think about it again for some time.
-
-I should have.
+I put the card down. But I did not forget it.
 
 * * *
 
@@ -82,6 +80,10 @@ Something happened at the corner of his mouth that on another man would have bee
 
 He did not ask about my mother. He picked up the rest of the plates, and went away with them, and he did not come back to our table again that night. Another waiter brought the coffee.
 
+I had it before the coffee came. One of the new men, the headwaiter had said, and would not say which. A hand that had been taught, and taught well, and practiced for years. And a man I had watched in a kitchen yard reading a newspaper faster than I could, and hiding it, who had come to Washington four months ago and walked straight into the best hotel in the city. It was not a hard sum. Damon wrote the bills of fare.
+
+I was right about that. What I made of it was the likely thing: that somebody had taught him as a boy, in secret, at a risk to both of them I did not like to think about, and that he had hidden it for twenty years on our farm and was only now, in a free city, letting it show a little, on a card nobody would ever connect to him. It was the likely answer. It was even partly true.
+
 * * *
 
 I saw him every time I went to the National after that. I made a point of it. I told myself it was only habit, that I always want to see.
@@ -108,12 +110,14 @@ He stopped there, and was quiet for long enough that Iola checked the red light 
 
 "Yes?"
 
-"You said you didn't think about it again for some time." She looked at her notes. "When did you?"
+"You worked it out that night. That it was him."
 
-"Later," he said. "Later than I should have. You're quicker than I was." He looked down at his notepad, and his pencil moved a little, going over something already drawn. "I was quite a clever young man in that life, Ms. Barnett, and I've told you already how often clever young men are wrong."
+"Before the coffee came."
 
-"You haven't, actually."
+"Then what did you get wrong?" She looked at her notes. "You said it was partly true."
 
-"Haven't I?" He seemed to find that funny. "Then I'll tell you now. Very often. Nearly always about the thing right in front of them."
+He looked down at his notepad, and his pencil moved a little, going over something already drawn.
+
+"The likely answer is nearly always the right one," he said. "That's what makes it dangerous. You stop looking the moment you have it." He smiled slightly. "I had it. So I stopped looking."
 
 On the drive home she tried to think of a way to check the handwriting on a bill of fare at a hotel that had been torn down eighty years ago, and could not think of one, and was annoyed with herself for trying.

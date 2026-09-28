@@ -16,7 +16,13 @@ We walked out to the tobacco barn, because it was the only place on the farm whe
 
 He did not look at the crop. He stood in the doorway with the rain running off the roof behind him and the tobacco hanging over our heads in long brown rows, curing in the dark, and he looked at me the way he had looked at me on the fence in November. Then he asked me how my cousin was.
 
-I told him the truth. A second letter had come at the beginning of the month. It was shorter than the first. Ned had been sick, and was better, and two more of the boys from our company were dead. The last line said, *Tell Aunt Margaret I am sorry to be so much trouble.* My mother had not read that one aloud at all. Lottie had found it in the apron pocket and read it and come to me in the hayloft, white in the face, and asked me what it meant, and I had not been able to tell her it meant nothing.
+I told him the truth. A second letter had come at the beginning of the month. It was shorter than the first. Ned had been sick, it said, and was better now, and two more of the boys from our company were dead. The last line said, *Tell Aunt Margaret I am sorry to be so much trouble.*
+
+My mother read it as good news. *He's better,* she kept saying. *He says so himself.*
+
+He had not said so himself. That was the first thing I saw, the first time I held it. The September letter had been in Ned's own pencil, big and leaning, with the letters pressed hard into the paper, the hand of a young man who had left school at twelve. This one was in ink, small and upright and careful, the hand of somebody who had been taught properly and wrote letters for a living. Somebody in that camp had written it for him. A man who was really better would have held the pencil himself. And *I am sorry to be so much trouble* is not what a man says when he is getting well. It is what he says to the people who are nursing him, near the end, when he knows.
+
+I did not tell my mother. I told myself she would learn it soon enough from someone kinder. Lottie found the letter in the apron pocket and read it and came to me in the hayloft, white in the face, and asked me what it meant. She had seen it too. She was a reader. I could not make myself tell her she was right, and I could not make myself tell her she was wrong, so I said nothing at all, and she understood that as well.
 
 Booth listened to all of it without once looking away.
 
