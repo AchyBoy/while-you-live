@@ -16,19 +16,23 @@ So I did not answer at once. I opened my eyes and looked at my hands.
 
 They were young hands, brown from the sun, the knuckles scraped, with hard yellow calluses across the palms where a plow handle or an axe had worn them. Farm hands. There was a rifle under them, long and heavy, its wooden stock dark with sweat. The sleeves above them were a coarse gray-brown cloth, homespun, the color of dry dirt. There was a hole in one elbow that somebody had darned with the wrong color thread.
 
+And there was something wrong with my left leg. It did not hurt yet. It only felt heavy and far away, as if it belonged to someone lying next to me. When I turned my head I saw that the gray-brown cloth above the knee was dark and wet, and getting darker.
+
 "Kit!"
 
 A hand grabbed my shoulder and rolled me half over. A face above me, sunburnt, a thin beard, missing a tooth on one side. Perhaps twenty years old. Frightened, and trying not to be.
 
 "I'm all right," I said.
 
-My voice came out lower than I expected, and it came out soft and slow, rounding the words the way his did. The body knows its own accent, if you let it. You only have to not get in its way.
+My voice came out lower than I expected, and it came out soft and slow, rounding the words the way his did. The body knows its own accent, if you let it. It knows its own language, too. I have woken in bodies that spoke tongues I had never heard, and the words were in the mouth before they were in my head. You let the body say it, and the mind catches up. You only have to not get in its way.
 
-"Thought you was dead," he said. "You just dropped."
+"Thought you was dead," he said. "You just dropped." Then he saw the leg, and his face changed. "Oh, Kit. Oh, they got you."
+
+He pulled off his belt and tied it above the wound and hauled it tight, and that was when it started to hurt, all at once, worse than anything this body had ever felt. I did not cry out. I think the body was too surprised.
 
 "The heat," I said, which was true, in its way.
 
-"Lord, the heat." He let go of me and crawled back to his place behind a rail fence that had been knocked half flat. "Keep your head down. Them sharpshooters in the fort can see a cat blink."
+"Lord, the heat." He dragged me by the collar back behind a rail fence that had been knocked half flat, and crawled to his own place behind a rail fence that had been knocked half flat. "Keep your head down. Them sharpshooters in the fort can see a cat blink."
 
 I kept my head down, and I looked.
 
@@ -56,7 +60,7 @@ The heat did not break. Men fainted and were dragged back into the shade. Water 
 
 On the second afternoon, the twelfth, I saw him.
 
-I had crawled forward to a place behind a stone wall where I could see the fort more clearly. I told the boy with the missing tooth that I wanted a better look at their guns. In truth I wanted to understand where I was, and who I was fighting, and whether we were going to die here. The smoke drifted and thinned, and for a moment the whole length of the parapet was clear in the white afternoon light.
+I had dragged myself forward, a yard at a time, on my elbows, with the leg trailing, to a place behind a stone wall where I could see the fort more clearly. I told the boy with the missing tooth that I wanted a better look at their guns. In truth I wanted to understand where I was, and who I was fighting, and whether we were going to die here. The smoke drifted and thinned, and for a moment the whole length of the parapet was clear in the white afternoon light.
 
 There were officers on the wall, in blue, with swords and field glasses, crouched low the way sensible men crouch when there are rifles pointed at them. And among them, standing up straight, taller than all of them by a head and more, was a man who was not an officer at all.
 
@@ -74,15 +78,11 @@ A rifle cracked from one of the trees ahead of me. On the wall, a man standing n
 
 The others moved then. Hands took the tall man by the arms and the coat. Someone was shouting. I could not hear the words at that distance, only the sharpness of them. For one moment longer he stood there, as if he were deciding whether to be offended. Then he stepped down behind the earth, and the wall was only a wall again.
 
-I pushed myself up onto one knee, out past the end of the stone wall, to see where he had gone.
+I pulled myself up on the stones to see where he had gone, and the leg screamed at me, and I did it anyway. It was a foolish thing to do, with the sharpshooters on that wall. I have done it, in one form or another, in more lives than I would like to tell you. I wanted to see. I always want to see.
 
-That was a mistake. I have made it, in one form or another, in more lives than I would like to tell you. I wanted to see. I always want to see.
+There was nothing to see. Only the wall, and the smoke, and the flag hanging in the heat. I let myself down again behind the stones.
 
-Somebody on the wall saw me move. The shot took me in the left leg, just above the knee, where it stuck out past the end of the wall. It did not hurt at first. It felt as if someone had struck the leg with a heavy stick, very hard, and then the leg was not there anymore, and I was on my back in the grass looking up at the white sky, wondering, in a calm and distant way, where it had gone.
-
-Then the pain came, all at once, worse than anything this body had ever felt, and I stopped wondering about anything.
-
-Toward evening the men in blue came out of the fort, the ones from the boats, the ones that were not clerks. They came across the fields in long lines, and our skirmishers fell back in front of them, and for an hour the air was nothing but noise. Somebody dragged me behind the stone wall. Somebody tied a belt around my leg and pulled it tight enough that I screamed, and I heard my own voice and did not recognize it.
+Toward evening the men in blue came out of the fort, the ones from the boats, the ones that were not clerks. They came across the fields in long lines, and our skirmishers fell back in front of them, and for an hour the air was nothing but noise. Somebody came and pulled the belt on my leg tighter, tight enough that I screamed, and I heard my own voice and did not recognize it.
 
 It was full dark before anyone came back for me. By then the word was going down the line, man to man, in low voices: we were pulling out. No fires. No talking. Leave whatever you can't carry. I lay there with the belt biting into my leg and listened to men I did not know yet getting ready to leave me.
 

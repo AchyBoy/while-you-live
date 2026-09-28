@@ -56,7 +56,7 @@ Iola thought about that. It was a better question than most editors had ever ask
 
 "Yes," she said. "I think he does."
 
-Freda considered this. Then she said, "Well, that's kind of sad," and went back to her chemistry, and Iola loved her so much in that moment that she had to go and look into the refrigerator for a while.
+Freda considered this. Then she said, "Well, that's kind of sad," and went back to her chemistry. It was the longest conversation they had had in weeks, and Freda had started it. Iola turned and opened the refrigerator, so that her face would not give her away.
 
 There were two mugs in the sink. Two plates, rinsed, with crumbs on them.
 
@@ -74,11 +74,11 @@ It had not opened in a while.
 
 * * *
 
-At ten o'clock, clearing the table, she saw the notification from her bank. It had come in at four.
+At ten o'clock, clearing the table, she checked her bank balance, the way she did every night.
 
-She looked at it twice. Then she opened the app and looked at it a third time, because she had been checking that balance every morning for six years, and she knew to the dollar what it had said that morning.
+There was money in it that had not been there that morning. Three thousand dollars, from Aldine, Mercer and Voss, with the note *Session 1* and nothing else. It had come in at four o'clock that afternoon, a couple of hours after she left his house. People who hired writers paid in thirty days, if you were lucky, or sent a check that took a week to clear. This client had paid the same afternoon.
 
-The first payment had already landed. Three thousand dollars, from Aldine, Mercer and Voss, with the note *Session 1* and nothing else. Not in thirty days. Not in a check that would take a week to clear. The same afternoon.
+She read it three times. She had checked that balance every day for six years, and she knew to the dollar what it had said that morning.
 
 She paid the electric bill. Then she sat at the kitchen table with the house quiet around her and Freda's music faintly through the wall, and she put on her headphones and played the recording back from the beginning.
 
@@ -96,7 +96,7 @@ She checked the time on the playback. Eleven seconds. Eleven seconds of the stov
 
 *"What I think of it,"* he said at last.
 
-She listened to the whole thing. The rain and the mud. The sun coming out when Lincoln stood to speak. The heat in the field. The boy with the missing tooth. The tall man on the wall. The bullet. The army leaving in the dark. His voice did not change much as he told it, and it did not perform. It was the voice of a man describing a place he had lived, not a story he had learned. It went slower in some places than others, and stopped sometimes to go back and correct a small detail, the way people do when they are remembering and not reciting.
+She listened to the whole thing. The rain and the mud. The sun coming out when Lincoln stood to speak. The heat in the field. The bullet. The boy with the missing tooth. The tall man on the wall. The army leaving in the dark. His voice did not change much as he told it, and it did not perform. It was the voice of a man describing a place he had lived, not a story he had learned. It went slower in some places than others, and stopped sometimes to go back and correct a small detail, the way people do when they are remembering and not reciting.
 
 Once she stopped the tape and played a line back. *It was the hottest day I had felt in a hundred years.* It was the kind of thing anybody says about a hot day. He was in his seventies. She wrote it down anyway, with a question mark, and let the tape run on.
 

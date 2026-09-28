@@ -40,7 +40,7 @@ The farm needed money more than it needed a lame boy. There was no cash for feed
 
 I took a room in a tall narrow house near the Navy Yard, with a family from Charles County who knew my mother's people and asked me nothing at all. I found work copying invoices for a lumber merchant on the waterfront. And every day, on my way to work and on my way home, I walked past the end of the Navy Yard Bridge, and I watched the soldiers who guarded it.
 
-That was my part. Booth had said so. Everything else could be planned in a parlor, but somebody had to know that bridge. What time the guard changed. How many men were on it at night. Whether they stopped every wagon or only the ones that looked like trouble. Whether they were bored. I watched them for two months, and I wrote down what I saw on the backs of the lumber merchant's invoices, in a code that was only a list of prices, and I found out they were very bored indeed.
+That was my part. Booth had said so. Everything else could be planned in a parlor, but somebody had to know that bridge. What time the guard changed. How many men were on it at night. Whether they stopped every wagon or only the ones that looked like trouble. Whether they were bored. I watched them for two months, through the mud of a Washington winter, which was mud from one end of the city to the other and came up over your boots on the Avenue itself, and I wrote down what I saw on the backs of the lumber merchant's invoices, in a code that was only a list of prices, and I found out they were very bored indeed.
 
 In February, the exchange started again.
 

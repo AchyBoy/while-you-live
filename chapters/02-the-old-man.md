@@ -68,21 +68,7 @@ He laughed at that, a real laugh, and picked up the notepad and pencil from the 
 
 "The letter said your memories would not seem credible."
 
-"Did it say that?" He seemed pleased. "That's honest of them. They won't. I can tell you now what I'm going to tell you, and you can decide whether to put your coat back on."
-
-"Go ahead."
-
-He put the pencil down.
-
-"I have lived before," he said. "Not in the way people mean on television, with past-life regression and a woman with a crystal. I mean that I have been other people, one after another, for a very long time, and I remember them. Not perfectly. The way you remember your childhood. Some of it very clearly, and some of it gone, and some of it I would rather have lost."
-
-The woodstove ticked. Outside, a truck went by on the far road, and the sound of it came and went.
-
-Iola had interviewed a man who believed he had been abducted by aliens, twice, and a woman who believed her late husband spoke to her through the microwave. She had interviewed a state senator who believed he had never taken a bribe. She had found, over the years, that the useful thing was not to argue. You let them tell it. People who were lying tripped over their own stories, if you gave them room. People who believed something strange usually told it the same way every time, which was its own kind of information.
-
-So she only said, "How long is a very long time?"
-
-"Longer than I would like you to write down today," he said. "Where would you like to start?"
+"Did it say that?" He seemed pleased. "Then they were honest with you. They won't. Ask me your client's question, and you'll see why."
 
 "My client sent a question," she said. She opened the folder, found the letter, and read out the handwritten line at the bottom.
 
@@ -102,12 +88,26 @@ He didn't answer at once. He looked at the window, where there was nothing to se
 
 Iola wrote *sun, inauguration, March 1865, check* in her notebook. It was the kind of detail anyone could find in a library. It proved nothing. She noted, too, that he had said it the way you describe something you saw from where you stood, and not the way you describe something you read. That also proved nothing. People who told stories well could do that. It was her job not to be impressed.
 
-"You were in Washington," she said.
+"You talk as if you were there," she said.
 
-"I was in Washington," he said. "But that's not where it begins. It begins the summer before. July of 1864."
+"I was there."
+
+She looked at him. He could not have been much past seventy-five. The inauguration he was describing had happened a hundred and sixty years ago.
+
+He put the pencil down.
+
+"I have lived before," he said. "Not in the way people mean on television, with past-life regression and a woman with a crystal. I mean that I have been other people, one after another, for a very long time, and I remember them. Not perfectly. The way you remember your childhood. Some of it very clearly, and some of it gone, and some of it I would rather have lost."
+
+The woodstove ticked. Outside, a truck went by on the far road, and the sound of it came and went.
+
+Iola had interviewed a man who believed he had been abducted by aliens, twice, and a woman who believed her late husband spoke to her through the microwave. She had interviewed a state senator who believed he had never taken a bribe. She had found, over the years, that the useful thing was not to argue. You let them tell it. People who were lying tripped over their own stories, if you gave them room. People who believed something strange usually told it the same way every time, which was its own kind of information.
+
+So she only said, "How long is a very long time?"
+
+"Longer than I would like you to write down today," he said. "But you asked about 1865, and 1865 doesn't begin in Washington. It begins the summer before. July of 1864."
 
 "What happened in July of 1864?"
 
-He set the pencil down on the notepad, on top of the star, and folded his hands.
+He picked the pencil up again, and set it down on the notepad, on top of the star, and folded his hands.
 
 "I woke up," he said, "in a field outside Washington, in a body that wasn't mine yet. It was the hottest day I had felt in a hundred years. And somebody was shooting at me."

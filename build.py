@@ -6,11 +6,12 @@ chapter text: blank lines split paragraphs, *italic*, **bold**, and a line of
 "---" or "* * *" is a scene break. Run: python3 build.py
 
 revisions.json remembers, per chapter, when each paragraph's text was first
-built, so the page can box in paragraphs that changed since the reader last
-looked. version.json holds this build's stamp so an open page can tell it's
+built, so the page can box in paragraphs that changed in the LATEST ROUND of
+fixes. Start a new round with: python3 build.py --new-round  (only paragraphs
+changed from that build on are boxed; earlier rounds stop being highlighted). version.json holds this build's stamp so an open page can tell it's
 out of date. Both are public and hold only hashes and times, no text.
 """
-import hashlib, html, json, pathlib, re, time
+import hashlib, html, json, pathlib, re, sys, time
 
 ROOT = pathlib.Path(__file__).parent
 BOOK = {"series": "While You Live", "title": "Sic Semper", "number": 1}
@@ -55,7 +56,7 @@ chapters = sorted((chapter(p) for p in (ROOT / "chapters").glob("*.md")), key=la
 # A paragraph keeps the time its exact text first appeared; new or edited text gets this build's time.
 rev_path = ROOT / "revisions.json"
 old = json.loads(rev_path.read_text()) if rev_path.exists() else {}
-rev = {}
+rev = {"_round": BUILD if "--new-round" in sys.argv else old.get("_round", 0)}
 for c in chapters:
     prev = old.get(str(c["num"]))
     added = prev["added"] if prev else BUILD
@@ -69,6 +70,6 @@ rev_path.write_text(json.dumps(rev, indent=1) + "\n")
 
 template = (ROOT / "template.html").read_text()
 out = (template.replace("/*BOOK*/null", json.dumps(BOOK)).replace("/*CHAPTERS*/[]", json.dumps(chapters))
-       .replace("/*BUILD*/0", str(BUILD)))
+       .replace("/*BUILD*/0", str(BUILD)).replace("/*ROUND*/0", str(rev["_round"])))
 (ROOT / "index.html").write_text(out)
 print(f"built index.html with {len(chapters)} chapter(s)")

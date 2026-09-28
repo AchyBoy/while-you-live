@@ -143,6 +143,7 @@
 </div></div>
 <script>
 const BUILD = /*BUILD*/0;
+const ROUND = /*ROUND*/0;  // only paragraphs changed at or after this build are boxed
 const BOOK = /*BOOK*/null;
 const CHAPTERS = /*CHAPTERS*/[];
 const $ = (id) => document.getElementById(id);
@@ -308,7 +309,8 @@ $("cmtSave").onclick = async () => {
 // the newest change the reader has acknowledged. A chapter they've never opened is NEW.
 function seenAt(num) { return store.get("seen", {})[num] || 0; }
 function setSeen(num, t) { const s = store.get("seen", {}); s[num] = Math.max(s[num] || 0, t); store.set("seen", s); }
-function fixCount(c) { const since = Math.max(seenAt(c.num), c.added); return c.pt.filter(t => t > since).length; }
+function isFix(c, t) { return t >= ROUND && t > Math.max(seenAt(c.num), c.added); }
+function fixCount(c) { return c.pt.filter(t => isFix(c, t)).length; }
 function isNew(c) { return c.added > seenAt(c.num); }
 function badge(c) {
   if (!CKEY) return "";
@@ -328,13 +330,12 @@ function coverFixes() {
 function markFixes(c) {
   if (!CKEY) return;
   if (isNew(c)) { setSeen(c.num, c.added); return; }  // a new chapter is all new; nothing to box
-  const since = seenAt(c.num);
   const ps = [...main.querySelectorAll(".chapter p:not(.break):not(.end)")];
-  const boxed = ps.filter((p, i) => c.pt[i] > since);
+  const boxed = ps.filter((p, i) => isFix(c, c.pt[i]));
   if (!boxed.length) return;
   boxed.forEach(p => { p.classList.add("fixed"); const t = document.createElement("span"); t.className = "tag"; t.textContent = "Fixed"; p.prepend(t); });
   const slot = $("fixbarSlot");
-  slot.innerHTML = `<div class="fixbar"><b>${boxed.length} paragraph${boxed.length > 1 ? "s" : ""} fixed since you last looked, boxed in green.</b>
+  slot.innerHTML = `<div class="fixbar"><b>${boxed.length} paragraph${boxed.length > 1 ? "s" : ""} changed in the latest round of fixes, boxed in green.</b>
     <button id="fixNext">Show me &darr;</button><button class="done" id="fixDone">Got it, clear the boxes</button></div>`;
   let at = 0;
   $("fixNext").onclick = () => { boxed[at % boxed.length].scrollIntoView({ block: "center" }); at++; };

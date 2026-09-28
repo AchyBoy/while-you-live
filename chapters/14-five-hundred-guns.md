@@ -48,7 +48,7 @@ I did not know yet what could go wrong. The plan was dead. But I have lived a lo
 
 * * *
 
-Later that morning the men from the Navy Yard came out of the gates with their band, hundreds of them, workmen in their aprons and shirtsleeves, and started up the Avenue toward the President's house, and half the Navy Yard neighborhood went with them. I went too. I did not decide to. The crowd simply took me, and by the time we reached the President's house there were thousands of us, packed across the lawn and into the street, calling for him.
+Later that morning the men from the Navy Yard came out of the gates with their band, hundreds of them, workmen in their aprons and shirtsleeves, and started up the Avenue toward the President's house through mud that came over their shoes, and half the Navy Yard neighborhood went with them. I went too. I did not decide to. The crowd simply took me, and by the time we reached the President's house there were thousands of us, packed across the lawn and into the street, calling for him.
 
 A window over the door opened, and he appeared at it.
 

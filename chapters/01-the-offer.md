@@ -25,7 +25,7 @@ On Wednesday, her source was gone. Not fired, not arrested, not quoted in a riva
 Everyone in the business knew what that meant. It meant she had made it up.
 
 
-The envelope had come that afternoon. She had left it unopened on the counter beside the fruit bowl, because nothing good arrived in paper that heavy. Heavy paper meant lawyers, and lawyers were how the last story had ended.
+That was six years ago. The envelope on the counter tonight had come that afternoon. She had left it unopened on the counter beside the fruit bowl, because nothing good arrived in paper that heavy. Heavy paper meant lawyers, and lawyers were how the last story had ended.
 
 She opened it anyway, because the electric bill was red.
 
