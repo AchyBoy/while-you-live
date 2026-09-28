@@ -1,6 +1,6 @@
 # Sic Semper
 
-## Chapter 5: Playback
+## Chapter 4: Playback
 
 She texted Freda from the end of the gravel road, *Leaving now,* and got back a thumbs up, which in her daughter's language meant *received, and please don't make it a conversation.*
 

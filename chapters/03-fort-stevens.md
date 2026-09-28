@@ -78,9 +78,9 @@ I pushed myself up onto one knee, out past the end of the stone wall, to see whe
 
 That was a mistake. I have made it, in one form or another, in more lives than I would like to tell you. I wanted to see. I always want to see.
 
-Somebody on the wall saw me move. The shot took me in the left leg, just above the knee, where it stuck out past the end of the wall. It did not hurt at first. It felt as if someone had struck the leg with a heavy stick, very hard, and then the leg was not there anymore, and I was on my back in the grass looking up at the white sky.
+Somebody on the wall saw me move. The shot took me in the left leg, just above the knee, where it stuck out past the end of the wall. It did not hurt at first. It felt as if someone had struck the leg with a heavy stick, very hard, and then the leg was not there anymore, and I was on my back in the grass looking up at the white sky, wondering, in a calm and distant way, where it had gone.
 
-Then it hurt.
+Then the pain came, all at once, worse than anything this body had ever felt, and I stopped wondering about anything.
 
 Toward evening the men in blue came out of the fort, the ones from the boats, the ones that were not clerks. They came across the fields in long lines, and our skirmishers fell back in front of them, and for an hour the air was nothing but noise. Somebody dragged me behind the stone wall. Somebody tied a belt around my leg and pulled it tight enough that I screamed, and I heard my own voice and did not recognize it.
 

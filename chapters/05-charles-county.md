@@ -1,16 +1,56 @@
 # Sic Semper
 
-## Chapter 4: Charles County
+## Chapter 5: Charles County
+
+The email from Aldine, Mercer and Voss came on Tuesday morning. It was two lines long.
+
+*Ms. Barnett, our client thanks you for the first session and has one question for the next. Please ask the gentleman what color the thread was.*
+
+She read it three times, and then she had to go back through her own transcript to find out what it meant. It took her ten minutes. It was a single sentence near the start, when he was describing waking in the field, looking at his own sleeves: *There was a hole in one elbow that somebody had darned with the wrong color thread.*
+
+She had typed that sentence herself on Friday and had not given it a second thought. Somebody else had read it and given it a great deal of thought. Somebody had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
+
+It was, she had to admit, exactly what she would have done.
+
+* * *
+
+On Thursday the kettle was on again. The stairs still had a book on every step. The chess game by the window had moved on by two pieces, and she wondered who he played against, and then decided he played against himself.
+
+She set out the two recorders. She said the date and the time. Then she read him the email.
+
+"Blue," he said.
+
+He said it at once, without looking up and without thinking, the way you would say the color of your own front door.
+
+"Union blue," he went on. "Which was the joke of it, in that coat. His mother had run out of gray the winter before he went, and she used what she had, and she told him that if anybody asked, he should say he'd taken a Yankee prisoner and kept the thread for a souvenir." He smiled a little. "I never met anyone who asked. Until now."
+
+"It's an odd question," Iola said.
+
+"It is." He was quiet for a moment, and his eyes went, just briefly, to the mantel, and then back. "Your client reads carefully."
+
+"Yes."
+
+"So do you, I think. You had to look for it."
+
+"I had to look for it," she admitted.
+
+He nodded, as if that settled something, and did not say what.
+
+"Where were we?" he said. "The wagon. Yes." He settled back in his chair, and the pencil began to move again on the notepad. "A woman's voice, in the dark. I was lying behind a stone wall with a belt around my leg, and she said, *He's alive.*"
+
+* * *
+
+* * *
 
 *July to November 1864*
 
 The woman's name was Margaret Keene, and she was my mother.
 
-I learned the first part that morning, from a Union picket on the road below Washington, who stopped the wagon and asked it. I learned the second part a few minutes earlier, when she climbed down into the ditch where I lay, took my face in both her hands, and said, "Oh, Kit. Oh, my boy," and wept against my shoulder while I lay there not knowing her at all.
+I knew she was my mother before I knew her name. She climbed down into the ditch where I lay, took my face in both her hands, and said, "Oh, Kit. Oh, my boy," and wept against my shoulder while I lay there not knowing her at all. Her name I learned a few hours later, when a Union picket stopped the wagon on the road below Washington and asked for it.
 
 There is no rule for that. I have been somebody's son many times, and it has never become easier. She had loved this boy for nineteen years. She had come forty miles, two days on the road and the last of it in the dark, through an army's leavings, on nothing but a rumor that Kit's company was outside Washington, to find him. And the boy she found was not there anymore, and the one she held instead had to decide, in that first moment, whether to tell her.
 
-I have never told them. Not once, in all the lives. I tell myself it would be cruel. Some nights I think the truth is that I am a coward. Both of those can be true.
+I have never told them. Not once, in all the lives. I tell myself it would be cruel to take their child away from them a second time. Some nights I think the truth is simpler, and that I am a coward. Maybe it is both.
 
 So I said, "Mama," because that was the word the body wanted, and she held on tighter, and I let her.
 
@@ -26,13 +66,13 @@ It took us two days to reach home. We went south out of the city on back roads, 
 
 We stopped once to water the horse, at a crossroads tavern at a place called Surrattsville. A widow kept it. She came out on the porch to talk with my mother in low voices, and when she went back in, there were two more blankets and a jar of broth in the wagon that had not been there before.
 
-I remember that I thought nothing of it. It was only kindness.
+At the time it seemed like nothing more than kindness, one mother helping another. I did not even ask her name.
 
 * * *
 
-The Keene farm lay a few miles from a village called Bryantown, in low green country cut through by creeks and a great dark swamp that the locals called the Zekiah. Tobacco, mostly, and corn and some hogs. A white house with a long porch, a kitchen built separate from the house because of the heat and the risk of fire, a tobacco barn, and behind the barn, in a row, the small log cabins where the people lived who did the work.
+The Keene farm lay a few miles from a village called Bryantown, in low green country cut through by creeks and a great dark swamp that the locals called the Zekiah. The Keenes grew tobacco, mostly, with some corn, and kept a few hogs. A white house with a long porch, a kitchen built separate from the house because of the heat and the risk of fire, a tobacco barn, and behind the barn, in a row, the small log cabins where the people lived who did the work.
 
-I was in bed for most of August with fever.
+The leg went bad on the road home. By the time we reached the farm I was burning with fever, and I spent most of August in bed.
 
 A doctor came from Bryantown, a thin, nervous man who smelled of tobacco and camphor and said very little, and he looked at my leg and looked at my mother and said he could take it off above the knee, and then I would very likely live. My mother said no. He said then I would very likely die. My mother said we would see. He left some powders and did not come back for a week, and I think he expected to be called for my funeral.
 
@@ -84,7 +124,7 @@ Then one afternoon I came into the kitchen yard on my crutch, more quietly than 
 
 He heard my crutch on the step. His eyes stopped. He picked up the bucket at his feet and went to the well, and when he came back past me, his face was nothing at all, as smooth and closed as a shut door.
 
-I thought about that for a long time.
+That night, and for a good many nights after, I lay awake and turned it over.
 
 A field hand on a Charles County farm, who had never been to school, because no one on that farm would have let him, reading a newspaper faster than I could. And hiding it. Not from my mother. From me. As if he had seen something in me, since the war, that he did not trust.
 
@@ -111,3 +151,13 @@ Then he turned and walked down the lane toward the Washington road, and he did n
 I stood on the porch on my crutch and watched him until the road turned into the trees.
 
 I never expected to see him again.
+
+* * *
+
+The fire in the woodstove had burned down. Iola had filled most of a notebook.
+
+"Did you see him again?" she asked. "Damon."
+
+He looked at her for a long moment.
+
+"We'll get there," he said.

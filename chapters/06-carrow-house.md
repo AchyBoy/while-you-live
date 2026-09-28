@@ -1,54 +1,8 @@
 # Sic Semper
 
-## Chapter 6: The Thread
+## Chapter 6: Carrow House
 
-The email from Aldine, Mercer and Voss came on Tuesday morning. It was two lines long.
-
-*Ms. Barnett, our client thanks you for the first session and has one question for the next. Please ask the gentleman what color the thread was.*
-
-She read it three times, and then she had to go back through her own transcript to find out what it meant. It took her ten minutes. It was a single sentence near the start, when he was describing waking in the field, looking at his own sleeves: *There was a hole in one elbow that somebody had darned with the wrong color thread.*
-
-She had typed that sentence herself on Friday and had not given it a second thought. Somebody else had read it and given it a great deal of thought. Somebody had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
-
-It was, she had to admit, exactly what she would have done.
-
-* * *
-
-On Thursday the kettle was on again. The stairs still had a book on every step. The chess game by the window had moved on by two pieces, and she wondered who he played against, and then decided he played against himself.
-
-She set out the two recorders. She said the date and the time. Then she read him the email.
-
-"Blue," he said.
-
-He said it at once, without looking up and without thinking, the way you would say the color of your own front door.
-
-"Union blue," he went on. "Which was the joke of it, in that coat. His mother had run out of gray the winter before he went, and she used what she had, and she told him that if anybody asked, he should say he'd taken a Yankee prisoner and kept the thread for a souvenir." He smiled a little. "I never met anyone who asked. Until now."
-
-"It's an odd question," Iola said.
-
-"It is." He was quiet for a moment, and his eyes went, just briefly, to the mantel, and then back. "Your client reads carefully."
-
-"Yes."
-
-"So do you, I think. You had to look for it."
-
-"I had to look for it," she admitted.
-
-He nodded, as if that settled something, and did not say what.
-
-* * *
-
-He talked for most of the morning about the farm.
-
-About Margaret Keene, who had come forty miles on a rumor to find a son who was no longer there, and whom he had let go on believing. About the doctor who wanted to take the leg, and the three weeks of fever, and the craft of becoming someone who already existed: never say a name first, never tell a story from your own past. About Lottie, fourteen, who read novels in the hayloft and brought him newspapers and gossip, and who told him the story about the President and the young officer and *get down, you fool.* About a cousin named Ned, writing in pencil from a prison camp at the bottom of the peninsula, where the rations were short and the water was bad. And about a man named Damon, who had lifted him out of the ditch, and who could read, and who had hidden it, and who had walked away down the lane on the first of November and not looked back.
-
-"Did you see him again?" Iola asked. "Damon."
-
-He looked at her for a long moment.
-
-"We'll get there," he said.
-
-At noon he made soup. He would not let her help. It was a thick vegetable soup out of a big dented pot that had clearly made a great many pots of soup, and he served it with bread from the town bakery and apologized for the bread, which did not need an apology.
+At noon he stopped and made soup. He would not let her help. It was a thick vegetable soup out of a big dented pot that had clearly made a great many pots of soup, and he served it with bread from the town bakery and apologized for the bread, which did not need an apology.
 
 They ate at the kitchen table, and he asked her about herself.
 
@@ -76,9 +30,9 @@ She did not answer that. He took her bowl and filled it again without asking, an
 
 * * *
 
-After lunch they went back to the living room, and he went back to 1864.
+After lunch they went back to the living room. She asked him about Ned, the cousin at Point Lookout, and he went back to 1864.
 
-He talked about the letter from Point Lookout, and how his mother had carried it in her apron pocket all that fall. He talked about what it did to a family to have a son in a place like that, where you knew he was hungry and could do nothing, where every letter might be the last one. He said that the men in those camps had written home as if they would be back by Christmas, every one of them, even the ones who knew better. He said it was the only thing they had left to decide.
+He talked again about the letter from Point Lookout, and how his mother had carried it in her apron pocket all that fall. He talked about what it did to a family to have a son in a place like that, where you knew he was hungry and could do nothing, where every letter might be the last one. He said that the men in those camps had written home as if they would be back by Christmas, every one of them, even the ones who knew better. He said it was the only thing they had left to decide.
 
 "Ned wrote that he thought often of home," he said. "He said to tell my mother not to worry. You don't write that to people unless you mean to come back to them."
 
