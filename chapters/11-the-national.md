@@ -16,6 +16,8 @@ She had also called the National Archives. You could not simply walk in and ask 
 
 * * *
 
+On Thursday she set out the recorders, said the date and the time, and read him the question.
+
 "The National," he said. "Yes. Many times."
 
 He did not look at the mantel this time. He looked at her, and for a moment she had the feeling that he was deciding something. Then he smiled and settled back.

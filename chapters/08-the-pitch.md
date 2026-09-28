@@ -2,6 +2,14 @@
 
 ## Chapter 8: The Pitch
 
+At noon he made soup again, and they ate it at the kitchen table and talked about nothing at all: the bakery that was closing, a fox he had seen in the field, a show Freda watched that Iola could not follow. He did not say Booth's name once.
+
+Afterward they went back to the living room. She turned the recorders on and said the time.
+
+"December," he said. "He came back in December, in the rain."
+
+* * *
+
 *December 1864*
 
 We walked out to the tobacco barn, because it was the only place on the farm where two men could talk without being overheard, and because Booth said he wanted to see the crop.
