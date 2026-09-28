@@ -54,7 +54,7 @@ So I said, "Mama," because that was the word the body wanted, and she held on ti
 
 There was a man with her. He lifted me from behind the wall and laid me in the back of the wagon on a pile of feed sacks as carefully as if I were made of glass, and he never once looked at my face. He was tall, not much past thirty, with a scar through one eyebrow and a face that gave away nothing at all. I heard her call him Damon. *Damon, the blanket. Damon, mind his leg.* He did everything she asked before she had quite finished asking it.
 
-Much later, on the road, my mother told me it was Damon who had found me. He had stopped the stragglers on the road north and asked every one of them for Kit's company, and where its wounded had been left, and then he had walked the stone walls in the dark with a shaded lantern until he came to mine. "I don't know how he knew where to look," she said. "He always does." I put that away, the way I put away anything I cannot yet explain.
+Much later, on the road, my mother told me it was Damon who had found me. He had stopped the stragglers on the road north and asked every one of them for Kit's company, and where its wounded had been left, and then he had walked the stone walls in the dark with a shaded lantern until he came to mine. "I don't know how he knew where to look," she said. "He always does." I put that away.
 
 Before we set off, he put sacks of new potatoes over me and around me until I was a lump among the potatoes, and I lay in the dark and the smell of earth and listened to the wheels.
 
