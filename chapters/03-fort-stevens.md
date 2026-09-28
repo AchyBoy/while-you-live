@@ -82,7 +82,7 @@ I pulled myself up on the stones to see where he had gone, and the leg screamed 
 
 There was nothing to see. Only the wall, and the smoke, and the flag hanging in the heat. I let myself down again behind the stones.
 
-Toward evening the men in blue came out of the fort, the ones from the boats, the ones that were not clerks. They came across the fields in long lines, and our skirmishers fell back in front of them, and for an hour the air was nothing but noise. Somebody came and pulled the belt on my leg tighter, tight enough that I screamed, and I heard my own voice and did not recognize it.
+Toward evening the men in blue came out of the fort, the ones that were not clerks. They came across the fields in long lines, and our skirmishers fell back in front of them, and for an hour the air was nothing but noise. When it was quieter, an older man from our company crawled over with a knife and cut the trouser away from the wound, and poured water from his canteen through it, front and back, and packed both holes with lint from his pocket and bound them tight with a strip torn off his own shirt. He knew what he was doing. He had done it before. I screamed when he pulled the binding tight, and I heard my own voice and did not recognize it.
 
 It was full dark before anyone came back for me. By then the word was going down the line, man to man, in low voices: we were pulling out. No fires. No talking. Leave whatever you can't carry. I lay there with the belt biting into my leg and listened to men I did not know yet getting ready to leave me.
 

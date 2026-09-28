@@ -128,7 +128,7 @@ That night, and for a good many nights after, I lay awake and turned it over.
 
 A field hand on a Charles County farm, who had never been to school, because no one on that farm would have let him, reading a newspaper faster than I could. And hiding it. Not from my mother. From me. As if he had seen something in me, since the war, that he did not trust.
 
-I did not know what to make of it, so I did what I have always done with a puzzle I cannot solve. I put it away carefully, where I would not lose it.
+I did not know what to make of it. I filed it under Damon, next to the man who had never once looked me in the face, and left it there.
 
 * * *
 
