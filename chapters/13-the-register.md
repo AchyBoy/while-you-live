@@ -36,7 +36,7 @@ But on the drive home she found she was thinking about the date. The sixth of Fe
 
 "Did the cousin die?" Freda said.
 
-She said it without looking up, the way she had said it every night for two weeks, the way you ask about the weather. Then she looked up, because her mother had not answered.
+She said it without looking up, the way she had said it every night for weeks, the way you ask about the weather. Then she looked up, because her mother had not answered.
 
 "Yes," Iola said.
 
@@ -66,7 +66,7 @@ Iola wrote the date on an index card, *Feb. 6,* and turned it face down, and put
 
 On Thursday he talked for most of the morning about the week after the seventeenth: the plotters scattering, the letters from Baltimore, the lumber yard. She listened, and wrote, and did not ask about Ned.
 
-She could see him noticing that she did not ask. Once he looked up from the notepad and studied her face for a moment, the mechanic listening to the engine, and she held still under it, and he looked down again.
+She could see him noticing that she did not ask. Once he looked up from the notepad and studied her face for a moment, and she held still under it, and he looked down again.
 
 After lunch, he told her.
 
@@ -104,7 +104,7 @@ He looked at her. For a moment his face did something she had not seen it do bef
 
 "It doesn't prove anything," she said. "You know that. Anyone could have found that line. You could have found it yourself, years ago."
 
-"Yes," he said. "Anyone could. And if I had, I would have known the date too, wouldn't I? So the date proves nothing." He did not sound disappointed. He sounded, if anything, pleased with her. "Good. Keep doing that."
+"Yes," he said. "Anyone could. And if I had, I would have known the date too, wouldn't I?" He did not sound disappointed. He sounded, if anything, pleased with her. "Good. Keep doing that."
 
 * * *
 
@@ -116,7 +116,7 @@ She wanted to leave it there. She found she could not.
 
 "You're not stupid. I've spent seven Thursdays with you. You're the least stupid person I've ever met." She put her pen down. "So explain it to me. Not the arithmetic. Booth's arithmetic. You. Why would a man like you walk into that?"
 
-He was quiet for a long time. Long enough that she checked the red light on the recorder.
+He was quiet for a long time. Long enough that she glanced at the recorder.
 
 "Because it made sense," he said at last. "That's the honest answer, and it's the one nobody wants. You want me to tell you I was fooled, or angry, or young. I was all three. But I wasn't stupid, and it wasn't madness. Every step of it made sense from where I stood."
 

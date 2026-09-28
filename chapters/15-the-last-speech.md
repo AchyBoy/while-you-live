@@ -16,7 +16,7 @@ Booth came for me at the lumber yard at six o'clock. He was sober and freshly sh
 
 Powell was with him, a step behind, the way he always was, too big for his coat, saying nothing. And Herold came along too, trotting to keep up, talking. We walked up to the President's house through streets still hung with flags from the night before, and bunting, and candles in every window. The whole city was lit. People had put candles in every pane of glass they owned, so that the houses seemed to be made of light.
 
-The crowd on the lawn was bigger than the night before. It filled the grounds and ran out into the avenue, thousands of people, soldiers and clerks and families, and a great many Black men and women, standing together in a group near the front, dressed in their best, as if for church. Booth steered us through the crowd until we were quite close, under the tall window over the north door, near the front. He wanted to see.
+The crowd on the lawn was bigger than the one that morning. It filled the grounds and ran out into the avenue, thousands of people, soldiers and clerks and families, and a great many Black men and women, standing together in a group near the front, dressed in their best, as if for church. Booth steered us through the crowd until we were quite close, under the tall window over the north door, near the front. He wanted to see.
 
 I saw Damon before the speech began.
 
@@ -26,7 +26,7 @@ He had not seen us yet. I made sure to stand where Booth's shoulder was between 
 
 * * *
 
-The window opened, and the President came out, and the crowd roared so that you felt it in your chest.
+The window opened, and the President appeared at it, and the crowd roared so that you felt it in your chest.
 
 He had a sheaf of papers in his hand. A man stood behind him and a little to one side with a candle, holding it up so that he could read. And every time he finished a page, he let it fall, and a small boy darted out from behind him and caught the pages as they came down, and gathered them up off the floor. His son, somebody near me said. Tad.
 
@@ -54,7 +54,7 @@ He said a good deal more than that, in words I will not use in your house. And t
 
 I have told you that I was clever in that life. I want you to understand that it did not take cleverness to understand that sentence. A child would have understood it. But I will tell you how it fell into place for me, standing there, because it all fell at once, and it was the worst moment of that life.
 
-The pistol on the table, the night before, where there had never been a pistol. The brandy, and the quiet, and the talk about Brutus. *The men who kill a tyrant are honored for a thousand years.* The kidnapping dead, and Booth not grieving for it at all, only waiting, the way an actor waits in the wings. And now this: the last speech he will ever make.
+The pistol on the table the night before, the kind that fires once, at arm's length. The brandy, and the quiet, and the talk about Brutus. *The men who kill a tyrant are honored for a thousand years.* The kidnapping dead, and Booth not grieving for it at all, only waiting, the way an actor waits in the wings. And now this: the last speech he will ever make.
 
 He was not going to take the President anywhere. There was nowhere left to take him. He was going to kill him.
 
@@ -64,7 +64,7 @@ And past Powell, through a gap in the crowd that had opened when people shifted 
 
 His eyes were open again. He was looking straight at us. At Booth, who had just said it, and at Powell beside him. And at me, standing at Booth's elbow, in the coat Booth had bought me, as close to him as a brother.
 
-He had heard it. I do not know how, over that crowd, but I saw on his face that he had heard every word, and I saw him look at me and put it together with everything else he knew: the farm, and the war, and the dinners at the National, and a saddled horse with no rider on the night of the seventeenth, and a man coming out of Booth's room at midnight with his shirt full of paper.
+He had heard it. Booth's voice was made to carry, and it had. I saw on his face that he had heard every word, and I saw him look at me and put it together with everything else he had seen of me since the farm.
 
 Then the crowd closed again, and he was gone.
 
@@ -72,7 +72,7 @@ Then the crowd closed again, and he was gone.
 
 I walked back down the avenue with them afterward. I laughed when Herold made a joke. I said good night to Booth at the door of the National and shook his hand.
 
-I want you to understand why.
+I did all of that on purpose.
 
 I lay awake all that night in my room by the Navy Yard, and I went through it the way I would go through any problem, one door at a time.
 
@@ -100,6 +100,6 @@ The second was that the other one had just seen me standing at his elbow.
 
 She opened her mouth, and closed it again.
 
-She had chosen it herself, once. Six years ago. A source inside Carrow House, who could have walked away and didn't, because inside was the only place you could see what they were doing. She had told him to stay. She had told him it was the only way.
+She had chosen it herself, once. Six years ago. A source inside Carrow House, who could have walked away and didn't, because inside was the only place you could see what they were doing. She had told him to stay, for those eight months. She had told him it was the only way.
 
 She did not say any of that. She wrote down *April 11,* and underlined it, and after a moment she wrote, underneath, *the other one,* and looked at it, and did not ask.

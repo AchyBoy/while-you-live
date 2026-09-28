@@ -6,13 +6,13 @@ The client's question came on Tuesday, like the first one. It was one line.
 
 *Please ask the gentleman whether he ever went to the National Hotel.*
 
-Iola looked it up before she did anything else. The National had been the grandest hotel in Washington before the war, on Pennsylvania Avenue at Sixth Street, halfway between the White House and the Capitol. Congressmen lived there. So did John Wilkes Booth, whenever he was in the city, in room 228. The building had been torn down in 1942.
+Iola looked it up before she did anything else. The National had been the grandest hotel in Washington before the war, on Pennsylvania Avenue at Sixth Street, a short walk from the Capitol. Congressmen lived there. So did John Wilkes Booth, whenever he was in the city, in room 228. The building had been torn down in 1942.
 
 So it was not an odd question at all. It was the most natural question in the world. Booth lived there, and the old man said he had been one of Booth's men.
 
-She read it again anyway. It had taken the client a week of silence to ask it.
+She read it again anyway. It had taken the client two weeks of silence to ask it.
 
-She had also called the National Archives. You could not simply walk in and ask for microfilm, it turned out. You needed a researcher card, and to get one you had to sit through an orientation, and the next orientation with a free seat was a week from Monday. She put it on the calendar under *Archives. Hurley.* and felt, absurdly, as if the building were stalling her on purpose.
+She had also called the National Archives. You could not simply walk in and ask for microfilm, it turned out. You needed a researcher card, and to get one you had to sit through an orientation, and the next orientation with a free seat was the following Monday. She put it on the calendar under *Archives. Hurley.* and felt, absurdly, as if the building were stalling her on purpose.
 
 * * *
 
@@ -50,7 +50,7 @@ I saw Damon a few minutes later.
 
 He came through the door from the kitchen with a tray on his shoulder, in the white jacket that all the National's waiters wore, and he walked the length of the dining room and set down four plates at a table by the window without a sound, and turned, and saw me.
 
-It was a small thing. Nobody else in that room would have noticed it. His step did not change and his face did not change. But his eyes went to me, and stopped, and I watched them take me in the way they had taken in Lottie's newspaper that afternoon in the kitchen yard: quickly, left to right and down. My cane. My good coat, which Booth had paid for. The ink on my fingers from the lumber merchant's invoices. And the man across the table from me, laughing, with his hand on a bottle of wine.
+It was a small thing. Nobody else in that room would have noticed it. His step did not change and his face did not change. But his eyes went to me, and stopped, and I watched them take me in the way they had taken in Lottie's newspaper that afternoon in the kitchen yard: quickly, the whole of me at once. My cane. My good coat, which Booth had paid for. The ink on my fingers from the lumber merchant's invoices. And the man across the table from me, laughing, with his hand on a bottle of wine.
 
 Then he looked away, and went back through the kitchen door, and was gone.
 
@@ -98,7 +98,7 @@ I thought I understood that. A man who had been freed four months before, by a v
 
 What I did not think about, not once, was what he made of me. The Keene boy, who had come back from the war different, whom he had watched all that summer and fall and not liked what he saw. Sitting now at John Wilkes Booth's own table, in a coat Booth had bought him, talking low, with papers in his pocket.
 
-He had known me for four months on a farm. He had never known me to lie. And he had never, I think, had any reason to believe a single good thing about me.
+He had known Kit Keene all his life, and had watched the one who came home from the war for four months, and he had never, I think, had any reason to believe a single good thing about either of them.
 
 I did not think about any of that. I was busy watching the bridge.
 

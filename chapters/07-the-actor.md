@@ -52,7 +52,7 @@ I did not. I said so.
 
 "That's John Wilkes Booth." She said the whole name, the way you say the name of a place. "The actor. I have his picture. I have his picture *in my room*."
 
-She did. I had seen it. Actors sold their portraits in those days on little cards, the size of your hand, and girls collected them the way boys collected cigar bands. Lottie had three of this one, and had told me he was the most famous young actor in America, and that he played Richard the Third so wildly that he fell off the stage once and kept on fighting.
+She did. I had seen it. Actors sold their portraits in those days on little cards, the size of your hand, and girls collected them the way boys collected cigar bands. Lottie had three of this one, and had told me he was the most famous young actor in America, and that he played Richard the Third so wildly that the other actors were afraid to fight him.
 
 I watched Thompson bring him across the churchyard to a man standing by the gate: a slim man with a high forehead and reddish whiskers, about thirty, whom I knew as the young Dr. Mudd, who farmed and doctored a few miles up the road. The two of them shook hands. They talked for a few minutes. I could not hear what was said. It looked like nothing, two men being polite on a church step.
 
@@ -62,7 +62,7 @@ Then Thompson brought him over to us.
 
 * * *
 
-He was charming. I want to say that plainly, because it matters, and because nobody who writes about him now likes to say it. He was the most charming man I met in that life, and I have met a great many charming men. He bowed over my mother's hand as if she were a duchess. He told Lottie that he could see she was a reader, and when she asked him how, he said, "You have ink on your second finger, miss, and you've been hiding it in your glove all through Mass," and she went as red as a brick and adored him forever.
+He was charming. I want to say that plainly, because it matters, and because nobody who writes about him now likes to say it. He was the most charming man I met in that life, and I have met more charming men than I can count. He bowed over my mother's hand as if she were a duchess. He told Lottie that he could see she was a reader, and when she asked him how, he said, "You have ink on your second finger, miss. You kept that glove on all through Mass, and you took it off just now to shake my hand," and she went as red as a brick and adored him forever.
 
 I remember thinking that was not bad. Not bad at all.
 
@@ -134,7 +134,7 @@ Nobody said anything. My mother's hand went to her apron pocket, where the lette
 
 "Somebody ought to make them trade," Booth said.
 
-He did not say anything more than that. He changed the subject, very gracefully, and told us that in two weeks he would be in New York, on the stage of the Winter Garden, playing *Julius Caesar* with both of his brothers for the first time in their lives: Edwin, who was the greatest actor in the country, and Junius, and himself. It was a benefit, to raise money for a statue of Shakespeare in the new Central Park. Lottie nearly died of it.
+He did not say anything more than that. He changed the subject, very gracefully, and told us that in ten days he would be in New York, on the stage of the Winter Garden, playing *Julius Caesar* with both of his brothers for the first time in their lives: Edwin, who was the greatest actor in the country, and Junius, and himself. It was a benefit, to raise money for a statue of Shakespeare in the new Central Park. Lottie nearly died of it.
 
 "Which part do you play?" she asked.
 
@@ -164,7 +164,7 @@ But he had not come back for horses. On his second day in the county he rode up 
 
 She laughed in spite of herself. Then she took out her phone, which she had promised herself she would not do during a session, and looked it up while he watched.
 
-It was all there. November of 1864, the letter of introduction, Dr. Queen, the church at Bryantown, Dr. Mudd. The one-eyed horse from the neighbor named Gardiner. And the twenty-fifth of November, the Winter Garden Theatre in New York: *Julius Caesar,* the only night the three Booth brothers ever shared a stage. John Wilkes had played Mark Antony. Edwin had played Brutus.
+It was all there. November of 1864, Dr. Queen and his son-in-law Thompson, the church at Bryantown, Dr. Mudd. And the twenty-fifth of November, the Winter Garden Theatre in New York: *Julius Caesar,* the only night the three Booth brothers ever shared a stage. John Wilkes had played Mark Antony. Edwin had played Brutus.
 
 "Look up what else happened in New York that night," he said.
 

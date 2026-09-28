@@ -10,11 +10,13 @@
 
 It was the fifteenth Thursday. The payment for the last session had come on Monday, double again, with the same note, and Iola had stopped being surprised by it and started being uneasy. She had not said so to him. She thought he knew.
 
+Before they started, because he asked, she told him the school business was dragging on. Mr. Ostrowski had called both girls in on Monday and laid the two write-ups side by side on his desk, and Freda said you could hardly tell them apart, they even had the same weird numbers in the tables, and then Freda had cried in the car, which she never did. He listened, and nodded, and asked whether the gutter people had paid yet, and then he looked at the fire and began.
+
 * * *
 
 *May and June, 1865*
 
-I did not go home when they let me out. I could not face my mother yet, or Lottie, with everything I could not tell them. I went back to the lumber merchant on the waterfront, in my blue coat, as Mr. Hurley, and he looked at me for a long moment and gave me my old stool back and did not ask where I had been. A great many people in Washington did not ask each other things that spring.
+I did not go home when they let me out. I could not face my mother yet, or Lottie, with everything I could not tell them. I went back to the lumber merchant on the waterfront, in my blue coat. I told him my name was Hurley now. He looked at me for a long moment and gave me my old stool back and called me Hurley from then on, and did not ask why. A great many people in Washington did not ask each other things that spring.
 
 The trial began in May, at the Arsenal, down at the point where the Eastern Branch meets the Potomac, in the old penitentiary there. Not in a courtroom. The government would not risk a jury, not in a city where half the jurors might be Marylanders. It was a military commission: nine officers at a long table, generals and colonels, deciding in a room on the third floor of a prison. There were eight people accused. Mrs. Surratt was the only woman.
 
@@ -34,7 +36,7 @@ He remembered every visit Booth had made to the house on H Street. He remembered
 
 I sat at the back and listened to him and thought: *if this goes wrong, that one will talk.*
 
-He did not mention me. Not once, in all those hours. He had never heard my name. I had seen to that, on the first night, walking back down H Street in the cold.
+He did not mention me. Not once, in all those hours. He had never heard my name. I had seen to that, on the first night, lying awake by the Navy Yard.
 
 I had been right about him. I sat there being right about him and wished, with my whole heart, that I had been wrong.
 
@@ -54,7 +56,7 @@ The kidnapping: she knew. I was sure of that before the trial began, and nothing
 
 The murder: I did not believe she knew. And I had one thing, in all that trial, that nobody on that commission had.
 
-I had stood on the corner of H Street at half past two on the fourteenth and watched Booth hand her that package on the steps. And I had watched her take it, and put it in the buggy, without looking at it. Without opening it, or weighing it in her hand, or asking what it was. She had taken it from him the way she took everything from the men in her house: as an errand, to be done and not asked about.
+I had stood on the corner of H Street at half past two on the fourteenth and watched Booth go into the house, and come out again, and go. And then I had watched her come out with that package, after his visit, and put it in the buggy without looking at it. Without opening it, or weighing it in her hand, or turning it over to see what it was. She had carried it the way she carried everything for the men in her house: as an errand, to be done and not asked about.
 
 A woman who knows she is carrying the field glasses for a murderer's escape looks at the package. She cannot help it. I have watched a great many people carry things they knew to be terrible, in a great many lives, and they all look. They hold it as if it were hot. She had held it like a loaf of bread.
 
@@ -72,7 +74,7 @@ The commission gave its verdict at the end of June. It was kept secret for a wee
 
 On the sixth of July, the newspapers said it. Four of them to hang: Powell, Herold, Atzerodt, and Mary Surratt. The others to prison. The hangings were set for the next day. One day's notice.
 
-The papers also said, some of them, in a paragraph near the bottom, that five of the nine officers who had tried her had signed a letter asking the President to spare her, because of her age and because she was a woman. The President had not granted it. He said later that he had never seen it. The judge advocate said he had shown it to him. People have argued about that ever since.
+Years later it came out that five of the nine officers who tried her had signed a letter asking the President to spare her, because of her age and because she was a woman. He said he had never seen it. The judge advocate said he had shown it to him. People have argued about that ever since.
 
 And a story went around, in those days, secondhand, the way stories do: that the President had said of her that she kept the nest that hatched the egg. I do not know if he said it. I heard it from a man at the lumber yard who had heard it from someone. But I remember thinking, when I heard it, that it was the truest thing anyone said about her that summer, and that it was not a reason to hang her.
 
@@ -80,7 +82,7 @@ I had kept the nest too. I had drawn it on my mother's tobacco receipts.
 
 * * *
 
-That night, the sixth of July, I sat at my table by the Navy Yard and did the only thing I could think of. I wrote a letter.
+That night, the sixth of July, I sat at my table in a rented room on the waterfront and did the only thing I could think of. I wrote a letter.
 
 I wrote it to the President. I wrote that I had been present in Washington in April and had reason to know that Mrs. Surratt had known of a plan to seize President Lincoln, but not of any plan to kill him; that on the afternoon of the fourteenth she had carried a package from Booth without looking at it, as a woman carries an errand she does not understand; that her crime was silence, not murder, and that silence was the crime of half of Maryland that winter. I wrote it as clearly and as plainly as I could. I wrote it three times, until every word was right.
 
@@ -90,19 +92,19 @@ I walked it up the Avenue to the President's house at midnight, holding it insid
 
 I walked home down the Avenue. And somewhere around Seventh Street, I stopped, in the dark, and stood still for a long time.
 
-A man writing a letter at midnight, three times over, until every word was right. Not signing it. Walking it up the Avenue himself, holding it inside his coat. Handing it in at the President's door.
+A man writing a letter at midnight, three times over, until every word was right. Not signing it. Walking it out into the night toward the President's house.
 
 I had seen that before. In the dining room of the National, on the thirteenth of April, by one lamp. I had thought it was a love letter.
 
 * * *
 
-He stopped. His hand had gone still on the notepad, on top of the drawing that was always there, the one he went over and over without looking.
+He stopped. His hand had gone still on the notepad.
 
 Iola sat very still.
 
 "Damon," she said. "The night before. He was writing to Lincoln."
 
-"I think so. I've thought so ever since that night on Seventh Street." He looked down at his hand, and moved it off the page, as if he had only just noticed where it was. "I never knew for certain. I never saw it. He never told me. But I think that man sat up writing a warning to the President of the United States, in the best hand in Washington, and walked it to the door himself. And they put it on a pile." He was quiet a moment. "Like mine."
+"I think so. I've thought so ever since that night on Seventh Street." He looked down at his hand, and moved it off the page. "I never knew for certain. I never saw it. He never told me. But I think that man sat up writing a warning to the President of the United States, in the best hand in Washington, and walked it to the door himself. And they put it on a pile." He was quiet a moment. "Like mine."
 
 "Did yours do anything?"
 

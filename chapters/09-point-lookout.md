@@ -8,17 +8,17 @@ He walked her out to the car at four o'clock, slowly, with one hand on the porch
 
 It was the kind of thing people asked. She nearly said *fine,* the way you do. But it had been a long day of listening to him, and he had listened to her at lunch the week before, and she found that she wanted to answer properly.
 
-So she told him. She told him that Freda was good. That she was taking chemistry this year with a teacher named Mr. Ostrowski, who wore a bow tie every single day and had once set his own sleeve on fire in front of the class, and that Freda, who had said all through ninth grade that she hated science, now came home and explained things to Iola about moles and molecules whether Iola wanted to hear them or not. Last week it had been a long complaint about the scale at her bench, which weighed everything two grams heavy, so that her whole lab came out wrong and she had to write an extra paragraph at the end explaining why. That she had grown two inches since spring and none of her jeans fit. That she had started doing her homework at the kitchen table instead of in her room, which was new, and which Iola was not complaining about, because it meant she got to see her. That every light in the house was on whenever Iola came home, like Freda was expecting a party.
+So she told him. She told him that Freda was good. That she was taking chemistry this year with a teacher named Mr. Ostrowski, who wore a bow tie every single day and had once set his own sleeve on fire in front of the class, and that Freda, who had said all through ninth grade that she hated science, now came home and explained things to Iola about moles and molecules whether Iola wanted to hear them or not. Last week it had been a long complaint about the scale at her bench, which read everything about two percent heavy, so that her whole lab came out wrong and she had to write an extra paragraph at the end explaining why. That she had grown two inches since spring and none of her jeans fit. That she had started doing her homework at the kitchen table instead of in her room, which was new, and which Iola was not complaining about, because it meant she got to see her. That every light in the house was on whenever Iola came home, like Freda was expecting a party.
 
 "And her phone buzzed all through dinner on Tuesday," Iola said. "She turned it face down on the table without looking at it. She's been doing that. I thought, well, at least she's not texting at the table. I've been trying to get her to stop that for three years."
 
 He had stopped at the bottom of the steps. He was looking at her in the way he had, the mechanic listening to the engine.
 
-"She knows who it is," he said.
+"She knows what it is," he said.
 
 "What?"
 
-"When the phone buzzes. She doesn't need to look, because she already knows who it is. And she doesn't want to read it." He said it gently. "Somebody is saying things to your daughter that she doesn't want to hear, and she doesn't want to be alone with them. That's why she works at the kitchen table now, where you are. And it's why every light in the house is on when you come home."
+"When the phone buzzes. She doesn't need to look, because she already knows what it will say. And she doesn't want to read it." He said it gently. "Somebody is saying things to your daughter that she doesn't want to hear, and she doesn't want to be alone with them. That's why she works at the kitchen table now, where you are. And it's why every light in the house is on when you come home."
 
 Iola stood very still by the car.
 
@@ -66,7 +66,7 @@ She searched for *Keene,* and there were Keenes, too, but no Christopher, and th
 
 And she did not know the cousin's last name. Ned had called Kit's mother *Aunt Margaret.* He could have been a Keene, if he was the son of her husband's brother. He could just as easily have been anything else.
 
-She wrote it down: *Ned's last name?* And underneath it, because she was honest on paper: *Would a real one know? Ask him. Watch how fast he answers.*
+She wrote it down: *Ned's last name?* And underneath it, smaller: *Would a real one know? Ask him. Watch how fast he answers.*
 
 * * *
 

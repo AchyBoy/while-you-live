@@ -52,11 +52,11 @@ Freda looked at the card, and at her mother's face.
 
 "Then how does the client know to ask?"
 
-Iola did not answer. She sat at the kitchen table with the two cards side by side under the light, the steady one and the shaking one, and the folder with the photocopy in it at her elbow, and she did not have an answer to that at all.
+Iola did not answer. She sat at the kitchen table with the letter and the card side by side under the light, the steady hand and the shaking one, and the folder with the photocopy in it at her elbow, and she did not have an answer to that at all.
 
 * * *
 
-On Thursday it snowed a little, for the first time that winter. The Thursday after Christmas had been the only one they had missed in eighteen weeks. The gravel road was white at the edges, and the field beyond the house was white, and the old blue pickup had a clean cap of snow on its roof.
+On Thursday there was a late snow, the last of the winter, probably. They had missed only two Thursdays in all that time, Thanksgiving and Christmas Eve. The gravel road was white at the edges, and the field beyond the house was white, and the old blue pickup had a clean cap of snow on its roof.
 
 He had the kettle on. He had a fire going. He looked, she thought, tired, more tired than she had seen him, and she wondered for the first time how old he really was in this life, and whether anyone looked after him when she was not there.
 
@@ -110,7 +110,7 @@ On the notepad, without looking down, his pencil had begun to move again. Going 
 
 "Yes, you'll tell him?"
 
-"Yes," he said. "I was there." He turned from the mantel and looked at her, and something had come back into his face, something sharp and awake that she had not seen in it since the dress circle at Ford's. "Next Thursday, Ms. Barnett. And bring a warmer coat."
+"Yes," he said. "I was there." He turned from the mantel and looked at her, and something had come back into his face, something sharp and awake that she had not seen in it since the day he told her about the dress circle at Ford's. "Next Thursday, Ms. Barnett. And bring a warmer coat."
 
 "Why?"
 

@@ -6,7 +6,7 @@ She had thought about it all week. On the eighth Thursday, before she had even t
 
 He was setting down the tray. He stopped with it halfway to the table.
 
-"The roads you drew for Booth," she said. "On the tobacco receipts. At Christmas, in your mother's house. You told me you drew him the way south: the tavern, the swamp, the farms where a man could hide, the landing places on the river. In your own hand." She sat down. "Booth kept everything. The police found Arnold's letter in his trunk. It was in the papers within a week. It's in every book." She looked at him. "So where were your drawings?"
+"The roads you drew for Booth," she said. "On the tobacco receipts. In December, in your mother's house. You told me you drew him the way south: the tavern, the swamp, the farms where a man could hide, the landing places on the river. In your own hand." She sat down. "Booth kept everything. The police found Arnold's letter in his trunk. It was in the papers within a week. It's in every book." She looked at him. "So where were your drawings?"
 
 He set the tray down very carefully. Then he smiled, the real one, the one that took ten years off his face.
 
@@ -48,37 +48,37 @@ I did not know yet what could go wrong. The plan was dead. But I have lived a lo
 
 * * *
 
-I went to the National that night.
+Later that morning the men from the Navy Yard came out of the gates with their band, hundreds of them, workmen in their aprons and shirtsleeves, and started up the Avenue toward the President's house, and half the Navy Yard neighborhood went with them. I went too. I did not decide to. The crowd simply took me, and by the time we reached the President's house there were thousands of us, packed across the lawn and into the street, calling for him.
 
-The whole city was out. There were bonfires in the streets and rockets going up over the river, and bands on every corner, and on the way I passed the crowd at the President's house, thousands of people packed across the lawn and into the street. I stopped, because everyone stopped. And a little after I got there, the window over the door opened and the tall man came out.
+A window over the door opened, and he appeared at it.
 
-It was the second time I had seen him. The first time, he had been standing on a wall with bullets going past him, and I had been lying in a field on the side that was shooting.
+It was the first time I had been near enough to see his face. At Fort Stevens he had been a tall hat on a wall, and at the inauguration a small dark figure on a platform across a sea of mud.
 
-He did not make a speech. He said he would make one tomorrow, if they came back, and that he did not want to spoil it by saying anything now. And then he asked the band to play "Dixie." The crowd didn't understand at first. You could feel them not understand. Then he told them, in a high, dry, country voice that carried to the back of that crowd without seeming to try, that he had always thought "Dixie" one of the best tunes he had ever heard, and that the other side had tried to take it for themselves, but that he had put the question to the Attorney General, and had been told it was now our lawful prize. That we had fairly captured it.
+He did not make a speech. He said he would make one later, if they came back, and that he did not want to spoil it by saying anything now. And then he asked the band to play "Dixie." The crowd didn't understand at first. You could feel them not understand. Then he told them, in a high, dry, country voice that carried to the back of that crowd without seeming to try, that he had always thought "Dixie" one of the best tunes he had ever heard, and that the other side had tried to take it for themselves, but that he had put the question to the Attorney General, and had been told it was now our lawful prize. That we had fairly captured it.
 
-And the crowd laughed. Thousands of them. And the band played "Dixie," to the President of the United States, on the night the war ended, and I stood in the middle of all those Union people and heard it and could not breathe for a moment.
+And the crowd laughed. Thousands of them. And the band played "Dixie," to the President of the United States, on the morning the war ended, and I stood in the middle of all those Union people and heard it and could not breathe for a moment.
 
 I thought: that is a man who has already forgiven us. And I had spent the winter planning to steal him.
 
-Then I went on to the National, because there was nothing else to do.
+I went to the National that night. The whole city was out. There were bonfires in the streets and rockets going up over the river, and bands on every corner, and I walked through all of it and hardly saw it.
 
 * * *
 
 Booth was in his room. He had been drinking all day. He was not loud, the way he usually was. That was the first thing that frightened me.
 
-He was sitting in the chair by the window with the curtain pulled back, watching the rockets go up over the city, and he did not turn around when I came in. On the table beside him there was a bottle of brandy, most of the way down, and a pistol. It was a small pistol, a pocket pistol, the kind a gentleman carries, and it was lying there on the table next to the brandy as if it had been set down in the middle of a thought.
+He was sitting in the chair by the window with the curtain pulled back, watching the rockets go up over the city, and he did not turn around when I came in. On the table beside him there was a bottle of brandy, most of the way down, and a pistol. It was a small pistol, a single-shot pocket pistol, the kind a gentleman carries, and it was lying there on the table next to the brandy as if it had been set down in the middle of a thought.
 
-He had never carried one before. Not that I had seen. I had sat across from him at a dozen dinners and walked with him on a dozen nights, and he had never once had anything heavier in his coat than a cigar case.
+I looked at it and understood what kind of pistol it was. The kidnapping had been armed; there were carbines hidden in a ceiling at Surrattsville for the road south. But you cannot hold a carriage with a pistol that fires once, or keep a prisoner quiet with it. It is good for one thing only, at arm's length.
 
 "Kit," he said, without turning. "Have you come to celebrate?"
 
 I told him I had come to see how he was.
 
-"I'm very well," he said. "I'm better than I have ever been." He laughed. It was a bad laugh. "You heard him? Tonight? Asking for 'Dixie'? Our song. He's taken our song, Kit, and he's giving it back to us like a present. Like a man gives a bone to a dog."
+"I'm very well," he said. "I'm better than I have ever been." He laughed. It was a bad laugh. "You heard him? This morning? Asking for 'Dixie'? Our song. He's taken our song, Kit, and he's giving it back to us like a present. Like a man gives a bone to a dog."
 
 "He was being kind," I said.
 
-Booth turned around in the chair then and looked at me. I have seen a great many men's faces in a great many lives, and I have learned to read most of them. His, that night, I could not read at all. That frightened me more than the pistol.
+Booth turned around in the chair then and looked at me. I have had a long time to learn men's faces, and I can read most of them. His, that night, I could not read at all. That frightened me more than the pistol.
 
 "Was he," Booth said.
 
@@ -112,4 +112,4 @@ He did not say anything. Neither did I. I went past him and down the stairs with
 
 "That was my reason," he agreed. "It was a good reason. I've never been sure it was the real one."
 
-She wrote it down. Then, because she was honest on paper, she wrote underneath it, smaller: *Pistol. April 10. Check.*
+She wrote it down. Then she wrote underneath it, smaller: *Pistol. April 10. Check.*

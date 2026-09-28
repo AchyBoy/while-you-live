@@ -44,7 +44,7 @@ He nodded, as if that settled something, and did not say what.
 
 The woman's name was Margaret Keene, and she was my mother.
 
-I knew she was my mother before I knew her name. She climbed down into the ditch where I lay, took my face in both her hands, and said, "Oh, Kit. Oh, my boy," and wept against my shoulder while I lay there not knowing her at all. Her name I learned a few hours later, when a Union picket stopped the wagon on the road below Washington and asked for it.
+I knew she was my mother before I knew her name. She climbed down behind the wall where I lay, took my face in both her hands, and said, "Oh, Kit. Oh, my boy," and wept against my shoulder while I lay there not knowing her at all. Her name I learned a few hours later, when a Union picket stopped the wagon on the road below Washington and asked for it.
 
 There is no rule for that. I have been somebody's son many times, and it has never become easier. She had loved this boy for nineteen years. She had come forty miles, two days on the road and the last of it in the dark, through an army's leavings, on nothing but a rumor that Kit's company was outside Washington, to find him. And the boy she found was not there anymore, and the one she held instead had to decide, in that first moment, whether to tell her.
 
@@ -52,17 +52,17 @@ I have never told them. Not once, in all the lives. I tell myself it would be cr
 
 So I said, "Mama," because that was the word the body wanted, and she held on tighter, and I let her.
 
-There was a man with her. He lifted me out of the ditch and laid me in the back of the wagon on a pile of feed sacks as carefully as if I were made of glass, and he never once looked at my face. He was tall, with gray at his temples, and a scar through one eyebrow. I heard her call him Damon. *Damon, the blanket. Damon, mind his leg.* He did everything she asked before she had quite finished asking it.
+There was a man with her. He lifted me from behind the wall and laid me in the back of the wagon on a pile of feed sacks as carefully as if I were made of glass, and he never once looked at my face. He was tall, not much past thirty, with a scar through one eyebrow and a face that gave away nothing at all. I heard her call him Damon. *Damon, the blanket. Damon, mind his leg.* He did everything she asked before she had quite finished asking it.
 
-Much later, on the road, my mother told me it was Damon who had found me. He had stopped the stragglers on the road north and asked every one of them for Kit's company, and where its wounded had been left, and then he had walked the stone walls in the dark with a shaded lantern until he came to mine. "I don't know how he knew where to look," she said. "He always does." I put that away with the other things.
+Much later, on the road, my mother told me it was Damon who had found me. He had stopped the stragglers on the road north and asked every one of them for Kit's company, and where its wounded had been left, and then he had walked the stone walls in the dark with a shaded lantern until he came to mine. "I don't know how he knew where to look," she said. "He always does." I put that away, the way I put away anything I cannot yet explain.
 
-Then he put sacks of new potatoes over me and around me until I was a lump among the potatoes, and I lay in the dark and the smell of earth and listened to the wheels.
+Before we set off, he put sacks of new potatoes over me and around me until I was a lump among the potatoes, and I lay in the dark and the smell of earth and listened to the wheels.
 
 * * *
 
-Maryland was a Union state. People forget that, too. It had stayed in the Union, mostly because the Union had made sure of it, with soldiers at the rail junctions and soldiers in Baltimore and soldiers at the bridges. But the southern counties, the tobacco counties, the counties that ran down the long peninsula between the Potomac and the Chesapeake Bay, belonged to the Confederacy in every way but the one on the map. Their sons had gone across the river to fight for Virginia. Their letters went back and forth by boat at night. Everyone knew someone who hid someone.
+Maryland was a Union state. That surprises people now. It had stayed in the Union, mostly because the Union had made sure of it, with soldiers at the rail junctions and soldiers in Baltimore and soldiers at the bridges. But the southern counties, the tobacco counties, the counties that ran down the long peninsula between the Potomac and the Chesapeake Bay, belonged to the Confederacy in every way but the one on the map. Their sons had gone across the river to fight for Virginia. Their letters went back and forth by boat at night. Everyone knew someone who hid someone.
 
-It took us two days to reach home. We went south out of the city on back roads, and every few miles there was a picket, bored and hot, and every time Margaret Keene said she had been to market in Washington and was going home, and every time she smiled at the soldiers like a woman with nothing under her potatoes. One of them took a handful of potatoes for his supper and let us go.
+It took us two days to reach home. We went south out of the city on back roads, and every few miles there was a picket, bored and hot, and every time Margaret Keene said she had brought potatoes up to sell in Washington, found the markets shut for the fighting, and was taking them home again, and every time she smiled at the soldiers like a woman with nothing under her potatoes. One of them took a handful of potatoes for his supper and let us go.
 
 We stopped once to water the horse, at a crossroads tavern at a place called Surrattsville. A widow kept it. She came out on the porch to talk with my mother in low voices, and when she went back in, there were two more blankets and a jar of broth in the wagon that had not been there before.
 
@@ -98,9 +98,9 @@ I thought about the tall man on the wall, looking out at us like a farmer lookin
 
 * * *
 
-My father was dead, two years ago, of a fever. My older cousin Ned, who had gone across the river with Kit in sixty-two, was alive. We knew that because a letter came from him in the second week of September, a single sheet folded small, written in pencil, and opened and read and stamped by a Union officer before it was allowed to reach us.
+My father had died of a fever two years before. My older cousin Ned, who had gone across the river with Kit in sixty-two, long before Kit was me, was alive. We knew that because a letter came from him in the second week of September, a single sheet folded small, written in pencil, and opened and read and stamped by a Union officer before it was allowed to reach us.
 
-He was a prisoner. He had been taken in the spring, in Virginia, along with two other boys from our company. They were being held at Point Lookout.
+He was a prisoner. He had been taken in the spring, in Virginia, along with several other boys from our company. They were being held at Point Lookout.
 
 I did not know the name. My mother did. When she read it, she sat down on the porch steps as though her legs had been taken from under her.
 
@@ -108,7 +108,7 @@ Point Lookout was at the very bottom of our own peninsula, where the Potomac mee
 
 *We are doing as well as can be expected,* Ned wrote, *though the rations are short and the water is bad, and Jem Carroll died of the flux on Tuesday. Tell Aunt Margaret not to worry. I think often of home. We hear the exchange will start again soon.*
 
-The exchange was not going to start again soon. Everyone in the county knew it. The two governments had stopped trading prisoners the year before, and neither one would give way. The men at Point Lookout were going to stay at Point Lookout until the war ended or they died, and the second was happening faster than the first.
+Nobody in the county believed the exchange would start again soon. The two governments had stopped trading prisoners the year before, and neither one would give way. Everyone in the county believed the men at Point Lookout would stay there until the war ended or they died, and the second was happening faster than the first.
 
 My mother read the letter aloud three times. Then she folded it up and put it in her apron pocket, and I watched her carry it there, touching it now and then, for the rest of the fall.
 
@@ -116,9 +116,9 @@ My mother read the letter aloud three times. Then she folded it up and put it in
 
 I noticed Damon in September.
 
-That is not quite true. I had noticed him from the first morning, the way you notice the man who lifts you out of a ditch. But I had not *seen* him. That was the point of him, I understood later. He had made himself into something nobody saw.
+That is not quite true. I had noticed him from the first morning, the way you notice the man who lifts you from behind a wall. But I had not *seen* him. That was the point of him, I understood later. He had made himself into something nobody saw.
 
-He was the one my mother relied on for anything that mattered: the horses, the accounts with the tobacco buyer, the mending of anything broken. He spoke only when spoken to and said as little as a man could say and still answer. He never looked at me directly. I thought at first that it was fear, or the habit of that place, where a Black man who looked a white man in the eye could be whipped for it.
+He was the one my mother relied on for anything that mattered: the horses, the dealings with the tobacco buyer, which were all done by handshake and memory, the mending of anything broken. He spoke only when spoken to and said as little as a man could say and still answer. He never looked at me directly. I thought at first that it was fear, or the habit of that place, where a Black man who looked a white man in the eye could be whipped for it.
 
 Then one afternoon I came into the kitchen yard on my crutch, more quietly than I meant to, and he was standing by the table where Lottie had left one of her newspapers. He was not touching it. He was only looking down at it. But his eyes were moving along the lines, left to right, and down, and left to right, the way eyes move when they are reading, and reading quickly.
 
@@ -136,7 +136,7 @@ In October, Maryland voted itself free.
 
 The new state constitution passed by a few hundred votes, and only because of the votes of Maryland's Union soldiers in the field. The men at home had voted against it. At the end of the month the governor declared it law. At midnight on the first of November, every enslaved person in Maryland would be free by law. Somewhere that night, people were celebrating. In our county, no one was.
 
-My mother did not come down to supper. Lottie cried, and could not say why.
+On the last night of October, my mother did not come down to supper. Lottie cried, and could not say why.
 
 In the morning, Damon was standing at the bottom of the porch steps in a clean shirt, with a bundle tied in a blanket over his shoulder. He had come to say that he was going. He said it to my mother, politely, the way he had said everything to her for twenty years, and she stood in the doorway with her arms folded and did not answer him.
 

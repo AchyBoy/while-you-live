@@ -22,9 +22,9 @@ The clerk's face did what everyone's face did at that name. "Mr. Booth? Yes, sir
 
 So it was true.
 
-I stood at that desk and felt it go through me. Damon had not lied. Booth had been here, asking for Johnson. *Are you at home.* Everything in the message had held.
+I stood at that desk and felt it go through me. Damon had not lied. Booth had been here, asking for Johnson. Everything in the message had held.
 
-I did not ask when. I should have asked when. I will tell you why I did not.
+I would have asked when in the next breath. I never got to the next breath.
 
 Through the open door of the bar, over the clerk's shoulder, I saw Atzerodt.
 
@@ -40,7 +40,7 @@ I did not need to know that, standing in the lobby. I only needed to look at him
 
 I have told you what I thought about Atzerodt the first time I met him: that he would say yes to anything, cheerfully, as long as it was far away, and that if it ever came close, he would find he had somewhere else to be. Looking at him through that door, I saw that I had been right, and also that I had not been right enough. He had not found somewhere else to be. He was sitting forty feet below the Vice President, with a room upstairs and a weapon in it, and he was drinking. A frightened man who drinks can go either way. He can drink himself out of it. Or he can drink until the fear goes quiet for ten minutes, and in those ten minutes he can climb a flight of stairs.
 
-And Booth was not in the bar. Booth was not in the lobby. If Booth had come to see to it himself, he had not got here yet.
+Booth was not in the bar or the lobby. He had asked whether Johnson was in and left a card, the way a man checks a door before he comes back to open it. So either he was coming back, or he was upstairs already. Either way, the man with the room and the knife was sitting in front of me.
 
 So I did the only thing that made sense. I went into the bar.
 
@@ -80,7 +80,7 @@ It was the only thing I did that night that worked.
 
 And standing there, with the noise of the bar going on around me, I thought: *where is Booth?*
 
-He had sent me here to help with Johnson. He had come here to see to it himself. He was not here. Atzerodt had not seen him, or he would have said. If Booth had meant to come, he would have been here before me; he had a fast horse, and I had a cane.
+He had sent me here to help with Johnson. The message said he had come to see to it himself. He was not in the bar, and Atzerodt had not seen him, or he would have said. He was not upstairs either. The house was quiet, and a clerk does not sit calmly at his desk under a floor where the Vice President is being killed. If Booth had meant to come, he would have been here before me. He had a fast horse, and I had a cane.
 
 I went back to the desk.
 

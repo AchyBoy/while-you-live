@@ -52,7 +52,7 @@ He smiled at me then, the way you smile at a pupil who has got there first.
 
 The plan was this.
 
-The President went about Washington with almost no guard. That was true, and everybody knew it. He rode out in the evenings. He went to the theater. He visited the soldiers in the hospitals outside the city. He did not like soldiers around him, and he said so, and he was a stubborn man.
+The President went about Washington with less guard than a general. He had a cavalry escort he disliked and a few policemen he put up with, and he slipped both whenever he could. He rode out in the evenings. He went to the theater. He visited the soldiers in the hospitals outside the city. He did not like soldiers around him, and he said so, and he was a stubborn man.
 
 Booth meant to take him. Not hurt him. Take him, at some quiet place on some quiet road, with a handful of good men and fast horses, and carry him out of the city before anyone knew he was gone. South, across the Navy Yard Bridge. Down through Prince George's County and Charles County, on roads that every man in that network knew in the dark, from one safe house to the next. Across the Potomac by night, in a boat that would be waiting. Into Virginia and on to Richmond.
 
@@ -90,9 +90,9 @@ I knew what that second letter meant, and I knew that a plan made in December wo
 
 I thought about the other side of it, too. I am not a fool, and I was not a fool then. There were Union men in Southern camps. Everybody knew about Andersonville, down in Georgia, where the Yankee prisoners were dying faster than at any camp in the North. If the arithmetic was cruel, it was cruel in both directions, and a trade would send those men home too. Booth said that himself, when I raised it. I think he believed it mattered. I think he believed it mattered a little less.
 
-And I thought about the tall man on the wall at Fort Stevens, looking out at us like a farmer looking at weather.
+And I thought about the tall man on the wall at Fort Stevens.
 
-I am not a prophet. I have told you that. I did not know how the war would end, or when, or how many more men would die before it did. I only knew what I could see. And what I could see, that December, was a plan in which no one was meant to die, which might bring fifty thousand men home, which might end a war by talking. Against it, one stubborn man would be taken from his home by force and frightened, badly, for some weeks.
+I am not a prophet. I have told you that. I did not know how the war would end, or when, or how many more men would die before it did. I only knew what I could see. And what I could see, that December, was a plan in which no one was meant to die, which might bring fifty thousand men home, which might end a war by talking. Against it, one stubborn man would be taken from his carriage by force and frightened, badly, for some weeks.
 
 I have made worse trades, in other lives. I have made better ones.
 
@@ -102,7 +102,7 @@ I have made worse trades, in other lives. I have made better ones.
 
 He did not need much, at first. That is how these things begin.
 
-He needed to know the roads. So in the evenings, while my mother thought we were talking about horses, I drew them for him on the backs of old tobacco receipts: the road south from the Navy Yard Bridge, the tavern at Surrattsville, the turn toward Bryantown, the long way around the swamp, the farms where a man could be hidden, and the landing places on the river where the boats went across at night. He needed to know whose houses were friendly and whose were not. He needed a place to rest a horse, if it came to that.
+He needed to know the roads. So in the evenings, while my mother thought we were talking about horses, I drew them for him on the backs of old tobacco receipts: the road south from the Navy Yard Bridge, the tavern at Surrattsville, the turn toward Bryantown, the long way around the swamp, the farms where a man could be hidden, and the landing places on the river where the boats went across at night. When he asked who took people across, I told him there was a fisherman down by Pope's Creek named Jones, whom everyone said had put half the Confederate mail across that river, and whom you would never in your life get to admit it. He needed to know whose houses were friendly and whose were not. He needed a place to rest a horse, if it came to that.
 
 He was going back to Washington before Christmas, he said. There was a young man there that Dr. Mudd had promised to introduce him to, a courier who carried letters back and forth to Richmond and knew every road between. He would write to me. I was to answer him at the National Hotel, where he kept a room.
 

@@ -4,7 +4,7 @@
 
 She brought the box with her on the tenth Thursday.
 
-It was an ordinary banker's box, the cardboard kind with handholds cut in the ends, and it had lived on the top shelf of her closet for six years under a bag of winter hats. *CARROW* was written on the lid in marker, in her own handwriting from a worse time. She had taken it down on Tuesday night, after the client's question about the waiter, for no better reason than that odd questions made her want to go back over old ones.
+It was an ordinary banker's box, the cardboard kind with handholds cut in the ends, and it had lived on the top shelf of her closet for six years under a bag of winter hats. *CARROW* was written on the lid in marker, in her own handwriting from a worse time. She had taken it down the week before, on the night the client's question about the waiter came, for no better reason than that odd questions made her want to go back over old ones.
 
 She had not meant to bring it. But it was on the passenger seat on Thursday morning, and she did not take it out again.
 
@@ -52,7 +52,7 @@ He had his mail sent there. All the actors in Washington did; Ford's was a kind 
 
 He was inside for no more than a few minutes. When he came out, he had a letter in his hand, and he was not reading it.
 
-I have told you that I could not read his face on the night of the tenth. I could read it now. He stopped on the steps of the theater, in the spring sun, with a letter in his hand that he had forgotten he was holding, and he looked up at the front of that building, at the upper windows, the way a man looks at a house he has just been told is his.
+I have told you that I could not read his face on the night of the tenth. I could read it now. He stopped on the steps of the theater with a letter in his hand that he had forgotten he was holding, and he looked up at the front of that building, at the upper windows, the way a man looks at a house he has just been told is his.
 
 Then he went down the steps, and walked away down Tenth Street toward the Avenue, fast, and did not see me.
 

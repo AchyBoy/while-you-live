@@ -12,7 +12,7 @@ She put the phone on the bench between them and turned it on, and did not bother
 
 *July 7, 1865*
 
-It was the hottest day of that summer. People said afterward it had been a hundred degrees in the sun, and I believe it. There was no wind at all off the river. The air in the Arsenal yard sat on you like a hand.
+It was a terrible day for heat. People said afterward it had been a hundred degrees in the sun, and I believe it. The air in the Arsenal yard sat on you like a hand.
 
 I had a pass. The man at the lumber yard whose brother was a clerk had got me one, and he had not asked me why I wanted it, and I did not tell him. There were a great many passes. The yard was full of people by noon: soldiers, mostly, lined up along the walls in the heat, and officers, and newspapermen, and a few others like me, standing in whatever shade there was. Some men had climbed onto the prison wall to see better. A photographer had set up his camera on a roof across the yard, with his black cloth over his head, waiting.
 
@@ -26,9 +26,9 @@ And my letter was somewhere on a pile.
 
 At a little after one o'clock, a door in the prison wall opened, and they brought them out.
 
-Mrs. Surratt came first. She could hardly walk. Two soldiers held her up, one on each side, and two priests walked with her, praying, and she was in black, with a veil. Someone was holding an umbrella over her head against the sun. It was the only kindness I saw that day, and it was a small one, and I have never forgotten who needed it least.
+Mrs. Surratt came first. She could hardly walk. Two soldiers held her up, one on each side, and two priests walked with her, praying, and she was in black, with a veil. Someone was holding an umbrella over her head against the sun. It was the only kindness I saw that day: shade, for a woman who had half an hour to live.
 
-Then Herold, looking about him the way he always had, like a boy at a fair, with his face gone white. Then Powell, tall and straight and perfectly calm, in a sailor's shirt, looking out over all of us as if he were looking at weather. Then Atzerodt, in a gray coat, shaking so that you could see it across the yard.
+Then Herold, looking about him the way he always had, like a boy at a fair, with his face gone white. Then Powell, tall and straight and perfectly calm, in a sailor's shirt, looking out over all of us as if we were not there. Then Atzerodt, in a gray coat, shaking so that you could see it across the yard.
 
 They went up the steps. They sat in four chairs at the edge of the platform, with the umbrellas held over them, while an officer read out the orders in the heat, at length, and the ministers prayed, at length. It took a long time. The soldiers along the walls shifted in the sun. Somewhere a man fainted and was carried away.
 
@@ -40,7 +40,7 @@ I will not tell you all of it. You can read it. It is all written down, and ther
 
 I will tell you two things.
 
-The first is that Atzerodt spoke at the end, standing on the trap with the rope around his neck, in his thick German voice, which shook. He said goodbye, and that he hoped we would all meet in another world. I thought of him at the bar in the Kirkwood House, looking at me in the mirror with that terrible hope in his face, and putting his money down, and going out without once looking at the stairs. He had never climbed them. He had never touched the Vice President. He had gone home, the way I told him to, and they had hanged him anyway, for the room upstairs and the knife in it and the questions he had asked the bartender. For what he had been ready to do, and had not done.
+The first is that Atzerodt spoke at the end, standing on the trap with the rope around his neck, in his thick German voice, which shook. He said goodbye, and that he hoped we would all meet in another world. I thought of him at the bar in the Kirkwood House, looking at me in the mirror with that terrible hope in his face, and putting his money down, and going out without once looking at the stairs. He had never gone up to the Vice President's door. He had never touched him. He had gone home, the way I told him to, and they had hanged him anyway, for the room upstairs and the knife in it and the questions he had asked the bartender. For what he had been ready to do, and had not done.
 
 I had given him leave to fail. It had not been enough.
 
@@ -52,7 +52,7 @@ Then it was very quiet in the yard, in the heat, for a long time.
 
 I went home to Charles County the next week.
 
-I told the lumber merchant I was going, and he shook my hand and said, *Good luck to you, Hurley,* and I said *good luck* back, and never saw him again. I burned the blue coat in the stove at the lumber yard, the way I had burned the receipts. I walked out over the Navy Yard Bridge in my own clothes, and the sentry did not look at me. The war was over. Nobody stopped the ones going home anymore.
+I told the lumber merchant I was going, and he shook my hand and said, *Good luck to you, Hurley,* and I said *good luck* back, and never saw him again. I burned the blue coat in the stove at the lumber yard, the way I had burned the receipts. I walked out over the Navy Yard Bridge in a farm coat I had bought for the purpose, and the sentry did not look at me. The war was over. Nobody stopped the ones going home anymore.
 
 My mother was on the porch when I came up the lane. Lottie was in the hayloft; I saw her face at the little window before she came running. The tobacco was in. It had been planted in May without me, by my mother and Lottie and old Hester and two men they had hired from Bryantown for wages, and it was coming on well.
 

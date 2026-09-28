@@ -4,13 +4,13 @@
 
 He came back after ten minutes with a glass of water he did not drink. He set it on the table by the notepad and sat down, and his hands had stopped shaking, and he put them flat on his knees anyway, as if to keep them there.
 
-"Four blocks," he said. "I had done them in six minutes on the way there. I did them in seven on the way back. I've gone over it more times than I can tell you. There was nothing in those seven minutes I could have done faster."
+"Four blocks," he said. "I had done them in six minutes on the way there. I did them in seven on the way back, running, because the leg had spent everything it had on the way there. I've gone over it more times than I can tell you. There was nothing in those seven minutes I could have done faster."
 
 * * *
 
 *April 14, 1865, a quarter past ten*
 
-Tenth Street was quiet when I turned into it. That is what I remember first. A quiet street at night, gaslit, with carriages waiting along the curb for the end of the play, and the drivers dozing on their boxes, and a boy selling something at the corner. The front of Ford's was lit and its doors were open to the warm night, and I could hear the play from the street, faintly, one man's voice.
+Tenth Street was quiet when I turned into it. That is what I remember first. A quiet street at night, gaslit, with carriages waiting along the curb for the end of the play, and the drivers dozing on their boxes, and a boy selling something at the corner. The front of Ford's was lit and its doors were open to the street, and I could hear the play from the street, faintly, one man's voice.
 
 I knew that play. Everyone did; it had been running in one theater or another for years. And I knew where in it we were. I had sat through the first two acts from my seat by the door, listening with half my mind. We were in the third act. One of the actors was alone on the stage, and I could hear his voice rising toward the line that always got the biggest laugh of the night.
 
@@ -50,13 +50,13 @@ I turned around in that lobby and fought my way back out through the doors again
 
 It was dark in the passage. I ran into the wall once and did not feel it. I came out at the far end into the alley behind the theater, and the back door of the stage was standing open, and there was light coming out of it and noise.
 
-And there was a boy on the ground, holding his head. And there was the sound of hooves on stone, going away fast, up the alley toward the street. I saw the horse's hindquarters, and a man low on her back, and then the turn of the alley took them, and the sound went on a little longer, and then it was gone too.
+And there was a boy on the ground, holding his head. And there were hoofbeats going away fast up the alley toward F Street, and then nothing.
 
 I stood in the alley with my cane.
 
 I had taught him that road. The Navy Yard Bridge, the sentry who stopped the ones coming in and let the ones going home go home. The ridge road. The long way round the swamp. The farms where a man could be hidden. I had drawn every inch of it on my mother's tobacco receipts, and I had burned the receipts, and it did not matter in the least, because he knew it all by heart.
 
-The boy on the ground was crying. I helped him up. He was the boy who held horses for the actors; I had seen him before, running errands around the theater. Booth had struck him with the handle of a knife to make him let go of the reins. He did not know why. He kept asking me why. I did not tell him.
+The boy on the ground was crying. I helped him up. He was the boy who held horses for the actors; I had seen him before, running errands around the theater. Booth had struck him with the handle of a knife, he said, to make him let go of the reins. He did not know why. He kept asking me why. I did not tell him.
 
 * * *
 

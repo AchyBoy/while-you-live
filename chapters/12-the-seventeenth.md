@@ -4,7 +4,7 @@
 
 It rained the whole way up. By the time she reached the gravel road it had settled into the steady kind of rain that meant it was not going to stop, and he met her on the porch with an umbrella big enough for three people and walked her in under it.
 
-She had her researcher card now. She had spent Monday morning in a basement room at the National Archives, watching a video about how to handle old paper, and had come out with a laminated card and a terrible photograph of herself. The Point Lookout microfilm had to be ordered ahead. It would be ready the next Tuesday.
+She had her researcher card now. She had spent Monday morning in a basement room at the National Archives, watching a video about how to handle old paper, and had come out with a laminated card and a terrible photograph of herself. The reel she needed was kept in the stacks and had to be pulled for her. It would be ready the next Tuesday.
 
 She did not tell him any of that. She set out the two recorders and said the date and the time, and then she said, "March the seventeenth."
 
@@ -48,19 +48,19 @@ The new sentry noticed me. The old one never had. This one was young, and his un
 
 I had perhaps thirty seconds while he came down the bank. I used them to look at him.
 
-New uniform, so new to the post. That meant he had been told the rules that morning, and would want to be seen keeping them. He came toward me instead of calling out, so he was not frightened, only curious and a little proud of himself. His boots were caked to the ankle in red clay, so he had walked out that morning from the camp on the Maryland side, where the roads were worse than ours. And he had a good farm boy's walk, flat-footed, and when he passed my horse he ran his hand down its neck without thinking about it. He was from the country. He had horses at home. He missed them.
+New uniform, so new to the army. A new man wants to be seen doing his job. He came toward me instead of calling out, so he was not frightened, only curious and a little proud of himself. His boots were caked to the ankle in red clay, so he had walked out that morning from the camp on the Maryland side, where the roads were worse than ours. And he had a good farm boy's walk, flat-footed, and when he passed my horse he ran his hand down its neck without thinking about it. He was from the country. He had horses at home. He missed them.
 
 "What's the other horse for?" he said.
 
 I did not tell him I was waiting for anyone. A man who says he is waiting for someone is asked who. I told him the horse was lame, and let him look.
 
-He crouched and picked up the off foreleg, the way I had known he would, because he had horses at home, and he found the stone I had wedged into the frog of the hoof an hour before, when I first saw the guard would change. He dug it out with his thumbnail and held it up and looked at me as if I were a fool.
+He crouched and picked up the off foreleg, the way I had known he would, because he had horses at home, and he found the stone I had wedged between the shoe and the frog an hour before, because I knew the guard changed at three, and a fresh man looks at everything. He dug it out with his thumbnail and held it up and looked at me as if I were a fool.
 
 "I didn't have a pick," I said. "I was letting her rest it. My brother'll kill me if she's lamed. It's his."
 
 He laughed, and put the stone in my hand, and told me to walk her slow for a mile and she'd be fine, and went back up the bank to his bridge feeling that he had done his job, and a kindness besides. He never looked at me again. Why would he? He had already found the thing that was wrong.
 
-Four o'clock. Five. The light began to go. The horse beside me cropped the wet grass and did not care about any of it.
+Four o'clock. Five. The light began to go. The horse beside me cropped the grass and did not care about any of it.
 
 It was nearly dark when a single rider came across the bridge at a hard trot, and my heart went up again, and then I saw that it was John Surratt, alone.
 
@@ -74,7 +74,7 @@ And he kicked his horse on, south down the dark road toward Surrattsville, and w
 
 I did not go home.
 
-I should have. Everything that was sensible in me said so. Instead I led that borrowed horse back across the bridge, and through the streets of the Navy Yard, and up through the city toward Pennsylvania Avenue, because I had to know. I always have to know. It was more than a mile, and my leg had stiffened from the cold and the waiting, and I did not care.
+I should have. Everything that was sensible in me said so. Instead I led that borrowed horse back across the bridge, and through the streets of the Navy Yard, and up through the city toward Pennsylvania Avenue, because I had to know. I always have to know. It was more than a mile, and my leg had stiffened from the waiting, and I did not care.
 
 It was full dark by the time I reached the National. The street in front of it was still busy: soldiers, a great many of them, in a cheerful mood, and people coming away from something in the way crowds do after it's over. I asked a newsboy what had happened.
 
@@ -84,7 +84,7 @@ At four o'clock, I had been sitting under the trees by the Navy Yard Bridge, ima
 
 I went around to the side of the hotel, where the kitchen was. I do not know why. I think I already knew who I would find there.
 
-There were four or five of the waiters outside the kitchen door, in their white jackets, taking the air in the cold the way kitchen men do on a break, talking in low voices. They were talking about the President. I could hear it in the way they were standing before I could hear a word. Something had happened to them that afternoon, all of them, and they were still standing in the middle of it.
+There were four or five of the waiters outside the kitchen door, in their white jackets, taking the air the way kitchen men do on a break, talking in low voices. They were talking about the President. I could hear it in the way they were standing before I could hear a word. Something had happened to them that afternoon, all of them, and they were still standing in the middle of it.
 
 Damon was among them. He was not talking. He was listening to the others, with his arms folded, and his face in the light from the kitchen door was a face I had never seen him wear. On the farm it had always been shut. Tonight it was open. It was the face of a man who had heard something he had waited his whole life to hear said out loud.
 
@@ -122,7 +122,7 @@ It fell apart after that, the way those things do, all at once and then slowly.
 
 Arnold and O'Laughlen went home to Baltimore within the week. Arnold wrote Booth a letter at the end of the month, telling him to wait, to go and see how Richmond felt about it first, to do nothing rash. I did not know about that letter then. Everyone in the country knew about it a month later. The police found it in Booth's trunk.
 
-John Surratt rode south to Richmond on some errand of his own and was gone for weeks. Atzerodt went back to drinking. Powell went back to wherever Powell went. Booth raged for a few days, and then went quiet, and then left the city for a while.
+John Surratt rode south to Richmond on some errand of his own and was gone for more than a week. Atzerodt went back to drinking. Powell went back to wherever Powell went. Booth raged for a few days, and then went quiet, and then left the city for a while.
 
 I went back to the lumber merchant's invoices, and told myself it was over.
 

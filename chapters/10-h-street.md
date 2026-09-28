@@ -56,11 +56,11 @@ Booth took me to H Street for the first time in the middle of February.
 
 It was a plain brick house with three stories and an attic, on a plain street a few blocks from the Patent Office, with steps up to the front door. He knocked, and the woman who opened it had a round, pleasant face, and dark hair parted in the middle, and a rosary in the pocket of her apron. She looked at Booth with a kind of fond exasperation, the way you look at a nephew who is charming and never on time.
 
-"Mrs. Surratt," Booth said, "this is Kit Keene. Margaret Keene's boy, from Bryantown."
+"Mrs. Surratt," Booth said on the step, before we had gone in, "this is Kit Keene. Margaret Keene's boy, from Bryantown."
 
 Her face changed.
 
-The name meant nothing to me. I have told you the rule: never say a name first, and never pretend to know more than you do. So I smiled, and waited, and let her tell me.
+Her name, Surratt, meant nothing to me. I have told you the rule: never say a name first, and never pretend to know more than you do. So I smiled, and waited, and let her tell me.
 
 "The boy in the potatoes," she said. "At the tavern, in the summer. I never saw your face, only the sacks, and your mother's. I gave her blankets for you." She took my hand in both of hers. "Well. Look at you. Walking."
 
@@ -100,7 +100,9 @@ He did not turn a page for the next half hour.
 
 I watched him not turn it. He was listening to every word. He was not one of us, and he was not against us. He was a young man who had put himself in a room where interesting things were said, and who was remembering all of them, and who had not yet decided what he would do with what he remembered. I thought, *if this goes wrong, that one will talk.* I did not think it as a prophecy. I thought it the way you notice that a bridge rail is loose.
 
-"Weichmann?" He laughed. "Weichmann is John's oldest friend. He's harmless."
+Walking back down H Street in the cold, I told Booth what I thought of Weichmann. He stopped under a streetlamp and laughed.
+
+"Weichmann?" he said. "Weichmann is John's oldest friend. He's harmless."
 
 "He's a clerk in the War Department," I said, "and he shares a room with a Confederate courier. Nobody is harmless who is in both of those places at once."
 
@@ -112,9 +114,7 @@ I wanted to. I lay there and wanted to more than I have wanted most things. But 
 
 I chose the plan over my cousin. I did not put it to myself that way at the time. I have put it to myself that way since, a great many times.
 
-But all of that was later. That first night, walking back down H Street in the cold, I only said to Booth what I thought of Weichmann.
-
-Booth stopped under a streetlamp and looked at me for a moment, and I thought he was going to argue. Then he laughed again, and put his arm through mine, and said I was a gloomy devil and he was glad to have me, and talked about something else.
+But all of that was later. That night Booth only put his arm through mine, and said I was a gloomy devil and he was glad to have me, and talked about something else.
 
 * * *
 
@@ -192,7 +192,7 @@ He stopped there. The light outside had gone gray.
 
 "Yes."
 
-"You won't find me. Nobody mentions me." He turned the pencil over. "Now you know why."
+"You won't find me. Nobody mentions me." He turned the pencil over. "I kept my name out of Weichmann's hearing, from that first night on. I came to H Street as little as I could, and when I saw Booth, I saw him at the National, where nobody from that house was listening. And the ones who did know me had every reason to leave me out. Naming a man the government didn't know about only made the plot bigger, and them guiltier." He set the pencil down. "Now you know part of why."
 
 * * *
 
@@ -202,7 +202,7 @@ It was not 541 anymore. The city had renumbered the streets long ago, and it was
 
 Then she did what she had come home meaning to do, and looked for Edward Hurley.
 
-It was harder than she expected. Some of the Point Lookout records were online and some were not, and the ones that were had been typed up from handwritten lists by volunteers, and the index stopped and started. She found Hurleys. She found a Hurly and a Hurlee and an E. Hurley with no county beside it, which could have been anyone at all. The rest of the records, the site said, were on microfilm at the National Archives, on Pennsylvania Avenue. She looked at the map. It was twenty minutes from her front door.
+It was harder than she expected. Some of the Point Lookout records were online and some were not, and the ones that were had been typed up from handwritten lists by volunteers, and the index stopped and started. She found Hurleys. She found a Hurly and a Hurlee and an E. Hurley with no county beside it, which could have been anyone at all. The register for that winter, the site said, was one of the reels nobody had scanned yet. It was on microfilm at the National Archives, on Pennsylvania Avenue. She looked at the map. It was twenty minutes from her front door.
 
 She wrote it on the calendar, in the next free morning: *Archives. Hurley.*
 
@@ -216,7 +216,7 @@ She wrote it on the calendar, in the next free morning: *Archives. Hurley.*
 
 Freda looked up then, and gave her a small, approving nod, like a teacher, and went back to her homework.
 
-The phone lay face down beside the chemistry book. It buzzed once, a little after nine. Freda turned it over, and read whatever it was, and Iola watched her face close like a door. Then Freda turned it face down again and picked up her pencil and wrote something very carefully in the margin of her worksheet, and did not look at her mother, and Iola did not look at her.
+The phone lay face down beside the chemistry book. It buzzed once, a little after nine. Freda turned it over, and read whatever it was, and Iola watched her face go still and shut. Then Freda turned it face down again and picked up her pencil and wrote something very carefully in the margin of her worksheet, and did not look at her mother, and Iola did not look at her.
 
 *Somebody is saying things to your daughter.*
 

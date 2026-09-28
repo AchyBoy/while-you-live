@@ -34,11 +34,11 @@ I kept my head down, and I looked.
 
 We were in a line of men strung out along the fence and behind the trees and in the ditches of a road, all of us in the same dirt-colored cloth, all of us lying as flat as the ground would let us. Ahead, across a stretch of open fields and the stumps of trees that had been cut down on purpose, rose a long, low wall of earth with the dark mouths of cannon in it. Above it, limp in the windless air, a flag. Stars and stripes.
 
-A fort. And we were the ones outside it.
+It was a fort. And we were the ones outside it.
 
 The men around me were talking in the low, tired way of soldiers who have marched too far in too little time. I listened, and I learned. They said *Old Jube* and *the Valley* and *the Monocacy*, and they spoke about a fight two days back where they had driven off some Yankees at a river and lost good men doing it. They said *Washington*, again and again, the way you say the name of something you can almost touch. One man said the city was right there, past that fort, and that if they could just get over that one wall they could walk down the avenue and take their dinner in the President's house.
 
-Another man said that if they could just get over that one wall, they would all be dead, and that he had seen the Yankee boats coming up the river that morning full of men in blue.
+Another man said that if they could just get over that one wall, they would all be dead, and that he had watched men in blue filing into that fort since noon, and they didn't march like clerks.
 
 "That's just militia," the first man said. "Clerks and old men."
 
@@ -98,7 +98,7 @@ I thought about the tall man on the wall. I did not know yet who he was. I thoug
 
 It was a strange thought. It did not seem to mean anything yet.
 
-Near morning, I heard a wagon on the road, moving slowly, without lights. It stopped. A woman's voice said, very low, "Here. There's one here. He's alive."
+Near morning, a shaded lantern came along the wall and stopped over me. A woman's voice behind it said, very low, "It's him. He's alive."
 
 * * *
 

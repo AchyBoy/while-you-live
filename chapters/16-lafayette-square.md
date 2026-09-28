@@ -8,7 +8,7 @@ The client's question came on Tuesday.
 
 Iola read it standing at the kitchen counter, and then she read it again, and then she went and got the transcripts.
 
-It was a strange question. Everything the client had asked so far had made a kind of sense. The color of a thread, which nobody could check. The National Hotel, where Booth lived. Those were a skeptic's questions, the questions she would have asked herself, trying to catch a man in a lie. But the waiter was nobody. The waiter had said perhaps twenty words in the whole story. Out of everything in eight sessions, the President and Booth and the plot and the guns, the client wanted to know about the waiter.
+It was a strange question. Everything the client had asked so far had made a kind of sense. The color of a thread, which nobody could check. The National Hotel, where Booth lived. Those were a skeptic's questions, the questions she would have asked herself, trying to catch a man in a lie. But the waiter was nobody. The waiter had said perhaps twenty words of his own in the whole story. Out of everything in eight sessions, the President and Booth and the plot and the guns, the client wanted to know about the waiter.
 
 She wrote it on a sticky note and put it on the front of her notebook, and under it, in small letters, *why?*
 
@@ -20,15 +20,15 @@ On Thursday he read the sticky note before she had even read him the question. H
 
 "You tell me."
 
-"I don't know," he said. And for the first time since she had known him, she believed he did not. He sat back and looked at the empty frame on the mantel for a long moment. "Your client likes Damon," he said at last, slowly. "Or he wants to know whether I did." Then he shook his head, as if putting it away for later. "Tell him yes. Once more. Tell him I'll get there."
+"I don't know," he said. And for the first time since she had known him, she believed he did not. He sat back and looked at the empty frame on the mantel for a long moment. "Your client likes Damon," he said at last, slowly. "Or he wants to know whether I did." Then he shook his head, as if setting it aside for later. "Tell him yes. More than once. Tell him I'll get there."
 
 * * *
 
 At lunch she told him about the school.
 
-She had not meant to. It came out sideways, the way things do, because the soup was good and because it had been a bad week. She told him that the car had made a noise on Monday that cost four hundred dollars to find out was nothing. That the gutter people wanted twelve more articles about gutter guards, which she was going to write, because it was money. That Freda's school had called on Wednesday, the chemistry teacher, Mr. Ostrowski, the one with the bow ties, to say that two lab write-ups had come in nearly the same, word for word, and he had to treat them both as copied until he knew otherwise, and one of them was Freda's.
+She had not meant to. It came out sideways, the way things do, because the soup was good and because it had been a bad week. She told him that the car had made a noise on Monday that cost four hundred dollars to find out was nothing. That the gutter people wanted twelve more articles about gutter guards, which she was going to write, because it was money. That Freda's school had called on Wednesday, the chemistry teacher, Mr. Ostrowski, the one with the bow ties, to say that two lab write-ups had come in almost word for word the same, and he had to treat them both as copied until he knew otherwise, and one of them was Freda's. He had told both girls weeks ago, it turned out, the day the write-ups came in, and word had gone round the class. The school had only called now because neither girl would say anything.
 
-"And Freda says she didn't," Iola said. "And she won't say anything else. Not who, not how. She just goes up to her room." She stirred her soup. "She's not a cheater. She's the most annoyingly honest person I know. She told her dentist she doesn't floss."
+"And Freda says she didn't," Iola said. "And she won't say anything else. Not who, not how. She just goes quiet." She stirred her soup. "She's not a cheater. She's the most annoyingly honest person I know. She told her dentist she doesn't floss."
 
 He did not say anything. He listened, the way he always did, and when she had finished he asked how the car was now, and whether the gutter people paid on time, and he did not say one word about Freda or the school or the lab. She was almost disappointed. Then she was annoyed with herself for being disappointed, and then the soup was gone, and they went back into the living room.
 
@@ -58,7 +58,9 @@ It was, I have to tell you, a clever plan. It was the first truly clever plan I 
 
 And it meant he would need three men, in three places, at the same moment. Himself, for the President. Powell, for Seward, because Powell would do anything and Seward's house would need a man who would. And for Johnson, one of the others. Atzerodt, most likely, who knew nothing about the city and would go where he was told.
 
-I knew who, now. I knew where. I did not know when.
+I knew who. For two of them, I knew where. I did not know where the President would be, or when.
+
+I thought of writing it down and leaving it, unsigned, at the door of the President's house. Everyone in Washington knew he got threats by the sackful and laughed at them. A letter would go on a pile.
 
 * * *
 
@@ -78,13 +80,17 @@ The third time he did not crumple it. He read it through twice, and blotted it, 
 
 I stepped back into the lobby, behind a pillar, and let him pass.
 
-He went out the front of the hotel into the bright street, and turned west, up the Avenue, toward the President's house, walking fast with the envelope held inside his coat. I watched him go until he was lost in the crowds and the light.
+He went out the front of the hotel into the bright street, and turned west, up the Avenue, toward the President's house, walking fast with the envelope held inside his coat.
 
-I thought about that for a minute, standing behind the pillar. A man writing at midnight, in the best hand in Washington, three times over until every word was right. Sealing it. Resting his hand on it. Walking it out himself into the night, instead of trusting it to the post, holding it against his chest.
+I started after him. I had gone perhaps three steps across the lobby when the street door opened again and Booth came in out of the light, flushed and bright-eyed from the illuminations. He saw me at once, and came straight over, and took my arm.
 
-I thought: he's in love with someone. Someone up that way, on the west side of the city, who works in one of the big houses there. It was the likely answer. A man only writes a letter three times for one reason, in my experience, and I had a great deal of experience.
+"Kit," he said. "Come up."
 
-I was pleased with myself for it, I remember. And I went up to wait for Booth, and forgot about it.
+There was no way to pull free of him without telling him why. So I went up the stairs with Booth's arm through mine, and by the time I could have looked, Damon was long gone into the crowds and the light. I never saw where he turned.
+
+I thought about it afterward, lying awake. A man writing at midnight, in the best hand in Washington, three times over until every word was right. Sealing it. Resting his hand on it. Walking it out himself into the night, instead of trusting it to the post, holding it against his chest.
+
+In the end I settled on the likely answer, which was that he was in love with someone. Someone up that way, on the west side of the city, who worked in one of the big houses there. A man only writes a letter three times for one reason, in my experience, and I had a great deal of experience. It was an answer I could sleep on, and so I took it.
 
 * * *
 

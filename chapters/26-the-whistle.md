@@ -2,7 +2,9 @@
 
 ## Chapter 26: The Whistle
 
-"I found him in two days," he said. "It wasn't clever. I just knew the country, and I knew who to watch."
+On the fourteenth Thursday the field was frozen hard, and he was already in his chair with the notepad on his knee when she came in.
+
+"I found him in two days," he said, before she had the recorders on. "It wasn't clever. I just knew the country, and I knew who to watch."
 
 * * *
 
@@ -38,7 +40,7 @@ And I could have walked out. That was the other thing. I could have walked back 
 
 I want you to understand what that would have meant, because I understood it, standing there, all at once.
 
-It would have meant Jones. Jones would have been taken, and Samuel Cox, whose land that was, and whose people had led him there, and every man and woman in that part of the county who had carried a letter or a meal or a message that week. And the soldiers would not have stopped there, because they would not have needed to. They would have gone back up the road Booth came down, house by house. The doctor. The tavern. The farm by the swamp where two riders had stopped at the gate at dusk, and where a girl in the hayloft had seen them, and told no one, and a mother had had a lamp lit in the kitchen.
+It would have meant Jones. Jones would have been taken, and Samuel Cox, the planter at Rich Hill, whose land that was and whose people had hidden them in those pines, and every man and woman in that part of the county who had carried a letter or a meal or a message that week. And the soldiers would not have stopped there, because they would not have needed to. They would have gone back up the road Booth came down, house by house. The doctor. The tavern. The farm by the swamp where two riders had stopped at the gate at dusk, and where a girl in the hayloft had seen them, and told no one, and a mother had had a lamp lit in the kitchen.
 
 They hanged people, that summer, for a great deal less.
 
@@ -68,6 +70,8 @@ On Saturday and Sunday I watched the army search Maryland.
 
 They were everywhere, and they were nowhere. They were searching the Zekiah Swamp, which Booth had left a week before. They were searching barns in Bryantown. They had questioned Dr. Mudd twice, and were arresting other men all over the county and taking them to Washington. And every hour they searched Maryland was an hour he had in Virginia.
 
+I waited until I was sure he was across. I did not want them on Jones's shore.
+
 On Sunday afternoon I rode into Port Tobacco, in my blue coat.
 
 There was an officer there from Washington with a party of detectives, running the search in that part of the county from the hotel. A major, a provost marshal named O'Beirne. I had heard his name on the roads all week. I went and stood in the hotel yard among the soldiers and the horses, a lame Union private on leave, and waited until one of his detectives came out, and I told him.
@@ -78,7 +82,7 @@ I did not say whose shore. I did not say whose boat, or whose pines, or whose la
 
 The detective looked at me a long time. He wrote it down. He asked me my regiment, and I gave him one, a Pennsylvania regiment I knew had been in the fighting around Petersburg, and he wrote that down too. He went inside.
 
-I learned afterward, as everyone did, that on Monday morning Major O'Beirne telegraphed the War Department that he believed the men they were looking for had already crossed into Virginia. And that the War Department believed him, and that afternoon put a troop of cavalry on a steamer and sent it down the river.
+I learned afterward, as everyone did, that on Monday morning Major O'Beirne telegraphed the War Department that he believed the men they were looking for had already crossed into Virginia. And that the War Department believed him, and that afternoon put a troop of cavalry on a steamer and sent it down the river. My report had been wrong in the one detail, and right in the one that mattered.
 
 I did not learn that on Sunday. On Sunday, the detective came back out into the hotel yard with another man, and the other man looked at my face, and at my cane, and at my leg, and then at my face again, and said, "What's your name, soldier?"
 

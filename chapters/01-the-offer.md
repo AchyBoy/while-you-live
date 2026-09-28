@@ -4,7 +4,7 @@
 
 The electric bill was on top because it was the only one printed in red.
 
-Iola Barnett moved it to the bottom of the pile, which changed nothing, and then moved it back, which changed less. Through the wall she could hear Freda on the phone, laughing the low, careful laugh she saved for friends. Sixteen. A good kid, everyone said so, and Iola believed it. But lately there was a door in her daughter that stayed shut, and Iola had not yet found out what was behind it.
+Iola Barnett moved it to the bottom of the pile, which changed nothing, and then moved it back, which changed less. Through the wall she could hear Freda on the phone, laughing the low, careful laugh she saved for friends. She was sixteen. A good kid, everyone said so, and Iola believed it. But lately there was a door in her daughter that stayed shut, and Iola had not yet found out what was behind it.
 
 Dinner was done and the dishes put away. Tomorrow's lunches were already in the fridge, and the permission slip for Friday was signed and clipped to Freda's bag. On the laptop, tonight's job sat open: four hundred words on why a family should choose one brand of gutter guard over another.
 
@@ -135,7 +135,7 @@ A pause, and the soft click of a keyboard.
 
 "I don't think anyone does, Ms. Barnett," the woman said. "That's rather the point of hiring you."
 
-On Wednesday night she told Freda over dinner. Freda said, "I told you," and then, after a moment, "Is it safe?" which was not a question Iola had expected, and which she answered with more confidence than she had.
+On Wednesday night, over dinner, she told Freda she was going. Freda said, "I told you," and then, after a moment, "Is it safe?" which was not a question Iola had expected, and which she answered with more confidence than she had.
 
 "He's an old man who wants to tell somebody about his life," she said. "I've interviewed a hundred of them."
 
@@ -151,7 +151,7 @@ On Wednesday night she told Freda over dinner. Freda said, "I told you," and the
 
 "Who's the mother here?"
 
-Freda almost smiled. Her phone buzzed on the table beside her plate, and she turned it face down without looking at it, and asked for the salt.
+Freda almost smiled. Her phone buzzed on the table beside her plate. She glanced at it, typed a quick reply with one thumb, and asked for the salt.
 
 On Thursday Iola dropped Freda at school, stopped for gas, and drove north with the letter on the passenger seat, face down. The city thinned into highway and the highway into two-lane road, past farm stands closed for the season and a church with a sign that said *God answers knee mail.* She had printed the directions, because she did not trust her phone out here, and because she was the kind of person who printed directions.
 

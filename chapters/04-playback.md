@@ -74,7 +74,7 @@ It had not opened in a while.
 
 * * *
 
-At ten o'clock her phone buzzed with a notification from her bank.
+At ten o'clock, clearing the table, she saw the notification from her bank. It had come in at four.
 
 She looked at it twice. Then she opened the app and looked at it a third time, because she had been checking that balance every morning for six years, and she knew to the dollar what it had said that morning.
 
@@ -112,7 +112,7 @@ Lincoln at Fort Stevens was easy. There were books about it, and articles, and w
 
 That was the problem. Everything he had said about it was in the record. Anyone could have read it.
 
-She found the surgeon's name in an old account: Cornelius Crawford, assistant surgeon, 102nd Pennsylvania. He had been shot in the leg. He had lived, and years later he had given his own account of that afternoon, and drawn a diagram of where everyone had stood on the wall.
+She found the surgeon's name in an old account: Cornelius Crawford, assistant surgeon, 102nd Pennsylvania. He had been shot in the leg. He had lived, and years later he had given his own account of that afternoon.
 
 *He lived, I think. I was always glad of that.*
 
@@ -122,16 +122,18 @@ It was a small thing. It was a strange thing to say, that was all. If you had re
 
 You would only say *I think* if you had never looked it up at all. If the last thing you knew about that man was seeing him fall.
 
+Except that he had known the man was a surgeon, and from Pennsylvania. So he had heard something, somewhere, a soldier's rumor or a line in a paper. He had heard who the man was, and never heard how it ended.
+
 She wrote that down in her notebook, and then she drew a line through it, because it was the kind of thought that had gotten her into trouble before.
 
 Then, after a moment, she wrote it down again underneath.
 
 The inauguration was harder, but not much. It had rained on the morning of March 4, 1865, and the streets had been deep in mud. And a newspaper correspondent standing near the platform had written that as Lincoln rose to speak, the sun broke through the clouds, and that Lincoln himself had noticed it, and told a friend afterward that he was just superstitious enough to take it as a good omen.
 
-Also in the record. Also proof of nothing.
+Also in the record.
 
 She closed the laptop at one in the morning and sat for a while in the dark kitchen.
 
 On the refrigerator, under a magnet shaped like a strawberry, was the calendar where she kept the whole family's life in pencil: Freda's dentist, the gutter deadline, the car insurance. She took the pencil from the string and wrote in next Thursday's square, in small neat letters, *Hale, 10:00.*
 
-Then, because she was honest with herself on paper, she wrote beside it a small question mark, and looked at it, and left it there.
+Then, because on paper she never lied to herself, she wrote beside it a small question mark, and looked at it, and left it there.

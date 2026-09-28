@@ -2,7 +2,7 @@
 
 ## Chapter 25: The Gate
 
-On the thirteenth Thursday there was frost on the field for the first time, and the woodstove was already going hard when she came in. He had put a second blanket over the back of her chair. He did not mention it, and neither did she.
+On the thirteenth Thursday there was the hardest frost yet, white to the fence line, and the woodstove was already going hard when she came in. He had put a second blanket over the back of her chair. He did not mention it, and neither did she.
 
 "Getting out of Washington," she said, when the recorders were on. "You said it was a story by itself."
 
@@ -76,9 +76,9 @@ He had come to our gate. He knew the lane. I had drawn it for him.
 
 And then he had stood at the gate holding onto it, and looked at my mother's lamp in the kitchen window, and not come in.
 
-I have wondered about that for a hundred and sixty years. I would like to believe it was the one decent thing he did that week: that he stood at the gate of a family that had been kind to him and understood what it would cost them to take him in, with the army an hour behind, and turned away to spare them. I would like to believe it. I have known men do that. It is possible.
+I have wondered about that ever since. I would like to believe it was the one decent thing he did that week: that he stood at the gate of a family that had been kind to him and understood what it would cost them to take him in, with the army an hour behind, and turned away to spare them. I would like to believe it. I have known men do that. It is possible.
 
-It is more likely that he stood at the gate and saw, from there, what I had seen from the ridge that afternoon: the fires of a cavalry regiment in the fields around Bryantown, a mile away, and understood that the lane he had studied at Christmas now led straight into the arms of the Union army. And turned his horse toward the swamp, because the swamp was the one place in Charles County the cavalry could not ride.
+It is more likely that he stood at the gate and saw, from there, what I had seen from the ridge that afternoon: the fires of the cavalry in the fields around Bryantown, a mile away, and understood that the lane he had studied in December now led straight into the arms of the Union army. And turned his horse toward the swamp, because the swamp was the one place in Charles County the cavalry could not ride.
 
 I don't know which. I never will. Most of what I know about John Wilkes Booth is like that.
 

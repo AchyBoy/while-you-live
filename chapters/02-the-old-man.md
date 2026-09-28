@@ -2,13 +2,13 @@
 
 ## Chapter 2: The Old Man
 
-The house was at the end of a gravel road, past a mailbox with no name on it, and it was smaller than she had expected. White clapboard, a porch with two chairs, a vegetable garden gone to seed for the winter. Somebody had raked the leaves into a neat pile by the fence and then, apparently, lost interest in doing anything else with them.
+The house was at the end of a gravel road, past a mailbox with no name on it, and it was smaller than she had expected. White clapboard, a porch with a bench and two chairs, a vegetable garden gone to seed for the winter. Somebody had raked the leaves into a neat pile by the fence and then, apparently, lost interest in doing anything else with them.
 
 Iola parked behind an old blue pickup truck and sat for a minute with the engine off.
 
 She texted Freda, *Here. Nice old house. Normal.* She waited until the reply came, *ok,* followed a moment later by *text when u leave,* and then she put the phone in her bag, picked up the folder with her printed directions and the letter in it, and got out.
 
-The front door opened before she reached the porch.
+He was down the porch steps before she had the car door shut, and he stood by the open door a moment while she gathered her things.
 
 He was taller than she had pictured, and straighter. Somewhere in his seventies, with white hair cut short and a gray cardigan buttoned wrong by one button, so that one side hung lower than the other. His face was lined in the way of people who had spent a lot of time outdoors and not worried about it. His eyes were a pale, washed blue, and they went over her once, not rudely, the way a mechanic listens to an engine.
 
@@ -16,7 +16,7 @@ He was taller than she had pictured, and straighter. Somewhere in his seventies,
 
 "I nearly did."
 
-"Everyone does. I keep meaning to paint my name on it, and then I don't." He stepped back to let her in. "Tom Hale. The kettle's on, as promised. I hope you drink tea, because I'm afraid the coffee here is a crime."
+"Everyone does. I keep meaning to paint my name on it, and then I don't." He led her up the steps and held the door for her. "Tom Hale. The kettle's on, as promised. I hope you drink tea, because I'm afraid the coffee here is a crime."
 
 Inside, the house was mostly books.
 
@@ -40,7 +40,7 @@ Iola looked at him. She had not said one word about Freda. She was sure of it. S
 
 "You were watching from the window."
 
-"I was. I'm old. It's what we do." He smiled, and it changed his face completely, took ten years off it. "Also, you have printed directions in that folder. Most people trust their phones. People who print directions have usually been let down before, and don't intend to be let down again."
+"I watched you from the window, and then I came out to meet you. I'm old. It's what we do." He smiled, and it changed his face completely, took ten years off it. "Also, you have printed directions in that folder. Most people trust their phones. People who print directions have usually been let down before, and don't intend to be let down again."
 
 "That's a lot to get from a text and a hair tie."
 
@@ -94,11 +94,11 @@ He didn't answer at once. He looked at the window, where there was nothing to se
 
 "That's what it says."
 
-"It's a strange way to put it." He was quiet a moment longer. "I think it rained for most of that spring. People forget that. They picture it all in sunshine because the war was ending, and the pictures in the books are all taken on bright days, because you needed a bright day to take a picture then. But I remember mud. The inauguration in March, the streets were a river of mud, you couldn't cross Pennsylvania Avenue without losing a shoe. And it rained all morning, and then when he stood up to speak, the sun came out. Right then. Everyone saw it. People said it was a sign."
+"It's a strange way to put it." He was quiet a moment longer. "I remember that spring as mud. People forget that. They picture it all in sunshine because the war was ending, and the pictures in the books are all taken on bright days, because you needed a bright day to take a picture then. But I remember mud. The inauguration in March, the streets were a river of mud, you couldn't cross Pennsylvania Avenue without losing a shoe. And it rained all morning, and then when he stood up to speak, the sun came out. Right then. Everyone saw it. People said it was a sign."
 
 "Lincoln," she said.
 
-"Lincoln." He said the name carefully, as if it were something that might break. "I didn't think it was a sign. I remember thinking that it was only weather. I was wrong about a great many things that spring. That was one of the smaller ones."
+"Lincoln." He said the name carefully, as if it were something that might break. "I didn't think it was a sign. I remember thinking that it was only weather. I was wrong about many things that spring. That was one of the smaller ones."
 
 Iola wrote *sun, inauguration, March 1865, check* in her notebook. It was the kind of detail anyone could find in a library. It proved nothing. She noted, too, that he had said it the way you describe something you saw from where you stood, and not the way you describe something you read. That also proved nothing. People who told stories well could do that. It was her job not to be impressed.
 

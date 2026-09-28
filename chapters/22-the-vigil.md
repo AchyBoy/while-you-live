@@ -10,9 +10,9 @@ The soldiers came, a whole company of them at the double, and pushed the crowd b
 
 The crowd never went home. It grew. It stood in the street all night and hardly made a sound. Every so often a carriage came, and a man got down and was let through the line and went up the steps and in: a general, a senator, a member of the Cabinet, one of the President's secretaries. And every time the door opened, the whole street leaned toward it, and the door closed again, and the street settled back.
 
-The upstairs windows were lit. Somebody said he was in a room at the back, on the ground floor, in a bed too short for him, so that they had to lay him across it slantwise. Somebody said the surgeon general was there. Somebody said there was no hope. Somebody said there was.
+The upstairs windows were lit. Somebody said he was in a room at the back, on the ground floor, in a bed too short for him, so that they had to lay him across it slantwise. Somebody said the surgeon general was there. Somebody said there was no hope. Somebody said there was. Once or twice a doctor came out onto the steps for air, with his sleeves pushed up to the elbow, and went back in.
 
-Damon stood beside me in his white jacket, which was too thin for the night. He did not move. He watched the door.
+Damon stood beside me in his white jacket, which was too thin for the night. The fog was coming up off the river. He did not move. He watched the door.
 
 * * *
 
@@ -32,7 +32,7 @@ He turned then, and looked at me, and I watched him read my face in the light fr
 
 He did not find one. I saw the moment he did not find one. Something in his face went, very quietly, the way a wall goes when the mortar has been washed out of it for years and it is only now, all at once, that anyone sees.
 
-"How?" he said.
+"H-how?" he said.
 
 So I told him. Not all of it. The seat by the door. The plan to stand up and shout Booth's name, so that the whole dress circle would turn and look and he could not go through. He listened without moving.
 
@@ -78,7 +78,7 @@ Neither of us said anything else for a long time.
 
 Toward morning the sky went gray. It was a dark and gloomy morning, and rain set in, a thin, cold, steady rain that came down on all of us, and nobody left. The crowd had changed in the night. There were a great many Black men and women in it by morning, more than there had been at midnight, standing together in the rain, very quiet, and many of them weeping. I have never forgotten that. They had come from every part of the city, in the dark, and they stood there without umbrellas, and they did not make a sound.
 
-A little after seven, the door at the top of the steps opened, and a man came out. Not one of the great men. A doctor, one of the younger ones, in his shirt, with his coat over his arm. He stood at the top of the steps for a moment in the rain, looking at nothing.
+Then the door at the top of the steps opened, and a man came out. Not one of the great men. A doctor, one of the younger ones, in his shirt, with his coat over his arm. He stood at the top of the steps for a moment in the rain, looking at nothing.
 
 I saw it, and Damon saw it, at the same moment. I know that, because we said it at the same moment, very low, both of us:
 
@@ -90,9 +90,9 @@ Damon turned his head and looked at me. And I looked at him. For a moment, one l
 
 I did not know what to make of it. I have wondered about it since, often. I think he did too.
 
-Then the word came down the steps, and ran out into the crowd, and went up Tenth Street and down it, the way the news had gone out from the steps of Ford's the morning before, the way a stone goes into a pond. And the bells began. First one church, somewhere up toward the Avenue, and then another, and then all of them, all over the city, in the rain.
+Then the word came down the steps, and ran out into the crowd, and went up Tenth Street and down it, the way the news had gone out from the steps of Ford's the morning before. And the bells began. First one church, somewhere up toward the Avenue, and then another, and then all of them, all over the city, in the rain.
 
-It was twenty-two minutes past seven.
+He had died at twenty-two minutes past seven. I learned that later.
 
 * * *
 

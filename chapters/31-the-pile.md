@@ -8,11 +8,13 @@ She could not stop thinking about it. Not the hanging, not Atzerodt, not the sle
 
 Piles got kept. That was the thing she knew, that he might not. She had spent twenty years in archives and records offices and the back rooms of county courthouses, and she knew that governments almost never threw anything away. They filed it. They filed it badly, and lost it, and forgot it, but they kept it.
 
-So on the Monday after the scale, when Freda had gone to school with her phone face up in her hand, Iola drove to the Library of Congress.
+That Thursday night, after Freda was asleep, she took the *CARROW* box down again and read the police report through with a pencil. *Framed family photographs on living room wall. Desk.* Nothing about any papers. She sat on the closet floor with it for a long time.
+
+So on the Monday after Maddie's mother called, when Freda had gone to school with her phone face up in her hand, Iola drove to the Library of Congress.
 
 * * *
 
-The Lincoln Papers were easy. That was the first surprise. Almost all of them had been put online years ago, twenty thousand pages, photographed and indexed, letters to Lincoln and from him, every scrap his son had kept. She had sat up the whole of Sunday night scrolling through April of 1865 on her laptop at the kitchen table. There were letters of warning in it. Lincoln had got them by the hundred, all through the war; a friend of his had written, afterward, that Lincoln kept them stuffed in a pigeonhole in his desk and told him he had filed eighty just like them. Some of them were in the papers. Crude, some of them. Some with drawings. None of them in a beautiful hand. None of them dated the thirteenth of April.
+The Lincoln Papers were easy. That was the first surprise. Almost all of them had been put online years ago, twenty thousand documents, photographed and indexed, letters to Lincoln and from him, every scrap his son had kept. She had sat up the whole of Sunday night scrolling through April of 1865 on her laptop at the kitchen table. There were letters of warning in it. Lincoln had got them by the hundred, all through the war; a friend of his had written, afterward, that Lincoln kept them stuffed in a pigeonhole in his desk and told him he had filed eighty just like them. Some of them were in the papers. Crude, some of them. Some with drawings. None of them in a beautiful hand. None of them dated the thirteenth of April.
 
 But the papers online were only what Lincoln's son had handed over. His two secretaries, Nicolay and Hay, had spent years afterward writing Lincoln's life, and Nicolay, she found at two in the morning, had kept envelopes of his own: material he had set aside and never used. Notes. Clippings. Private letters. Papers that had come through the President's office in the last days and had never been sorted into anything. They were at the Library of Congress too, in his own collection. Most of that had been put online as well. But not all of it. A few boxes had come in long after the rest, from a relative's estate, and had been catalogued in a single line and never scanned.
 
@@ -56,9 +58,9 @@ It was not signed.
 
 On the back, in a different hand, a clerk's hand, small and hurried, someone had written: *Anonymous. Warning. Filed.*
 
-And in the left margin, beside the last line, small, drawn in the same ink as the letter, as if the pen had moved there by itself while the writer was thinking, there was a mark. A five-pointed star, drawn in one long line, the way a child draws one without lifting the pencil. With a tiny letter tucked into each point. Greek, she thought, or something like it.
+And in the left margin, beside the last line, small, drawn in the same ink as the letter, as if the pen had moved there by itself while the writer was thinking, there was a mark. A small star, the kind you draw without lifting the pen, crowded with some foreign letters.
 
-She looked at it for a moment, the way you look at a doodle in the margin of anything. Then her eyes went back up to the middle of the letter, and stayed there.
+She looked at it for a moment, the way you look at a doodle in the margin of anything. It seemed vaguely familiar, the way a lot of things do, and she did not give it a second thought. Her eyes went back up to the middle of the letter, and stayed there.
 
 *A young man of Charles County, lately a soldier of the rebellion, lame in the left leg, who is much at his table and knows the roads of Southern Maryland.*
 
@@ -66,11 +68,13 @@ She looked at it for a moment, the way you look at a doodle in the margin of any
 
 She sat in the quiet room under the green lamp for a long time.
 
-She had checked a hundred things for him. The inauguration, the surgeon, Point Lookout, the thread, the National, the flag, the speech, the salute, the sleeves. Every one of them had been in some book, somewhere, that anyone could read, and so every one of them had proved nothing, and she had said so, every time, and he had agreed with her every time and seemed pleased.
+She had checked a hundred things for him. The inauguration, the surgeon, Point Lookout, the National, the flag, the speech, the salute. Every one of them had been in some book, somewhere, that anyone could read, and so every one of them had proved nothing, and she had said so, every time, and he had agreed with her every time and seemed pleased. And there were the two she could not check at all, the thread and the sleeves, which proved nothing the other way.
 
-This was not in any book. She checked, right there, on her phone, under the table, which you were not supposed to do. She searched every phrase of it she could remember. *Lame in the left leg. Much at his table. Knows the roads.* Nothing. No historian had ever quoted it. No book on the assassination mentioned it. It had never been put online. It had sat in a box in the stacks of the Library of Congress, unrequested, for longer than the librarian had worked there. For longer, probably, than he had been alive.
+This was not in any book. She checked, right there, quietly, on her phone. She searched every phrase of it she could remember. *Lame in the left leg. Much at his table. Knows the roads.* Nothing. No historian had ever quoted it. No book on the assassination mentioned it. It had never been put online. It had sat in a box in the stacks of the Library of Congress, unrequested, for longer than the librarian had worked there. For longer, probably, than he had been alive.
 
-And it described him. Not the story. Him. The lame young man at Booth's table. It described him exactly as he had described himself, week after week, from a chair by a woodstove, and it had been written by the waiter he had told her about, in the hand he had told her about, on the night he had told her about, and filed and forgotten eighteen hours before the shot.
+She thought of Carrow, because she could not help it. A letter that matched his story word for word was exactly what a clever man would forge, and her client read every word of that story. But nobody had asked for this box in twenty-two years. Nobody could have put anything in it since the autumn. The docket on the back was in a different hand, and the ink had gone brown into the fibers the way ink does in a century and a half, not in a season.
+
+And it described him. Not the story. Him. The lame young man at Booth's table. It described him exactly as he had described himself, week after week, from a chair by a woodstove, and it had been written by the waiter he had told her about, in the hand he had told her about, on the night he had told her about, and filed and forgotten less than a day before the shot.
 
 She thought of the man in the dining room of the National, bent over the headwaiter's desk by one lamp, writing it three times. She thought of the old man in the cardigan, standing on the pavement on Seventh Street in the dark, understanding it a hundred and sixty years too late.
 
@@ -78,14 +82,14 @@ She thought of the man in the dining room of the National, bent over the headwai
 
 She did not cry. She was careful not to, because of the paper.
 
-She filled out the form for a photocopy, and the librarian looked at the letter for a long moment when she brought it to the desk, and at Iola, and did not say anything, and made the copy herself.
+She photographed it on her phone, front and back, with no flash, as the sign on the wall asked. Then she asked for a copy anyway, because she wanted one she could hold. The librarian looked at the letter for a long moment when she brought it to the desk, and at Iola, and did not say anything, and made the copy herself.
 
-Iola walked out of the Madison Building into the gray winter noon with the copy in a folder under her arm, and sat in her car in the parking garage for a long time without starting it.
+Iola walked out of the Madison Building into the gray winter noon with the copy in a folder under her arm, and sat in her car on the street for a long time without starting it.
 
-She had been a doubter for sixteen weeks. It had been the one thing she was sure of. She had come to his house every Thursday determined to find the lie, and she had never found it, and she had told herself that proved nothing, and it had not.
+She had been a doubter for seventeen weeks. It had been the one thing she was sure of. She had come to his house every Thursday determined to find the lie, and she had never found it, and she had told herself that proved nothing, and it had not.
 
 She sat in the car and made herself say it, out loud, alone, to the steering wheel, the way she made herself say true things on paper.
 
 "I don't know what he is."
 
-It was not the same as believing him. She knew that. But it was the first time in sixteen weeks that she had not been sure.
+It was not the same as believing him. She knew that. But it was the first time in seventeen weeks that she had not been sure.

@@ -2,7 +2,7 @@
 
 ## Chapter 6: Carrow House
 
-At noon he stopped and made soup. He would not let her help. It was a thick vegetable soup out of a big dented pot that had clearly made a great many pots of soup, and he served it with bread from the town bakery and apologized for the bread, which did not need an apology.
+At noon he stopped and made soup. He would not let her help. It was a thick vegetable soup out of a big dented pot that had clearly made more pots of soup than anyone could count, and he served it with bread from the town bakery and apologized for the bread, which did not need an apology.
 
 They ate at the kitchen table, and he asked her about herself.
 
@@ -52,11 +52,11 @@ Iola laughed. It came out louder than she meant.
 
 "Or he panicked," she said. "Or he forgot. People forget things when they're running for their lives."
 
-"Perhaps," he said.
+"People do," he said.
 
 "You've known about this for twenty minutes."
 
-"Perhaps I'm wrong," he agreed. "I'm wrong often. Shall I go on about Ned?"
+"You'll check," he said. "Shall I go on about Ned?"
 
 He went on about Ned. She wrote it all down. She did not look at him again for some time.
 
@@ -70,4 +70,4 @@ She could not remember whether she had ever asked what happened to it after the 
 
 It did not matter. It had been six years. It was a cat.
 
-At the red light at the bottom of the hill, she took out her notebook and wrote, in the margin of that day's page: *cat, bedroom, door shut. Meant to come back?* And then, because she was honest with herself on paper, she did not cross it out.
+At the red light at the bottom of the hill, she took out her notebook and wrote, in the margin of that day's page: *cat, bedroom, door shut. Meant to come back?* And then she left it there, and did not cross it out.
