@@ -10,7 +10,7 @@
 
 It was the fifteenth Thursday. The payment for the last session had come on Monday, double again, with the same note, and Iola had stopped being surprised by it and started being uneasy. She had not said so to him. She thought he knew.
 
-Before they started, because he asked, she told him the school business was dragging on. Mr. Ostrowski had called both girls in on Monday and laid the two write-ups side by side on his desk, and Freda said you could hardly tell them apart, they even had the same weird numbers in the tables, and then Freda had cried in the car, which she never did. He listened, and nodded, and asked whether the gutter people had paid yet, and then he looked at the fire and began.
+Before they started, because he asked, she told him the school business was dragging on. Mr. Ostrowski had called both girls in on Monday and laid the two write-ups side by side on his desk, and Freda said you could hardly tell them apart, they even had the same weird numbers in the tables, and then Freda had cried in the car, which she never did. He listened, and nodded, and asked whether the gutter people had paid yet.
 
 * * *
 
