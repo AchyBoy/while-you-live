@@ -24,6 +24,10 @@ He said it at once, without looking up and without thinking, the way you would s
 
 "Union blue," he went on. "Which was the joke of it, in that coat. His mother had run out of gray the winter before he went, and she used what she had, and she told him that if anybody asked, he should say he'd taken a Yankee prisoner and kept the thread for a souvenir." He smiled a little. "I never met anyone who asked. Until now."
 
+"How do you know that?" Iola said. "If it happened before you were... him."
+
+"She told me." He said it simply. "That August, sitting by my bed, mending the same coat. She told it as a joke we both knew. I laughed in the right place." He looked down at his hands. "The body keeps what it knows how to do, Ms. Barnett. The accent, the hands, how to sit a horse. It doesn't keep what it remembers. That, you have to be told."
+
 "It's an odd question," Iola said.
 
 "It is." He was quiet for a moment, and his eyes went, just briefly, to the mantel, and then back. "Your client reads carefully."
@@ -79,6 +83,8 @@ A doctor came from Bryantown, a thin, nervous man who smelled of tobacco and cam
 I did not die. I lived because my mother sat up with me every night for three weeks, and bathed the wound with boiled water and salt when the doctor said not to, and because the bullet had gone clean through and missed the bone, and because this body was young and had been fed well all its life. And, perhaps, because I did not want to die yet. I had seen something from that field that I did not understand, and I have never been able to leave a thing I do not understand.
 
 While I had the fever I was allowed to say strange things. Afterward I had to be more careful.
+
+One afternoon near the end of it, my mother sat by the bed mending the coat I had been wounded in, and when she came to the elbow she laughed and held it up to show me the blue darn. She told me the whole story of it, the gray running out and the Yankee prisoner I was to claim, as if I had been there. I laughed in the right place. It was the first thing I learned about Kit that nobody else in that house could have told me.
 
 There is a craft to becoming someone who already exists. You must never say a name first. You wait until someone else says it, and then you use it as though you have always known it. You must never tell a story from your past; you let others tell them, and you laugh in the right places, and you say *I don't remember that* often enough that it becomes a joke about the war and your head. You learn where the cups are kept by watching who reaches for them. You learn which chair was yours by sitting in the wrong one and seeing the small hurt look on a younger sister's face.
 
