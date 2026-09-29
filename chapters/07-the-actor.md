@@ -252,7 +252,7 @@ He laughed, and looked around at all of them, and I saw him decide to give them 
 
 "*Yes.*"
 
-"Then you shall have it." He stepped back up onto the church step, so that we were all looking up at him, and I saw him do it on purpose. "Picture a theater, Miss Keene. Bigger than this church ten times over, all red and gold, and every seat sold a week before. People standing at the back. People in the aisles. My mother in a box above the stage, in her best black silk, come to see her three sons together. Our father never lived to see it. So she saw it for him."
+"Then you shall have it." He went back up onto the top step, where all of us would have to look up at him. An actor always knows where to stand. "Picture a theater, Miss Keene. Bigger than this church ten times over, all red and gold, and every seat sold a week before. People standing at the back. People in the aisles. My mother in a box above the stage, in her best black silk, come to see her three sons together. Our father never lived to see it. So she saw it for him."
 
 He put his hand on the door frame behind him, as if it were the edge of a curtain.
 
@@ -290,7 +290,7 @@ That afternoon he rode up our lane alone, in the rain, and asked my mother if he
 
 * * *
 
-He stopped there, and reached for his tea, and found it had gone cold, and drank it anyway.
+He stopped there and reached for his tea. It had been sitting beside him since the churchyard, and it must have been stone cold, but he drank it anyway.
 
 Iola realized she had been holding her pen above the page for some time without writing anything. The farm, the churchyard, the barn in the rain: she had been there, and now she was back in his living room, with the woodstove ticking and the recorders' little red lights on.
 
