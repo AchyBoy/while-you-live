@@ -48,7 +48,9 @@ After nearly two years, the two governments came to terms, and the boats began t
 
 He was not on the next boat. Or the one after. They went by lists, and nobody would tell a family whose name was on which list, or why. Every week my mother wrote to me, and every week the letter ended the same way: *Not yet.*
 
-I told myself that the plan was still needed. That a few boats were not all the camps. That the exchange had stopped before and could stop again. All of that was true. I noticed, even then, that I was telling it to myself rather often.
+The week the first boats went, I stood at the end of the Navy Yard Bridge with my invoices in my pocket and did the sum that Booth had done for me in the barn. The plan was to force a trade. Now there was a trade, and nobody had forced anything. Grant had simply changed his mind. *Home for planting,* Booth had said to me on our porch, and it looked, that week, as if Grant might send Ned home for planting without us.
+
+I told myself that the plan was still needed. That a few boats were not all the camps. That the exchange had stopped before and could stop again. All of that was true. But I noticed, even then, that I was telling it to myself rather often. And I noticed that I had not gone to Booth and said any of it. I watched the guard change, and wrote down the time, and went home.
 
 * * *
 
@@ -68,6 +70,8 @@ It was the widow from Surrattsville. Her name was Mary Surratt. She had come to 
 
 * * *
 
+[now]
+
 I had stopped writing.
 
 "Mary Surratt," I said. "The one they hanged."
@@ -84,6 +88,8 @@ I thought about hurrying him. Then I picked up my pen.
 
 * * *
 
+*February 1865*
+
 I want to tell you exactly what I thought of her that first night, because a great deal came to depend on it later, and because I have had a long time to wonder whether I was right.
 
 I thought she was kind. I thought she was devout; she went to Mass every morning at St. Patrick's, a few blocks away, and the rosary was worn smooth. I thought she was a widow who had been left with debts by a husband who drank, and who was doing what she had to do to keep her children fed. And I thought she was a woman who had learned, over a long time, exactly which questions not to ask. Men came and went from her house at all hours. Her son rode off to Richmond and came back with papers sewn into his boots. She served them all supper and asked them how the weather had been on the road.
@@ -93,6 +99,8 @@ She knew. That is what I thought, that night. I did not know yet how much.
 * * *
 
 Her son was in the parlor. He was the courier Dr. Mudd had promised to introduce to Booth before Christmas, the young man who knew every road between here and Richmond. John Surratt was twenty years old, tall and very thin, with a sharp face and a little pointed beard he was plainly proud of. He had been a courier for the Confederacy since he was seventeen, carrying letters across the river and back, and he had never once been caught, and he could not stop telling you so. Not in words. In the way he sat, and the way he checked the window, and the way he lowered his voice to say ordinary things. John Surratt loved a secret more than he loved any cause a secret could serve. I have met that kind of man in every century. They are brave, and useful, and they will get you killed, because they cannot bear for anyone not to know how much they know.
+
+The last time I saw John Surratt, he was standing on a stage in Rockville, Maryland, more than five years later, selling tickets to all of this. He never said my name.
 
 There was another young man in the parlor, reading a newspaper by the lamp, and I noticed him because nobody introduced him. His name, I learned later, was Louis Weichmann. He had been at school with John, and he boarded in the house and shared John's room, and he worked as a clerk in the War Department, in the office of the Commissary General of Prisoners. He was plump and soft-spoken and polite, and he said good evening to Booth, and to me, and went back to his newspaper.
 
@@ -106,7 +114,7 @@ Walking back down H Street in the cold, I told Booth what I thought of Weichmann
 
 "He's a clerk in the War Department," I said, "and he shares a room with a Confederate courier. Nobody is harmless who is in both of those places at once."
 
-It was only later, lying awake in my narrow room by the Navy Yard, that I understood what office that was. The Commissary General of Prisoners. The office that kept the lists: every prisoner in every Northern camp, his name and his regiment and where he was held, and whether he was sick, and whether he was dead. Weichmann sat at a desk in that office every day. He could have found Edward Hurley of St. Mary's County in an afternoon. He could have told my mother whether Ned was on a list, or when.
+It was only later, lying awake in my narrow room by the Navy Yard, that I understood what office that was. The Commissary General of Prisoners. The office that kept the lists: every prisoner in every Northern camp, his name and his regiment and where he was held, and whether he was sick, and whether he was dead. My mother had written to that office twice already, that winter, in her best hand, and had never had an answer. Weichmann sat at a desk in that office every day. He could have found Edward Hurley of St. Mary's County in an afternoon. He could have told my mother whether Ned was on a list, or when.
 
 I never asked him.
 
@@ -185,6 +193,8 @@ The next day, word came. The President was to drive out to a hospital at the edg
 We had our chance.
 
 * * *
+
+[now]
 
 He stopped there. The light outside had gone gray.
 

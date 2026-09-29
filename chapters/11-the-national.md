@@ -100,9 +100,11 @@ What I did not think about, not once, was what he made of me. The Keene boy, who
 
 He had known Kit Keene all his life, and had watched the one who came home from the war for four months, and he had never, I think, had any reason to believe a single good thing about either of them.
 
-I did not think about any of that. I was busy watching the bridge.
+I did not think about any of that. My mind was on the bridge, and the guards, and what I would tell Booth the next time I came.
 
 * * *
+
+[now]
 
 He stopped there, and was quiet for long enough that I checked the red light on the recorder.
 

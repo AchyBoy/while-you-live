@@ -86,6 +86,8 @@ I thought I knew. I have never been certain. I have thought about it every year 
 
 * * *
 
+[now]
+
 He stopped. I had stopped writing some time before.
 
 "He saved your life," I said. "If it was him."

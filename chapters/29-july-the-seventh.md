@@ -66,6 +66,8 @@ It was true, as far as it went. It was the only home that body ever had. I staye
 
 * * *
 
+[now]
+
 He was quiet then.
 
 I sat beside him on the cold bench and looked out at the field. The frost had gone off it in the sun, and it was brown and bare, and a hawk was going round and round over the far end of it, very high.

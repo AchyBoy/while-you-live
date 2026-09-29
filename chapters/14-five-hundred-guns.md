@@ -100,6 +100,8 @@ He did not say anything. Neither did I. I went past him and down the stairs with
 
 * * *
 
+[now]
+
 "You burned them," I said.
 
 "In the stove at the lumber yard, the next morning. All eleven." He looked at his hands. "It's why you won't find the Keene farm in any book. It's one of the reasons you won't find me."

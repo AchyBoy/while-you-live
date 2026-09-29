@@ -94,6 +94,8 @@ And I knew those woods.
 
 * * *
 
+[now]
+
 He stopped.
 
 "Lottie," I said.

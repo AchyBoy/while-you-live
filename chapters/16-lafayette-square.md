@@ -94,6 +94,8 @@ In the end I settled on the likely answer, which was that he was in love with so
 
 * * *
 
+[now]
+
 He stopped there, and looked at the notepad for a while.
 
 "I should tell your client," he said, "that that was not speaking to him. I only watched." He smiled a little, not happily. "I watched a great deal, that week. You'd think I would have seen more."

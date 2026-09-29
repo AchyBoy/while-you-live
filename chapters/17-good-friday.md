@@ -70,6 +70,8 @@ Tonight. Here.
 
 * * *
 
+[now]
+
 He stopped.
 
 I realized that I had not written anything for some time. The recorder's red light was on. The woodstove ticked.

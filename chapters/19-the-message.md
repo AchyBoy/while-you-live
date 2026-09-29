@@ -62,6 +62,8 @@ Then I went down. I missed the second stair and caught the rail.
 
 * * *
 
+[now]
+
 He stopped.
 
 "And what did he see?" I said. "Damon. You said you both saw correctly."

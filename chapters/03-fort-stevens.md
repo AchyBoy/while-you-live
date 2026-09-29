@@ -102,6 +102,8 @@ Near morning, a shaded lantern came along the wall and stopped over me. A woman'
 
 * * *
 
+[now]
+
 The recorder's small red light was still on. I realized I had not written anything in my notebook for some time.
 
 Tom Hale was looking at the window again. The sky over the field had gone a flat, pale gray. On the notepad on his knee, his pencil had stopped moving.

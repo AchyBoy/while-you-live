@@ -31,18 +31,37 @@ def chapter(path):
     num, title = int(m.group(1)), m.group(2).strip()
     blocks, para, hashes = [], [], []
 
+    # Ari's testimony is set as a transcript. A section that opens with an italic line
+    # holding a year ("*March 1865*") starts it; it runs across scene breaks until a
+    # section that opens with a "[now]" line (Iola speaking again) or the chapter ends.
+    tape = [False]
+    start = [True]  # at the start of a section
+
     def flush():
         if para:
             text = " ".join(para)
-            blocks.append("<p>" + inline(text) + "</p>")
+            cls = ""
+            if start[0] and re.fullmatch(r"\*[^*]*\b1[89]\d\d\b[^*]*\*", text):
+                tape[0] = True
+                cls = ' class="tape tape-head"'
+            elif tape[0]:
+                cls = ' class="tape"'
+            blocks.append(f"<p{cls}>" + inline(text) + "</p>")
             hashes.append(hashlib.sha1(text.encode()).hexdigest()[:12])
             para.clear()
+            start[0] = False
 
     for line in lines[head + 1:] + [""]:
         s = line.strip()
         if s in ("---", "* * *"):
             flush()
-            blocks.append('<p class="break">&#10043;</p>')
+            blocks.append(f'<p class="break{" tape" if tape[0] else ""}">&#10043;</p>')
+            start[0] = True
+        elif s == "[now]":
+            flush()
+            tape[0] = False
+            if blocks and blocks[-1].startswith('<p class="break tape"'):
+                blocks[-1] = '<p class="break">&#10043;</p>'
         elif not s:
             flush()
         else:

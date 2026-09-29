@@ -290,6 +290,8 @@ That afternoon he rode up our lane alone, in the rain, and asked my mother if he
 
 * * *
 
+[now]
+
 He stopped there and reached for his tea. It had been sitting beside him since the churchyard, and it must have been stone cold, but he drank it anyway.
 
 I realized I had been holding my pen above the page for some time without writing anything. The churchyard, the fence, the good plates on the supper table: I had been there, all of it, and now I was back in his living room, with the woodstove ticking and the little red lights on the recorders, and my hand had gone stiff.

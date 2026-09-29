@@ -90,6 +90,8 @@ And I heard, under the question, from somewhere behind me in the yard, one of th
 
 * * *
 
+[now]
+
 He stopped.
 
 I had been writing fast. I looked up.

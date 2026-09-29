@@ -98,6 +98,8 @@ And at a little after half past nine, somebody touched my shoulder from behind, 
 
 * * *
 
+[now]
+
 He stopped there.
 
 My hand had stopped moving on the page some time before. I looked down and found that I had written, in the margin, very small, the word *loud,* and underlined it twice.

@@ -98,6 +98,8 @@ I had seen that before. In the dining room of the National, on the thirteenth of
 
 * * *
 
+[now]
+
 He stopped. His hand had gone still on the notepad.
 
 I sat very still.

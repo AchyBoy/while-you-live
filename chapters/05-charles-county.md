@@ -160,6 +160,8 @@ I never expected to see him again.
 
 * * *
 
+[now]
+
 The fire in the woodstove had burned down. I had filled most of a notebook.
 
 "Did you see him again?" I asked. "Damon."

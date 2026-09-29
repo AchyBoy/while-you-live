@@ -46,7 +46,7 @@ Three o'clock. The guard changed at the far end of the bridge, exactly when I ha
 
 The new sentry noticed me. The old one never had. This one was young, and his uniform still had the creases from being folded, and he walked the length of the bridge twice, looking at the trees where I sat. On the third time he came off the end of it and down the bank toward me with his rifle across his body, and I understood that a man who has been sitting under a tree for two hours with a second horse, saddled, on a lead, is a man a new sentry is going to ask about.
 
-I had perhaps thirty seconds while he came down the bank. I used them to look at him.
+I had perhaps thirty seconds while he came down the bank. I used them to read him.
 
 New uniform, so new to the army. A new man wants to be seen doing his job. He came toward me instead of calling out, so he was not frightened, only curious and a little proud of himself. His boots were caked to the ankle in red clay, so he had walked out that morning from the camp on the Maryland side, where the roads were worse than ours. And he had a good farm boy's walk, flat-footed, and when he passed my horse he ran his hand down its neck without thinking about it. He was from the country. He had horses at home. He missed them.
 
@@ -58,9 +58,39 @@ He crouched and picked up the off foreleg, the way I had known he would, because
 
 "I didn't have a pick," I said. "I was letting her rest it. My brother'll kill me if she's lamed. It's his."
 
-He laughed, and put the stone in my hand, and told me to walk her slow for a mile and she'd be fine, and went back up the bank to his bridge feeling that he had done his job, and a kindness besides. He never looked at me again. Why would he? He had already found the thing that was wrong.
+He laughed, and put the stone in my hand, and told me to walk her slow for a mile and she'd be fine, and went back up the bank to his bridge feeling that he had done his job, and a kindness besides.
 
-Four o'clock. Five. The light began to go. The horse beside me cropped the grass and did not care about any of it.
+That should have been the end of it. It would have been, if I had walked her slow for a mile. I did not. I could not leave my post. So I led her a little way down the road, where he could see me do it, and then back again, and sat down under the same trees.
+
+Four o'clock. He noticed. He walked the bridge, and at the end of it he stopped, and looked down the bank at me for a long moment, and walked back. At half past four he did it again. The third time, he came down.
+
+"Thought you were walking her home," he said.
+
+"I'm waiting for my brother," I said. It was the one answer I had promised myself I would not give, and I heard myself give it. "She's his horse. He's coming out from the city with the wagon. I'm not to go home without him."
+
+"What's his name?"
+
+"Tom."
+
+"Tom what?"
+
+"Tom Kelly," I said, which was the first name that came, and belonged to nobody.
+
+He looked at me, and at the horse, and up the road toward the city. He was not a fool. He was only young.
+
+"Bridge closes going south at nine," he said. "Orders. If your brother's not across by then, the both of you can sleep on that side." And he went back up the bank, and this time, when he walked his bridge, he looked at me every time he turned.
+
+Five o'clock. The light began to go.
+
+And then I heard it. Heavy wheels, a long way off on the city side, coming fast, faster than anything had come all afternoon, and horses ahead of them. I was on my feet before I knew it. A closed carriage came onto the far end of the bridge, black, with its curtains drawn, and two riders in front of it, and it did not slow down for the sentry.
+
+It was exactly what I had been told to wait for. My hands went to the lead rope and got the knot wrong, twice. I could hear my own heart over the wheels. I remember thinking, very clearly, that the man inside that carriage was about to look out through the curtain and see me, and that I would be the first face he saw in his new life as a prisoner, and that I had not decided what my face would do.
+
+The riders were in blue. That was the first thing. Booth's men would not be riding ahead of it in Union blue. They were cavalry, with their sabers, riding easy, as if they had every right to the road, and the sentry did not stop them because he was saluting. The carriage came off the end of the bridge and past me close enough to touch, and the curtain swung open with the jolt, and inside there was a surgeon in a bloody apron, holding a lamp over a man on a stretcher.
+
+An ambulance, going out to the camp on the Maryland side. That was all.
+
+I sat down again under the trees, because my leg would not hold me, and the sentry at the end of the bridge watched me do it.
 
 It was nearly dark when a single rider came across the bridge at a hard trot, and my heart went up again, and then I saw that it was John Surratt, alone.
 
@@ -70,11 +100,15 @@ He did not stop. He slowed only enough to lean down from the saddle as he passed
 
 And he kicked his horse on, south down the dark road toward Surrattsville, and was gone.
 
+"That your brother?" the sentry called down from the end of the bridge.
+
+"No," I said. "A neighbor. My brother's not coming." And I led the borrowed horse up the bank and back across the bridge toward the city, under his eyes, at a walk, the way an honest man walks, and I did not look back once. It was the longest walk of that day.
+
 * * *
 
 I did not go home.
 
-I should have. Everything that was sensible in me said so. Instead I led that borrowed horse back across the bridge, and through the streets of the Navy Yard, and up through the city toward Pennsylvania Avenue, because I had to know. I always have to know. It was more than a mile, and my leg had stiffened from the waiting, and I did not care.
+I should have. Everything that was sensible in me said so. Instead I led that borrowed horse on through the streets of the Navy Yard, and up through the city toward Pennsylvania Avenue, because I had to know. I always have to know. It was more than a mile, and my leg had stiffened from the waiting, and I did not care.
 
 It was full dark by the time I reached the National. The street in front of it was still busy: soldiers, a great many of them, in a cheerful mood, and people coming away from something in the way crowds do after it's over. I asked a newsboy what had happened.
 
@@ -130,11 +164,11 @@ My mother's letter that week ended the way they all did. *Not yet.*
 
 * * *
 
+[now]
+
 He put the pencil down.
 
-My phone was out. I had not meant to take it out, but I had, and found it while he was still talking. March 17, 1865. Speech to the One Hundred Fortieth Indiana Regiment, from the balcony of the National Hotel. *Whenever I hear any one arguing for slavery, I feel a strong impulse to see it tried on him personally.*
-
-Word for word.
+I knew that line. I had seen it before, printed large on a museum wall somewhere, one of those quotations they hang over a doorway. I had read it a dozen times and never once thought about who had been standing in the street when it was said.
 
 "You could have memorized that," I said. It came out more quietly than I meant. "It's famous. It's the kind of thing people put on posters."
 

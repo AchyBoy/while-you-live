@@ -130,6 +130,8 @@ I went out through the doors onto the Avenue and turned east, toward Tenth Stree
 
 * * *
 
+[now]
+
 He stopped. His hands were shaking. I had never seen them shake.
 
 "I'm going to stop there," he said, "for a minute."

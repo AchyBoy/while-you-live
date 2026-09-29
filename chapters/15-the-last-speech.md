@@ -90,6 +90,8 @@ The second was that the other one had just seen me standing at his elbow.
 
 * * *
 
+[now]
+
 "You stayed," I said. "On purpose. To spy on him."
 
 "To be inside when it happened. Yes."

@@ -56,6 +56,13 @@
   .chapter header + p { display: flow-root; }
   .chapter header + p::first-letter { float: left; font-size: 3.4em; line-height: .85; padding: .06em .08em 0 0; color: var(--accent); }
   .chapter p.break { text-align: center; text-indent: 0; margin: 1em 0; color: var(--soft); }
+  /* Ari's testimony: set as a transcript, a rule down the left */
+  .chapter p.tape { border-left: 2px solid var(--rule); padding-left: .9em; margin-left: .1em; }
+  .chapter p.break.tape { margin: 0; padding: 1em 0 1em .9em; }
+  .chapter p.tape-head { text-indent: 0; padding-top: .2em; padding-bottom: .5em; font-variant: small-caps; letter-spacing: .06em; color: var(--accent); }
+  .chapter p.tape-head em { font-style: normal; }
+  .chapter p.tape-head::before { content: "\25CF\00a0 Recording \00b7\00a0"; font-size: .75em; letter-spacing: .12em; text-transform: uppercase; color: var(--soft); vertical-align: .1em; }
+  .chapter p.tape-head + p { text-indent: 0; }
 
   .nav { display: flex; justify-content: space-between; gap: 12px; margin: 3em 0 1em; padding-top: 1.2em; border-top: 1px solid var(--rule); font-size: .85em; }
   .nav button { max-width: 48%; text-align: left; }

@@ -90,6 +90,8 @@ I sat in the blue coat in a saloon doorway on Seventh Street, with the city goin
 
 * * *
 
+[now]
+
 He stopped.
 
 "You went home," I said. It was not a question.

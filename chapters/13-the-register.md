@@ -72,6 +72,8 @@ After lunch, he told me.
 
 * * *
 
+*March 1865*
+
 The letter came at the end of March. My mother sent it on to me in Washington with nothing of her own inside it. That was how I knew before I opened it.
 
 It was in the same hand as Ned's December letter: small and upright and careful, in ink. The man who had written for Ned when Ned could not hold a pencil had written one more time, on his own account. He was a schoolmaster from Virginia, it turned out, and he had been in the next tent. He wrote that Edward Hurley had died on the sixth of February, of the flux, very quietly, in the night. That he had not suffered much at the end. That he had spoken often of his Aunt Margaret, and of a cousin called Kit, and of a farm near a swamp. That he had been buried with the others, near the water, and that the schoolmaster was sorry it had taken so long to write, but paper was hard to come by, and he had been waiting to be exchanged himself, so that he could post it from the South, where it would not be read by strangers first.
@@ -83,6 +85,8 @@ I read it standing up, in the hall of the house by the Navy Yard, by the light f
 I had known since December. I had known from the moment I saw that careful handwriting where Ned's big leaning pencil ought to have been. Knowing is not the same. I have known a great many things, in a great many lives, and it has never once been the same.
 
 * * *
+
+[now]
 
 He stopped. Outside, somebody's dog was barking a long way off, and the woodstove ticked.
 
