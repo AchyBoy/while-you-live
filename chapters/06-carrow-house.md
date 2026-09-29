@@ -32,7 +32,7 @@ She did not answer that. He took her bowl and filled it again without asking, an
 
 After lunch they went back to the living room. She asked him about Ned, the cousin at Point Lookout, and he went back to 1864.
 
-He talked again about the letter from Point Lookout, and how his mother had carried it in her apron pocket all that fall. He talked about what it did to a family to have a son in a place like that, where you knew he was hungry and could do nothing, where every letter might be the last one. He said that the men in those camps had written home as if they would be back by Christmas, every one of them, even the ones who knew better. He said it was the only thing they had left to decide.
+He talked again about the letter from Point Lookout, and how his mother had carried it in her apron pocket all that fall. He talked about what it did to a family to have a son in a place like that, where you knew he was hungry and could do nothing, where every letter might be the last one. He said the men in those camps wrote home as if they would be back by Christmas, even the ones who knew better. Everyone was hoping for the best.
 
 "Ned wrote that he thought often of home," he said. "He said to tell my mother not to worry. You don't write that to people unless you mean to come back to them."
 
@@ -46,17 +46,87 @@ Iola looked up from her notebook. "Ned?"
 
 She did not understand him at first, and then she did.
 
-"A man who is running away," he said, gently, "takes his cat. Or he gives it to a neighbor, or he leaves the door open and a full bowl down, or he calls someone. People are very sentimental about their animals, even when they're frightened. Especially then. He shut it in the bedroom, the way you do when you're going out for an hour and you don't want it under your feet. He meant to come back that evening."
+"A man who is running away takes his cat," he said, gently. "Or he asks someone to look after it. He doesn't shut it in a bedroom and leave. He shut it in there the way you do when you're going out for an hour and don't want it under your feet. He meant to come back that evening."
 
 Iola laughed. It came out louder than she meant.
 
 "Or he panicked," she said. "People forget things when they're running for their lives."
 
-"Some do," he said. "Not the ones who shut the door carefully first."
+"He may have panicked later."
 
-"I've told that story a hundred times. The police heard about that cat. Petrakis told the whole building about that cat. Nobody ever said that."
+"What does that mean?"
 
-"You've heard it too often," he said. "I've heard it once, before I knew how it ends. Shall I go on about Ned?"
+"He could have gone out intending to return, and something happened after."
+
+"That doesn't mean something happened to him. He could have changed his mind. He could have decided to leave town."
+
+"Yes," he said. "He could have."
+
+She looked at him. He had agreed with her, but it had not made her feel any better.
+
+"The police knew about the cat," she said. "Petrakis told the whole building. It was in the report."
+
+"What did they make of it?"
+
+"I don't remember. They asked Petrakis when he'd last seen him. They asked me whether my source had said anything about leaving town." She stopped. "I told them he hadn't."
+
+"Had he?"
+
+"No. That's why I told them."
+
+He nodded. She could tell he was waiting for her to go on.
+
+"They thought he'd run because of the lawsuit," she said. "So did the paper. By the end of that week, I'd heard it so many times I was answering their questions as though I knew it too."
+
+"But you didn't."
+
+"I didn't know where he was." She laid her hand over the open notebook. "I thought if he was hiding, he might call me when things settled down."
+
+"And did you expect him to?"
+
+"For a while." She gave a small, embarrassed laugh. "I kept the phone beside my bed. I was furious with him, which made it easier to think he was alive somewhere."
+
+He said nothing.
+
+"I've told that story a hundred times," she said. "The cat was always in it. Petrakis wouldn't let anyone forget the cat. But I never stopped to think about what he'd done before he left the apartment."
+
+"The carpet," he said.
+
+"What about it?"
+
+"Petrakis wanted to know who would pay for it. Was the cat's litter box in the bedroom?"
+
+"I don't know."
+
+"If it was somewhere else, your man shut the cat away from it."
+
+"He might not have been thinking about that."
+
+"He might not." He glanced at her notebook. "Petrakis was thinking about it by Friday. You could ask him what he found."
+
+"I don't know if he's still alive."
+
+"Then you could look at the police report."
+
+She had looked at that report once, years ago, for anything that might tell her where her source had gone. She could not remember whether it said a word about the cat beyond where they had found it.
+
+"He was supposed to meet me at noon," she said.
+
+"Perhaps that was where he was going."
+
+She looked toward the window. She had spent years remembering the empty booth at the diner, the waitress coming to refill her coffee, the clock over the counter edging past twelve. She tried to picture him in his apartment that morning instead, shutting the bedroom door and leaving the cat behind it.
+
+"That doesn't tell us what happened to him."
+
+"No."
+
+"He could have decided not to come."
+
+"Yes."
+
+For a while neither of them spoke. Then she picked up her pencil.
+
+"What did Ned write after that?"
 
 He went on about Ned. She wrote it all down, and did not look at him again for some time.
 
