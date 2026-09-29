@@ -38,9 +38,21 @@ That Sunday my mother decided I was well enough for Mass.
 
 St. Mary's was a little brick church outside Bryantown, and on a Sunday morning it was the whole county in one room. You went for God, and you went to find out who had news from across the river, who had a letter from a son, whose barn had been searched by the provost men and what they had found in it. The women talked on one side of the churchyard after Mass and the men talked on the other, and the talk on both sides was the same talk, in lower voices than it would have been a year before.
 
-I went up the steps on my crutch, slowly, with the whole congregation watching me do it and pretending not to. That was the first time I understood what the leg was going to mean in that life. Every man in the county knew that Margaret Keene's boy had been shot in front of Washington. A wound is a kind of letter of introduction. Men who had never said a word to Kit shook my hand that morning, and some of them told me things, quietly, that they would never have told a boy who had stayed home.
+There were six steps up to the door. I counted them from the wagon. My mother got down first and did not offer me her arm, because she knew I would not take it in front of the county, and Lottie walked beside me with her hands folded, as if she had not noticed anything at all. I took the steps one at a time, crutch and then foot, crutch and then foot. The talk in the churchyard went quiet while I did it, and started again, a little too loudly, when I reached the top.
 
-After Mass, standing in the cold with my weight on the crutch, I saw the stranger.
+That was the first time I understood what the leg was going to mean in that life. Every man in the county knew that Margaret Keene's boy had been shot in front of Washington. A wound is a kind of letter of introduction.
+
+After Mass, the men came to me. Men who had never said a word to Kit came across the grass and shook my hand, and some of them stayed, and lowered their voices.
+
+A farmer named Carrico, with a face like a walnut, held on to my hand a while. "My Tom's across the river with Mosby," he said. "Got a letter from him Thursday. Came over the river at night, the way they do." He looked at the leg. "He'd want me to say he's proud of you. So I'm saying it."
+
+A younger man, who kept his hat in his hands the whole time, told me the provost men had been through Hardy's place on Wednesday, looking for a boat. "Turned the barn out," he said. "Pulled up the floor of the corncrib. Never found it." He almost smiled. "It's on the bottom of the creek, with a load of stones in it. You bail it out when you need it."
+
+And an old man I did not know at all, with a gray beard down to his second button, leaned in close enough that I could smell the tobacco on him, and said, "When that leg's better, son, if you're minded to go back over, you come and see me. I know who rows."
+
+I thanked every one of them. I did not ask a single question. I did not need to. A man who is trusted does not have to ask; he only has to stand still and let the county tell him what it knows. By the time my mother was ready to go, I knew where at least one boat was kept, which roads the provost men watched, and that half the men in that churchyard were in the business of getting letters and people across the Potomac at night.
+
+I was still standing in the churchyard with my weight on the crutch when I saw the stranger.
 
 He was standing with old Dr. Queen, who was past seventy and lived some miles south of the village, and with Dr. Queen's son-in-law, a man named Thompson. He was not very tall. He had black hair, curled, and a black moustache, and skin so pale that it looked as if he had never been out in the weather in his life. His coat was better than any coat in that churchyard, and he wore it as if he had forgotten he had it on, which is a harder thing to do than it looks.
 
@@ -48,13 +60,21 @@ Lottie took hold of my arm hard enough to hurt.
 
 "Kit," she said. "Kit. Do you know who that is?"
 
-I did not. I said so.
+"No," I said. "Should I?"
 
 "That's John Wilkes Booth." She said the whole name, the way you say the name of a place. "The actor. I have his picture. I have his picture *in my room*."
 
-She did. I had seen it. Actors sold their portraits in those days on little cards, the size of your hand, and girls collected them the way boys collected cigar bands. Lottie had three of this one, and had told me he was the most famous young actor in America, and that he played Richard the Third so wildly that the other actors were afraid to fight him.
+She did. I had seen it. Actors sold their portraits in those days on little cards, the size of your hand, and girls collected them the way boys collected cigar bands. Lottie had three of this one, propped along her windowsill.
 
-I watched Thompson bring him across the churchyard to a man standing by the gate: a slim man with a high forehead and reddish whiskers, about thirty, whom I knew as the young Dr. Mudd, who farmed and doctored a few miles up the road. The two of them shook hands. They talked for a few minutes. I could not hear what was said. It looked like nothing, two men being polite on a church step.
+"What's he doing in Bryantown?" I said.
+
+"I don't know. I don't care." She was standing on her toes. "He's the most famous young actor in America. Everybody says so. When he plays Richard the Third he fights so wildly that the other actors are afraid of him."
+
+"Are they really?"
+
+"*Kit.*"
+
+I watched Thompson bring him across the churchyard to a man standing by the gate: a slim man with a high forehead and reddish whiskers, about thirty, whom I knew as the young Dr. Mudd, who farmed and doctored a few miles up the road. The two of them shook hands. They talked for a few minutes, with their heads close together. I could not hear what was said. It looked like nothing, two men being polite on a church step.
 
 Everything I tell you about Booth, I learned later, looking back. That morning he was only a famous man in a churchyard, and I was a farm boy with a bad leg and a sister pulling on my sleeve.
 
@@ -62,15 +82,39 @@ Then Thompson brought him over to us.
 
 * * *
 
-He was charming. I want to say that plainly, because it matters, and because nobody who writes about him now likes to say it. He was the most charming man I met in that life, and I have met more charming men than I can count. He bowed over my mother's hand as if she were a duchess. He told Lottie that he could see she was a reader, and when she asked him how, he said, "You have ink on your second finger, miss. You kept that glove on all through Mass, and you took it off just now to shake my hand," and she went as red as a brick and adored him forever.
+"Mrs. Keene," Thompson said. "Mr. Booth is staying with my father-in-law. He asked to be introduced to the family of the young man who was at Fort Stevens."
 
-I remember thinking that was not bad. Not bad at all.
+He was charming. I want to say that plainly, because it matters, and because nobody who writes about him now likes to say it. He was the most charming man I met in that life, and I have met more charming men than I can count.
 
-He said he had come down from Washington to look at land. There was money to be made in Southern Maryland, he said, once the war was over, and he meant to buy some, and he wanted good horses besides. Did we know of anyone selling?
+He bowed over my mother's hand as if she were a duchess and they were in a ballroom and not a muddy churchyard. "Mrs. Keene," he said. "I've heard about your son all morning. Half the county is proud of him, and I think the other half is jealous of you."
+
+My mother, who had not smiled at a stranger since the war began, smiled.
+
+Then he turned to Lottie, and looked at her for a moment, and said, "And you're a reader."
+
+Lottie stared at him. "How can you tell?"
+
+"You have ink on your second finger, miss." He said it kindly, as if it were a compliment, which to Lottie it was. "You kept that glove on all through Mass, and you took it off just now to shake my hand. A girl who hides ink from the priest and shows it to an actor has been writing something she cares about."
+
+She went as red as a brick and adored him forever.
+
+I remember thinking that was not bad. Not bad at all. It was very nearly what I would have said.
+
+Then he turned to me, and shook my hand, and held it a moment longer than a man needs to.
+
+"I won't ask you about it," he said, looking at the crutch. "Everybody's asked you about it already, I expect. I'll only say I'm glad you came home."
+
+"Thank you," I said.
+
+"Mr. Booth has come down to look at land," Thompson said.
+
+"Land, and horses," Booth said. "There'll be money to be made in Southern Maryland once this war is over, Mrs. Keene. Good land, good water, the river right there. I mean to buy before everybody else wakes up to it. And I need a good horse or two besides." He said it to my mother, but he was looking around the churchyard as he spoke, lightly, the way you look around a room you have just walked into. "Do you know of anyone selling?"
 
 My mother looked at me. I knew what she was thinking. We had five horses and nobody to work them and no money for their feed through the winter.
 
 "We might," she said.
+
+"Then may I call?" He smiled at her. "Tuesday, perhaps?"
 
 He came to the farm on Tuesday.
 
@@ -80,11 +124,43 @@ I showed him the horses, because I was the man of the house, and because my moth
 
 I watched him while he looked at them. I could not help it. I have never been able to help it.
 
-He did not look at them the way a man looks at a horse he means to buy. He did not open a single mouth to see the teeth. He did not run his hand down a single leg. He walked around each one and patted its neck and said something kind about it, the way you would say something kind about a friend's baby. He rode well. I will say that too. He rode better than anyone I had seen in that county, easily, as if the horse were a chair. But he did not care about those horses. He barely saw them.
+He did not look at them the way a man looks at a horse he means to buy. He did not open a single mouth to see the teeth. He did not run his hand down a single leg. He walked around each one and patted its neck and said something kind about it, the way you would say something kind about a friend's baby.
 
-What he cared about were the roads.
+"This one's a good fellow," he said, about the old bay. "He has a wise face. Don't you think he has a wise face?"
 
-How far was it to the river from here? Which roads went south to the Potomac, and which of those would take a wagon? Did the roads through the swamp flood in the spring? Were there soldiers at the crossings? And he asked all of it lightly, leaning on the fence, between remarks about the weather and the fine old house, so that each question sounded like the natural next thing to ask. "For the land, you understand," he said. "A man wants to know how he'd get his crop to market."
+"He's sixteen," I said. "He's wise because he's old."
+
+"The best reason." He laughed. "May I ride him?"
+
+He rode well. I will say that too. He rode better than anyone I had seen in that county, easily, as if the horse were a chair. He took the bay down to the end of the lane and back at a canter, and pulled up by the fence, and swung down, and I saw that he had not once looked at the horse's paces. He had been looking at the lane. Where it met the road, and which way the road went.
+
+He leaned on the fence beside me.
+
+"How far is it to the river from here?" he said. "The Potomac, I mean."
+
+"Twenty miles, about. Depends which way you go."
+
+"And which way would you go? With a wagon, say."
+
+"Down through Beantown, if it's dry. Across by the swamp road, if you don't mind wet feet."
+
+"The swamp road," he said, as if it were the name of a song. "Does it flood?"
+
+"In the spring. You can get through if you know where the high ground is."
+
+"And do you?"
+
+"Everybody here does."
+
+"Are there soldiers on it?"
+
+"Sometimes. On the main road, more often. At the crossings."
+
+"And at night?"
+
+"Fewer," I said. "They don't like the swamp in the dark any more than anybody else does."
+
+He said all of it lightly, leaning on the fence, between remarks about the weather and the fine old house and the wise face of the bay, so that each question sounded like the natural next thing to ask. "For the land, you understand," he said. "A man wants to know how he'd get his crop to market."
 
 Nobody in Charles County took a crop across the Potomac. Virginia was on the other side, and there was a war on it. And nobody who meant to farm asked which roads a wagon could use at night.
 
@@ -122,19 +198,31 @@ He went very still.
 
 * * *
 
-My mother gave him supper. It was the least she could do for a man who might buy her horses, and more than she could afford.
+My mother gave him supper. It was the least she could do for a man who might buy her horses, and more than she could afford. She put out the good plates, which had not been down from the shelf since the spring, and Hester killed a chicken, and nobody said a word about what it cost.
 
-It was Lottie, of course, who told him about Ned. She could not help it either. She told him about the letter, and the pencil, and Jem Carroll dying of the flux, and the exchange that was going to start again soon.
+He was easy at the table. He told my mother her biscuits were better than any in Baltimore, and asked Hester how she made them, and listened to the answer. He asked me nothing at all about the war, which I was grateful for, and nothing more about the roads, which I noticed.
+
+It was Lottie, of course, who told him about Ned. She could not help it either.
+
+"Our cousin's a prisoner," she said. "At Point Lookout. He wrote to us in September. In pencil, and a Union officer read it first, you could see where he'd stamped it. He says he's all right. Jem Carroll's dead, though. Jem was in his company. He died of the flux." She said it all in one breath, the way she said everything. "But it doesn't matter so much now, because the exchange is going to start again soon, everybody says so, and then Ned will come home."
 
 I watched the charm go out of his face like a lamp being turned down.
 
 "It won't," he said. "It won't start again. Grant has seen to that. He knows every man he sends back to us is a man back in the line, and he has more men than we do, so he'll let ours die in the camps sooner than trade them." He put his fork down. "They're starving them, Mrs. Keene. At Point Lookout, at Elmira, at all of them. Not by accident. It's arithmetic."
 
-Nobody said anything. My mother's hand went to her apron pocket, where the letter was.
+Nobody said anything. My mother's hand went to her apron pocket, where the letter was. Lottie looked at her plate.
 
 "Somebody ought to make them trade," Booth said.
 
-He did not say anything more than that. He changed the subject, very gracefully, and told us that in ten days he would be in New York, on the stage of the Winter Garden, playing *Julius Caesar* with both of his brothers for the first time in their lives: Edwin, who was the greatest actor in the country, and Junius, and himself. It was a benefit, to raise money for a statue of Shakespeare in the new Central Park. Lottie nearly died of it.
+He did not say anything more than that. He picked up his fork again, and looked at Lottie, and saw her face, and changed the subject, very gracefully, the way you would lift a child over a puddle.
+
+"Miss Keene," he said. "Do you know what I'm doing in ten days?"
+
+She shook her head.
+
+"I'm going to be on the stage of the Winter Garden, in New York, playing *Julius Caesar,*" he said. "With both of my brothers. Edwin, and Junius, and me. The three of us, for the first time in our lives, on one stage, on one night." He opened his hands. "It's a benefit. We're raising money for a statue of Shakespeare, in the new Central Park. Our father would have liked that. He was an actor too, you know. The best of us, some people say."
+
+Lottie nearly died of it.
 
 "Which part do you play?" she asked.
 
@@ -144,7 +232,7 @@ He did not say anything more than that. He changed the subject, very gracefully,
 
 "Brutus." He smiled. "Edwin has Brutus. Edwin always gets Brutus."
 
-He said it as a joke about brothers, and we all laughed. I remember it because I thought, just for a moment, that he minded.
+He said it as a joke about brothers, and we all laughed. I laughed too. But I was sitting nearest him, and I saw his hand close on the napkin in his lap while he said it, and open again, and smooth it out flat on his knee. It took no time at all. Nobody else at that table saw it. I remember it because I thought, just for a moment, that he minded, and because it was the first thing he had done all day that he had not meant anyone to see.
 
 He did not buy a horse. He said he would think it over and come back before Christmas. He rode away down the lane in the last of the light, sitting his borrowed horse as if he had been born on it, and Lottie watched from the porch until he was gone.
 
@@ -152,9 +240,35 @@ He did not buy a horse. He said he would think it over and come back before Chri
 
 He did come back, in the middle of December.
 
-He went to Mass again, and stayed with Dr. Queen again, and called on Dr. Mudd. He said he was still looking for a horse.
+He stayed with Dr. Queen again, and on the Sunday he was at St. Mary's again, in the same good coat, and this time the whole churchyard knew who he was. After Mass there was a little crowd around him, and Lottie was at the front of it, and she did not wait to be introduced.
 
-But he had not come back for horses. On his second day in the county he rode up our lane alone, in the rain, and asked my mother if he might have a word with her son.
+"How was the play?" she said. "Mr. Booth. How was *Julius Caesar?*"
+
+He laughed, and looked around at all of them, and I saw him decide to give them a performance. He was very good at it. He did not tell it so much as play it, there on the church step, with his hands.
+
+"It was a great night," he said. "The greatest night of my life, I think. Every seat sold, and the three of us in our togas, and my mother in a box, watching her sons. And in the middle of it, with Edwin on the stage." He dropped his voice, and the crowd leaned in. "And from somewhere at the back of the house, a man stood up and shouted, *Fire!*"
+
+Somebody in the crowd gasped. Lottie had both hands over her mouth.
+
+"You could hear it," he said. "The whole house, all at once, starting to get up. The sound a crowd makes before it runs. The hotel next door had caught." He paused. "And my brother walked down to the edge of the stage, in his toga, as calm as you please, and held up his hand, and told them that there was no danger, and that they should sit down. And they did. Every one of them. He talked them down like a man gentling a horse. And then we finished the play."
+
+"Were you frightened?" Lottie said.
+
+"Not for a moment." He smiled at her. "I was in the wings. I had my best speech still to come."
+
+Everyone laughed. Somebody said it sounded like the Yankees ought to mind their fire engines. Somebody else said he'd read in the paper that it wasn't only the one hotel, it was a dozen of them, all over the city, the same night, and they were saying it was Southern men who did it.
+
+Booth's face did not change at all.
+
+"So I read," he said. "Afterward." And he turned back to Lottie and asked her whether she had ever seen a play, and the talk went on to other things.
+
+I stood at the edge of it on my crutch and thought about his story. It had been beautifully told. He had given every part of that night its moment: the house full, his mother in her box, the shout, the crowd rising, his brother at the edge of the stage. He had played it for us as well as he had ever played anything. And the only part he had nothing to say about was the part that was in every newspaper in the country.
+
+A man who has read something afterward usually has an opinion about it. Booth had an opinion about everything.
+
+When the crowd broke up, I watched Dr. Mudd take him by the arm and walk him down the road toward Bryantown, with a man I did not know walking on his other side. I did not think anything of that either, at the time.
+
+That afternoon he rode up our lane alone, in the rain, and asked my mother if he might have a word with her son.
 
 * * *
 
@@ -162,16 +276,14 @@ But he had not come back for horses. On his second day in the county he rode up 
 
 "I'm telling you I didn't."
 
-She laughed in spite of herself. Then she took out her phone, which she had promised herself she would not do during a session, and looked it up while he watched.
+She laughed in spite of herself, and then stopped, because he was not laughing.
 
-It was all there. November of 1864, Dr. Queen and his son-in-law Thompson, the church at Bryantown, Dr. Mudd. And the twenty-fifth of November, the Winter Garden Theatre in New York: *Julius Caesar,* the only night the three Booth brothers ever shared a stage. John Wilkes had played Mark Antony. Edwin had played Brutus.
+"The fires," she said. "In New York. Was that real?"
 
-"Look up what else happened in New York that night," he said.
+"You'll look it up tonight," he said. "I'd rather you did that than take my word for it. But yes."
 
-She looked. Confederate agents had set fires in a dozen of the city's hotels. One of them was the LaFarge House, right next door to the theater. Somebody shouted fire in the middle of the play, and the audience panicked, and Edwin Booth came to the front of the stage and calmed them down, and the brothers finished the show.
+"And he knew?"
 
-"He told us all about the play," he said. "The statue, the brothers, the crowd. He never said a word about the fires. Of course he didn't. Why would he?" He turned his pencil over in his fingers. "I used to wonder whether he knew."
+"I don't know." He turned his pencil over in his fingers. "That's the honest answer. He told us all about the play, the brothers, the crowd, his mother in her box. He told the fire as if it were only a thing that happened to the Booths one night in New York. I used to think that meant he knew. Then I used to think it meant he didn't care. I've had a long time to think about it, and I still don't know." He looked up at her. "You'd be surprised how much of it is like that."
 
-"Did he?"
-
-"I don't know," he said. "That's the honest answer. I've had a long time to think about it, and I still don't know." He looked up at her. "You'd be surprised how much of it is like that."
+She wrote *Winter Garden. Fires. Did he know?* at the bottom of the page, and underlined the last part, and they stopped for lunch.

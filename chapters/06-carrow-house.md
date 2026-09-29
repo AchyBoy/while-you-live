@@ -104,9 +104,9 @@ He said nothing.
 
 "He might not." He glanced at her notebook. "Petrakis was thinking about it by Friday. You could ask him what he found."
 
-"I don't know if he's still alive."
+"I haven't spoken to him since. I think he sold the building."
 
-"Then you could look at the police report."
+"Then you could start with the police report."
 
 She had looked at that report once, years ago, for anything that might tell her where her source had gone. She could not remember whether it said a word about the cat beyond where they had found it.
 
