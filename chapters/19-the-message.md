@@ -2,7 +2,7 @@
 
 ## Chapter 19: The Message
 
-"Go on," Iola said.
+"Go on," I said.
 
 He looked at the clock on the wall. It was twenty past three.
 
@@ -64,7 +64,7 @@ Then I went down. I missed the second stair and caught the rail.
 
 He stopped.
 
-"And what did he see?" Iola said. "Damon. You said you both saw correctly."
+"And what did he see?" I said. "Damon. You said you both saw correctly."
 
 "He saw a man he had known on a farm, who came back from the war changed, and cold, and whom he had never liked. Who went to Washington in the winter and began to eat his dinners at John Wilkes Booth's own table, in a coat that Booth had paid for. Who came to the side door of the National on the night of the seventeenth of March, the night the plotters were supposed to take the President, with mud to his knees and a saddled horse on a lead with nobody to ride it. Who stood at Booth's elbow on the lawn when Booth said *the last speech he will ever make,* and did not so much as turn his head. Who came out of Booth's room at midnight with his shirt full of papers." He held up his hand, and turned it over, and looked at it. "And who, on the night the President came to Ford's Theatre, had bought the seat in the dress circle nearest to the only door into the President's box, and sat in it for an hour, with his eyes on that door and on the stairs, and did not watch the play."
 
@@ -72,7 +72,7 @@ He put his hand down.
 
 "What would you have thought I was?"
 
-Iola did not answer.
+I did not answer.
 
 "He thought I was the one who would hold the door," he said. "Booth's man, placed there to keep the way clear. And he was right about everything he had seen. Every single thing. He was only wrong about me, and there was no way on earth for him to know that, because the only thing that had changed was inside my head." He smiled, very slightly.
 
@@ -80,15 +80,15 @@ Iola did not answer.
 
 "The Kirkwood." He picked up the pencil and turned it in his fingers. "I've spent a long time wondering how he knew about Atzerodt. That he'd lose his nerve. Booth never said it in front of him. I'm nearly sure of that. He must have watched Atzerodt the way he watched all of us, and worked it out for himself." He shook his head. "He was right about that too." He put the pencil down. "And he knew about the card. I have never worked out how he knew about the card. But that's the Kirkwood, and we aren't there yet."
 
-She looked at the clock. It was nearly four.
+I looked at the clock. It was nearly four.
 
-"You checked," she said. "At the Kirkwood. You said you would check."
+"You checked," I said. "At the Kirkwood. You said you would check."
 
 "I did check." He stood up, slowly, one hand on the arm of the chair. "And it was true. That's next week, Ms. Barnett. I find that I'm tired."
 
-She wanted to argue. She looked at his face and did not.
+I wanted to argue. Then I looked at his face and did not.
 
-On the porch, while she was finding her keys, he said, "The box." He nodded at it, under her arm, the one with *CARROW* on the lid. "You brought it for a reason. You just haven't found the reason yet."
+On the porch, while I was finding my keys, he said, "The box." He nodded at it, under my arm, the one with *CARROW* on the lid. "You brought it for a reason. You just haven't found the reason yet."
 
 "I told you. I don't know why I brought it."
 

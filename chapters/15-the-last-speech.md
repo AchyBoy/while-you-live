@@ -2,7 +2,7 @@
 
 ## Chapter 15: The Last Speech
 
-They ate lunch without talking much. She could tell he was somewhere else, and she let him be there. When they went back into the living room, he stood at the window for a while with his hands in his cardigan pockets, looking out at the field, before he sat down.
+We ate lunch without talking much. I could tell he was somewhere else, and I let him be there. When we went back into the living room, he stood at the window for a while with his hands in his cardigan pockets, looking out at the field, before he sat down.
 
 "The next night," he said, "he gave the speech he had promised them."
 
@@ -90,16 +90,16 @@ The second was that the other one had just seen me standing at his elbow.
 
 * * *
 
-"You stayed," Iola said. "On purpose. To spy on him."
+"You stayed," I said. "On purpose. To spy on him."
 
 "To be inside when it happened. Yes."
 
 "That's insane."
 
-"It was the only door that led anywhere," he said. "The police door led to the rope and didn't stop him. The home door led to the newspaper. Only that one went through the room where he would decide." He looked at her. "Tell me which you'd have chosen. Honestly."
+"It was the only door that led anywhere," he said. "The police door led to the rope and didn't stop him. The home door led to the newspaper. Only that one went through the room where he would decide." He looked at me. "Tell me which you'd have chosen. Honestly."
 
-She opened her mouth, and closed it again.
+I opened my mouth, and closed it again.
 
-She had chosen it herself, once. Six years ago. A source inside Carrow House, who could have walked away and didn't, because inside was the only place you could see what they were doing. She had told him to stay, for those eight months. She had told him it was the only way.
+Once, six years ago, I had chosen it myself. A source inside Carrow House, who could have walked away and didn't, because inside was the only place you could see what they were doing. I had told him to stay, for those eight months. I had told him it was the only way.
 
-She did not say any of that. She wrote down *April 11,* and underlined it, and after a moment she wrote, underneath, *the other one,* and looked at it, and did not ask.
+I did not say any of that. I wrote down *April 11,* and underlined it, and after a moment I wrote, underneath, *the other one,* and looked at it, and did not ask.

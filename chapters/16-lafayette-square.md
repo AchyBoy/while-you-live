@@ -6,31 +6,31 @@ The client's question came on Tuesday.
 
 *Please ask the gentleman whether he ever spoke to the waiter again.*
 
-Iola read it standing at the kitchen counter, and then she read it again, and then she went and got the transcripts.
+I read it standing at the kitchen counter, and then I read it again, and then I went and got the transcripts.
 
-It was a strange question. Everything the client had asked so far had made a kind of sense. The color of a thread, which nobody could check. The National Hotel, where Booth lived. Those were a skeptic's questions, the questions she would have asked herself, trying to catch a man in a lie. But the waiter was nobody. The waiter had said perhaps twenty words of his own in the whole story. Out of everything in eight sessions, the President and Booth and the plot and the guns, the client wanted to know about the waiter.
+It was a strange question. Everything the client had asked so far had made a kind of sense. The color of a thread, which nobody could check. The National Hotel, where Booth lived. Those were a skeptic's questions, the questions I would have asked myself, trying to catch a man in a lie. But the waiter was nobody. The waiter had said perhaps twenty words of his own in the whole story. Out of everything in eight sessions, the President and Booth and the plot and the guns, the client wanted to know about the waiter.
 
-She wrote it on a sticky note and put it on the front of her notebook, and under it, in small letters, *why?*
+I wrote it on a sticky note and put it on the front of my notebook, and under it, in small letters, *why?*
 
 * * *
 
-On Thursday he read the sticky note before she had even read him the question. He read it upside down, across the table, while she was setting out the recorders. She saw him do it.
+On Thursday he read the sticky note before I had even read him the question. He read it upside down, across the table, while I was setting out the recorders. I saw him do it.
 
 "*Why,*" he said. "Good."
 
 "You tell me."
 
-"I don't know," he said. And for the first time since she had known him, she believed he did not. He sat back and looked at the empty frame on the mantel for a long moment. "Your client likes Damon," he said at last, slowly. "Or he wants to know whether I did." Then he shook his head, as if setting it aside for later. "Tell him yes. More than once. Tell him I'll get there."
+"I don't know," he said. And for the first time since I had known him, I believed he did not. He sat back and looked at the empty frame on the mantel for a long moment. "Your client likes Damon," he said at last, slowly. "Or he wants to know whether I did." Then he shook his head, as if setting it aside for later. "Tell him yes. More than once. Tell him I'll get there."
 
 * * *
 
-At lunch she told him about the school.
+At lunch I told him about the school.
 
-She had not meant to. It came out sideways, the way things do, because the soup was good and because it had been a bad week. She told him that the car had made a noise on Monday that cost four hundred dollars to find out was nothing. That the gutter people wanted twelve more articles about gutter guards, which she was going to write, because it was money. That Freda's school had called on Wednesday, the chemistry teacher, Mr. Ostrowski, the one with the bow ties, to say that two lab write-ups had come in almost word for word the same, and he had to treat them both as copied until he knew otherwise, and one of them was Freda's. He had told both girls weeks ago, it turned out, the day the write-ups came in, and word had gone round the class. The school had only called now because neither girl would say anything.
+I had not meant to. It came out sideways, the way things do, because the soup was good and because it had been a bad week. I told him that the car had made a noise on Monday that cost four hundred dollars to find out was nothing. That the gutter people wanted twelve more articles about gutter guards, which I was going to write, because it was money. That Freda's school had called on Wednesday, the chemistry teacher, Mr. Ostrowski, the one with the bow ties, to say that two lab write-ups had come in almost word for word the same, and he had to treat them both as copied until he knew otherwise, and one of them was Freda's. He had told both girls weeks ago, it turned out, the day the write-ups came in, and word had gone round the class. The school had only called now because neither girl would say anything.
 
-"And Freda says she didn't," Iola said. "And she won't say anything else. Not who, not how. She just goes quiet." She stirred her soup. "She's not a cheater. She's the most annoyingly honest person I know. She told her dentist she doesn't floss."
+"And Freda says she didn't," I said. "And she won't say anything else. Not who, not how. She just goes quiet." I stirred my soup. "She's not a cheater. She's the most annoyingly honest person I know. She told her dentist she doesn't floss."
 
-He did not say anything. He listened, the way he always did, and when she had finished he asked how the car was now, and whether the gutter people paid on time, and he did not say one word about Freda or the school or the lab. She was almost disappointed. Then she was annoyed with herself for being disappointed, and then the soup was gone, and they went back into the living room.
+He did not say anything. He listened, the way he always did, and when I had finished he asked how the car was now, and whether the gutter people paid on time, and he did not say one word about Freda or the school or the lab. I was almost disappointed. Then I was annoyed with myself for being disappointed, and then the soup was gone, and we went back into the living room.
 
 * * *
 
@@ -98,9 +98,9 @@ He stopped there, and looked at the notepad for a while.
 
 "I should tell your client," he said, "that that was not speaking to him. I only watched." He smiled a little, not happily. "I watched a great deal, that week. You'd think I would have seen more."
 
-Iola was writing. *Seward, carriage accident, April 5. Check. Johnson, Kirkwood House. Check. Illumination, April 13. Check.*
+I was writing. *Seward, carriage accident, April 5. Check. Johnson, Kirkwood House. Check. Illumination, April 13. Check.*
 
-She looked up. "You worked out all three targets. From some questions and a newspaper."
+I looked up. "You worked out all three targets. From some questions and a newspaper."
 
 "From his questions. Anybody could have. Nobody else was listening to them."
 
@@ -112,4 +112,4 @@ He put the pencil down.
 
 "That's Friday," he said. "I think that's enough for today."
 
-It was only two o'clock. She did not argue. She packed up the recorders, and on the drive home she found that she kept thinking, for no reason she could name, about a man writing the same letter three times.
+It was only two o'clock. I did not argue. I packed up the recorders, and on the drive home I found that I kept thinking, for no reason I could name, about a man writing the same letter three times.

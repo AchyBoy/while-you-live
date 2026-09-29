@@ -6,21 +6,21 @@ The client's question came on Tuesday, like the first one. It was one line.
 
 *Please ask the gentleman whether he ever went to the National Hotel.*
 
-Iola looked it up before she did anything else. The National had been the grandest hotel in Washington before the war, on Pennsylvania Avenue at Sixth Street, a short walk from the Capitol. Congressmen lived there. So did John Wilkes Booth, whenever he was in the city, in room 228. The building had been torn down in 1942.
+I looked it up before I did anything else. The National had been the grandest hotel in Washington before the war, on Pennsylvania Avenue at Sixth Street, a short walk from the Capitol. Congressmen lived there. So did John Wilkes Booth, whenever he was in the city, in room 228. The building had been torn down in 1942.
 
 So it was not an odd question at all. It was the most natural question in the world. Booth lived there, and the old man said he had been one of Booth's men.
 
-She read it again anyway. It had taken the client two weeks of silence to ask it.
+I read it again anyway. It had taken the client two weeks of silence to ask it.
 
-She had also called the National Archives. You could not simply walk in and ask for microfilm, it turned out. You needed a researcher card, and to get one you had to sit through an orientation, and the next orientation with a free seat was the following Monday. She put it on the calendar under *Archives. Hurley.* and felt, absurdly, as if the building were stalling her on purpose.
+I had also called the National Archives. You could not simply walk in and ask for microfilm, it turned out. You needed a researcher card, and to get one you had to sit through an orientation, and the next orientation with a free seat was the following Monday. I put it on the calendar under *Archives. Hurley.* and felt, absurdly, as if the building were stalling me on purpose.
 
 * * *
 
-On Thursday she set out the recorders, said the date and the time, and read him the question.
+On Thursday I set out the recorders, said the date and the time, and read him the question.
 
 "The National," he said. "Yes. Many times."
 
-He did not look at the mantel this time. He looked at her, and for a moment she had the feeling that he was deciding something. Then he smiled and settled back.
+He did not look at the mantel this time. He looked at me, and for a moment I had the feeling that he was deciding something. Then he smiled and settled back.
 
 "Tell your client yes," he said. "And I'll tell you about it. I think it's what he wants to hear."
 
@@ -104,9 +104,9 @@ I did not think about any of that. I was busy watching the bridge.
 
 * * *
 
-He stopped there, and was quiet for long enough that Iola checked the red light on the recorder.
+He stopped there, and was quiet for long enough that I checked the red light on the recorder.
 
-"The menus," she said. "The handwriting."
+"The menus," I said. "The handwriting."
 
 "Yes?"
 
@@ -114,10 +114,10 @@ He stopped there, and was quiet for long enough that Iola checked the red light 
 
 "Before the coffee came."
 
-"Then what did you get wrong?" She looked at her notes. "You said it was partly true."
+"Then what did you get wrong?" I looked at my notes. "You said it was partly true."
 
 He looked down at his notepad, and his pencil moved a little, going over something already drawn.
 
 "The likely answer is nearly always the right one," he said. "That's what makes it dangerous. You stop looking the moment you have it." He smiled slightly. "I had it. So I stopped looking."
 
-On the drive home she tried to think of a way to check the handwriting on a bill of fare at a hotel that had been torn down eighty years ago, and could not think of one, and was annoyed with herself for trying.
+On the drive home I tried to think of a way to check the handwriting on a bill of fare at a hotel that had been torn down eighty years ago, and could not think of one, and was annoyed with myself for trying.

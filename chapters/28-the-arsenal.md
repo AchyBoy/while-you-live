@@ -8,9 +8,9 @@
 
 "Then you know what she's famous for. Being the first." He looked at the fire. "I want to tell you what she was to me. It isn't the same."
 
-It was the fifteenth Thursday. The payment for the last session had come on Monday, double again, with the same note, and Iola had stopped being surprised by it and started being uneasy. She had not said so to him. She thought he knew.
+It was the fifteenth Thursday. The payment for the last session had come on Monday, double again, with the same note, and I had stopped being surprised by it and started being uneasy. I had not said so to him. I thought he knew.
 
-Before they started, because he asked, she told him the school business was dragging on. Mr. Ostrowski had called both girls in on Monday and laid the two write-ups side by side on his desk, and Freda said you could hardly tell them apart, they even had the same weird numbers in the tables, and then Freda had cried in the car, which she never did. He listened, and nodded, and asked whether the gutter people had paid yet.
+Before we started, because he asked, I told him the school business was dragging on. Mr. Ostrowski had called both girls in on Monday and laid the two write-ups side by side on his desk, and Freda said you could hardly tell them apart, they even had the same weird numbers in the tables, and then Freda had cried in the car, which she never did. He listened, and nodded, and asked whether the gutter people had paid yet.
 
 * * *
 
@@ -100,9 +100,9 @@ I had seen that before. In the dining room of the National, on the thirteenth of
 
 He stopped. His hand had gone still on the notepad.
 
-Iola sat very still.
+I sat very still.
 
-"Damon," she said. "The night before. He was writing to Lincoln."
+"Damon," I said. "The night before. He was writing to Lincoln."
 
 "I think so. I've thought so ever since that night on Seventh Street." He looked down at his hand, and moved it off the page. "I never knew for certain. I never saw it. He never told me. But I think that man sat up writing a warning to the President of the United States, in the best hand in Washington, and walked it to the door himself. And they put it on a pile." He was quiet a moment. "Like mine."
 
@@ -110,4 +110,4 @@ Iola sat very still.
 
 "She was hanged the next afternoon," he said. "At the Arsenal. At half past one." He picked up his pencil again. "I was there. That's next week. I'd like to stop."
 
-She turned off the recorders herself, before he asked her to.
+I turned off the recorders myself, before he asked me to.

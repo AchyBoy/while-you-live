@@ -2,11 +2,11 @@
 
 ## Chapter 29: July the Seventh
 
-He was sitting on the porch when she drove up, in his coat, in the cold, the way he had been the week of the Kirkwood. He did not get up. When she came up the steps he moved over on the bench to make room, and she sat down beside him, and for a while neither of them said anything. Their breath went up white.
+He was sitting on the porch when I drove up, in his coat, in the cold, the way he had been the week of the Kirkwood. He did not get up. When I came up the steps he moved over on the bench to make room, and I sat down beside him, and for a while neither of us said anything. Our breath went up white.
 
 "I'd like to tell this one out here," he said. "If you don't mind the cold. It was very hot that day. I find I don't want to be warm while I tell it."
 
-She put the phone on the bench between them and turned it on, and did not bother with the other recorder.
+I put the phone on the bench between us and turned it on, and did not bother with the other recorder.
 
 * * *
 
@@ -68,18 +68,18 @@ It was true, as far as it went. It was the only home that body ever had. I staye
 
 He was quiet then.
 
-Iola sat beside him on the cold bench and looked out at the field. The frost had gone off it in the sun, and it was brown and bare, and a hawk was going round and round over the far end of it, very high.
+I sat beside him on the cold bench and looked out at the field. The frost had gone off it in the sun, and it was brown and bare, and a hawk was going round and round over the far end of it, very high.
 
-"That's the end," she said. "Of 1865."
+"That's the end," I said. "Of 1865."
 
 "That's the end of 1865."
 
-She reached down and turned off the phone. She did not know what she was supposed to say. In all her years of interviews she had never once not known what to say at the end of one.
+I reached down and turned off the phone. I did not know what I was supposed to say. In all my years of interviews I had never once not known what to say at the end of one.
 
-"Thank you," she said at last. "For telling me."
+"Thank you," I said at last. "For telling me."
 
-He looked at her, surprised, as if nobody had ever said that to him before. Perhaps nobody had.
+He looked at me, surprised, as if nobody had ever said that to him before. Perhaps nobody had.
 
 "Thank you for listening to it," he said. "I don't think anyone ever has. Not all of it. Not in order." He looked back at the hawk. "It turns out it's heavier in order."
 
-They sat on the porch until she was too cold to feel her hands. Then he stood up, slowly, one hand on the rail, and said he supposed she would want her lunch, and they went in.
+We sat on the porch until I was too cold to feel my hands. Then he stood up, slowly, one hand on the rail, and said he supposed I would want my lunch, and we went in.

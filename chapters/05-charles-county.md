@@ -6,17 +6,17 @@ The email from Aldine, Mercer and Voss came on Tuesday morning. It was two lines
 
 *Ms. Barnett, our client thanks you for the first session and has one question for the next. Please ask the gentleman what color the thread was.*
 
-She read it three times, and then she had to go back through her own transcript to find out what it meant. It took her ten minutes. It was a single sentence near the start, when he was describing waking in the field, looking at his own sleeves: *There was a hole in one elbow that somebody had darned with the wrong color thread.*
+I read it three times, and then I had to go back through my own transcript to find out what it meant. It took me ten minutes. It was a single sentence near the start, when he was describing waking in the field, looking at his own sleeves: *There was a hole in one elbow that somebody had darned with the wrong color thread.*
 
-She had typed that sentence herself on Friday, and sent it off to Aldine with the rest, and had not given it a second thought. Somebody else had read it and given it a great deal of thought. Somebody had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
+I had typed that sentence myself on Friday, and sent it off to Aldine with the rest, and had not given it a second thought. Somebody else had read it and given it a great deal of thought. Somebody had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
 
-It was, she had to admit, exactly what she would have done.
+It was, I had to admit, exactly what I would have done.
 
 * * *
 
-On Thursday the kettle was on again. The stairs still had a book on every step. The chess game by the window had moved on by two pieces, and she wondered who he played against, and then decided he played against himself.
+On Thursday the kettle was on again. The stairs still had a book on every step. The chess game by the window had moved on by two pieces, and I wondered who he played against, and then decided he played against himself.
 
-She set out the two recorders. She said the date and the time. Then she read him the email.
+I set out the two recorders. I said the date and the time. Then I read him the email.
 
 "Blue," he said.
 
@@ -24,11 +24,11 @@ He said it at once, without looking up and without thinking, the way you would s
 
 "Union blue," he went on. "Which was the joke of it, in that coat. His mother had run out of gray the winter before he went, and she used what she had, and she told him that if anybody asked, he should say he'd taken a Yankee prisoner and kept the thread for a souvenir." He smiled a little. "I never met anyone who asked. Until now."
 
-"How do you know that?" Iola said. "If it happened before you were... him."
+"How do you know that?" I said. "If it happened before you were... him."
 
 "She told me." He said it simply. "That August, sitting by my bed, mending the same coat. She told it as a joke we both knew. I laughed in the right place." He looked down at his hands. "The body keeps what it knows how to do, Ms. Barnett. The accent, the hands, how to sit a horse. It doesn't keep what it remembers. That, you have to be told."
 
-"It's an odd question," Iola said.
+"It's an odd question," I said.
 
 "It is." He was quiet for a moment, and his eyes went, just briefly, to the mantel, and then back. "Your client reads carefully."
 
@@ -36,7 +36,7 @@ He said it at once, without looking up and without thinking, the way you would s
 
 "So do you, I think. You had to look for it."
 
-"I had to look for it," she admitted.
+"I had to look for it," I admitted.
 
 He nodded, as if that settled something, and did not say what.
 
@@ -160,10 +160,10 @@ I never expected to see him again.
 
 * * *
 
-The fire in the woodstove had burned down. Iola had filled most of a notebook.
+The fire in the woodstove had burned down. I had filled most of a notebook.
 
-"Did you see him again?" she asked. "Damon."
+"Did you see him again?" I asked. "Damon."
 
-He looked at her for a long moment.
+He looked at me for a long moment.
 
 "We'll get there," he said.

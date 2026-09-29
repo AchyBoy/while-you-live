@@ -2,9 +2,9 @@
 
 ## Chapter 18: The Afternoon
 
-He did not make soup that day. He made sandwiches, and they ate them standing in the kitchen, and neither of them suggested sitting down. The box with *CARROW* on the lid stayed on the living room floor by her chair, where she had left it. She saw him glance at it once, through the doorway, and then away.
+He did not make soup that day. He made sandwiches, and we ate them standing in the kitchen, and neither of us suggested sitting down. The box with *CARROW* on the lid stayed on the living room floor by my chair, where I had left it. I saw him glance at it once, through the doorway, and then away.
 
-When they went back in, he did not sit. He stood by the window.
+When we went back in, he did not sit. He stood by the window.
 
 "I had ten hours," he said. "I want to tell you how I spent them, because I spent them well. That's important. I don't want you to think what happened that night happened because I was slow."
 
@@ -100,8 +100,8 @@ And at a little after half past nine, somebody touched my shoulder from behind, 
 
 He stopped there.
 
-Iola's hand had stopped moving on the page some time before. She looked down and found that she had written, in the margin, very small, the word *loud,* and underlined it twice.
+My hand had stopped moving on the page some time before. I looked down and found that I had written, in the margin, very small, the word *loud,* and underlined it twice.
 
-"That was a good plan," she said. She had not meant to say it.
+"That was a good plan," I said. I had not meant to say it.
 
-"It was a very good plan," he said. "I've had a long time to look for the hole in it, and I've only ever found one." He looked at the box on the floor by her chair. "Someone else was watching the same door."
+"It was a very good plan," he said. "I've had a long time to look for the hole in it, and I've only ever found one." He looked at the box on the floor by my chair. "Someone else was watching the same door."

@@ -2,43 +2,43 @@
 
 ## Chapter 13: The Register
 
-The National Archives building on Pennsylvania Avenue looks like a bank that has decided to become a temple. Iola had driven past it most of her life. On Tuesday morning she went in through the researchers' entrance on the side, showed her laminated card with its terrible photograph, put her bag in a locker because bags were not allowed, and was given a pencil, because pens were not allowed either.
+The National Archives building on Pennsylvania Avenue looks like a bank that has decided to become a temple. I had driven past it most of my life. On Tuesday morning I went in through the researchers' entrance on the side, showed my laminated card with its terrible photograph, put my bag in a locker because bags were not allowed, and was given a pencil, because pens were not allowed either.
 
-The microfilm room was dim and cool and almost silent. There were rows of readers, big gray machines with screens like old televisions, and at most of them sat somebody bent close, turning a crank. A retired man was looking for his great-grandfather. A graduate student had three boxes of reels and the face of someone who had not slept. Iola found her reel waiting for her at the desk, threaded it the way the video had shown her, and turned the crank.
+The microfilm room was dim and cool and almost silent. There were rows of readers, big gray machines with screens like old televisions, and at most of them sat somebody bent close, turning a crank. A retired man was looking for his great-grandfather. A graduate student had three boxes of reels and the face of someone who had not slept. My reel was waiting for me at the desk. I threaded it the way the video had shown me, and turned the crank.
 
-The pages went by in a gray blur and then slowed. They were registers. Big ledger books, photographed page by page a long time ago, with columns ruled by hand: name, rank, company, regiment, where captured, when captured, and at the end a wide column headed *Remarks.* The handwriting changed every few pages as one clerk went off duty and another sat down. Some of them wrote beautifully. Some of them she could hardly read.
+The pages went by in a gray blur and then slowed. They were registers. Big ledger books, photographed page by page a long time ago, with columns ruled by hand: name, rank, company, regiment, where captured, when captured, and at the end a wide column headed *Remarks.* The handwriting changed every few pages as one clerk went off duty and another sat down. Some of them wrote beautifully. Some of them I could hardly read.
 
-The names were in rough alphabetical order, and there were so many of them. She had known the numbers from the website. Ten thousand men, twenty thousand. She had not known what it would be like to turn a crank for forty minutes and still be in the *H*s.
+The names were in rough alphabetical order, and there were so many of them. I had known the numbers from the website. Ten thousand men, twenty thousand. What I had not known was what it would be like to turn a crank for forty minutes and still be in the *H*s.
 
-She found the Hurleys at a quarter to twelve.
+I found the Hurleys at a quarter to twelve.
 
-There were three. A John Hurley from Georgia, exchanged in March. A Hurley with no first name at all, only an initial she could not make out. And one line that stopped her hand on the crank.
+There were three. A John Hurley from Georgia, exchanged in March. A Hurley with no first name at all, only an initial I could not make out. And one line that stopped my hand on the crank.
 
-*Hurly, E. Pvt.* A Virginia infantry regiment, a company letter, captured in May of 1864. And in a column she had not expected, somebody had written *resid. St. Mary's Co., Md.*
+*Hurly, E. Pvt.* A Virginia infantry regiment, a company letter, captured in May of 1864. And in a column I had not expected, somebody had written *resid. St. Mary's Co., Md.*
 
-She sat and looked at it.
+I sat and looked at it.
 
-He had said the clerks spelled it three ways. He had said she would not find him as Edward. He had said St. Mary's County, a waterman's son, raised on his aunt's farm across the county line. It was all sitting there on the screen in a dead clerk's handwriting, the way he had told it.
+He had said the clerks spelled it three ways. He had said I would not find him as Edward. He had said St. Mary's County, a waterman's son, raised on his aunt's farm across the county line. It was all sitting there on the screen in a dead clerk's handwriting, the way he had told it.
 
-She made herself move her eyes to the end of the line. The *Remarks* column.
+I made myself move my eyes to the end of the line. The *Remarks* column.
 
 *Died Feb. 6, 1865. Chr. diarrhoea.*
 
 The flux. The thing that had killed Jem Carroll.
 
-She wrote it down exactly as it was, spelling and all, the regiment and the company and the date. Then she sat with her pencil in her hand for a long time, in the dim room, with the gray page glowing in front of her.
+I wrote it down exactly as it was, spelling and all, the regiment and the company and the date. Then I sat with the pencil in my hand for a long time, in the dim room, with the gray page glowing in front of me.
 
-It did not prove anything. She told herself that first, because it was true. Anyone could have found this. A man with a lot of time and an interest in the war could have sat at this same machine thirty years ago and found a private named Hurly who died of dysentery at Point Lookout, and built a whole family around him: an aunt, a cousin, a farm, a mother with a letter in her apron pocket. It would be a strange thing to do. People did strange things.
+It did not prove anything. I told myself that first, because it was true. Anyone could have found this. A man with a lot of time and an interest in the war could have sat at this same machine thirty years ago and found a private named Hurly who died of dysentery at Point Lookout, and built a whole family around him: an aunt, a cousin, a farm, a mother with a letter in her apron pocket. It would be a strange thing to do. People did strange things.
 
-But on the drive home she found she was thinking about the date. The sixth of February. The first boats had taken men away from Point Lookout to be exchanged a week later, in the middle of the month. She had read that on the website. A week.
+But on the drive home I found I was thinking about the date. The sixth of February. The first boats had taken men away from Point Lookout to be exchanged a week later, in the middle of the month. I had read that on the website. A week.
 
 * * *
 
 "Did the cousin die?" Freda said.
 
-She said it without looking up, the way she had said it every night for weeks, the way you ask about the weather. Then she looked up, because her mother had not answered.
+She said it without looking up, the way she had said it every night for weeks, the way you ask about the weather. Then she looked up, because I had not answered.
 
-"Yes," Iola said.
+"Yes," I said.
 
 Freda put her pencil down. "Oh."
 
@@ -54,21 +54,21 @@ Freda put her pencil down. "Oh."
 
 Freda thought about that. "Are you going to tell him?"
 
-"No," Iola said. "I'm going to wait and see if he tells me. And what date he says."
+"No," I said. "I'm going to wait and see if he tells me. And what date he says."
 
-Freda looked at her for a long moment, the way she sometimes did lately, as if she were seeing her mother from the outside for the first time.
+Freda looked at me for a long moment, the way she sometimes did lately, as if she were seeing me from the outside for the first time.
 
 "That's kind of cold," she said. "But it's also kind of smart." And she picked up her pencil again.
 
-Iola wrote the date on an index card, *Feb. 6,* and turned it face down, and put it in the back of her notebook, where she would not have to look at it.
+I wrote the date on an index card, *Feb. 6,* and turned it face down, and put it in the back of my notebook, where I would not have to look at it.
 
 * * *
 
-On Thursday he talked for most of the morning about the week after the seventeenth: the plotters scattering, the letters from Baltimore, the lumber yard. She listened, and wrote, and did not ask about Ned.
+On Thursday he talked for most of the morning about the week after the seventeenth: the plotters scattering, the letters from Baltimore, the lumber yard. I listened, and wrote, and did not ask about Ned.
 
-She could see him noticing that she did not ask. Once he looked up from the notepad and studied her face for a moment, and she held still under it, and he looked down again.
+I could see him noticing that I did not ask. Once he looked up from the notepad and studied my face for a moment, and I held still under it, and he looked down again.
 
-After lunch, he told her.
+After lunch, he told me.
 
 * * *
 
@@ -86,15 +86,15 @@ I had known since December. I had known from the moment I saw that careful handw
 
 He stopped. Outside, somebody's dog was barking a long way off, and the woodstove ticked.
 
-Iola did not reach for the notebook. She did not have to. She knew what was on the card in the back of it.
+I did not reach for the notebook. There was no need. I knew what was on the card in the back of it.
 
-"The sixth of February," she said.
+"The sixth of February," I said.
 
-He looked at her. For a moment his face did something she had not seen it do before: it went still, completely, the way a person goes still when they have been caught out. Then, slowly, the stillness went, and something that was almost a smile came instead.
+He looked at me. For a moment his face did something I had not seen it do before: it went still, completely, the way a person goes still when they have been caught out. Then, slowly, the stillness went, and something that was almost a smile came instead.
 
 "You found him," he said.
 
-"On Tuesday. At the Archives. *Hurly, E.* No *e.* St. Mary's County." She heard her own voice, and it was not quite steady. "Died February sixth. Chronic diarrhoea."
+"On Tuesday. At the Archives. *Hurly, E.* No *e.* St. Mary's County." I heard my own voice, and it was not quite steady. "Died February sixth. Chronic diarrhoea."
 
 "And you didn't tell me."
 
@@ -102,21 +102,21 @@ He looked at her. For a moment his face did something she had not seen it do bef
 
 "You waited to see what date I would say." He nodded slowly. "That's what I would have done."
 
-"It doesn't prove anything," she said. "You know that. Anyone could have found that line. You could have found it yourself, years ago."
+"It doesn't prove anything," I said. "You know that. Anyone could have found that line. You could have found it yourself, years ago."
 
-"Yes," he said. "Anyone could. And if I had, I would have known the date too, wouldn't I?" He did not sound disappointed. He sounded, if anything, pleased with her. "Good. Keep doing that."
+"Yes," he said. "Anyone could. And if I had, I would have known the date too, wouldn't I?" He did not sound disappointed. He sounded, if anything, pleased with me. "Good. Keep doing that."
 
 * * *
 
-She wanted to leave it there. She found she could not.
+I wanted to leave it there. I found I could not.
 
-"You knew in December," she said. "You told me. You read that letter and you knew he was dying. And you still thought that kidnapping the President of the United States was the answer."
+"You knew in December," I said. "You told me. You read that letter and you knew he was dying. And you still thought that kidnapping the President of the United States was the answer."
 
 "Yes."
 
-"You're not stupid. I've spent seven Thursdays with you. You're the least stupid person I've ever met." She put her pen down. "So explain it to me. Not the arithmetic. Booth's arithmetic. You. Why would a man like you walk into that?"
+"You're not stupid. I've spent seven Thursdays with you. You're the least stupid person I've ever met." I put my pen down. "So explain it to me. Not the arithmetic. Booth's arithmetic. You. Why would a man like you walk into that?"
 
-He was quiet for a long time. Long enough that she glanced at the recorder.
+He was quiet for a long time. Long enough that I glanced at the recorder.
 
 "Because it made sense," he said at last. "That's the honest answer, and it's the one nobody wants. You want me to tell you I was fooled, or angry, or young. I was all three. But I wasn't stupid, and it wasn't madness. Every step of it made sense from where I stood."
 
@@ -126,8 +126,8 @@ He held up a hand and counted on his fingers.
 
 "Why?"
 
-He looked at her, and for a moment he seemed about to say something else entirely. Then he looked at the window instead.
+He looked at me, and for a moment he seemed about to say something else entirely. Then he looked at the window instead.
 
 "Because I have always been pulled toward the places where things happen," he said. "I can't stay home when history is being made in the next town. I never could. It's the worst thing about me." He picked up the pencil again. "That winter, it was being made in Washington. And I wanted very badly to be in the room."
 
-She wrote it down. She wished, driving home, that it had made less sense.
+I wrote it down. Driving home, I wished that it had made less sense.

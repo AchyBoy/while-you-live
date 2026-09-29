@@ -4,33 +4,33 @@
 
 The payment for Session 11 landed on Monday afternoon, four days late, which it had never been. Nothing had come on Thursday.
 
-Iola looked at it on her phone in the parking lot of the grocery store, and then looked again, and then sat in the car with the engine off and the groceries getting warm in the back. It was six thousand dollars. Twice the rate. The note on the transfer, instead of the session number, said: *Our client asks you to take all the time the gentleman needs.*
+I looked at it on my phone in the parking lot of the grocery store, and then looked again, and then sat in the car with the engine off and the groceries getting warm in the back. It was six thousand dollars. Twice the rate. The note on the transfer, instead of the session number, said: *Our client asks you to take all the time the gentleman needs.*
 
 There was no question with it. There was no email at all.
 
-She called the number at Aldine, Mercer and Voss that afternoon, the one she had called in the beginning. The same woman answered on the second ring. Iola said there must have been a mistake in the payment. The woman said there was no mistake. Iola asked whether the client had a question for the next session. The woman said the client did not, and that he had asked her to say, if Ms. Barnett called, that he had read the transcript with great attention, and that he was grateful.
+That afternoon I called the number at Aldine, Mercer and Voss, the one I had called in the beginning. The same woman answered on the second ring. I said there must have been a mistake in the payment. The woman said there was no mistake. I asked whether the client had a question for the next session. The woman said the client did not, and that he had asked her to say, if Ms. Barnett called, that he had read the transcript with great attention, and that he was grateful.
 
-"Grateful for what?" Iola said.
+"Grateful for what?" I said.
 
 "He didn't say, Ms. Barnett."
 
-Iola hung up. She sat in the car a while longer.
+I hung up, and sat in the car a while longer.
 
-In eleven sessions the client had never once said anything about the story itself. He had asked his odd, narrow questions, one at a time, like a man picking a lock. He had never said whether he believed it, or liked it, or what it was for. And now he had read the part where a lame boy and a waiter said *his sleeves* in the same breath on a street in 1865, and he had doubled her money, and he was grateful, and he did not have a question anymore.
+In eleven sessions the client had never once said anything about the story itself. He had asked his odd, narrow questions, one at a time, like a man picking a lock. He had never said whether he believed it, or liked it, or what it was for. And now he had read the part where a lame boy and a waiter said *his sleeves* in the same breath on a street in 1865, and he had doubled my money, and he was grateful, and he did not have a question anymore.
 
-She put the car in gear and drove home, and put the groceries away, and did not tell Freda about the money, because she did not know how to explain it.
+I put the car in gear and drove home, and put the groceries away, and did not tell Freda about the money, because I did not know how to explain it.
 
 * * *
 
-She told him on Thursday. She read him the note from her phone.
+I told him on Thursday. I read him the note from my phone.
 
-He listened without moving. When she got to *take all the time the gentleman needs,* he looked at the mantel, at the empty frame with its polished glass, for longer than he had ever looked at it before. His face did not change. But he was quiet for so long that she checked the recorders.
+He listened without moving. When I got to *take all the time the gentleman needs,* he looked at the mantel, at the empty frame with its polished glass, for longer than he had ever looked at it before. His face did not change. But he was quiet for so long that I checked the recorders.
 
 "Well," he said finally. "That's kind of him."
 
 "Is it?"
 
-"I don't know yet." He turned back to her, and some of the usual dryness came back into his voice. "I find I don't know a great many things about your client. I'm not used to that." He picked up his pencil. "The fifteenth of April. Everybody in Washington was looking for someone. I was one of the someones."
+"I don't know yet." He turned back to me, and some of the usual dryness came back into his voice. "I find I don't know a great many things about your client. I'm not used to that." He picked up his pencil. "The fifteenth of April. Everybody in Washington was looking for someone. I was one of the someones."
 
 * * *
 
@@ -92,8 +92,8 @@ I sat in the blue coat in a saloon doorway on Seventh Street, with the city goin
 
 He stopped.
 
-"You went home," Iola said. It was not a question.
+"You went home," I said. It was not a question.
 
-"I went home." He turned the pencil in his fingers. "Getting out of Washington that week is a story by itself. I'll tell you next time. I'm going to tell you how I found him, Ms. Barnett. Booth. I knew where he was going before the army did. That was the one thing that week I got right." He looked at her. "It didn't make any difference to him, in the end." He put the pencil down. "Next week."
+"I went home." He turned the pencil in his fingers. "Getting out of Washington that week is a story by itself. I'll tell you next time. I'm going to tell you how I found him, Ms. Barnett. Booth. I knew where he was going before the army did. That was the one thing that week I got right." He looked at me. "It didn't make any difference to him, in the end." He put the pencil down. "Next week."
 
-She wrote *Seventh Street, rag shops, blue coat,* and then, underneath, because she could not help it, *the right thread.*
+I wrote *Seventh Street, rag shops, blue coat,* and then, underneath, because I could not help it, *the right thread.*

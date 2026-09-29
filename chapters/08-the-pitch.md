@@ -2,9 +2,9 @@
 
 ## Chapter 8: The Pitch
 
-At noon he made soup again, white bean this time, with a ham bone in it, and cornbread from a box that he apologized for. They ate it at the kitchen table and talked about nothing at all: the bakery that was closing, a fox he had seen in the field, a show Freda watched that Iola could not follow. He did not say Booth's name once.
+At noon he made soup again, white bean this time, with a ham bone in it, and cornbread from a box that he apologized for. We ate it at the kitchen table and talked about nothing at all: the bakery that was closing, a fox he had seen in the field, a show Freda watched that I could not follow. He did not say Booth's name once.
 
-Afterward they went back to the living room. She turned the recorders on and said the time.
+Afterward we went back to the living room. I turned the recorders on and said the time.
 
 "December," he said. "He came back in December, in the rain."
 
@@ -38,7 +38,7 @@ He came in out of the doorway, and stood close, and lowered his voice under the 
 
 * * *
 
-I am going to tell you what he said as closely as I can, and I am going to tell you why I listened. I am not asking you to agree with either of us. I am asking you to understand that it did not sound, in that barn in December of 1864, like what you know it turned into.
+I am going to tell you what he said as closely as I can, and I am going to tell you why I listened. I am not asking you to agree with either of us. I am only asking you to stand in that barn with me, in December of 1864, and hear it the way I heard it.
 
 "You know the war is lost," he said.
 
@@ -88,7 +88,7 @@ I did not say anything. The rain went on.
 
 "He won't be." He said it with complete certainty. "He can't be. A dead President is worth nothing to anybody. He'd be a martyr, and they'd hang every man in Maryland for it, and they'd be right to. A live one is worth an army." He spread his hands. "No one is to be hurt. I've told every man I've spoken to the same thing. You have my word."
 
-I believed him. I want to be honest about that, because it would be easy to pretend now that I didn't. He meant it. In December of 1864, standing in that barn, John Wilkes Booth did not mean to kill anybody.
+I believed him. I have heard a great many men give their word, in a great many lives, and I know the sound of a man who means it. He meant it. And it was a good plan. I stood in that barn and looked for the flaw in it, and I could not find one.
 
 * * *
 

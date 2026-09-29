@@ -4,32 +4,32 @@
 
 The electric bill was on top because it was the only one printed in red.
 
-Iola Barnett moved it to the bottom of the pile, which changed nothing, and then moved it back, which changed less. Through the wall she could hear Freda on the phone, laughing the low, careful laugh she saved for friends. She was sixteen. A good kid, everyone said so, and Iola believed it. But lately there was a door in her daughter that stayed shut, and Iola had not yet found out what was behind it.
+I moved it to the bottom of the pile, which changed nothing, and then moved it back, which changed less. Through the wall I could hear Freda on the phone, laughing the low, careful laugh she saved for friends. She was sixteen. A good kid, everyone said so, and I believed it. But lately there was a door in my daughter that stayed shut, and I had not yet found out what was behind it.
 
 Dinner was done and the dishes put away. Tomorrow's lunches were already in the fridge, and the permission slip for Friday was signed and clipped to Freda's bag. On the laptop, tonight's job sat open: four hundred words on why a family should choose one brand of gutter guard over another.
 
-These days Iola wrote whatever people paid her to write. The gutter company paid sixty dollars a piece and paid on time, which put it ahead of most. There was also a dentist who wanted a blog, a retired man writing a memoir about forty years in the carpet business, and a real estate office that sent her photos of houses and asked her to make them sound bigger. She did all of it well and on time. It paid most of the bills. None of it would ever be read twice.
+These days I wrote whatever people paid me to write. The gutter company paid sixty dollars a piece and paid on time, which put it ahead of most. There was also a dentist who wanted a blog, a retired man writing a memoir about forty years in the carpet business, and a real estate office that sent me photos of houses and asked me to make them sound bigger. I did all of it well and on time. It paid most of the bills. None of it would ever be read twice.
 
-There had been a time when people quoted her. Not often, and not on television, but in rooms that mattered, by people who had read the whole piece. She had been the reporter who went and checked the thing everyone else took for granted. As far as she had ever understood it, that was the whole job: find out whether it was true.
+There had been a time when people quoted me. Not often, and not on television, but in rooms that mattered, by people who had read the whole piece. I had been the reporter who went and checked the thing everyone else took for granted. As far as I had ever understood it, that was the whole job: find out whether it was true.
 
 Then there had been the auction house story.
 
-Six years ago, a man had called the newsroom and asked for her by name. He worked in the back rooms of Carrow House, the old auction house downtown, the one with the brass doors and the catalogs printed on heavy paper. His job was repairing old documents before they went to sale: flattening letters, mending torn deeds, rebinding diaries that had come apart at the spine. He said that some of the letters Carrow sold as genuine, signed by presidents and generals and famous names, were not genuine at all. He said he could prove it. He said he had been asked to *repair* some of them, and that the damage he had been asked to repair was new.
+Six years ago, a man had called the newsroom and asked for me by name. He worked in the back rooms of Carrow House, the old auction house downtown, the one with the brass doors and the catalogs printed on heavy paper. His job was repairing old documents before they went to sale: flattening letters, mending torn deeds, rebinding diaries that had come apart at the spine. He said that some of the letters Carrow sold as genuine, signed by presidents and generals and famous names, were not genuine at all. He said he could prove it. He said he had been asked to *repair* some of them, and that the damage he had been asked to repair was new.
 
-It had taken her eight months. She had met him in diners and parking lots and once, memorably, in a laundromat. She had checked everything he gave her, and everything he gave her had checked out. The story ran on a Sunday, on the front page, under her name.
+It had taken me eight months. I had met him in diners and parking lots and once, memorably, in a laundromat. I had checked everything he gave me, and everything he gave me had checked out. The story ran on a Sunday, on the front page, under my name.
 
 On Monday, Carrow House sued.
 
-On Wednesday, her source was gone. Not fired, not arrested, not quoted in a rival paper denying everything. Gone. His apartment was dark, his phone was off, and nobody who knew him would say where he had gone, if they knew. Without him, the documents he had given her were only documents. Carrow's lawyers said the documents were themselves fakes, made up to smear an honest business. The paper's lawyers called it a difficult position. By the end of the year the paper had printed a correction that took up more space than some of her stories had, and Iola had been let go with a handshake and a box.
+On Wednesday, my source was gone. Not fired, not arrested, not quoted in a rival paper denying everything. Gone. His apartment was dark, his phone was off, and nobody who knew him would say where he had gone, if they knew. Without him, the documents he had given me were only documents. Carrow's lawyers said the documents were themselves fakes, made up to smear an honest business. The paper's lawyers called it a difficult position. By the end of the year the paper had printed a correction that took up more space than some of my stories had, and I had been let go with a handshake and a box.
 
-Everyone in the business knew what that meant. It meant she had made it up.
+Everyone in the business knew what that meant. It meant I had made it up.
 
 
-That was six years ago. The envelope on the counter tonight had come that afternoon. She had left it unopened on the counter beside the fruit bowl, because nothing good arrived in paper that heavy. Heavy paper meant lawyers, and lawyers were how the last story had ended.
+That was six years ago. The envelope on the counter tonight had come that afternoon, addressed in type to Ms. Iola Barnett. I had left it unopened beside the fruit bowl, because nothing good arrived in paper that heavy. Heavy paper meant lawyers, and lawyers were how the last story had ended.
 
-She opened it anyway, because the electric bill was red.
+I opened it anyway, because the electric bill was red.
 
-It was from a firm she had never heard of, Aldine, Mercer and Voss, with an address in a city she had never been to. The letter was typed, polite, and longer than she expected.
+It was from a firm I had never heard of, Aldine, Mercer and Voss, with an address in a city I had never been to. The letter was typed, polite, and longer than I expected.
 
 *Dear Ms. Barnett,*
 
@@ -41,25 +41,25 @@ It was from a firm she had never heard of, Aldine, Mercer and Voss, with an addr
 
 *Lastly, our client asks us to add that he has always believed you about Bookbinder.*
 
-She read that line four times. Then she put the letter face down on the counter, the way she would put down a hot pan, and stood with her hand flat on top of it.
+I read that line four times. Then I put the letter face down on the counter, the way you would put down a hot pan, and stood with my hand flat on top of it.
 
 Nobody knew about Bookbinder.
 
-That was not a figure of speech. It was the name she had given her source in her own notes, because of the work he did and because she never wrote a real name down where someone could find it. It was in her own handwriting, in a notebook that had never left her bag. It had not been in the paper. It had not been said to her editor, who had only ever called him *your guy.* It had not been said to the lawyers, who had called him *the alleged source* until the word *alleged* was all anyone remembered.
+That was not a figure of speech. It was the name I had given my source in my own notes, because of the work he did and because I never wrote a real name down where someone could find it. It was in my own handwriting, in a notebook that had never left my bag. It had not been in the paper. It had not been said to my editor, who had only ever called him *your guy.* It had not been said to the lawyers, who had called him *the alleged source* until the word *alleged* was all anyone remembered.
 
-Two people on earth had known that name. One of them was standing in her kitchen with her hand on a letter. The other one had been gone for six years.
+Two people on earth had known that name. One of them was me, standing in my own kitchen with my hand on a letter. The other one had been gone for six years.
 
 "Is that from the lawyers?"
 
-Freda was in the doorway, phone against her chest, the call not ended, only muffled. She had her father's height and none of his patience. Her eyes were already on the letter under her mother's hand. She read everything that way, upside down and faster than she let on.
+Freda was in the doorway, phone against her chest, the call not ended, only muffled. She had her father's height and none of his patience. Her eyes were already on the letter under my hand. She read everything that way, upside down and faster than she let on.
 
-"Different lawyers," Iola said.
+"Different lawyers," I said.
 
 "Worse?"
 
 "Richer."
 
-Freda came in and took an apple from the bowl, though she never ate the apples. She did not ask to see the letter, which meant she wanted to. Iola turned it face up and slid it across. There was no point hiding it. Her daughter had been reading over her shoulder since she was four.
+Freda came in and took an apple from the bowl, though she never ate the apples. She did not ask to see the letter, which meant she wanted to. I turned it face up and slid it across. There was no point hiding it. My daughter had been reading over my shoulder since she was four.
 
 Freda skimmed it the way you skim a menu when you already know what you're having, and then she stopped at the bottom.
 
@@ -87,39 +87,39 @@ Below the typed signature of someone named R. Aldine, in a different ink, there 
 
 "I can also add."
 
-Freda looked at her, and for one second she was not sixteen at all. She was the child who had sat on the stairs six years ago while her mother cried in the kitchen and pretended to be on the phone. She had never mentioned it. Neither had Iola.
+Freda looked at me, and for one second she was not sixteen at all. She was the child who had sat on the stairs six years ago while I cried in the kitchen and pretended to be on the phone. She had never mentioned it. Neither had I.
 
 "Are you going to go?" Freda said.
 
 "I don't know yet."
 
-"You're going to go." Freda lifted the phone back to her ear, said "Sorry, my mom," into it, in the voice that meant *my mom* was a long and tragic story, and went back to her room. The door closed. It didn't slam. Iola had learned to be grateful for the difference.
+"You're going to go." Freda lifted the phone back to her ear, said "Sorry, my mom," into it, in the voice that meant *my mom* was a long and tragic story, and went back to her room. The door closed. It didn't slam. I had learned to be grateful for the difference.
 
-She finished the gutter guards first, because she had said she would, and because sixty dollars was sixty dollars. It took twenty minutes. Then she opened a new window and did what she had not done for six years. She started checking.
+The gutter guards came first, because I had said I would do them, and because sixty dollars was sixty dollars. It took twenty minutes. Then I opened a new window and did what I had not done for six years. I started checking.
 
-Aldine, Mercer and Voss was real. That was the first surprise. It was registered, it was old, and it had a website with a street address, a phone number, and almost nothing else: no photographs of smiling partners, no list of the kinds of cases it took, no news. The kind of firm, she thought, that did not need to find clients, because its clients already knew where it was. There was an R. Aldine on the state bar list, admitted forty-one years ago, with no complaints against him. There was nothing else about him at all, which was harder to arrange than people thought.
+Aldine, Mercer and Voss was real. That was the first surprise. It was registered, it was old, and it had a website with a street address, a phone number, and almost nothing else: no photographs of smiling partners, no list of the kinds of cases it took, no news. The kind of firm, I thought, that did not need to find clients, because its clients already knew where it was. There was an R. Aldine on the state bar list, admitted forty-one years ago, with no complaints against him. There was nothing else about him at all, which was harder to arrange than people thought.
 
-She searched for Carrow House, which she had not let herself do in a long time. It was still there. It had had a good year. There was a photograph of the brass doors.
+I searched for Carrow House, which I had not let myself do in a long time. It was still there. It had had a good year. There was a photograph of the brass doors.
 
-She searched for her source's real name, the one she never wrote down, and found what she had found every other time she had looked, back when she still looked: an old address, an old phone listing, and after that, nothing. No obituary. No new address. No arrest. A man who had simply stopped.
+Then I searched for my source's real name, the one I never wrote down, and found what I had found every other time I had looked, back when I still looked: an old address, an old phone listing, and after that, nothing. No obituary. No new address. No arrest. A man who had simply stopped.
 
-At midnight she closed the laptop and wrote on the back of the envelope, by hand, the way she used to plan a story:
+At midnight I closed the laptop and wrote on the back of the envelope, by hand, the way I used to plan a story:
 
 *Bookbinder.*
 
 *Who else knew?*
 
-She underlined *who.* Then, under that, because she was honest with herself on paper even when she was not anywhere else:
+I underlined *who.* Then, under that, because I was honest with myself on paper even when I was not anywhere else:
 
 *Electric. Car insurance. Freda's teeth.*
 
 *Thirty thousand dollars.*
 
-It felt like picking up an instrument she used to play and finding that her hands still knew where to go.
+It felt like picking up an instrument I used to play and finding that my hands still knew where to go.
 
-In the morning, after the school run, she called the number on the letterhead.
+In the morning, after the school run, I called the number on the letterhead.
 
-A woman answered on the second ring. She said that Mr. Aldine had been expecting to hear from her, which Iola did not like. She said that the gentleman lived about two hours north, which was fine. And she said the first session could be as soon as Thursday at ten, which was too soon, and which Iola heard herself agree to.
+A woman answered on the second ring. She said that Mr. Aldine had been expecting to hear from me, which I did not like. She said that the gentleman lived about two hours north, which was fine. And she said the first session could be as soon as Thursday at ten, which was too soon, and which I heard myself agree to.
 
 "Can you tell me who your client is?"
 
@@ -135,9 +135,9 @@ A pause, and the soft click of a keyboard.
 
 "I don't think anyone does, Ms. Barnett," the woman said. "That's rather the point of hiring you."
 
-On Wednesday night, over dinner, she told Freda she was going. Freda said, "I told you," and then, after a moment, "Is it safe?" which was not a question Iola had expected, and which she answered with more confidence than she had.
+On Wednesday night, over dinner, I told Freda I was going. Freda said, "I told you," and then, after a moment, "Is it safe?" which was not a question I had expected, and which I answered with more confidence than I had.
 
-"He's an old man who wants to tell somebody about his life," she said. "I've interviewed a hundred of them."
+"He's an old man who wants to tell somebody about his life," I said. "I've interviewed a hundred of them."
 
 "And the one paying?"
 
@@ -153,6 +153,6 @@ On Wednesday night, over dinner, she told Freda she was going. Freda said, "I to
 
 Freda almost smiled. Her phone buzzed on the table beside her plate. She glanced at it, typed a quick reply with one thumb, and asked for the salt.
 
-On Thursday Iola dropped Freda at school, stopped for gas, and drove north with the letter on the passenger seat, face down. The city thinned into highway and the highway into two-lane road, past farm stands closed for the season and a church with a sign that said *God answers knee mail.* She had printed the directions, because she did not trust her phone out here, and because she was the kind of person who printed directions.
+On Thursday I dropped Freda at school, stopped for gas, and drove north with the letter on the passenger seat, face down. The city thinned into highway and the highway into two-lane road, past farm stands closed for the season and a church with a sign that said *God answers knee mail.* I had printed the directions, because I did not trust my phone out here, and because I was the kind of person who printed directions.
 
-At every red light she rested her hand on the letter, as if it might get up and leave.
+At every red light I rested my hand on the letter, as if it might get up and leave.

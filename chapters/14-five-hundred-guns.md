@@ -2,11 +2,11 @@
 
 ## Chapter 14: Five Hundred Guns
 
-She had thought about it all week. On the eighth Thursday, before she had even taken off her coat, she said, "The drawings."
+I had thought about it all week. On the eighth Thursday, before I had even taken off my coat, I said, "The drawings."
 
 He was setting down the tray. He stopped with it halfway to the table.
 
-"The roads you drew for Booth," she said. "On the tobacco receipts. In December, in your mother's house. You told me you drew him the way south: the tavern, the swamp, the farms where a man could hide, the landing places on the river. In your own hand." She sat down. "Booth kept everything. The police found Arnold's letter in his trunk. It was in the papers within a week. It's in every book." She looked at him. "So where were your drawings?"
+"The roads you drew for Booth," I said. "On the tobacco receipts. In December, in your mother's house. You told me you drew him the way south: the tavern, the swamp, the farms where a man could hide, the landing places on the river. In your own hand." I sat down. "Booth kept everything. The police found Arnold's letter in his trunk. It was in the papers within a week. It's in every book." I looked at him. "So where were your drawings?"
 
 He set the tray down very carefully. Then he smiled, the real one, the one that took ten years off his face.
 
@@ -100,16 +100,16 @@ He did not say anything. Neither did I. I went past him and down the stairs with
 
 * * *
 
-"You burned them," Iola said.
+"You burned them," I said.
 
 "In the stove at the lumber yard, the next morning. All eleven." He looked at his hands. "It's why you won't find the Keene farm in any book. It's one of the reasons you won't find me."
 
 "And Arnold's letter."
 
-"Was in every newspaper in the country within the week. It helped put him in prison for four years." He met her eyes. "You asked me if I was clever. I was clever that night. I made sure nothing would ever lead back to my mother's house. I did it quickly and quietly and well. And I left a man I had drunk with, who had argued for the sensible road, to take what came."
+"Was in every newspaper in the country within the week. It helped put him in prison for four years." He met my eyes. "You asked me if I was clever. I was clever that night. I made sure nothing would ever lead back to my mother's house. I did it quickly and quietly and well. And I left a man I had drunk with, who had argued for the sensible road, to take what came."
 
 "You couldn't have taken it. Booth would have known."
 
 "That was my reason," he agreed. "It was a good reason. I've never been sure it was the real one."
 
-She wrote it down. Then she wrote underneath it, smaller: *Pistol. April 10. Check.*
+I wrote it down. Then I wrote underneath it, smaller: *Pistol. April 10. Check.*

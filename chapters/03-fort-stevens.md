@@ -102,11 +102,11 @@ Near morning, a shaded lantern came along the wall and stopped over me. A woman'
 
 * * *
 
-The recorder's small red light was still on. Iola realized she had not written anything in her notebook for some time.
+The recorder's small red light was still on. I realized I had not written anything in my notebook for some time.
 
 Tom Hale was looking at the window again. The sky over the field had gone a flat, pale gray. On the notepad on his knee, his pencil had stopped moving.
 
-"That was Lincoln," she said. "On the wall."
+"That was Lincoln," I said. "On the wall."
 
 "Yes."
 
@@ -118,6 +118,6 @@ Tom Hale was looking at the window again. The sky over the field had gone a flat
 
 "Good," he said. "Check the surgeon too. The man who fell beside him. He was a doctor from Pennsylvania. He lived, I think. I was always glad of that."
 
-She wrote it down. *Surgeon. Pennsylvania. Check.*
+I wrote it down. *Surgeon. Pennsylvania. Check.*
 
 Outside, a bird landed on the feeder, looked at the window, and flew away again.

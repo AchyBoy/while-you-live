@@ -2,9 +2,9 @@
 
 ## Chapter 26: The Whistle
 
-On the fourteenth Thursday the field was frozen hard, and he was already in his chair with the notepad on his knee when she came in.
+On the fourteenth Thursday the field was frozen hard, and he was already in his chair with the notepad on his knee when I came in.
 
-"I found him in two days," he said, before she had the recorders on. "It wasn't clever. I just knew the country, and I knew who to watch."
+"I found him in two days," he said, before I had the recorders on. "It wasn't clever. I just knew the country, and I knew who to watch."
 
 * * *
 
@@ -92,7 +92,7 @@ And I heard, under the question, from somewhere behind me in the yard, one of th
 
 He stopped.
 
-Iola had been writing fast. She looked up.
+I had been writing fast. I looked up.
 
 "They arrested you."
 
@@ -102,8 +102,8 @@ Iola had been writing fast. She looked up.
 
 "For being lame, and a Marylander, in a coat that did not quite fit, with a story that was too useful." He turned the pencil. "A clever man who is being careful does not walk into a room full of detectives with the one piece of information they need. I knew that. I did it anyway. I wanted them in Virginia. I wanted them out of my county."
 
-She looked at her notes, and then at him.
+I looked at my notes, and then at him.
 
-"You're going to tell me how you got out," she said.
+"You're going to tell me how you got out," I said.
 
 "Somebody got me out," he said. "I've never been entirely sure who."

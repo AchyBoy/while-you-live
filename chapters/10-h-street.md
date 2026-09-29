@@ -2,9 +2,9 @@
 
 ## Chapter 10: H Street
 
-She had decided on the drive up how she would do it. She would not lead into it. She would not give him time.
+On the drive up I had decided how I would do it. I would not lead into it. I would not give him time.
 
-So she set out the two recorders, and said the date and the time, and before he had quite settled in his chair, she said, "What was Ned's last name?"
+So I set out the two recorders, and said the date and the time, and before he had quite settled in his chair, I said, "What was Ned's last name?"
 
 "Hurley," he said.
 
@@ -12,7 +12,7 @@ He did not pause. He did not look at the ceiling the way people do when they are
 
 "Edward Hurley. His mother was Margaret's younger sister, Ann. She married a Hurley from St. Mary's County, a waterman, and died when Ned was small, and Ned was more or less raised at the Keenes' after that. That's why he called her Aunt Margaret and wrote to her instead of to anyone else. There was no one else." He tilted his head. "You won't find him as Edward, if you're looking. The clerks at the camps wrote down whatever they heard. He'll be Ned, or E., and they spelled Hurley three different ways."
 
-She wrote it all down. She could feel him watching her write it.
+I wrote it all down. I could feel him watching me write it.
 
 "You've been looking," he said. It was not a question.
 
@@ -20,13 +20,13 @@ She wrote it all down. She could feel him watching her write it.
 
 "And?"
 
-"And it's real," she said. "And it's on the first page of the internet, and anyone could have read it."
+"And it's real," I said. "And it's on the first page of the internet, and anyone could have read it."
 
-"Yes," he agreed, as if that were the right answer, and seemed pleased with her.
+"Yes," he agreed, as if that were the right answer, and seemed pleased with me.
 
-She wanted, very much, to ask him the next thing. *Did Ned come home?* It was right there. But she heard Freda in her head, *let him tell you,* and she closed her mouth and waited.
+I wanted, very much, to ask him the next thing. *Did Ned come home?* It was right there. But I heard Freda in my head, *let him tell you,* and closed my mouth and waited.
 
-He smiled a little, as though he knew exactly what she was not asking.
+He smiled a little, as though he knew exactly what I was not asking.
 
 "In January," he said, "I went to Washington."
 
@@ -68,19 +68,19 @@ It was the widow from Surrattsville. Her name was Mary Surratt. She had come to 
 
 * * *
 
-Iola had stopped writing.
+I had stopped writing.
 
-"Mary Surratt," she said. "The one they hanged."
+"Mary Surratt," I said. "The one they hanged."
 
 "Yes."
 
-She knew the name the way everyone knows it, from a line in a history book: the first woman the federal government ever executed. She had never once thought of her as someone who opened a door, or had a face, or gave a stranger's mother two blankets on a hot day.
+I knew the name the way everyone knows it, from a line in a history book: the first woman the federal government ever executed. I had never once thought of her as someone who opened a door, or had a face, or gave a stranger's mother two blankets on a hot day.
 
-"You knew her," she said.
+"You knew her," I said.
 
-"I ate at her table." He was looking at the notepad, not at her. "You're going to ask me whether she knew what they were planning. Everyone who has ever heard of her asks that. I'll tell you what I thought that first night. Later, I'll tell you what I came to think, and they aren't the same, and I'd ask you not to hurry me from one to the other."
+"I ate at her table." He was looking at the notepad, not at me. "You're going to ask me whether she knew what they were planning. Everyone who has ever heard of her asks that. I'll tell you what I thought that first night. Later, I'll tell you what I came to think, and they aren't the same, and I'd ask you not to hurry me from one to the other."
 
-She thought about hurrying him. Then she picked up her pen.
+I thought about hurrying him. Then I picked up my pen.
 
 * * *
 
@@ -196,15 +196,15 @@ He stopped there. The light outside had gone gray.
 
 * * *
 
-The house is still there. Iola looked it up that night, at the kitchen table, with Freda across from her doing her homework.
+The house is still there. I looked it up that night, at the kitchen table, with Freda across from me doing her homework.
 
-It was not 541 anymore. The city had renumbered the streets long ago, and it was 604 H Street now, in the middle of Chinatown, with a restaurant on the ground floor and a historical marker by the door. She had walked past it a hundred times. She had eaten there once, years ago, with people from the paper, and never looked up.
+It was not 541 anymore. The city had renumbered the streets long ago, and it was 604 H Street now, in the middle of Chinatown, with a restaurant on the ground floor and a historical marker by the door. I had walked past it a hundred times. I had eaten there once, years ago, with people from the paper, and never looked up.
 
-Then she did what she had come home meaning to do, and looked for Edward Hurley.
+Then I did what I had come home meaning to do, and looked for Edward Hurley.
 
-It was harder than she expected. Some of the Point Lookout records were online and some were not, and the ones that were had been typed up from handwritten lists by volunteers, and the index stopped and started. She found Hurleys. She found a Hurly and a Hurlee and an E. Hurley with no county beside it, which could have been anyone at all. The register for that winter, the site said, was one of the reels nobody had scanned yet. It was on microfilm at the National Archives, on Pennsylvania Avenue. She looked at the map. It was twenty minutes from her front door.
+It was harder than I expected. Some of the Point Lookout records were online and some were not, and the ones that were had been typed up from handwritten lists by volunteers, and the index stopped and started. I found Hurleys. I found a Hurly and a Hurlee and an E. Hurley with no county beside it, which could have been anyone at all. The register for that winter, the site said, was one of the reels nobody had scanned yet. It was on microfilm at the National Archives, on Pennsylvania Avenue. I looked at the map. It was twenty minutes from my front door.
 
-She wrote it on the calendar, in the next free morning: *Archives. Hurley.*
+On the calendar, in the next free morning, I wrote: *Archives. Hurley.*
 
 "Did the cousin die yet?" Freda said, without looking up.
 
@@ -214,10 +214,10 @@ She wrote it on the calendar, in the next free morning: *Archives. Hurley.*
 
 "I didn't ask him."
 
-Freda looked up then, and gave her a small, approving nod, like a teacher, and went back to her homework.
+Freda looked up then, and gave me a small, approving nod, like a teacher, and went back to her homework.
 
-The phone lay face down beside the chemistry book. It buzzed once, a little after nine. Freda turned it over, and read whatever it was, and Iola watched her face go still and shut. Then Freda turned it face down again and picked up her pencil and wrote something very carefully in the margin of her worksheet, and did not look at her mother, and Iola did not look at her.
+The phone lay face down beside the chemistry book. It buzzed once, a little after nine. Freda turned it over, and read whatever it was, and I watched her face go still and shut. Then Freda turned it face down again and picked up her pencil and wrote something very carefully in the margin of her worksheet, and did not look at me, and I did not look at her.
 
 *Somebody is saying things to your daughter.*
 
-She turned the page of her notebook, and did not turn it back, and did not ask.
+I turned the page of my notebook, and did not turn it back, and did not ask.

@@ -2,31 +2,31 @@
 
 ## Chapter 17: Good Friday
 
-She brought the box with her on the tenth Thursday.
+I brought the box with me on the tenth Thursday.
 
-It was an ordinary banker's box, the cardboard kind with handholds cut in the ends, and it had lived on the top shelf of her closet for six years under a bag of winter hats. *CARROW* was written on the lid in marker, in her own handwriting from a worse time. She had taken it down the week before, on the night the client's question about the waiter came, for no better reason than that odd questions made her want to go back over old ones.
+It was an ordinary banker's box, the cardboard kind with handholds cut in the ends, and it had lived on the top shelf of my closet for six years under a bag of winter hats. *CARROW* was written on the lid in marker, in my own handwriting from a worse time. I had taken it down the week before, on the night the client's question about the waiter came, for no better reason than that odd questions made me want to go back over old ones.
 
-She had not meant to bring it. But it was on the passenger seat on Thursday morning, and she did not take it out again.
+I had not meant to bring it. But it was on the passenger seat on Thursday morning, and I did not take it out again.
 
-He saw it when she came in and did not ask about it. He made the tea. She set out the recorders and did not turn them on, and while the tea steeped she found she was talking.
+He saw it when I came in and did not ask about it. He made the tea. I set out the recorders and did not turn them on, and while the tea steeped I found I was talking.
 
-"I went back through it this week," she said. "The old stuff. I haven't opened it since I left the paper."
+"I went back through it this week," I said. "The old stuff. I haven't opened it since I left the paper."
 
 "Did it help?"
 
-"No. It made me feel like I was thirty-eight again and about to be fired." She took the lid off anyway. "It's mostly paper. My notes. Copies of the documents he gave me, the ones they said were fake. The correction, which I kept, because I'm like that." She lifted out a thin folder. "And the police report. It took me three months and a records request to get this, and when I got it, it was two pages long and they'd spelled his name wrong."
+"No. It made me feel like I was thirty-eight again and about to be fired." I took the lid off anyway. "It's mostly paper. My notes. Copies of the documents he gave me, the ones they said were fake. The correction, which I kept, because I'm like that." I lifted out a thin folder. "And the police report. It took me three months and a records request to get this, and when I got it, it was two pages long and they'd spelled his name wrong."
 
-She told him about it the way you tell someone about a bad time you have mostly gotten over: all at once, jumping around, with too much in it.
+I told him about it the way you tell someone about a bad time you have mostly gotten over: all at once, jumping around, with too much in it.
 
-The officer who took the report had been named Delacroix, and he had called her *ma'am* in a way that made clear he thought she was a crank. The report said that the tenant had not been seen since approximately Wednesday, per the landlord. It said there were no signs of forced entry, no signs of a struggle, and that the tenant's vehicle was not at the address, which Iola could have told them, since he did not own a vehicle and never had. Petrakis had given the police a statement too, which was mostly about money. The tenant was two weeks behind on the rent. A moving company had been booked for the Saturday, a small outfit from across the river, and the movers had shown up and knocked and gone away again, and then sent Petrakis a bill for the trip, which he wanted the police to know he did not intend to pay. There was a list of what the officers had seen in the apartment, one line to a thing: *bed, unmade. Kitchen, dishes in sink. Framed family photographs on living room wall. Desk. No computer observed. Cat (1) in bedroom, door closed, removed by landlord.*
+The officer who took the report had been named Delacroix, and he had called me *ma'am* in a way that made clear he thought I was a crank. The report said that the tenant had not been seen since approximately Wednesday, per the landlord. It said there were no signs of forced entry, no signs of a struggle, and that the tenant's vehicle was not at the address, which I could have told them, since he did not own a vehicle and never had. Petrakis had given the police a statement too, which was mostly about money. The tenant was two weeks behind on the rent. A moving company had been booked for the Saturday, a small outfit from across the river, and the movers had shown up and knocked and gone away again, and then sent Petrakis a bill for the trip, which he wanted the police to know he did not intend to pay. There was a list of what the officers had seen in the apartment, one line to a thing: *bed, unmade. Kitchen, dishes in sink. Framed family photographs on living room wall. Desk. No computer observed. Cat (1) in bedroom, door closed, removed by landlord.*
 
-"Two weeks behind on the rent," Iola said. "I didn't know that at the time. I'd have lent it to him. He never said." She put the report back in its folder. "And the movers. He'd told me he was going to move after the story ran, somewhere Carrow couldn't find him. I thought he meant eventually. He'd already booked them."
+"Two weeks behind on the rent," I said. "I didn't know that at the time. I'd have lent it to him. He never said." I put the report back in its folder. "And the movers. He'd told me he was going to move after the story ran, somewhere Carrow couldn't find him. I thought he meant eventually. He'd already booked them."
 
 "For the Saturday," he said.
 
-"For the Saturday." She shook her head. "Anyway. It didn't help. I don't know why I brought it."
+"For the Saturday." I shook my head. "Anyway. It didn't help. I don't know why I brought it."
 
-She closed the box, and put it on the floor by her chair, and turned on the recorders.
+I closed the box, and put it on the floor by my chair, and turned on the recorders.
 
 He did not say anything about any of it. He poured the tea, and looked at the box on the floor for a moment, and then he looked at the window.
 
@@ -72,15 +72,15 @@ Tonight. Here.
 
 He stopped.
 
-Iola realized that she had not written anything for some time. The recorder's red light was on. The woodstove ticked.
+I realized that I had not written anything for some time. The recorder's red light was on. The woodstove ticked.
 
-"That's how he found out," she said. "Collecting his mail."
+"That's how he found out," I said. "Collecting his mail."
 
 "That's how he found out. It's in every book. He went to get his letters, and they told him."
 
 "And you were across the street."
 
-"I was across the street." He picked up his cup, found it was cold, and put it down again. "I had three names and three places, and now I had a time. The only one who didn't know what I knew was the one man who could have stopped all of it by simply staying home." He looked at her. "Nobody was going to tell him. That was the thing I understood, standing in that doorway. The whole city was about to know he was coming. And the one thing nobody in it was going to tell him was *don't.*"
+"I was across the street." He picked up his cup, found it was cold, and put it down again. "I had three names and three places, and now I had a time. The only one who didn't know what I knew was the one man who could have stopped all of it by simply staying home." He looked at me. "Nobody was going to tell him. That was the thing I understood, standing in that doorway. The whole city was about to know he was coming. And the one thing nobody in it was going to tell him was *don't.*"
 
 He was quiet for a moment.
 

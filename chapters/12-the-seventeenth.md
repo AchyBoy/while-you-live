@@ -2,11 +2,11 @@
 
 ## Chapter 12: The Seventeenth
 
-It rained the whole way up. By the time she reached the gravel road it had settled into the steady kind of rain that meant it was not going to stop, and he met her on the porch with an umbrella big enough for three people and walked her in under it.
+It rained the whole way up. By the time I reached the gravel road it had settled into the steady kind of rain that meant it was not going to stop, and he met me on the porch with an umbrella big enough for three people and walked me in under it.
 
-She had her researcher card now. She had spent Monday morning in a basement room at the National Archives, watching a video about how to handle old paper, and had come out with a laminated card and a terrible photograph of herself. The reel she needed was kept in the stacks and had to be pulled for her. It would be ready the next Tuesday.
+I had my researcher card now. On Monday morning I had sat in a basement room at the National Archives, watching a video about how to handle old paper, and come out with a laminated card and a terrible photograph of myself. The reel I needed was kept in the stacks and had to be pulled for me. It would be ready the next Tuesday.
 
-She did not tell him any of that. She set out the two recorders and said the date and the time, and then she said, "March the seventeenth."
+I did not tell him any of that. I set out the two recorders and said the date and the time, and then said, "March the seventeenth."
 
 "You looked it up."
 
@@ -132,11 +132,11 @@ My mother's letter that week ended the way they all did. *Not yet.*
 
 He put the pencil down.
 
-Iola had her phone out. She had not meant to take it out, but she had, and she had found it while he was still talking. March 17, 1865. Speech to the One Hundred Fortieth Indiana Regiment, from the balcony of the National Hotel. *Whenever I hear any one arguing for slavery, I feel a strong impulse to see it tried on him personally.*
+My phone was out. I had not meant to take it out, but I had, and found it while he was still talking. March 17, 1865. Speech to the One Hundred Fortieth Indiana Regiment, from the balcony of the National Hotel. *Whenever I hear any one arguing for slavery, I feel a strong impulse to see it tried on him personally.*
 
 Word for word.
 
-"You could have memorized that," she said. It came out more quietly than she meant. "It's famous. It's the kind of thing people put on posters."
+"You could have memorized that," I said. It came out more quietly than I meant. "It's famous. It's the kind of thing people put on posters."
 
 "I could have," he agreed. "Anyone could. That wasn't the point of the story."
 

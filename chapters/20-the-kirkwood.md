@@ -2,33 +2,33 @@
 
 ## Chapter 20: The Kirkwood
 
-She did not bring the box the next week. She thought about it, standing in the closet with the light on, and left it where it was.
+I did not bring the box the next week. I thought about it, standing in the closet with the light on, and left it where it was.
 
-But on the Monday she looked up Petrakis. It took her twenty minutes. He had sold the building four years ago, and the dry cleaner's was a smoothie place now, and he lived with his daughter in a split-level house in Silver Spring. The daughter answered and said he didn't talk to reporters, and then Petrakis took the phone from her and said he would talk to whoever he liked.
+But on the Monday I looked up Petrakis. It took me twenty minutes. He had sold the building four years ago, and the dry cleaner's was a smoothie place now, and he lived with his daughter in a split-level house in Silver Spring. The daughter answered and said he didn't talk to reporters, and then Petrakis took the phone from her and said he would talk to whoever he liked.
 
-He remembered Iola. He remembered the carpet, and he told her again who had never paid for it, and she let him.
+He remembered me. He remembered the carpet, and he told me again who had never paid for it, and I let him.
 
-Then she asked about the cat.
+Then I asked about the cat.
 
 "Pearl," he said at once. "Gray, white feet. Nice cat. Stupid, but nice."
 
-Pearl. Iola wrote it down, and something in her chest let go that she had not known was holding on.
+Pearl. I wrote it down, and something in my chest let go that I had not known was holding on.
 
-"The police found her shut in the bedroom," she said. "Did he do that often?"
+"The police found her shut in the bedroom," I said. "Did he do that often?"
 
 "Only when somebody came up." He said it as if anyone would know. "Every time that door opened, out she went, down the stairs and into the cleaner's, and then I'm the one on my knees under the pressing machine. Twice I did that. After the second time I told him, somebody comes to your door, you put the cat away first. And he did. He was a good tenant, except the rent."
 
-Iola did not say anything for a moment.
+I did not say anything for a moment.
 
-"So if she was shut in," she said, "somebody had come up."
+"So if she was shut in," I said, "somebody had come up."
 
 "Somebody always comes up," Petrakis said. "Why? You know where he went?"
 
-"No," she said. "I don't."
+"No," I said. "I don't."
 
-She did not tell her client about Pearl that Thursday. It had been his idea to ask. She wanted, this once, to be the one who knew what the answer meant.
+I did not tell him about Pearl that Thursday. It had been his idea to ask. I wanted, this once, to be the one who knew what the answer meant.
 
-He was waiting on the porch when she drove up, which he had never done before, in his coat, with the umbrella furled though it was not raining. He did not make small talk. He did not make tea. When she had set out the recorders and said the date and the time, he began before she had finished writing it down, as if he had been saying it to himself all week and was only now letting her hear.
+He was waiting on the porch when I drove up, which he had never done before, in his coat, with the umbrella furled though it was not raining. He did not make small talk. He did not make tea. When I had set out the recorders and said the date and the time, he began before I had finished writing it down, as if he had been saying it to himself all week and was only now letting me hear.
 
 * * *
 
@@ -130,8 +130,8 @@ I went out through the doors onto the Avenue and turned east, toward Tenth Stree
 
 * * *
 
-He stopped. His hands were shaking. She had never seen them shake.
+He stopped. His hands were shaking. I had never seen them shake.
 
 "I'm going to stop there," he said, "for a minute."
 
-He got up and went into the kitchen, and she heard the tap run, and run, and after a while stop. She sat in the living room with the woodstove ticking and the two red lights on the recorders, and she did not follow him, and she did not turn them off.
+He got up and went into the kitchen, and I heard the tap run, and run, and after a while stop. I sat in the living room with the woodstove ticking and the two red lights on the recorders, and I did not follow him, and I did not turn them off.

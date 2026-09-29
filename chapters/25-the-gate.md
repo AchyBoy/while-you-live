@@ -2,9 +2,9 @@
 
 ## Chapter 25: The Gate
 
-On the thirteenth Thursday there was the hardest frost yet, white to the fence line, and the woodstove was already going hard when she came in. He had put a second blanket over the back of her chair. He did not mention it, and neither did she.
+On the thirteenth Thursday there was the hardest frost yet, white to the fence line, and the woodstove was already going hard when I came in. He had put a second blanket over the back of my chair. He did not mention it, and neither did I.
 
-"Getting out of Washington," she said, when the recorders were on. "You said it was a story by itself."
+"Getting out of Washington," I said, when the recorders were on. "You said it was a story by itself."
 
 "It was a very short story, in the end," he said. "The army took me."
 
@@ -96,7 +96,7 @@ And I knew those woods.
 
 He stopped.
 
-"Lottie," Iola said.
+"Lottie," I said.
 
 "Yes."
 
@@ -104,8 +104,8 @@ He stopped.
 
 "She kept it all her life. I asked her, years later, whether she'd ever told anyone. She said no. She said she'd been waiting for someone to ask her, and nobody ever had." He looked at the window, at the frost going white on the field. "She was the best person I knew in that life. I've never been able to decide whether I did right by her."
 
-Iola wrote that down. Then she sat looking at it.
+I wrote that down. Then I sat looking at it.
 
-"You're going to go and find him," she said. "In the woods."
+"You're going to go and find him," I said. "In the woods."
 
 "I'm going to go and find him," he said. "That's next."

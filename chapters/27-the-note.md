@@ -2,7 +2,7 @@
 
 ## Chapter 27: The Note
 
-They broke for lunch. He heated soup, and she set the table without being asked, finding the spoons on the first try now, and they ate looking out the window at a pair of crows walking the frozen field like two men looking for something they had dropped.
+We broke for lunch. He heated soup, and I set the table without being asked, finding the spoons on the first try now, and we ate looking out the window at a pair of crows walking the frozen field like two men looking for something they had dropped.
 
 "You'll want to know what they had on me," he said, halfway through the bowl. "It wasn't much. It didn't need to be."
 
@@ -86,18 +86,18 @@ I thought I knew. I have never been certain. I have thought about it every year 
 
 * * *
 
-He stopped. She had stopped writing some time before.
+He stopped. I had stopped writing some time before.
 
-"He saved your life," she said. "If it was him."
+"He saved your life," I said. "If it was him."
 
 "If it was him." He was looking at the window. "It would have been easier for him not to. Much easier. A Black man writing to the War Department that month, about the assassination, about a white man he'd sent out of a theater with a false message: that was not a safe letter to write. He must have known the handwriting could be traced. He wrote it anyway." He was quiet for a moment. "And he never signed it. So I would never have to owe him anything."
 
-Iola looked down at her notebook. After a moment she said, not quite to him, "At least somebody wrote something down."
+I looked down at my notebook. After a moment I said, not quite to him, "At least somebody wrote something down."
 
 "Hm?"
 
-"Nothing. It's just." She turned a page back and forth. "They had a file on you. Two pages, and a letter, but a file. Bookbinder kept copies of everything. That was the whole point of him. Two banker's boxes of paper, in his apartment, in the closet by the door. I saw them the one time I was there. Everything he'd ever copied at Carrow, every invoice, every letter he'd been asked to repair." She shook her head. "There's nothing about them in the police report. Not a word. *Desk.* That's all it says. A desk." She closed the notebook. "I always figured he took them with him."
+"Nothing. It's just." I turned a page back and forth. "They had a file on you. Two pages, and a letter, but a file. Bookbinder kept copies of everything. That was the whole point of him. Two banker's boxes of paper, in his apartment, in the closet by the door. I saw them the one time I was there. Everything he'd ever copied at Carrow, every invoice, every letter he'd been asked to repair." I shook my head. "There's nothing about them in the police report. Not a word. *Desk.* That's all it says. A desk." I closed the notebook. "I always figured he took them with him."
 
-He did not say anything. He looked at her for a moment, very still, the way a man listens for one wrong note, and then he looked at the box of *CARROW* she had not brought, as if it were sitting on the floor by her chair, and then back at the window.
+He did not say anything. He looked at me for a moment, very still, the way a man listens for one wrong note, and then he looked at the floor by my chair, as if the box of *CARROW* I had not brought were sitting there, and then back at the window.
 
 "Next week," he said, "the trial."
