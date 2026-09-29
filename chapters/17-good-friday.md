@@ -74,7 +74,7 @@ Tonight. Here.
 
 He stopped.
 
-I realized that I had not written anything for some time. The recorder's red light was on. The woodstove ticked.
+I realized that I had not written anything for some time. The woodstove ticked.
 
 "That's how he found out," I said. "Collecting his mail."
 

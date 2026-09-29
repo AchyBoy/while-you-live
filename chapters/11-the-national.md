@@ -106,7 +106,7 @@ I did not think about any of that. My mind was on the bridge, and the guards, an
 
 [now]
 
-He stopped there, and was quiet for long enough that I checked the red light on the recorder.
+He stopped there, and was quiet for a while.
 
 "The menus," I said. "The handwriting."
 

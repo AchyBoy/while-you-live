@@ -24,7 +24,7 @@ I put the car in gear and drove home, and put the groceries away, and did not te
 
 I told him on Thursday. I read him the note from my phone.
 
-He listened without moving. When I got to *take all the time the gentleman needs,* he looked at the mantel, at the empty frame with its polished glass, for longer than he had ever looked at it before. His face did not change. But he was quiet for so long that I checked the recorders.
+He listened without moving. When I got to *take all the time the gentleman needs,* he looked at the mantel, at the empty frame with its polished glass, for longer than he had ever looked at it before. His face did not change. But he was quiet for a long time.
 
 "Well," he said finally. "That's kind of him."
 

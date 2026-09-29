@@ -170,9 +170,9 @@ He put the pencil down.
 
 I knew that line. I had seen it before, printed large on a museum wall somewhere, one of those quotations they hang over a doorway. I had read it a dozen times and never once thought about who had been standing in the street when it was said.
 
-"You could have memorized that," I said. It came out more quietly than I meant. "It's famous. It's the kind of thing people put on posters."
+"How do you know it word for word?" I asked. "It's famous. It's the kind of thing people put on posters."
 
-"I could have," he agreed. "Anyone could. That wasn't the point of the story."
+"I didn't learn it from a poster," he said. "But that wasn't the point of the story."
 
 "What was the point?"
 

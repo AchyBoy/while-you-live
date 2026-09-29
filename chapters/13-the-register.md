@@ -58,9 +58,17 @@ Freda thought about that. "Are you going to tell him?"
 
 Freda looked at me for a long moment, the way she sometimes did lately, as if she were seeing me from the outside for the first time.
 
-"That's kind of cold," she said. "But it's also kind of smart." And she picked up her pencil again.
+"That's kind of cold," she said.
 
-I wrote the date on an index card, *Feb. 6,* and turned it face down, and put it in the back of my notebook, where I would not have to look at it.
+"It's careful."
+
+"He's old, Mom. What if it's his real cousin, and it's sad for him?"
+
+"Then he'll tell me."
+
+"You're treating him like a story." She picked up her pencil again, and did not look at me.
+
+I did not have an answer for that. I wrote the date on an index card, *Feb. 6,* and turned it face down, and put it in the back of my notebook, where I would not have to look at it.
 
 * * *
 
@@ -90,11 +98,11 @@ I had known since December. I had known from the moment I saw that careful handw
 
 He stopped. Outside, somebody's dog was barking a long way off, and the woodstove ticked.
 
-I did not reach for the notebook. There was no need. I knew what was on the card in the back of it.
+I did not reach for the notebook. There was no need. I knew what was on the card in the back of it, and I knew what Freda would say if she could see me now.
 
 "The sixth of February," I said.
 
-He looked at me. For a moment his face did something I had not seen it do before: it went still, completely, the way a person goes still when they have been caught out. Then, slowly, the stillness went, and something that was almost a smile came instead.
+He looked at me for a long moment, the way you look at someone who has just done something you did not expect of them. Then he smiled.
 
 "You found him," he said.
 
@@ -120,9 +128,9 @@ I wanted to leave it there. I found I could not.
 
 "You're not stupid. I've spent seven Thursdays with you. You're the least stupid person I've ever met." I put my pen down. "So explain it to me. Not the arithmetic. Booth's arithmetic. You. Why would a man like you walk into that?"
 
-He was quiet for a long time. Long enough that I glanced at the recorder.
+He was quiet for a long time.
 
-"Because it made sense," he said at last. "That's the honest answer, and it's the one nobody wants. You want me to tell you I was fooled, or angry, or young. I was all three. But I wasn't stupid, and it wasn't madness. Every step of it made sense from where I stood."
+"Because it made sense," he said at last. "That's the honest answer, and it's the one nobody wants. You want me to tell you I was fooled, or angry, or young. The body was young. I was fooled, and I was angry. But I wasn't stupid, and it wasn't madness. Every step of it made sense from where I stood."
 
 He held up a hand and counted on his fingers.
 
@@ -132,6 +140,6 @@ He held up a hand and counted on his fingers.
 
 He looked at me, and for a moment he seemed about to say something else entirely. Then he looked at the window instead.
 
-"Because I have always been pulled toward the places where things happen," he said. "I can't stay home when history is being made in the next town. I never could. It's the worst thing about me." He picked up the pencil again. "That winter, it was being made in Washington. And I wanted very badly to be in the room."
+"Because I thought I could steer it," he said. "I had done it before. Many times, in many lives: got inside something that was already moving, and leaned on it until it went a better way. Sometimes it worked. Sometimes it half worked. And a few times it went so badly wrong that I have spent whole lifetimes trying not to think about them." He picked up the pencil again. "But you remember the times it worked. You always do. So I told myself that if I was inside, I could keep it a kidnapping. Keep anyone from getting hurt. I have been clever for a very long time, and clever men always think they can walk right up to the edge and stop."
 
-I wrote it down. Driving home, I wished that it had made less sense.
+I wrote it down. On the drive home I thought about how sure he had been, and about Ned, and I could not decide which was sadder.
