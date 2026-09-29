@@ -14,9 +14,15 @@ She put the sandwich down.
 
 "A man who runs," he said, "and has time to pack, takes his photographs first and his papers if he can carry them. He doesn't leave his mother's face on the wall and his cat shut in a bedroom and remember to take two banker's boxes." He looked at her. "Your man left the photographs on the wall and the cat in the bedroom, and the files were gone. That isn't a man packing to run. That's two different people. One of them lived there, and meant to come home. The other one came in after him, and knew exactly what to take."
 
-She did not say anything for a long time.
+"Not after him," Iola said. "He let them in."
 
-"Somebody else packed," he said, gently.
+He looked at her.
+
+"I called Petrakis. Weeks ago." She told him about Pearl, and the door, and the pressing machine. "He only shut her in when somebody came to the door. That was the rule. Petrakis made it."
+
+He was quiet for a moment. Then he smiled, a little.
+
+"Then it's worse than I said," he said gently. "He knew them."
 
 Iola sat at his kitchen table with half a sandwich in front of her and six years going over in her head like pages in a wind. The report she had read a hundred times. *Framed family photographs on living room wall. Desk.* The closet by the door. The cat.
 

@@ -36,7 +36,7 @@ He talked again about the letter from Point Lookout, and how his mother had carr
 
 "Ned wrote that he thought often of home," he said. "He said to tell my mother not to worry. You don't write that to people unless you mean to come back to them."
 
-He was looking at the window. The pencil on the notepad had stopped.
+He was looking at the window. Her pencil had stopped.
 
 "Then he meant to come home," he said.
 
