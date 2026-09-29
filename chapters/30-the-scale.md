@@ -24,7 +24,7 @@ He was quiet for a moment. Then he smiled, a little.
 
 "Then it's worse than I said," he said gently. "He knew them."
 
-Iola sat at his kitchen table with half a sandwich in front of her and six years going over in her head like pages in a wind. The report she had read a hundred times. *Framed family photographs on living room wall. Desk.* The closet by the door. The cat.
+Iola sat at his kitchen table with half a sandwich in front of her and six years going over in her head like pages in a wind. The report she had read over and over since she took the box down. *Framed family photographs on living room wall. Desk.* The closet by the door. The cat.
 
 "The police would have seen that," she said. "Anyone would."
 

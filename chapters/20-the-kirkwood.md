@@ -26,7 +26,7 @@ Iola did not say anything for a moment.
 
 "No," she said. "I don't."
 
-She did not tell her client about Pearl that Thursday. For ten weeks he had been the one who knew things. This once, she wanted to be the one who had checked.
+She did not tell her client about Pearl that Thursday. It had been his idea to ask. She wanted, this once, to be the one who knew what the answer meant.
 
 He was waiting on the porch when she drove up, which he had never done before, in his coat, with the umbrella furled though it was not raining. He did not make small talk. He did not make tea. When she had set out the recorders and said the date and the time, he began before she had finished writing it down, as if he had been saying it to himself all week and was only now letting her hear.
 
