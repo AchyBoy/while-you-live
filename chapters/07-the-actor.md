@@ -4,13 +4,13 @@
 
 No email came from Aldine, Mercer and Voss that week.
 
-The second payment landed that same Thursday afternoon, the way the first one had, with the note *Session 2* and nothing else. Iola kept checking her inbox through the weekend and into the next week, for the client's question, and on Wednesday night she realized she was disappointed, and did not like that at all.
+The second payment landed that same Thursday afternoon, the way the first one had, with the note *Session 2* and nothing else. I kept checking my inbox through the weekend and into the next week, for the client's question, and on Wednesday night I realized I was disappointed. I did not like that at all.
 
-"No question this time?" he asked, when she had set out the recorders on Thursday.
+"No question this time?" he asked, when I had set out the recorders on Thursday.
 
 "Nothing. Just the money."
 
-"Hm," he said. He looked at the mantel for a moment, the way he had before, and then back at her. "Well. Perhaps your client is thinking."
+"Hm," he said. He looked at the mantel for a moment, the way he had the week before, and then back at me. "Well. Perhaps your client is thinking."
 
 "About what?"
 
@@ -292,20 +292,22 @@ That afternoon he rode up our lane alone, in the rain, and asked my mother if he
 
 He stopped there and reached for his tea. It had been sitting beside him since the churchyard, and it must have been stone cold, but he drank it anyway.
 
-Iola realized she had been holding her pen above the page for some time without writing anything. The farm, the churchyard, the barn in the rain: she had been there, and now she was back in his living room, with the woodstove ticking and the recorders' little red lights on.
+I realized I had been holding my pen above the page for some time without writing anything. The churchyard, the fence, the good plates on the supper table: I had been there, all of it, and now I was back in his living room, with the woodstove ticking and the little red lights on the recorders, and my hand had gone stiff.
 
-"So he came down to buy a horse," she said, "and you sold him the roads instead."
+"So he came down to buy a horse," I said, "and you sold him the roads instead."
 
 "Not yet," he said. "In November I only answered his questions. December was when I sold him the roads."
 
-She laughed in spite of herself, and then stopped, because he was not laughing.
+I laughed before I could stop myself, and then I did stop, because he was not laughing.
 
-"The fires," she said. "In New York. Was that real?"
+"The fires," I said. "In New York. Was that real?"
 
 "You'll look it up tonight," he said. "I'd rather you did that than take my word for it. But yes."
 
+He was right. I would.
+
 "And he knew?"
 
-"I don't know." He turned his pencil over in his fingers. "That's the honest answer. He told us all about the play, the brothers, the crowd, his mother in her box. He told the fire as if it were only a thing that happened to the Booths one night in New York. I used to think that meant he knew. Then I used to think it meant he didn't care. I've had a long time to think about it, and I still don't know." He looked up at her. "You'd be surprised how much of it is like that."
+"I don't know." He turned his pencil over in his fingers. "That's the honest answer. He told us all about the play, the brothers, the crowd, his mother in her box. He told the fire as if it were only a thing that happened to the Booths one night in New York. I used to think that meant he knew. Then I used to think it meant he didn't care. I've had a long time to think about it, and I still don't know." He looked up at me. "You'd be surprised how much of it is like that."
 
-She wrote *Winter Garden. Fires. Did he know?* at the bottom of the page, and underlined the last part, and they stopped for lunch.
+I wrote *Winter Garden. Fires. Did he know?* at the bottom of the page, and underlined the last part twice, and we stopped for lunch.
