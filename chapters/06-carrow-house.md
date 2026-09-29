@@ -50,15 +50,15 @@ She did not understand him at first, and then she did.
 
 Iola laughed. It came out louder than she meant.
 
-"Or he panicked," she said. "Or he forgot. People forget things when they're running for their lives."
+"Or he panicked," she said. "People forget things when they're running for their lives."
 
-"People do," he said.
+"Some do," he said. "Not the ones who shut the door carefully first."
 
-"You've known about this for twenty minutes."
+"I've told that story a hundred times. The police heard about that cat. Petrakis told the whole building about that cat. Nobody ever said that."
 
-"You'll check," he said. "Shall I go on about Ned?"
+"You've heard it too often," he said. "I've heard it once, before I knew how it ends. Shall I go on about Ned?"
 
-He went on about Ned. She wrote it all down. She did not look at him again for some time.
+He went on about Ned. She wrote it all down, and did not look at him again for some time.
 
 * * *
 
