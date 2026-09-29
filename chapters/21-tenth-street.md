@@ -66,6 +66,8 @@ It had filled the way water fills a lock, all at once, from every direction. Peo
 
 Across the city, in the same minutes, though I did not know it yet, Powell was forcing his way into the Seward house on Lafayette Square with a revolver that jammed and a knife that did not. He stabbed the Secretary of State as he lay in bed, in his broken jaw and his broken arm, and cut down his sons and a nurse and a messenger, and ran out into the night shouting that he was mad. Seward lived. The metal brace on his jaw, they said, turned the knife.
 
+Powell had ridden to Seward's door on a big dark bay that was blind in one eye. It was the horse Booth had bought from Gardiner in December, the poor horse for a rich man that the whole of Charles County had laughed about. Soldiers found it a little after midnight on the eastern edge of the city, lathered and riderless. Within a week they knew where it had been bought, and who had sold it, and that Dr. Mudd had been standing beside Booth when he paid for it.
+
 And at the Kirkwood, the Vice President was asleep upstairs, and in the bar below him the stool where Atzerodt had sat was empty.
 
 That was what I had done with my ten hours. That was all of it.

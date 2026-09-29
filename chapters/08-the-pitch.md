@@ -2,7 +2,7 @@
 
 ## Chapter 8: The Pitch
 
-At noon he made soup again, and they ate it at the kitchen table and talked about nothing at all: the bakery that was closing, a fox he had seen in the field, a show Freda watched that Iola could not follow. He did not say Booth's name once.
+At noon he made soup again, white bean this time, with a ham bone in it, and cornbread from a box that he apologized for. They ate it at the kitchen table and talked about nothing at all: the bakery that was closing, a fox he had seen in the field, a show Freda watched that Iola could not follow. He did not say Booth's name once.
 
 Afterward they went back to the living room. She turned the recorders on and said the time.
 
@@ -32,13 +32,27 @@ Booth listened to all of it without once looking away.
 
 "I have spent the last month," he said, "working out how."
 
+He came in out of the doorway, and stood close, and lowered his voice under the sound of the rain.
+
+"I'm going to tell you something I have told very few men," he said. "When I've finished, you'll want to know why I told it to you. I'll tell you that too."
+
 * * *
 
 I am going to tell you what he said as closely as I can, and I am going to tell you why I listened. I am not asking you to agree with either of us. I am asking you to understand that it did not sound, in that barn in December of 1864, like what you know it turned into.
 
-He said the war was lost.
+"You know the war is lost," he said.
 
-He said it plainly, which surprised me, because every other man in that county still talked as though Richmond would hold forever. Hood's army had been smashed at Nashville, he said, only that week. Sherman had marched through Georgia and was at the sea. Grant had Lee dug in at Petersburg and was starving him out one railroad at a time. The South had no more men to put in the lines. And fifty thousand of the men it did have, the men who could have held those lines, were sitting in Northern prison camps, dying of cold and flux and short rations, because the Union knew exactly what they were worth and would not give them back.
+He said it plainly, which surprised me, because every other man in that county still talked as though Richmond would hold forever.
+
+"Don't you?" he said. "You've been out there. You know better than these farmers."
+
+I did not answer, and he took that as an answer.
+
+"Hood's army is smashed at Nashville," he said. "It came over the wire this week. Sherman has walked straight through Georgia to the sea, and there was nobody left to stop him. Grant has Lee dug in at Petersburg and he is starving him out one railroad at a time." He counted them off on his gloved fingers. "And we have no more men, Kit. That's the whole of it. Every man who can carry a rifle is carrying one. There's nobody left at home to send."
+
+"There are the prisoners," I said.
+
+"There are the prisoners." He pointed at me, the way a teacher points at the one boy in the room who has been listening. "Fifty thousand of them. The very men who could hold those lines, sitting in Northern camps, dying of cold and flux and short rations. And the Union knows exactly what they're worth, and won't give them back."
 
 "Grant won't trade them," he said. "He's said so. Every man he sends home is a man back in the line against him, and he can afford to lose his own in our camps sooner than let ours go. It is not cruelty. I wish it were. Cruelty you could appeal to. It's arithmetic."
 
@@ -50,13 +64,23 @@ He smiled at me then, the way you smile at a pupil who has got there first.
 
 * * *
 
-The plan was this.
+"Do you know how he goes about Washington?" Booth said. "The President?"
 
-The President went about Washington with less guard than a general. He had a cavalry escort he disliked and a few policemen he put up with, and he slipped both whenever he could. He rode out in the evenings. He went to the theater. He visited the soldiers in the hospitals outside the city. He did not like soldiers around him, and he said so, and he was a stubborn man.
+"No."
 
-Booth meant to take him. Not hurt him. Take him, at some quiet place on some quiet road, with a handful of good men and fast horses, and carry him out of the city before anyone knew he was gone. South, across the Navy Yard Bridge. Down through Prince George's County and Charles County, on roads that every man in that network knew in the dark, from one safe house to the next. Across the Potomac by night, in a boat that would be waiting. Into Virginia and on to Richmond.
+"With less guard than a general." He began to walk, up and down under the hanging tobacco, three steps and turn, the way I would later see him walk a stage. "He has a cavalry escort he dislikes and a few policemen he puts up with, and he slips both of them whenever he can. He rides out in the evenings. He goes to the theater. He drives out to the soldiers' hospitals on the edge of the city, on country roads, with one carriage and a driver. He doesn't like soldiers around him. He says so. He is a stubborn man."
 
-And there, the Confederate government would hold him, safe and comfortable, and offer to give him back in exchange for every Southern prisoner in every Northern camp.
+"And?"
+
+"And I mean to take him."
+
+I did not say anything. The rain went on.
+
+"Not hurt him," Booth said. "Take him. At some quiet place on some quiet road, with a handful of good men and fast horses. Out of the city before anyone knows he's gone. South across the Navy Yard Bridge, down through Prince George's and into Charles County." He stopped walking and looked at me. "On roads you know in the dark. From one safe house to the next. Across the Potomac by night, in a boat that's waiting. Into Virginia, and on to Richmond."
+
+"And then?"
+
+"And then the government in Richmond holds him. Safe, and comfortable, and treated like the President he is. And it offers to give him back." He smiled. "In exchange for every Southern prisoner in every Northern camp."
 
 "Every one," Booth said. "Point Lookout. Elmira. Camp Douglas. All of them, home by the spring. Your cousin home for planting." He took a step toward me. "Fifty thousand men back in the line, Kit. The North would have to talk. They'd have to. And a war that ends in talking is not a war that ends in Richmond burning."
 
