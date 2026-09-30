@@ -18,7 +18,7 @@ I put the sandwich down.
 
 He looked at me.
 
-"I called Petrakis. Weeks ago." I told him about Pearl, and the door, and the pressing machine. "He only shut her in when somebody came to the door. That was the rule. Petrakis made it."
+"I called Petrakis. Weeks ago." I told him about Pearl, and the door, and the pressing machine. "He only shut her in when somebody came to the door. Petrakis made him promise, after the second time she got out."
 
 He was quiet for a moment. Then he smiled, a little.
 
@@ -28,7 +28,7 @@ I sat at his kitchen table with half a sandwich in front of me and six years goi
 
 "The police would have seen that," I said. "Anyone would."
 
-"Anyone who put the two things side by side. They were weeks apart in your telling. I expect they were weeks apart in the police's too." He picked up the plates. "I'm sorry. I've wanted to say that for some time. I didn't know how you'd take it."
+"The police never knew there were any boxes," he said. "Nobody did but you, and you saw them once. They walked into an apartment with a desk in it, and wrote down *desk.*" He picked up the plates. "It isn't a thing you missed. You couldn't see it until you set the boxes down next to the photographs, and you'd never said the two things out loud in the same month until you said them to me. I've wanted to tell you for some time. I didn't know how you'd take it."
 
 "How am I supposed to take it?"
 
@@ -38,39 +38,45 @@ I sat at his kitchen table with half a sandwich in front of me and six years goi
 
 He walked me out to the car at three. The hawk was still over the field, or another one like it.
 
-I had the door open and one foot in when he said, "Oh. And tell Freda something for me."
+I had the door open and one foot in when he said, "Oh. Tell Freda something for me."
 
 I looked up.
 
 "Tell her to ask Mr. Ostrowski to weigh something on her scale."
 
-I stood there with my hand on the car door.
+"Her scale."
 
-"What?"
+"At her bench. The one that reads everything two percent heavy." He had his hands in his cardigan pockets. "You told me about it back in the fall, the same day you told me about the bow ties. She had to write an extra paragraph explaining why her whole lab came out wrong."
 
-"On her scale. At her bench, in the lab. The one that reads everything two percent heavy." He said it simply, as if it were obvious, standing there with his hands in his cardigan pockets. "You told me about it weeks ago. She complained to you that her whole lab came out wrong because of it, and she had to write an extra paragraph explaining why."
+I did remember. I had told it as a joke. "What about it?"
 
-"I don't," I said, "I don't understand."
+"Last week you told me the other girl's write-up had the same weird numbers in it."
 
-"Every number in her write-up is off by the same two percent. Wrong, in exactly the way nobody else's in that room could be wrong, because nobody else was weighing on that scale. And she wrote a paragraph saying so." He tilted his head. "Now, if somebody else's write-up has the same numbers in it, word for word, the same wrong numbers, then that somebody copied them from Freda. Because their own scale worked. They'd have got the right answers, if they'd done the lab."
+"It does. That's the whole problem. They're the same."
 
-I stared at him.
+"The same wrong numbers," he said. "Two percent heavy. Every one."
 
-"She won't tell you who," he said. "You told me that. She won't say a word against them, and she goes quiet. That's a girl protecting somebody she cares about, even now, even while they let her take the blame. I'd guess a friend. You'd know which one better than I would." He smiled a little. "She doesn't have to say a word against anyone. She only has to ask her teacher to put something on her scale. The scale will say it for her."
+I stood there with my hand on the car door, and I felt it begin to turn over, the way things did around him, a little before I could see what was underneath.
+
+"Nobody else in that room weighed anything on Freda's scale," he said. "Their scales worked. If the other girl had done that lab herself, she'd have got the right answers. She has Freda's wrong ones. So she copied from Freda. Not the other way round."
+
+"Freda won't say that. She won't say a word against her."
+
+"No. You told me that too. That's a girl protecting a friend, even while the friend lets her take the blame." He smiled a little. "So she doesn't have to say a word against anybody. She only has to ask her teacher to put a weight on her scale. The scale will say it for her."
 
 I opened my mouth, and closed it again.
 
 "How long have you known?"
 
-"Since last week," he said. "When you told me the other write-up had the same weird numbers in it. Before that it was only a guess, and I don't hand your daughter a guess."
+"Since last week, when you said *the same weird numbers.* Before that it was only a guess, and I don't hand your daughter a guess."
 
 "Last week." My voice went up. "Why didn't you say?"
 
-"Because last week I had just told you about the Arsenal," he said, "and I sent you home early, and I was not fit to think about anything else. I should have said it at the door anyway." He looked at me. "I'm sorry. I'm saying it now."
+"Because last week I had just told you about the Arsenal, and I sent you home early, and I was not fit to think about anything else." He looked at me. "I should have said it at the door anyway. I'm sorry. I'm saying it now."
 
 I did not know what to say. I got into the car. He shut the door for me, and stepped back, and lifted his hand, the way he always did, as I turned the car around on the gravel.
 
-I drove the whole two hours home with the radio off, saying it over to myself so I would get it exactly right. *Ask Mr. Ostrowski to weigh something on your scale.*
+I drove home with the radio off. Twice I reached for my phone to call her, and twice I put it back, because it was not a thing to say to a sixteen-year-old on speaker from the highway. Somewhere past Frederick I realized I had been saying it out loud, over and over, the way I used to rehearse the first question of an interview I was afraid of. *Ask Mr. Ostrowski to weigh something on your scale.* Nine words. I did not want to get one of them wrong.
 
 * * *
 
@@ -108,7 +114,9 @@ It took four days.
 
 On Monday Freda asked Mr. Ostrowski. On Tuesday, she told me that night, he put a hundred-gram weight on her scale in front of her, and it said a hundred and two, and he looked at her write-up, and at the other one, and at the extra paragraph at the end of hers, and he took off his glasses and cleaned them for a long time. On Wednesday there was a meeting in the vice principal's office that Freda was not in and did not tell me about; I knew of it only because the school left a message on my phone. On Thursday, Maddie's mother called me, and was very quiet on the phone, and apologized for something she did not quite name, and I was kinder to her than I had planned to be.
 
-On Thursday night, I came home from the old man's house, and hung up my coat, and put my bag on the chair.
+That Thursday I drove up to his house as usual. There was no more 1865 to tell, and neither of us pretended there was. He asked about Freda before I had my coat off, and I told him all of it, Monday and Tuesday and the weight that said a hundred and two, and he listened with his eyes closed and said "Good," once, at the end. We spent the rest of the afternoon splitting kindling behind the house, which he said I had been doing wrong my whole life, and he was right. The recorders stayed in my bag.
+
+That night I came home, and hung up my coat, and put my bag on the chair.
 
 Freda was at the kitchen table, doing her chemistry. The phone was beside the book. It was face up. While I watched, it lit up with a message, and Freda glanced at it, and snorted at whatever it said, and typed something back with one thumb, and put it down again. Face up.
 
