@@ -70,7 +70,15 @@ A lame young man in a good civilian coat, asking after Booth, was a suspect.
 
 A lame young man in Union blue was furniture.
 
-I went down to the rag shops on Seventh Street, where the soldiers sold what they did not need and the dealers sold it on to the next soldier, and for two dollars I bought an army coat that had belonged to somebody bigger than me, faded, with a darned place at the elbow. I looked at the darn for a long moment in the shop. It had been mended with the right thread. I bought a forage cap to go with it. The dealer looked at the cane and the leg and the money, and decided I was a soldier buying back the kind of coat I had sold, and I let him. The Seventh Street dealers lived on not asking; half their stock came from deserters, and a man who asked questions there did not stay in business a week. I did not leave my own coat with him. A good coat left behind is a thing a man remembers. I carried it out rolled under my arm, and that night it went in the canal.
+I went down to the rag shops on Seventh Street, where the soldiers sold what they did not need and the dealers sold it on to the next soldier, and for two dollars I bought an army coat that had belonged to somebody bigger than me, faded, with a darned place at the elbow. I looked at the darn for a long moment in the shop. It had been mended with the right thread.
+
+The dealer looked at the cane and the leg. "Discharged?" he said.
+
+"In the winter," I said. "I sold mine the week I got home. I never wanted to see it again." I put the two dollars on the counter. "And then this morning."
+
+He nodded. He did not need the rest. Half the men who had come into his shop that day, he told me, had said the same thing, or near it. They were going to line the Avenue when the President was carried up it, and they wanted to be in blue when they did. He threw in a forage cap for nothing.
+
+I thanked him. I did not leave my own coat with him. A good coat left behind is a thing a man remembers. I carried it out rolled under my arm, and that night it went in the canal.
 
 And I walked out onto Seventh Street in the uniform of the army that had shot me, with my cane, into a city full of soldiers looking for a lame young man, and not one of them looked at me.
 
