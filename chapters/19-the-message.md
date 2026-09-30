@@ -26,7 +26,7 @@ I unfolded it. It was Booth's hand. I had seen that hand all winter, on letters 
 
 *Kit. The Dutchman has lost his nerve. I have gone to the Kirkwood to see to it myself. Come at once. The theater will keep. J.W.B.*
 
-I read it twice. For a man in a hurry, there was not a blot on it. I put that down to the brandy wearing off, and thought no more about it. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
+I read it twice. For a man in a hurry, there was not a blot on it. I noticed it, and let it go. There was no time that night to think about blots. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
 
 * * *
 
