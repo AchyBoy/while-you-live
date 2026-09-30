@@ -14,7 +14,9 @@ I wrote it on a sticky note and put it on the front of my notebook, and under it
 
 * * *
 
-On Thursday he read the sticky note before I had even read him the question. He read it upside down, across the table, while I was setting out the recorders. I saw him do it.
+On Thursday I was an hour late. The school had asked me to come in first thing, and it had not gone well.
+
+He read the sticky note before I had my coat off. He read it upside down, across the table, while I was still setting out the recorders. I saw him do it.
 
 "*Why,*" he said. "Good."
 
@@ -24,9 +26,9 @@ On Thursday he read the sticky note before I had even read him the question. He 
 
 * * *
 
-At lunch I told him about the school.
+It was nearly noon by then. He put the soup on, and at lunch I told him about the school.
 
-I had not meant to. It came out sideways, the way things do, because the soup was good and because it had been a bad week. I told him that the car had made a noise on Monday that cost four hundred dollars to find out was nothing. That the gutter people wanted twelve more articles about gutter guards, which I was going to write, because it was money. That Freda's school had called on Wednesday, the chemistry teacher, Mr. Ostrowski, the one with the bow ties, to say that two lab write-ups had come in almost word for word the same, and he had to treat them both as copied until he knew otherwise, and one of them was Freda's. He had told both girls weeks ago, it turned out, the day the write-ups came in, and word had gone round the class. The school had only called now because neither girl would say anything.
+I had not meant to. It came out sideways, the way things do, because the soup was good and because it had been a bad week. I told him that the car had started making a noise like a spoon in a garbage disposal, and the mechanic had charged me four hundred dollars to tell me it was a loose heat shield. That the carpet man had sent back chapter nine of his memoir with a note asking for more about the Berber shortage of 1987. And that Freda's school had called on Wednesday, the chemistry teacher, Mr. Ostrowski, the one with the bow ties, to say that two lab write-ups had come in almost word for word the same, and he had to treat them both as copied until he knew otherwise, and one of them was Freda's. He had told both girls weeks ago, it turned out, the day the write-ups came in, and word had gone round the class. The school had only called now because neither girl would say anything, and that morning I had sat in a plastic chair outside the vice principal's office for forty minutes to be told so in person.
 
 "And Freda says she didn't," I said. "And she won't say anything else. Not who, not how. She just goes quiet." I stirred my soup. "She's not a cheater. She's the most annoyingly honest person I know. She told her dentist she doesn't floss."
 
@@ -42,17 +44,25 @@ Booth told us nothing. That was the first thing I learned. On the twelfth and th
 
 So I did what I could do. I listened to his questions.
 
-A man's questions tell you what he is thinking far better than his answers do. Booth asked me a great many things over those two days, the way he had asked me about horses and roads on a fence in Charles County, lightly, between other remarks, so that each one sounded like nothing. He asked me the fastest way from Lafayette Square to the Navy Yard Bridge, at night, for a man on a horse. He asked me whether the Kirkwood House, at Twelfth Street and the Avenue, had a back way out onto the alley. He asked me, laughing, whether I thought Andy Johnson drank as much as they said.
+A man's questions tell you what he is thinking far better than his answers do. Booth asked me a great many things over those two days, the way he had asked me about horses and roads on a fence in Charles County, lightly, between other remarks, so that each one sounded like nothing. He asked me the fastest way from Lafayette Square to the Navy Yard Bridge, at night, for a man on a horse who did not know the city. He asked me whether the Kirkwood House, at Twelfth Street and the Avenue, had a back way out onto the alley. He asked me, laughing, whether I thought Andy Johnson drank as much as they said, and whether a man like that answered his own door at night.
 
 And on the afternoon of the thirteenth, in the dining room of the National, he read me a paragraph from the *Star* about the Secretary of State.
 
-Mr. Seward had been thrown from his carriage eight days before, when his horses bolted. It had been in all the papers. His jaw was broken and his arm, and he was lying in bed in his house on Lafayette Square, across from the President's house, badly hurt and under a doctor's care. Booth read me the paragraph about how he was getting on. Then he folded the paper and said, "Poor old man," and changed the subject.
+Mr. Seward had been thrown from his carriage eight days before, when his horses bolted. It had been in all the papers. His jaw was broken and his arm, and he was lying in bed in his house on Lafayette Square, across from the President's house, badly hurt and under a doctor's care. Booth read me the paragraph about how he was getting on. Then he folded the paper and said, "Poor old man. Who doctors him, do you know?"
 
-I sat there with my coffee and put it together. It was not difficult. It only needed someone to put the pieces side by side.
+I said I did not. He said it did not matter, and changed the subject.
 
-Lafayette Square: that was Seward's house. The Kirkwood House: everyone in Washington knew that the new Vice President, Andrew Johnson, had rooms there. And the President. The President, the Vice President and the Secretary of State.
+I sat there with my coffee and laid his questions side by side. Each one alone was nothing. Together they were not.
 
-I knew enough about how that government was put together to know what those three men were. If you killed the President, the Vice President took his place. If you killed them both, and the Secretary of State too, the man whose office was supposed to send word to the states and call an election, then for a few days nobody would be quite sure who was running the country at all. Booth did not mean to kill a man. He meant to cut the head off the government, all at once, in one night, and see what grew back.
+Every one of them was about the night, and every one was about getting away. And not one of them was about the President. Booth did not need my help with the President. Whatever he meant to do there, he meant to do himself, in a city he knew street by street. The questions were for other men.
+
+A man on a horse who did not know the city: that was not Booth. That was Powell, who could not find his way across Washington in daylight. And Lafayette Square, yes, the President's house faced it, but nobody plans a stranger's escape from a house he will never get into. The other house on that square that mattered that week was Seward's, with Seward in it, flat in bed with a broken jaw and a doctor coming and going. A man who asks for the doctor's name is looking for a reason to be let in at the door.
+
+The Kirkwood: everyone in Washington knew that the new Vice President, Andrew Johnson, had rooms there. And the man who asked me whether Andy Johnson answered his own door at night was not asking about his drinking.
+
+The President. The Vice President. The Secretary of State.
+
+I knew how that government was put together. Kill only the President, and the Vice President takes his oath the next morning, and nothing changes; the war is still won. Kill the Vice President too, and the law calls for a new election, and the man whose office sends word to the states to hold it is the Secretary of State. Kill all three in one night, and for a few days nobody would be quite sure who was running the country at all. Booth did not mean to kill a man. He meant to cut the head off the government, all at once, in one night, and see what grew back.
 
 It was, I have to tell you, a clever plan. It was the first truly clever plan I ever saw him make. It frightened me more than anything he had done.
 
