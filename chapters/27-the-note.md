@@ -28,7 +28,7 @@ I thought about it. "Not the cell. The cell was just boring. It was being sure, 
 
 He ate a little more. The crows had found whatever it was, out in the field, and were arguing over it.
 
-"You'll want to know what they had on me," he said, halfway through the bowl. "It wasn't much. It didn't need to be."
+"You'll want to know what they had on me," he said. "It wasn't much. It didn't need to be."
 
 * * *
 
