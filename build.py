@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build index.html from chapters/*.md.
 
-Each chapter file needs a line "## Chapter N: Title". Everything after it is the
+Each chapter file needs a line "## Chapter N: Title" ("## Extra N: Title" for back matter such as an author's note, shown without a chapter number). Everything after it is the
 chapter text: blank lines split paragraphs, *italic*, **bold**, and a line of
 "---" or "* * *" is a scene break. Run: python3 build.py
 
@@ -27,8 +27,8 @@ def inline(text):
 def chapter(path):
     lines = path.read_text().splitlines()
     head = next(i for i, l in enumerate(lines) if l.startswith("## "))
-    m = re.match(r"##\s*Chapter\s+(\d+)\s*:\s*(.+)", lines[head])
-    num, title = int(m.group(1)), m.group(2).strip()
+    m = re.match(r"##\s*(Chapter|Extra)\s+(\d+)\s*:\s*(.+)", lines[head])
+    extra, num, title = m.group(1) == "Extra", int(m.group(2)), m.group(3).strip()
     blocks, para, hashes = [], [], []
 
     # Ari's testimony is set as a transcript. A section that opens with an italic line
@@ -66,7 +66,7 @@ def chapter(path):
             flush()
         else:
             para.append(s)
-    return {"num": num, "title": title, "html": "\n".join(blocks), "hashes": hashes}
+    return {"num": num, "title": title, "extra": extra, "html": "\n".join(blocks), "hashes": hashes}
 
 
 BUILD = int(time.time() * 1000)
