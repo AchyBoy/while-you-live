@@ -16,27 +16,27 @@ I turned in my seat, and Damon was standing in the aisle behind me, bent a littl
 
 He was in his white jacket from the National. That was how he had got in. I understood it at once, and I admired it, even then. A Black man in the dress circle of Ford's Theatre on a Friday night would have been stopped at the foot of the stairs and asked his business. But a hotel waiter in a hotel jacket, with a folded note in his hand, looking for a gentleman, is not a man. He is a message. The ushers had let him up without a second look. The people in the seats around me did not look at him at all.
 
-He held the folded note out to me, for show, and I took it. It was blank. He bent closer.
+He held out a folded note, the way a waiter holds out a bill on a tray.
 
-"He s-sent me," he said, very low, under the laughter from the stage. "M-Mister Booth."
-
-I did not move.
-
-"He says the D-Dutchman has lost his nerve. The one for the Vice P-President." Each word came out of him one at a time, pushed through, with a long terrible pause before the hard ones. "He has g-gone to the Kirkwood himself. To s-see to it. You're to come. N-now. He says the theater will k-keep."
+"F-from Mister B-Booth, sir," he said, very low, under the laughter from the stage.
 
 Then he straightened up, and stepped back, and stood waiting, with his hands behind him, the way a servant waits to see whether there will be an answer.
 
-The note was blank. Of course it was. Not even Booth would put this on paper tonight. He had sent it by the one messenger nobody ever listens to.
+I unfolded it. It was Booth's hand. I had seen that hand all winter, on letters and cards and the backs of playbills, big and fast and slanting, the hand of a man who has signed a great many autographs and enjoyed every one. Four lines, written in a hurry:
+
+*Kit. The Dutchman has lost his nerve. I have gone to the Kirkwood to see to it myself. Come at once. The theater will keep. J.W.B.*
+
+I read it twice. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
 
 * * *
 
 I want to tell you what I thought, in the next half minute, because I thought very clearly, and every step of it was sound.
 
-First: that Damon knew Booth's business. There was no doubt of it. He knew the Kirkwood. He knew the Vice President. He knew there was a man assigned to him, and that the man was a German, and that the man was the kind to lose his nerve. Nobody knew those things who was not inside.
+First: that the note was Booth's. I knew the hand. And it knew things nobody knew who was not inside: the Kirkwood, the Vice President, that there was a man assigned to him, and that the man was a German, the kind to lose his nerve.
 
-Second: that everything I had seen in six weeks turned over and showed a second face. Damon had been at Booth's elbow, one way or another, since the first night I saw him at the National. Waiting on Booth's table. Listening to every word Booth said. Standing at the top of the back stairs at midnight outside Booth's room, as if he had been waiting there for somebody to come out. On the lawn when Booth said *the last speech he will ever make.* Taking the morning off, today of all days, the day Booth learned the President was coming. Everywhere Booth went, Damon had been, a few steps off, unseen.
+Second: that Booth had trusted Damon to carry it. And if he had, then everything I had seen in six weeks turned over and showed a second face. Damon had been at Booth's elbow, one way or another, since the first night I saw him at the National. Waiting on Booth's table. Listening to every word Booth said. Standing at the top of the back stairs at midnight outside Booth's room, as if he had been waiting there for somebody to come out. On the lawn when Booth said *the last speech he will ever make.* Taking the morning off, today of all days, the day Booth learned the President was coming. Everywhere Booth went, Damon had been, a few steps off, unseen.
 
-And Booth, I knew, tipped every waiter in that hotel too much, and knew them all by name, and thought of them as furniture. What better man for an errand, on a night like this, than one nobody would ever look at twice? Booth was vain, and he was careless with paper, but he was not a fool. A waiter from the National, who could go anywhere in a white jacket, carrying messages, watching doors. It was exactly what I would have done.
+And Booth, I knew, tipped every waiter in that hotel too much, and knew them all by name, and thought of them as furniture. What better man for an errand, on a night like this, than one nobody would ever look at twice? Booth was vain, and careless with paper, but he was not a fool. A waiter from the National, who could go anywhere in a white jacket, carrying messages, watching doors. It was exactly what I would have done.
 
 And he knew where to find me. Nobody had told Booth I would be at Ford's that night. So somebody had been watching me for him, and there was his waiter, standing in the aisle.
 
@@ -80,7 +80,11 @@ I did not answer.
 
 "So he sent you to the Kirkwood."
 
-"The Kirkwood." He picked up the pencil and turned it in his fingers. "I've spent a long time wondering how he knew about Atzerodt. That he'd lose his nerve. Booth never said it in front of him. I'm nearly sure of that. He must have watched Atzerodt the way he watched all of us, and worked it out for himself." He shook his head. "He was right about that too." He put the pencil down. "And he knew about the card. I have never worked out how he knew about the card. But that's the Kirkwood, and we aren't there yet."
+"The Kirkwood." He picked up the pencil and turned it in his fingers. "In Booth's own hand. I would have sworn to that note in any court in the country. He had watched Booth sign his dinner bill every night for a winter, I suppose, and that was enough for him. It was the best forgery I have ever held, and I have held a few."
+
+"Do you still have it?"
+
+"It went into a gutter on Tenth Street that night, in pieces. A letter in Booth's hand, calling me to come and help him, was not a thing to be found with." He turned the pencil over. "I've spent a long time wondering how he knew about Atzerodt. That he'd lose his nerve. Booth never said it in front of him. I'm nearly sure of that. He must have watched Atzerodt the way he watched all of us, and worked it out for himself." He shook his head. "He was right about that too." He put the pencil down. "And he knew about the card. I have never worked out how he knew about the card. But that's the Kirkwood, and we aren't there yet."
 
 I looked at the clock. It was nearly four.
 

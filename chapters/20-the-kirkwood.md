@@ -46,7 +46,7 @@ The clerk's face did what everyone's face did at that name. "Mr. Booth? Yes, sir
 
 So it was true.
 
-I stood at that desk and felt it go through me. Damon had not lied. Booth had been here, asking for Johnson. Everything in the message had held.
+I stood at that desk and felt it go through me. Damon had not lied. Booth had been here, asking for Johnson. Everything in the note had held.
 
 I would have asked when in the next breath. I never got to the next breath.
 
@@ -104,7 +104,7 @@ It was the only thing I did that night that worked.
 
 And standing there, with the noise of the bar going on around me, I thought: *where is Booth?*
 
-He had sent me here to help with Johnson. The message said he had come to see to it himself. He was not in the bar, and Atzerodt had not seen him, or he would have said. He was not upstairs either. The house was quiet, and a clerk does not sit calmly at his desk under a floor where the Vice President is being killed. If Booth had meant to come, he would have been here before me. He had a fast horse, and I had a cane.
+He had sent me here to help with Johnson. The note said he had come to see to it himself. He was not in the bar, and Atzerodt had not seen him, or he would have said. He was not upstairs either. The house was quiet, and a clerk does not sit calmly at his desk under a floor where the Vice President is being killed. If Booth had meant to come, he would have been here before me. He had a fast horse, and I had a cane.
 
 I went back to the desk.
 
