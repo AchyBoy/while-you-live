@@ -26,7 +26,7 @@ I unfolded it. It was Booth's hand. I had seen that hand all winter, on letters 
 
 *Kit. The Dutchman has lost his nerve. I have gone to the Kirkwood to see to it myself. Come at once. The theater will keep. J.W.B.*
 
-I read it twice. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
+I read it twice. For a man in a hurry, there was not a blot on it. I put that down to the brandy wearing off, and thought no more about it. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
 
 * * *
 
@@ -80,7 +80,7 @@ I did not answer.
 
 "So he sent you to the Kirkwood."
 
-"The Kirkwood." He picked up the pencil and turned it in his fingers. "In Booth's own hand. I would have sworn to that note in any court in the country. He had watched Booth sign his dinner bill every night for a winter, I suppose, and that was enough for him. It was the best forgery I have ever held, and I have held a few."
+"The Kirkwood." He picked up the pencil and turned it in his fingers. "In Booth's own hand. I would have sworn to that note in any court in the country. He had carried Booth's letters to and from the hotel desk all winter, dozens of them. That was enough for him. It was the best forgery I have ever held, and I have held a few."
 
 "Do you still have it?"
 
