@@ -70,7 +70,7 @@ A lame young man in a good civilian coat, asking after Booth, was a suspect.
 
 A lame young man in Union blue was furniture.
 
-I went down to the rag shops on Seventh Street, where the soldiers sold what they did not need and the dealers sold it on to the next soldier, and for two dollars I bought an army coat that had belonged to somebody bigger than me, faded, with a darned place at the elbow. I looked at the darn for a long moment in the shop. It had been mended with the right thread. I bought a forage cap to go with it. I left Booth's coat in the shop in part payment, and the man did not ask me why, and I did not tell him.
+I went down to the rag shops on Seventh Street, where the soldiers sold what they did not need and the dealers sold it on to the next soldier, and for two dollars I bought an army coat that had belonged to somebody bigger than me, faded, with a darned place at the elbow. I looked at the darn for a long moment in the shop. It had been mended with the right thread. I bought a forage cap to go with it. The dealer looked at the cane and the leg and the money, and decided I was a soldier buying back the kind of coat I had sold, and I let him. The Seventh Street dealers lived on not asking; half their stock came from deserters, and a man who asked questions there did not stay in business a week. I did not leave my own coat with him. A good coat left behind is a thing a man remembers. I carried it out rolled under my arm, and that night it went in the canal.
 
 And I walked out onto Seventh Street in the uniform of the army that had shot me, with my cane, into a city full of soldiers looking for a lame young man, and not one of them looked at me.
 
@@ -96,6 +96,6 @@ He stopped.
 
 "You went home," I said. It was not a question.
 
-"I went home." He turned the pencil in his fingers. "Getting out of Washington that week is a story by itself. I'll tell you next time. I'm going to tell you how I found him, Ms. Barnett. Booth. I knew where he was going before the army did. That was the one thing that week I got right." He looked at me. "It didn't make any difference to him, in the end." He put the pencil down. "Next week."
+"I went home." He turned the pencil in his fingers. "Getting out of Washington that week is a story by itself. I'll tell you next time. I'm going to tell you how I found him, Ms. Barnett. Booth. I knew where he was going before the army did. I sent a frightened man home from the Kirkwood, and I found Booth. Those were the two things I got right that week." He looked at me. "The second didn't make any difference to him, in the end." He put the pencil down. "Next week."
 
 I wrote *Seventh Street, rag shops, blue coat,* and then, underneath, because I could not help it, *the right thread.*

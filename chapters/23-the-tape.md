@@ -4,7 +4,7 @@
 
 He stopped, and did not start again.
 
-I sat with my pen above the notebook. I had not written anything for a long time; the last thing on the page was *the sleeves,* and under it a line that trailed off into nothing where my hand had simply stopped. The woodstove had burned down to a red glow. The window had gone blue. I did not know when that had happened.
+My pen was still above the notebook. The last thing on the page was *the sleeves,* and under it a line that ran off into nothing where my hand had stopped. The woodstove had burned down to a red glow. The window had gone blue. I did not know when that had happened.
 
 He was sitting with his hands flat on his knees, the way he had put them there two hours before, looking at the floor between his feet. He was not crying. I had half expected him to, and would have known what to do if he had. People cried in interviews all the time. You waited, and you did not look away, and you did not touch the recorder.
 
@@ -44,7 +44,7 @@ Then I took the blanket off the back of the couch and put it over Freda's should
 
 That night I did not sleep.
 
-At eleven I carried Freda up to bed, which I had not done in years and could barely do anymore, and she woke enough to say "you're back" and "how was the guy" and was asleep again before I could answer. At midnight I sat down at the kitchen table with my headphones and my laptop and began typing up the transcript, because the lawyers wanted it by Monday and because I did not know what else to do with myself.
+At eleven I woke Freda enough to walk her up to bed, one arm around her, the way I used to when she fell asleep in the car, and she said "you're back" and "how was the guy" and was asleep again before I could answer. At midnight I sat down at the kitchen table with my headphones and my laptop and began typing up the transcript, because the lawyers wanted it by Monday and because I did not know what else to do with myself.
 
 It was very strange, typing it. In the room, I had been inside it. At the kitchen table, with my fingers on the keys, I was outside it again, the way I had always been outside every story, and I could hear it for what it was.
 

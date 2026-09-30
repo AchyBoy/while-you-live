@@ -38,7 +38,7 @@ So I told him. Not all of it. The seat by the door. The plan to stand up and sho
 
 Then I told him what I had worked out on the pavement in the last hour, because I could not stop myself working things out, not even that night.
 
-"And you stayed by the door," I said. "After I left. You meant to stop him yourself. But you had no ticket, and no gentleman, and once the message was delivered you were only a Black man standing in the dress circle of Ford's Theatre. So an usher came and told you to go down." I watched his face. "You went down to the lobby. And you were there, at the foot of the stairs, when he came in from the street."
+"And you stayed," I said. "After I left. You never meant to stop him with your hands. You meant to tell the President's man. The footman in livery, by the door. One servant to another. The only man in that dress circle who might have listened to a waiter." I watched his face. "But he did not listen, or you could not get it out in time. And once the note was delivered you were only a Black man standing in the dress circle of Ford's Theatre, with no gentleman to wait on. So an usher came and told you to go down. You went down to the lobby, to wait at the foot of the stairs, where every man going up had to pass you. And you were there when he came in from the street."
 
 He did not answer. He did not have to.
 
@@ -102,9 +102,9 @@ Then he put the hat back on, and turned to go.
 
 "What will you do?" I said.
 
-He stopped. He thought about it, looking back up the street, toward the Avenue, toward everything the man in that house had said out loud four nights before, from a window, in the candlelight.
+He stopped. He looked back up the street, toward the Avenue, toward the window where the man in that house had stood four nights before, in the candlelight, and talked about what came after the war. About votes, for the men who had worn the uniform.
 
-"W-what comes next," he said.
+"W-what comes next," he said. "S-somebody has to s-see to it."
 
 And he walked away up Tenth Street, through the crowd, in the rain, in his thin white jacket, and did not look back. I watched him until I could not see him anymore.
 

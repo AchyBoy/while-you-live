@@ -16,19 +16,23 @@ Pearl. I wrote it down, and something in my chest let go that I had not known wa
 
 "The police found her shut in the bedroom," I said. "Did he do that often?"
 
-"Only when somebody came up." He said it as if anyone would know. "Every time that door opened, out she went, down the stairs and into the cleaner's, and then I'm the one on my knees under the pressing machine. Twice I did that. After the second time I told him, somebody comes to your door, you put the cat away first. And he did. He was a good tenant, except the rent."
+"Only when somebody came up. Every time that door opened, out she went, down the stairs and into the cleaner's, and then I'm the one on my knees under the pressing machine. Twice I did that. After the second time I told him, somebody comes to your door, you put the cat away first. And he did. He was a good tenant, except the rent."
 
 I did not say anything for a moment.
 
 "So if she was shut in," I said, "somebody had come up."
 
-"Somebody always comes up," Petrakis said. "Why? You know where he went?"
+"Sure. Somebody came up." I could hear a television somewhere behind him, and his daughter asking who it was. "Six years, and you call about the cat?"
+
+"Mostly about the cat."
+
+"You found him? You know where he went?"
 
 "No," I said. "I don't."
 
 I did not tell him about Pearl that Thursday. It had been his idea to ask. I wanted, this once, to be the one who knew what the answer meant.
 
-He was waiting on the porch when I drove up, which he had never done before, in his coat, with the umbrella furled though it was not raining. He did not make small talk. He did not make tea. When I had set out the recorders and said the date and the time, he began before I had finished writing it down, as if he had been saying it to himself all week and was only now letting me hear.
+He was waiting on the porch when I drove up, already in his coat, as if he had been standing there a while, with the umbrella furled though it was not raining. He did not make small talk. He did not make tea. When I had set out the recorders and said the date and the time, he began before I had finished writing it down, as if he had been saying it to himself all week and was only now letting me hear.
 
 * * *
 
