@@ -34,7 +34,7 @@ He had not changed. Plump, soft-spoken, polite. He had gone to the police himsel
 
 He remembered every visit Booth had made to the house on H Street. He remembered Atzerodt, and the bottles, and Powell as Wood and Powell as the Reverend Paine. He remembered driving Mrs. Surratt to her tavern on the afternoon of the fourteenth, and the package she carried, done up in paper, and Booth talking with her before they left. He remembered it all, in order, with dates.
 
-I sat at the back and listened to him, and remembered the first night I met him, in the parlor on H Street, and what I had thought afterward, lying awake by the Navy Yard: *if this ever goes wrong, that one will talk.* It was why I had never once let him hear my name.
+I sat at the back and listened to him, and remembered the first night I saw him, reading by the lamp in the parlor on H Street, and what I had told Booth about him afterward, under a streetlamp: *if this ever goes wrong, that one will talk.* Booth had laughed and called him harmless. I had kept my name out of his hearing from that night on.
 
 He did not mention me. Not once, in all those hours. He could not. He had nothing to mention.
 
