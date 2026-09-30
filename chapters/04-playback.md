@@ -22,7 +22,7 @@ For the second hour, I thought about how he had said *I was always glad of that.
 
 * * *
 
-The house was lit up when I parked out front, every window, the way Freda left it when she was home alone and pretending she didn't mind.
+The house was lit up when I parked out front, every window, the way Freda always left it when she was home alone.
 
 Freda was at the kitchen table with her laptop and a stack of chemistry worksheets, a pencil behind one ear and another in her hand. She looked up when the door opened, and for a second her face did something that looked like relief, and then she seemed to remember she was sixteen, and put it away.
 

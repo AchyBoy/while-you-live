@@ -30,7 +30,7 @@ The envelope was heavy cream paper, the same as the first letter, months ago, on
 
 It was the same old-fashioned hand that had written *Please ask him what he thinks of 1865* at the bottom of the first letter. I would have known it anywhere. Still, I went and got the first letter out of my file to be sure, and laid them side by side on the kitchen table under the light.
 
-It was the same hand. But it was not the same. The letters were the same shapes, the same careful, schooled, slightly slanting shapes, but they wavered now. The long strokes had a tremor in them, a little shiver, like a line drawn on a moving train. The pen had stopped, here and there, and started again. Whoever had written this had written it slowly, and it had cost him something.
+It was the same hand. But it was not the same. The letters were the same shapes, the same careful, schooled, slightly slanting shapes, but they wavered now. The long strokes had a tremor in them, a little shiver, like a line drawn on a moving train. The pen had stopped, here and there, and started again. Whoever had written this had written it slowly, and I thought it had cost him something.
 
 *Please ask him about the Carpathia.*
 

@@ -2,7 +2,7 @@
 
 ## Chapter 30: The Scale
 
-It was a strange lunch. It was the first one in sixteen weeks that was not in the middle of anything. 1865 was over. Neither of us knew quite what we were supposed to talk about now, and so, for a while, we did not talk at all. He made grilled cheese, because the soup had run out, and apologized for it, and I said it was the best thing I had eaten all week, which was true.
+It was a strange lunch. It was the first one in sixteen weeks that was not in the middle of anything. 1865 was over. I did not know quite what we were supposed to talk about now, and I do not think he did either, and so, for a while, we did not talk at all. He made grilled cheese, because the soup had run out, and apologized for it, and I said it was the best thing I had eaten all week, which was true.
 
 Then, halfway through the second half of my sandwich, he said, "Your man didn't take his files."
 

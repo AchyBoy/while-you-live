@@ -4,7 +4,7 @@
 
 The National Archives building on Pennsylvania Avenue looks like a bank that has decided to become a temple. I had driven past it most of my life. On Tuesday morning I went in through the researchers' entrance on the side, showed my laminated card with its terrible photograph, put my bag in a locker because bags were not allowed, and was given a pencil, because pens were not allowed either.
 
-The microfilm room was dim and cool and almost silent. There were rows of readers, big gray machines with screens like old televisions, and at most of them sat somebody bent close, turning a crank. A retired man was looking for his great-grandfather. A graduate student had three boxes of reels and the face of someone who had not slept. My reel was waiting for me at the desk. I threaded it the way the video had shown me, and turned the crank.
+The microfilm room was dim and cool and almost silent. There were rows of readers, big gray machines with screens like old televisions, and at most of them sat somebody bent close, turning a crank. A retired man was telling the desk clerk about his great-grandfather. A graduate student had three boxes of reels and the face of someone who had not slept. My reel was waiting for me at the desk. I threaded it the way the video had shown me, and turned the crank.
 
 The pages went by in a gray blur and then slowed. They were registers. Big ledger books, photographed page by page a long time ago, with columns ruled by hand: name, rank, company, regiment, where captured, when captured, and at the end a wide column headed *Remarks.* The handwriting changed every few pages as one clerk went off duty and another sat down. Some of them wrote beautifully. Some of them I could hardly read.
 
