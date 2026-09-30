@@ -62,7 +62,7 @@ My mother held my face in her hands. She did not ask me where I had been. She ne
 
 "I'm home," I said.
 
-It was true, as far as it went. It was the only home that body ever had. I stayed in it until it wore out, the way I always have. I have never once left one early. And there was nobody to hand it back to. Whoever that body had belonged to before me went out of it on a road in front of Fort Stevens, the moment before I came in. Where he went, I have never known.
+It was true, as far as it went. It was the only home that body ever had, and I stayed in it to the end. I always do. I don't get to choose when I leave. One day I wake up somewhere else, in someone else, and sometimes I remember how the last one ended, and sometimes I don't.
 
 * * *
 
