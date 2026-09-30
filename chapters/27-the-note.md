@@ -28,6 +28,16 @@ I thought about it. "Not the cell. The cell was just boring. It was being sure, 
 
 He ate a little more. The crows had found whatever it was, out in the field, and were arguing over it.
 
+I had used his bathroom that morning, and noticed something I should have noticed weeks before. There was no mirror over the sink. There was a pale rectangle on the wallpaper where one had been, and two screw holes, painted over. I had not seen a mirror anywhere else in the house either, now that I thought about it. It explained the cardigan.
+
+"You don't have a mirror," I said.
+
+"No."
+
+"Anywhere?"
+
+"I stopped keeping them a few lives ago." He did not seem to mind the question. "It's never the face I'm expecting."
+
 "You'll want to know what they had on me," he said. "It wasn't much. It didn't need to be."
 
 * * *

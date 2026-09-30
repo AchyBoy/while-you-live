@@ -18,7 +18,7 @@ Freda thought about that. "That's kind of a lot," she said, and went back to her
 
 The payment came at eight o'clock.
 
-I heard my phone go and looked at it and did not understand the number at first. Then I did. It was twenty thousand dollars. The note on the transfer said: *With our client's thanks, at the close of the first part.*
+I heard my phone go and looked at it and did not understand the number at first. Then I did. It was twenty thousand dollars. It was more than I had made in the whole of the year before. It was the car paid off, and the dentist, and a start on Freda's college, if she went somewhere sensible. The note on the transfer said: *With our client's thanks, at the close of the first part.*
 
 The first part.
 
@@ -76,13 +76,13 @@ I read it.
 
 He did not move.
 
-That was the first thing. He had been reaching for his tea, and his hand stopped, just short of the cup, and stayed there. The pencil in his other hand stopped on the notepad. His face did not change at all, and that was the second thing, because his face was always changing, always listening, always a little amused, and now it was entirely still, like a pond in the moment after the stone and before the rings.
+That was the first thing. He had been reaching for his tea, and his hand stopped, just short of the cup. After a moment it came down and rested on the arm of the chair, and did not move again. The pencil in his other hand stopped on the notepad. His face did not change at all, and that was the second thing, because his face was always changing, always listening, always a little amused, and now it was entirely still, like a pond in the moment after the stone and before the rings.
 
 I waited. Without meaning to, I counted, the way I had counted on the tape in the autumn. Eleven seconds, that first day, after *1865.*
 
 I got to forty.
 
-Then, very slowly, he drew his hand back from the cup and put it flat on his knee. He looked past me, over my shoulder, at the mantel. At the empty wooden frame with its polished glass, waiting.
+Then, very slowly, he looked past me, over my shoulder, at the mantel. At the empty wooden frame with its polished glass, waiting.
 
 "Say it again," he said.
 
