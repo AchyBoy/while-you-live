@@ -102,8 +102,10 @@ And at a little after half past nine, somebody touched my shoulder from behind, 
 
 He stopped there.
 
-My hand had stopped moving on the page some time before. I looked down and found that I had written, in the margin, very small, the word *loud,* and underlined it twice.
+I waited for him to turn around, to tell me who had spoken. When he didn't, I became aware of the quiet in the living room and the notebook in my lap. I had stopped taking notes without noticing. The last thing on the page was one word in the margin, written very small: *loud.* I had underlined it twice.
 
-"That was a good plan," I said. I had not meant to say it.
+"That was a good plan," I said. I had meant to ask what happened next.
 
-"It was a very good plan," he said. "I've had a long time to look for the hole in it, and I've only ever found one." He looked at the box on the floor by my chair. "Someone else was watching the same door."
+"It was a very good plan," he said. "I've had a long time to look for the hole in it, and I've only ever found one."
+
+"Someone else was watching the same door."
