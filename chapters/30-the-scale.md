@@ -20,9 +20,9 @@ He looked at me.
 
 "I called Petrakis. Weeks ago." I told him about Pearl, and the door, and the pressing machine. "He only shut her in when somebody came to the door. Petrakis made him promise, after the second time she got out."
 
-He was quiet for a moment. Then he smiled, a little.
+He looked at me for a moment, and I could see he was pleased, and that it was with me and not the news.
 
-"Then it's worse than I said," he said gently. "He knew them."
+"You checked," he said. "Good." Then it went out of his face. "Then it's worse than I said. He didn't open that door to a stranger. He put the cat away for somebody he knew."
 
 I sat at his kitchen table with half a sandwich in front of me and six years going over in my head like pages in a wind. The report I had read over and over since I took the box down. *Framed family photographs on living room wall. Desk.* The closet by the door. The cat.
 
