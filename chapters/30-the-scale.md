@@ -62,13 +62,13 @@ I stood there with my hand on the car door, and I felt it begin to turn over, th
 
 "Freda won't say that. She won't say a word against her."
 
-"No. You told me that too. That's a girl protecting a friend, even while the friend lets her take the blame." He smiled a little. "So she doesn't have to say a word against anybody. She only has to ask her teacher to put a weight on her scale. The scale will say it for her."
+"No," he said. "You told me that too. She's protecting a friend. Even now, with the friend letting her take the blame." He said it gently, as if he liked Freda for it. "So she doesn't have to say anything against anybody. She only has to ask Mr. Ostrowski to put a weight on her scale, and let the scale do the talking."
 
-I opened my mouth, and closed it again.
+I stood there. Weeks of Freda going quiet at the dinner table, and the answer had been sitting in a joke I told him back in the fall.
 
-"How long have you known?"
+"When did you work this out?"
 
-"Since last week, when you said *the same weird numbers.* Before that it was only a guess, and I don't hand your daughter a guess."
+"Last week, when you said the numbers were the same. Before that it was only a hunch." He shrugged a little. "I wasn't going to hand you a hunch about your daughter."
 
 "Last week." My voice went up. "Why didn't you say?"
 
