@@ -30,7 +30,7 @@ The Manuscript Reading Room was quiet in the particular way of rooms where peopl
 
 The librarian checked something on her screen. "That box? Nobody's requested it since before I came here. And I've been here twenty-two years."
 
-It came up from the stacks at eleven, on a cart: a gray archival box, and inside it, a row of old envelopes, brittle, soft at the corners, some of them labeled in a thin, slanting hand, some of them not labeled at all. I was given white gloves I did not need and a foam cradle for the box, and told to keep the papers in order, and left alone.
+It came up from the stacks at eleven, on a cart: a gray archival box, and inside it, a row of old envelopes, brittle, soft at the corners, some of them labeled in a thin, slanting hand, some of them not labeled at all. I was given white gloves I did not need and a foam cradle for the box, and told to keep the papers in order. A woman at the desk kept half an eye on me, the way they keep it on everyone.
 
 I went through them one at a time. Newspaper clippings, yellow and crumbling. A draft of something in Nicolay's hand. Notes on the backs of White House cards. A letter from a woman in Ohio about her son. Receipts. A list of names I did not recognize.
 
@@ -80,7 +80,7 @@ I thought of the man in the dining room of the National, bent over the headwaite
 
 *I have no name that would carry weight with you. I am one of those you spoke of.*
 
-I did not cry. I was careful not to, because of the paper.
+I read the last line again. My eyes had filled, and I held the letter out over the table, away from me, until they cleared. It was a hundred and sixty years old, and I was not going to be the one who put a mark on it.
 
 I photographed it on my phone, front and back, with no flash, as the sign on the wall asked. Then I asked for a copy anyway, because I wanted one I could hold. The librarian looked at the letter for a long moment when I brought it to the desk, and at me, and did not say anything, and made the copy herself.
 
