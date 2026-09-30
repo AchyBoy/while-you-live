@@ -72,7 +72,7 @@ I looked at it and understood what kind of pistol it was. The kidnapping had bee
 
 "Kit," he said, without turning. "Have you come to celebrate?"
 
-I told him I had come to see how he was.
+"I came to see how you were," I said.
 
 "I'm very well," he said. "I'm better than I have ever been." He laughed. It was a bad laugh. "You heard him? This morning? Asking for 'Dixie'? Our song. He's taken our song, Kit, and he's giving it back to us like a present. Like a man gives a bone to a dog."
 
@@ -80,9 +80,17 @@ I told him I had come to see how he was.
 
 Booth turned around in the chair then and looked at me. I have had a long time to learn men's faces, and I can read most of them. His, that night, I could not read at all. That frightened me more than the pistol.
 
-"Was he," Booth said.
+"Was he," Booth said. It was not a question.
 
-I sat with him until he fell asleep in the chair, a little after midnight, with the rockets still going up and the bottle empty. It took a long time. He talked, and I listened, and none of it was about the kidnapping. It was about Rome, and Caesar, and Brutus, and how the men who kill a tyrant are honored for a thousand years. I told myself it was the brandy. I told myself it was an actor talking about a play he had been in. I have told myself a great many things.
+He turned back to the window, and I sat down in the other chair, because I did not want to leave him alone with that pistol.
+
+For a long time neither of us said anything. Then he began to talk, and none of it was about the kidnapping. It was about Rome.
+
+"Do you know what they did to Brutus, Kit?" he said. "They cursed him for a season. That's all. The men who kill a tyrant are honored for a thousand years."
+
+"He's still in the play, John," I said. "He dies in the last act."
+
+Booth laughed, and poured, and went on about Caesar, and I listened. He fell asleep in the chair a little after midnight, with the rockets still going up and the bottle empty. I told myself it was the brandy. I told myself it was an actor talking about a play he had been in. I have told myself a great many things.
 
 When he was asleep, I opened the trunk.
 
