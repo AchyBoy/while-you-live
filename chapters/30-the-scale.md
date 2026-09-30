@@ -114,7 +114,9 @@ It took four days.
 
 On Monday Freda asked Mr. Ostrowski. On Tuesday, she told me that night, he put a hundred-gram weight on her scale in front of her, and it said a hundred and two, and he looked at her write-up, and at the other one, and at the extra paragraph at the end of hers, and he took off his glasses and cleaned them for a long time. On Wednesday there was a meeting in the vice principal's office that Freda was not in and did not tell me about; I knew of it only because the school left a message on my phone. On Thursday, Maddie's mother called me, and was very quiet on the phone, and apologized for something she did not quite name, and I was kinder to her than I had planned to be.
 
-That Thursday I drove up to his house as usual. There was no more 1865 to tell, and neither of us pretended there was. He asked about Freda before I had my coat off, and I told him all of it, Monday and Tuesday and the weight that said a hundred and two, and he listened with his eyes closed and said "Good," once, at the end. We spent the rest of the afternoon splitting kindling behind the house, which he said I had been doing wrong my whole life, and he was right. The recorders stayed in my bag.
+The next Thursday I drove up anyway. The client had not said stop, and the money had come on Monday the way it always did, and I told myself that was the reason. It was not. I wanted to tell him.
+
+He asked about Freda before I had my coat off. I told him all of it, Monday and Tuesday and the weight that said a hundred and two, and he listened with his eyes closed and said "Good," once, at the end. There was no more 1865 to tell, and neither of us pretended there was. We spent the rest of the afternoon splitting kindling behind the house, which he said I had been doing wrong my whole life, and he was right. The recorders stayed in my bag.
 
 That night I came home, and hung up my coat, and put my bag on the chair.
 
