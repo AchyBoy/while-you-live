@@ -34,11 +34,11 @@ He had not changed. Plump, soft-spoken, polite. He had gone to the police himsel
 
 He remembered every visit Booth had made to the house on H Street. He remembered Atzerodt, and the bottles, and Powell as Wood and Powell as the Reverend Paine. He remembered driving Mrs. Surratt to her tavern on the afternoon of the fourteenth, and the package she carried, done up in paper, and Booth talking with her before they left. He remembered it all, in order, with dates.
 
-I sat at the back and listened to him and thought: *if this goes wrong, that one will talk.*
+I sat at the back and listened to him, and remembered the first night I met him, in the parlor on H Street, and what I had thought afterward, lying awake by the Navy Yard: *if this ever goes wrong, that one will talk.* It was why I had never once let him hear my name.
 
-He did not mention me. Not once, in all those hours. He had never heard my name. I had seen to that, on the first night, lying awake by the Navy Yard.
+He did not mention me. Not once, in all those hours. He could not. He had nothing to mention.
 
-I had been right about him. I sat there being right about him and wished, with my whole heart, that I had been wrong.
+I had been right about him, and it had saved my neck. And I sat there and watched that careful memory of his tie a rope, one date at a time, around the neck of the woman who had given him a room and fed him at her table all winter. I did not feel lucky. I did not feel anything I have a good word for.
 
 * * *
 
