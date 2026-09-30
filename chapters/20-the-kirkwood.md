@@ -118,6 +118,8 @@ I have told you that knowing a thing is not the same as knowing it. That was a n
 
 Booth had not come to the Kirkwood tonight. Booth had never been coming. The card was six hours old, and it was true, and it had been chosen because it was true, because I would check, and it would hold. Somebody had wanted me out of that dress circle. Out of the seat by the only door. And had found the one message that would move me, and made it true enough to check.
 
+Written in Booth's hand, down to the last stroke, and not a blot on it. I had noticed that in the dress circle and let it go. Anyone can write four clean lines in a hurry, once. But a man copying another man's hand does not hurry at all. He sits up with it, and gets every letter right, and it comes out clean because it has to.
+
 He was not Booth's man. Booth's man would never have sent Booth's backup away from the door. There was only one reason to empty that seat.
 
 He thought I was guarding it.
