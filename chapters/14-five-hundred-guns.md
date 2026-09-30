@@ -88,7 +88,7 @@ For a long time neither of us said anything. Then he began to talk, and none of 
 
 "Do you know what they did to Brutus, Kit?" he said. "They cursed him for a season. That's all. The men who kill a tyrant are honored for a thousand years."
 
-"He's still in the play, John," I said. "He dies in the last act."
+"Not in the play," I said. "In the play they run him out of Rome, and he falls on his own sword in the last act. You were there. You played Antony."
 
 Booth laughed, and poured, and went on about Caesar, and I listened. He fell asleep in the chair a little after midnight, with the rockets still going up and the bottle empty. I told myself it was the brandy. I told myself it was an actor talking about a play he had been in. I have told myself a great many things.
 
