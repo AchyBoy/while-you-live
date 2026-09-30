@@ -2,9 +2,15 @@
 
 ## Chapter 26: The Whistle
 
-On the fourteenth Thursday the field was frozen hard, and he was already in his chair with the notepad on his knee when I came in.
+On the fourteenth Thursday the field was frozen hard, and he was already in his chair with the notepad on his knee when I came in. There was no tea. The kettle was cold on the stove; I touched it on my way past, out of habit. The top page of the notepad was covered in small writing, which it never was before we started.
 
-"I found him in two days," he said, before I had the recorders on. "It wasn't clever. I just knew the country, and I knew who to watch."
+"Did you sleep?" I said.
+
+"Some." He did not look up. "I've been awake with this part since four. I'd like to get it said, if you don't mind, before I think about it any more."
+
+I did not mind. I sat down and took out the recorders, and he started talking while I was still untangling the cord.
+
+"I found him in two days," he said. "It wasn't clever. I just knew the country, and I knew who to watch."
 
 * * *
 

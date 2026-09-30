@@ -4,6 +4,30 @@
 
 We broke for lunch. He heated soup, and I set the table without being asked, finding the spoons on the first try now, and we ate looking out the window at a pair of crows walking the frozen field like two men looking for something they had dropped.
 
+"I was arrested once," I said.
+
+He put his spoon down and looked at me with real interest, which he did not often show about me.
+
+"I was twenty-two. I was covering a protest downtown for a paper that doesn't exist anymore, and when the police cleared the street they cleared me with it. Press pass and all." I shrugged. "Six hours in a holding cell with a woman who read palms. She told me I'd have one daughter and a lot of trouble with men who wouldn't give me straight answers."
+
+"Was she right?"
+
+"About the daughter." I looked at him. "Jury's still out on the other thing."
+
+He laughed, properly, the first time I had heard him do it in weeks.
+
+"What was the worst of it?" he said. "The six hours."
+
+I thought about it. "Not the cell. The cell was just boring. It was being sure, every minute, that somebody out there was about to notice the mistake and come and let me out. And nobody did, until they did."
+
+"Yes," he said. "That's the worst of it. Every time." He picked up his spoon again. "The first night, you think the mistake is the arrest. It takes a few days to understand that from their side there isn't one."
+
+"How many times?"
+
+"In all of them?" He considered it, the way another man might count his children. "Enough that I've stopped keeping the number. Not enough that I've stopped minding."
+
+He ate a little more. The crows had found whatever it was, out in the field, and were arguing over it.
+
 "You'll want to know what they had on me," he said, halfway through the bowl. "It wasn't much. It didn't need to be."
 
 * * *
