@@ -82,7 +82,7 @@ I realized that I had not written anything for some time. The woodstove ticked.
 
 "And you were across the street."
 
-"I was across the street." He picked up his cup, found it was cold, and put it down again. "I had three names and three places, and now I had a time. The only one who didn't know what I knew was the one man who could have stopped all of it by simply staying home." He looked at me. "Nobody was going to tell him. That was the thing I understood, standing in that doorway. The whole city was about to know he was coming. And the one thing nobody in it was going to tell him was *don't.*"
+"I was across the street." He picked up his cup, drank, and made a face. "Cold," he said, and put it down. "I had three names and three places, and now I had a time. The only one who didn't know what I knew was the one man who could have stopped all of it by simply staying home." He looked at me. "Nobody was going to tell him. That was the thing I understood, standing in that doorway. The whole city was about to know he was coming. And the one thing nobody in it was going to tell him was *don't.*"
 
 He was quiet for a moment.
 
