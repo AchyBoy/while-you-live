@@ -184,7 +184,7 @@ The smile did not go anywhere. Booth only waved his cigar, as if I had mentioned
 
 It was not the reason he had given me in the barn.
 
-I noticed it. I want you to know that I noticed. And I told myself it was the same reason, only bigger, the way a man's reasons grow when the stakes do. I have told myself that sort of thing in a great many lives. I am nearly always wrong.
+I noticed it. And I told myself it was the same reason, only bigger, the way a man's reasons grow when the stakes do. I have told myself that sort of thing in a great many lives. I am nearly always wrong.
 
 "The road, then," Booth said, and raised his glass to Arnold, and Arnold, after a moment, raised his.
 

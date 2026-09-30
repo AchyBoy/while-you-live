@@ -6,19 +6,19 @@ He did not make soup that day. He made sandwiches, and we ate them standing in t
 
 When we went back in, he did not sit. He stood by the window.
 
-"I had ten hours," he said. "I want to tell you how I spent them, because I spent them well. That's important. I don't want you to think what happened that night happened because I was slow."
+"I had ten hours," he said. "I want to tell you how I spent them, because I spent them well. That's important. I don't want you to think what happened that night happened because I was slow." He was quiet a moment. "My leg was slow. I was not. Those are different things, and that night the difference mattered."
 
 * * *
 
 *April 14, 1865, afternoon*
 
-The first thing I did was decide.
+The first thing I did, a little after noon, was decide.
 
 I had three men and three places and a time. I could not be in three places. I had to choose one, and I chose the theater, for two reasons. Booth was the only one of the three who would not lose his nerve; Powell would do anything, but Powell would do it only because Booth had told him to, and Atzerodt would go wherever the most brandy was. And Booth was the one I could get near. I was his friend. I could walk up to him anywhere in that city and he would smile and put his arm through mine.
 
 It meant leaving Mr. Seward to his sons and his soldier nurse and a locked door. I knew that. I told myself that without Booth the others would lose their shape. I was half right.
 
-So I would stop Booth. And I would do it the way I had taken back my drawings: quietly, so that nobody ever knew that anything had happened.
+So I would stop Booth. And I would do it the way I had taken back my drawings: quietly, so that nobody would ever know anything had almost happened.
 
 The second thing I did was follow him.
 
@@ -44,13 +44,13 @@ A woman who asks no questions she does not want the answers to. I had thought th
 
 * * *
 
-At four o'clock I was on the Avenue near Willard's, because I had lost him for an hour and the Avenue was where you found people. Near Twelfth Street I saw a tall Black man in a dark coat cross the Avenue fast, toward the Kirkwood House, and I thought nothing of it. And then I found Booth. He was on the bay mare now, sitting her the way he sat every horse, as if he had been born on it, talking down from the saddle to a man on the sidewalk, an actor I knew a little, named Mathews. He handed Mathews an envelope. Mathews put it in his coat.
+At four o'clock I was on the Avenue near Willard's, because I had lost him for an hour and the Avenue was where you found people. Near Twelfth Street a tall Black man in a dark coat crossed the Avenue fast, toward the Kirkwood House, fast enough that a cab driver shouted at him. I noticed him the way you notice anyone moving faster than a crowd, and forgot him, because just then I found Booth. He was on the bay mare now, sitting her the way he sat every horse, as if he had been born on it, talking down from the saddle to a man on the sidewalk, an actor I knew a little, named Mathews. He handed Mathews an envelope. Mathews put it in his coat.
 
 I have read since what was in it. Everyone has. It was a letter to the editor of the *National Intelligencer,* explaining to the country why he had done what he was about to do, and Mathews was to take it to the paper the next day. He was writing the reviews before the play had opened.
 
 And while I watched, an open carriage came down the Avenue from the direction of the President's house, with a soldier driving and trunks strapped on the back, and a stocky man with a short beard in the back seat beside a woman in a traveling bonnet. People on the sidewalk pointed. Somebody cheered. It was General Grant and his wife, leaving the city.
 
-Booth turned the mare's head and watched the carriage go by. His face did something I had not seen it do before. Then he wheeled the mare and rode off after it, not fast, keeping it in sight, and I lost him again in the traffic.
+Booth turned the mare's head and watched the carriage go by, and I watched his face. I had seen that face laugh, and rage, and play a whole theater fire on a church step. I had never seen it look the way it did then: like a man who has turned to the last page of a play and found it torn out. Then he wheeled the mare and went after the carriage at a walk, and drew up alongside it, close, and looked into it, at the general and his wife, for longer than any stranger should. Mrs. Grant drew back in her seat. Then the traffic closed between us, and I lost him again.
 
 I went down to the railroad station later, because I had understood, and I needed to be sure. The Grants had taken the train north. They were going to see their children in New Jersey. They were not going to the theater.
 
@@ -70,7 +70,7 @@ I said that was all right.
 
 * * *
 
-I will tell you my plan, because it was a good one, and you should know that.
+I will tell you my plan. It was a good one.
 
 I did not mean to fight him. I was a lame boy with a cane, and he was one of the finest swordsmen on the American stage and had a pistol in his coat. I did not mean to go to the guard, because there would be a guard, and a guard would ask how I knew, and we have been through where that door led.
 

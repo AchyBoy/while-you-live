@@ -52,7 +52,7 @@ He said a good deal more than that, in words I will not use in your house. And t
 
 * * *
 
-I have told you that I was clever in that life. I want you to understand that it did not take cleverness to understand that sentence. A child would have understood it. But I will tell you how it fell into place for me, standing there, because it all fell at once, and it was the worst moment of that life.
+I have told you that I was clever in that life. It did not take cleverness to understand that sentence. A child would have understood it. But I will tell you how it fell into place for me, standing there, because it all fell at once, and it was the worst moment of that life.
 
 The pistol on the table the night before, the kind that fires once. I had carried one in another life. I knew how short its reach is: a few steps, no more. A man who carries one means to walk right up to someone, close enough to touch. The brandy, and the quiet, and the talk about Brutus. *The men who kill a tyrant are honored for a thousand years.* The kidnapping dead, and Booth not grieving for it at all, only waiting, the way an actor waits in the wings. And now this: the last speech he will ever make.
 
