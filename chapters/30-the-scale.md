@@ -70,13 +70,15 @@ I stood there. Weeks of Freda going quiet at the dinner table, and the answer ha
 
 "Last week, when you said the numbers were the same. Before that it was only a hunch." He shrugged a little. "I wasn't going to hand you a hunch about your daughter."
 
-"Last week." My voice went up. "Why didn't you say?"
+"Last week?" My voice went up. "Why didn't you say?"
 
-"Because last week I had just told you about the Arsenal, and I sent you home early, and I was not fit to think about anything else." He looked at me. "I should have said it at the door anyway. I'm sorry. I'm saying it now."
+He took a moment before answering. "I had just told you about the Arsenal. I sent you home early because I wasn't fit to think about anything else." He looked at me. "But I should have told you before you left. I'm sorry."
 
-I did not know what to say. I got into the car. He shut the door for me, and stepped back, and lifted his hand, the way he always did, as I turned the car around on the gravel.
+I stood there a moment longer, trying to think of what to say. He waited, but nothing came, and eventually I got into the car. He shut the door for me, and I turned around on the gravel and drove home with the radio off.
 
-I drove home with the radio off. Twice I reached for my phone to call her, and twice I put it back, because it was not a thing to say to a sixteen-year-old on speaker from the highway. Somewhere past Frederick I realized I had been saying it out loud, over and over, the way I used to rehearse the first question of an interview I was afraid of. *Ask Mr. Ostrowski to weigh something on your scale.* Nine words. I did not want to get one of them wrong.
+Twice I reached for my phone to call her, then thought better of it. I wanted to be there when I told her, to see her face and hear what she said.
+
+Somewhere past Frederick, I caught myself saying the words out loud. *Ask Mr. Ostrowski to weigh something on your scale.* I said them again, the way I used to rehearse the first question of an interview I was afraid of. There were only nine words, but I kept going over them, making sure I had them right.
 
 * * *
 
