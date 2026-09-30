@@ -8,7 +8,7 @@ So, for the curious, here is where the line falls.
 
 **What really happened**
 
-Lincoln really did stand on the parapet at Fort Stevens in July 1864, under fire, the only sitting President ever to come under enemy fire in battle.
+Lincoln really did stand on the parapet at Fort Stevens in July 1864, the only sitting President ever to come under enemy fire in battle.
 
 John Wilkes Booth really did plan to kidnap him and trade him for Confederate prisoners, and the attempt on March 17, 1865 really did fail because Lincoln changed his plans that afternoon and never came down the road.
 
