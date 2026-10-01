@@ -96,6 +96,6 @@ rev_path.write_text(json.dumps(rev, indent=1) + "\n")
 
 template = (ROOT / "template.html").read_text()
 out = (template.replace("/*BOOK*/null", json.dumps(BOOK)).replace("/*CHAPTERS*/[]", json.dumps(chapters))
-       .replace("/*BUILD*/0", str(BUILD)).replace("/*ROUND*/0", str(rev["_round"])))
+       .replace("/*BUILD*/0", str(BUILD)).replace("/*AUDIOV*/", (ROOT / "audio" / "VERSION").read_text().strip() if (ROOT / "audio" / "VERSION").exists() else "").replace("/*ROUND*/0", str(rev["_round"])))
 (ROOT / "index.html").write_text(out)
 print(f"built index.html with {len(chapters)} chapter(s)")

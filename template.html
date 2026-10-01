@@ -129,7 +129,7 @@
     font-size: .85em; z-index: 50; }
   #player.on { display: flex; }
   #player button { font-size: 1.15em; min-width: 2.2em; }
-  #player .t { color: var(--soft); font-variant-numeric: tabular-nums; min-width: 6.5em; text-align: center; }
+  #player .t { color: var(--soft); font-variant-numeric: tabular-nums; min-width: 6.5em; white-space: nowrap; text-align: center; }
   .voices { margin: 1.2em auto 0; max-width: 22em; font-size: .8em; }
   .voices .vt, .voices .vn { color: var(--soft); margin: .3em 0; }
   .voices button { width: 2.4em; height: 2.4em; margin: .2em; border: 1px solid var(--rule); border-radius: 50%; color: var(--ink); }
@@ -166,6 +166,7 @@
 </div></div>
 <script>
 const BUILD = /*BUILD*/0;
+const AUDIO_V = "/*AUDIOV*/";
 const ROUND = /*ROUND*/0;  // only paragraphs changed at or after this build are boxed
 const BOOK = /*BOOK*/null;
 const CHAPTERS = /*CHAPTERS*/[];
@@ -299,7 +300,7 @@ audio.addEventListener("play", () => $("pPlay").innerHTML = "&#10074;&#10074;");
 audio.addEventListener("pause", () => $("pPlay").innerHTML = "&#9654;&#xFE0E;");
 audio.addEventListener("timeupdate", () => {
   const t = audio.currentTime;
-  $("pTime").textContent = `${fmtT(t)} / ${fmtT(audio.duration || 0)}`;
+  $("pTime").textContent = `${fmtT(t)} / ${fmtT(audio.duration || 0)}  \u00b7  ${AUDIO_V}`;
   store.set("listen", { ch: aCh, t });
   let i = -1;
   for (let k = 0; k < aMarks.length; k++) if (aMarks[k] <= t + 0.1) i = k; else break;
