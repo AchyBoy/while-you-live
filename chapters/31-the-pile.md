@@ -36,7 +36,7 @@ The Manuscript Reading Room was quiet in the particular way of rooms where peopl
 
 The librarian checked something on her screen. "That box? Nobody's requested it since before I came here. And I've been here twenty-two years."
 
-It came up from the stacks at eleven, on a cart: a gray archival box, and inside it, a row of old envelopes, brittle, soft at the corners, some of them labeled in a thin, slanting hand, some of them not labeled at all. I was given white gloves I did not need and a foam cradle for the box, and told to keep the papers in order. A woman at the desk kept half an eye on me, the way they keep it on everyone.
+It came up from the stacks at eleven, on a cart: a gray archival box, and inside it, a row of old envelopes, brittle, soft at the corners, some of them labeled in a thin, slanting hand, some of them not labeled at all. I washed my hands, and the attendant reminded me to keep the papers in order. A woman at the desk kept half an eye on me, the way they keep it on everyone.
 
 I went through them one at a time. Newspaper clippings, yellow and crumbling. A draft of something in Nicolay's hand. Notes on the backs of White House cards. A letter from a woman in Ohio about her son. Receipts. A list of names I did not recognize.
 

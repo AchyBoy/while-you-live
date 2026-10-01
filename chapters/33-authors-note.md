@@ -39,5 +39,3 @@ Louis Weichmann and John Lloyd both testified against her at the trial. Presiden
 John Surratt gave a public lecture about the plot in Rockville, Maryland, in December 1870.
 
 Lincoln received a great many warning letters. He said he had eighty of them, and kept them in an envelope marked *Assassination.*
-
-The Seikilos song is carved on a tombstone found in Turkey in 1883. It is the oldest complete song, words and music, that survives anywhere.

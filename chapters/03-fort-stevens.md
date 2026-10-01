@@ -32,7 +32,7 @@ He pulled off his belt and tied it above the wound and hauled it tight, and that
 
 "The heat," I said, which was true, in its way.
 
-"Lord, the heat." He dragged me by the collar back behind a rail fence that had been knocked half flat, and crawled to his own place behind a rail fence that had been knocked half flat. "Keep your head down. Them sharpshooters in the fort can see a cat blink."
+"Lord, the heat." He dragged me by the collar back behind a rail fence that had been knocked half flat, and crawled to his own place a few yards along it. "Keep your head down. Them sharpshooters in the fort can see a cat blink."
 
 I kept my head down, and I looked.
 
