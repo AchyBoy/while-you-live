@@ -2,7 +2,7 @@
 
 ## Chapter 17: Good Friday
 
-I brought the box with me on the tenth Thursday.
+I brought the box with me on the tenth visit.
 
 It was an ordinary banker's box, the cardboard kind with handholds cut in the ends, and it had lived on the top shelf of my closet for six years under a bag of winter hats. *CARROW* was written on the lid in marker, in my own handwriting from a worse time. I had taken it down the week before, on the night the client's question about the waiter came, for no better reason than that odd questions made me want to go back over old ones.
 

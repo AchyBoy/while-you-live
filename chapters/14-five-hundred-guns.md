@@ -2,7 +2,7 @@
 
 ## Chapter 14: Five Hundred Guns
 
-I had thought about it all week. On the eighth Thursday, before I had even taken off my coat, I said, "The drawings."
+I had thought about it all week. On the eighth visit, before I had even taken off my coat, I said, "The drawings."
 
 He was setting down the tray. He stopped with it halfway to the table.
 

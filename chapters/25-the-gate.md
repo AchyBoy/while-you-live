@@ -2,7 +2,7 @@
 
 ## Chapter 25: The Gate
 
-On the thirteenth Thursday there was the hardest frost yet, white to the fence line, and the woodstove was already going hard when I came in. He had put a second blanket over the back of my chair. He did not mention it, and neither did I.
+On the thirteenth visit there was the hardest frost yet, white to the fence line, and the woodstove was already going hard when I came in. He had put a second blanket over the back of my chair. He did not mention it, and neither did I.
 
 "Getting out of Washington," I said, when the recorders were on. "You said it was a story by itself."
 

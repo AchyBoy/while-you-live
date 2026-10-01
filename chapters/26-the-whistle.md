@@ -2,7 +2,7 @@
 
 ## Chapter 26: The Whistle
 
-On the fourteenth Thursday the field was frozen hard, and he was already in his chair with the notepad on his knee when I came in. There was no tea. The kettle was cold on the stove; I touched it on my way past, out of habit. The top page of the notepad was covered in small writing, which it never was before we started.
+On the fourteenth visit the field was frozen hard, and he was already in his chair with the notepad on his knee when I came in. There was no tea. The kettle was cold on the stove; I touched it on my way past, out of habit. The top page of the notepad was covered in small writing, which it never was before we started.
 
 "Did you sleep?" I said.
 

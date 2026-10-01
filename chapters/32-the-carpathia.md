@@ -46,7 +46,7 @@ I was already looking it up.
 
 "Did he ever say anything about the Titanic?"
 
-"No." I looked at the card. "He never said anything about it. Not once. Not in seventeen weeks." I thought back, carefully, through every page of every transcript, all of it, the way I had been trained to. "He's never mentioned the Carpathia. Or 1912. Nothing about where he was that April."
+"No." I looked at the card. "He never said anything about it. Not once. Not in four months of Thursdays." I thought back, carefully, through every page of every transcript, all of it, the way I had been trained to. "He's never mentioned the Carpathia. Or 1912. Nothing about where he was that April."
 
 Freda looked at the card, and at my face.
 
@@ -60,7 +60,7 @@ On Thursday there was a late snow, the last of the winter, probably. We had miss
 
 He had the kettle on. He had a fire going. He looked, I thought, tired, more tired than I had seen him, and I wondered for the first time how old he really was in this life, and whether anyone looked after him when I was not there.
 
-The folder was in my bag. On the drive up I had decided that I would show him. That I would lay the photocopy on the table in front of him, the waiter's letter, *I am one of those you spoke of,* and watch his face while he read it, and that whatever his face did would tell me the thing I had not been able to decide in seventeen weeks.
+The folder was in my bag. On the drive up I had decided that I would show him. That I would lay the photocopy on the table in front of him, the waiter's letter, *I am one of those you spoke of,* and watch his face while he read it, and that whatever his face did would tell me the thing I had not been able to decide in nineteen weeks.
 
 I set out the recorders and said the date and the time. And then, because it was how every Thursday began, and because it was the client's question and I was being paid to ask it, I took the card out of my notebook first.
 
