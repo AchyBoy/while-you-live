@@ -42,7 +42,11 @@ for c in chapters:
     c["html"], c["title"] = curly(c["html"]), curly(c["title"])
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-OUT = ROOT.parent / (BOOK["title"].replace(" ", "-") + ".pdf")
+import sys, datetime
+# python3 make_pdf.py 2  -> ../Sic-Semper-v2.pdf, "Version 2" on the title and copyright pages
+VERSION = sys.argv[1] if len(sys.argv) > 1 else ""
+STAMP = f"Version {VERSION} &middot; {datetime.date.today():%B} {datetime.date.today().day}, {datetime.date.today().year}" if VERSION else ""
+OUT = ROOT.parent / (BOOK["title"].replace(" ", "-") + (f"-v{VERSION}" if VERSION else "") + ".pdf")
 
 CSS = """
 @page { size: 6in 9in; margin: .8in .7in .85in; @bottom-center { content: counter(page); font: 9pt "EB Garamond", Georgia, serif; color: #555; } }
@@ -55,6 +59,7 @@ body { font-family: "EB Garamond", Georgia, serif; font-size: 11pt; line-height:
 .title h1 { font-weight: 500; font-size: 30pt; margin: .3em 0 .2em; }
 .title .by { font-style: italic; font-size: 13pt; }
 .title .star { color: #8a1c1c; font-size: 16pt; margin-top: 2.4in; }
+.title .ver { margin-top: .5in; font-size: 8pt; letter-spacing: .1em; color: #777; }
 .legal { padding-top: 5.6in; text-align: left; font-size: 8.5pt; line-height: 1.5; color: #333; }
 .toc { text-align: left; padding-top: .6in; }
 .toc h2 { text-align: center; font-weight: 500; font-size: 16pt; margin-bottom: 1.2em; }
@@ -90,10 +95,10 @@ def page(pages):
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=block" rel="stylesheet">
 <style>{CSS}</style></head><body>
 <section class="front title"><div class="series">{BOOK["series"]} &middot; Book {BOOK["number"]}</div>
-<h1>{BOOK["title"]}</h1><div class="by">{BOOK["author"]}</div><div class="star">&#10043;</div></section>
+<h1>{BOOK["title"]}</h1><div class="by">{BOOK["author"]}</div><div class="star">&#10043;</div><div class="ver">{STAMP}</div></section>
 <section class="front legal">Copyright &copy; 2026 {BOOK["author"]}. All rights reserved.<br><br>
 This is a work of fiction. Apart from the historical figures and events described in the Facts at the back of this book,
-names, characters and incidents are the product of the author's imagination.</section>
+names, characters and incidents are the product of the author's imagination.<br><br>{STAMP}</section>
 <section class="front toc"><h2>Contents</h2>{toc}</section>
 {body}</body></html>"""
 
