@@ -64,7 +64,7 @@ And past Powell, through a gap in the crowd that had opened when people shifted 
 
 His eyes were open again. He was looking straight at us. At Booth, who had just said it, and at Powell beside him. And at me, standing at Booth's elbow, in the coat Booth had bought me, as close to him as a brother.
 
-He had heard it. Booth's voice was made to carry, and it had. I saw on his face that he had heard every word, and I saw him look at me and put it together with everything else he had seen of me since the farm.
+He had heard every word. I saw it on his face, and I saw him look at me and put it together with everything else he had seen of me since the farm.
 
 Then the crowd closed again, and he was gone.
 

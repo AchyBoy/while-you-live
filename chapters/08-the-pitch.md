@@ -52,7 +52,7 @@ I did not answer, and he took that as an answer.
 
 "There are the prisoners," I said.
 
-"There are the prisoners." He pointed at me, the way a teacher points at the one boy in the room who has been listening. "Fifty thousand of them. The very men who could hold those lines, sitting in Northern camps, dying of cold and flux and short rations. And the Union knows exactly what they're worth, and won't give them back."
+"There are the prisoners." He pointed at me. "Fifty thousand of them. The very men who could hold those lines, sitting in Northern camps, dying of cold and flux and short rations. And the Union knows exactly what they're worth, and won't give them back."
 
 "Grant won't trade them," he said. "He's said so. Every man he sends home is a man back in the line against him, and he can afford to lose his own in our camps sooner than let ours go. It is not cruelty. I wish it were. Cruelty you could appeal to. It's arithmetic."
 
@@ -88,7 +88,7 @@ I did not say anything. The rain went on.
 
 "He won't be." He said it with complete certainty. "He can't be. A dead President is worth nothing to anybody. He'd be a martyr, and they'd hang every man in Maryland for it, and they'd be right to. A live one is worth an army." He spread his hands. "No one is to be hurt. I've told every man I've spoken to the same thing. You have my word."
 
-I believed him. I have heard a great many men give their word, in a great many lives, and I know the sound of a man who means it. He meant it. And it was a good plan. I stood in that barn and looked for the flaw in it, and I could not find one.
+I believed him. I have heard a great many men give their word, and I know the sound of a man who means it. He meant it. And it was a good plan. I stood in that barn and looked for the flaw in it, and I could not find one.
 
 * * *
 

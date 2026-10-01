@@ -58,7 +58,7 @@ Then he went down the steps, and walked away down Tenth Street toward the Avenue
 
 I stayed where I was.
 
-A minute later, a young man came out of the theater's front door onto the steps, bareheaded, in shirtsleeves, and called across the street to a man he knew who was passing. He called it cheerfully, the way you call good news, the way a man calls it who has tickets to sell.
+A minute later, a young man came out of the theater's front door onto the steps, bareheaded, in shirtsleeves, and called across the street to a man he knew who was passing. He called it cheerfully, the way a man calls it who has tickets to sell.
 
 "The President's coming tonight," he called. "And General Grant! Tell everyone!"
 

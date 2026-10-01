@@ -8,7 +8,7 @@ My pen was still above the notebook. The last thing on the page was *the sleeves
 
 He was sitting with his hands flat on his knees, the way he had put them there two hours before, looking at the floor between his feet. He was not crying. I had half expected him to, and would have known what to do if he had. People cried in interviews all the time. You waited, and you did not look away, and you did not touch the recorder.
 
-He was not crying. He looked like a man who had carried something up a very long flight of stairs and set it down at the top, and did not yet know whether he could stand up again without it.
+He looked like a man who had carried something up a very long flight of stairs and set it down at the top, and did not yet know whether he could stand up again without it.
 
 I reached over and turned off the recorders. First the phone, then the old one. The two red lights went out.
 
@@ -50,7 +50,7 @@ It was very strange, typing it. In the room, I had been inside it. At the kitche
 
 It was too good.
 
-That was the thing I kept coming back to, at two in the morning, and at three. Not the facts. The facts were the easy part; I had checked a hundred facts for him by now and they were all right, and none of them proved anything, because anyone could learn facts. It was the rest of it. The seven minutes on the bad leg. The boy on the ground in the alley asking why. The doctor at the top of the steps with his sleeves rolled down. A man standing beside him in a thin white jacket who could not get out the one word that mattered.
+That was the thing I kept coming back to, at two in the morning, and at three. Not the facts. The facts were the easy part; I had checked a hundred facts for him by now, and anyone could learn facts. It was the rest of it. The seven minutes on the bad leg. The boy on the ground in the alley asking why. The doctor at the top of the steps with his sleeves rolled down. A man standing beside him in a thin white jacket who could not get out the one word that mattered.
 
 I had interviewed liars. Good ones, some of them. Liars tell a story from the outside. They know how it ends, so they build toward it. They give you the big moments large and clear, the shot, the leap, the famous words, because those are the parts they have read about.
 
@@ -59,8 +59,6 @@ He had not heard the famous words. He had been in the lobby, with a crowd scream
 A liar would have heard the words.
 
 At three, I stopped typing and looked it up. I searched every way I could think of for a doctor rolling down his sleeves on the steps of the Petersen House. For anyone who had noticed it, or written about it. There was nothing. There were a hundred accounts of that morning and none of them mentioned it. It was exactly the kind of detail nobody could check. Like the color of the thread.
-
-For a long time I sat with that.
 
 I thought: either he is the best liar I have ever met in my life, or
 

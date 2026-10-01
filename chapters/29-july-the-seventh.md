@@ -32,7 +32,7 @@ Then Herold, looking about him the way he always had, like a boy at a fair, with
 
 They went up the steps. They sat in four chairs at the edge of the platform, with the umbrellas held over them, while an officer read out the orders in the heat, at length, and the ministers prayed, at length. It took a long time. The soldiers along the walls shifted in the sun. Somewhere a man fainted and was carried away.
 
-I did not look away. I had decided that, on the walk down to the Arsenal. I owed her that much, at least. I did not look away once.
+I did not look away. I had decided that, on the walk down to the Arsenal. I owed her that much. I did not look away once.
 
 * * *
 
@@ -80,7 +80,7 @@ I reached down and turned off the phone. I did not know what I was supposed to s
 
 "Thank you," I said at last. "For telling me."
 
-He looked at me, surprised, as if nobody had ever said that to him before. Perhaps nobody had.
+He looked at me, surprised, as if nobody had ever said that to him before.
 
 "Thank you for listening to it," he said. "I don't think anyone ever has. Not all of it. Not in order." He looked back at the hawk. "It turns out it's heavier in order."
 

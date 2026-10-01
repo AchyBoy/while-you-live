@@ -58,7 +58,7 @@ The murder: I did not believe she knew. And I had one thing, in all that trial, 
 
 I had stood on the corner of H Street at half past two on the fourteenth and watched Booth go into the house, and come out again, and go. And then I had watched her come out with that package, after his visit, and put it in the buggy without looking at it. Without opening it, or weighing it in her hand, or turning it over to see what it was. She had carried it the way she carried everything for the men in her house: as an errand, to be done and not asked about.
 
-A woman who knows she is carrying the field glasses for a murderer's escape looks at the package. She cannot help it. I have watched a great many people carry things they knew to be terrible, in a great many lives, and they all look. They hold it as if it were hot. She had held it like a loaf of bread.
+A woman who knows she is carrying the field glasses for a murderer's escape looks at the package. She cannot help it. I have watched a great many people carry things they knew to be terrible, and they all look. They hold it as if it were hot. She had held it like a loaf of bread.
 
 And the words she gave Lloyd, *have the shooting irons ready:* those were the words of the kidnapping. Those guns had been waiting in that ceiling for a month, for the road south with the President in a carriage. She had passed the message on, as she passed on everything. I did not think she had asked what they would be used for now. I did not think she had wanted to know.
 
@@ -76,7 +76,7 @@ On the sixth of July, the newspapers said it. Four of them to hang: Powell, Hero
 
 Years later it came out that five of the nine officers who tried her had signed a letter asking the President to spare her, because of her age and because she was a woman. He said he had never seen it. The judge advocate said he had shown it to him. People have argued about that ever since.
 
-And a story went around, in those days, secondhand, the way stories do: that the President had said of her that she kept the nest that hatched the egg. I do not know if he said it. I heard it from a man at the lumber yard who had heard it from someone. But I remember thinking, when I heard it, that it was the truest thing anyone said about her that summer, and that it was not a reason to hang her.
+And a story went around, in those days, secondhand: that the President had said of her that she kept the nest that hatched the egg. I do not know if he said it. I heard it from a man at the lumber yard who had heard it from someone. But I remember thinking, when I heard it, that it was the truest thing anyone said about her that summer, and that it was not a reason to hang her.
 
 I had kept the nest too. I had drawn it on my mother's tobacco receipts.
 
@@ -101,8 +101,6 @@ I had seen that before. In the dining room of the National, on the thirteenth of
 [now]
 
 He stopped. His hand had gone still on the notepad.
-
-I sat very still.
 
 "Damon," I said. "The night before. He was writing to Lincoln."
 

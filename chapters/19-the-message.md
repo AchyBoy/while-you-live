@@ -12,7 +12,7 @@ He looked at the clock on the wall. It was twenty past three.
 
 *April 14, 1865, a little after half past nine*
 
-I turned in my seat, and Damon was standing in the aisle behind me, bent a little toward me, the way a servant bends to a gentleman.
+I turned in my seat, and Damon was standing in the aisle behind me, bent a little toward me.
 
 He was in his white jacket from the National. That was how he had got in. I understood it at once, and I admired it, even then. A Black man in the dress circle of Ford's Theatre on a Friday night would have been stopped at the foot of the stairs and asked his business. But a hotel waiter in a hotel jacket, with a folded note in his hand, looking for a gentleman, is not a man. He is a message. The ushers had let him up without a second look. The people in the seats around me did not look at him at all.
 
@@ -20,7 +20,7 @@ He held out a folded note, the way a waiter holds out a bill on a tray.
 
 "F-from Mister B-Booth, sir," he said, very low, under the laughter from the stage.
 
-Then he straightened up, and stepped back, and stood waiting, with his hands behind him, the way a servant waits to see whether there will be an answer.
+Then he straightened up, and stepped back, and stood waiting, with his hands behind him, to see whether there would be an answer.
 
 I unfolded it. It was Booth's hand. I had seen that hand all winter, on letters and cards and the backs of playbills, big and fast and slanting, the hand of a man who has signed a great many autographs and enjoyed every one. Four lines, written in a hurry:
 
@@ -28,7 +28,7 @@ I unfolded it. It was Booth's hand. I had seen that hand all winter, on letters 
 
 I read it twice. For a man in a hurry, there was not a blot on it. In the aisle, Damon's hand came out from behind his back, an inch, no more, the way a waiter reaches for a plate before you have quite finished. Then it went back.
 
-I noticed the blots, and let them go. The play had half an hour left in it, the Kirkwood was four blocks off, and I had a bad leg. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
+I noticed that, and let it go. The play had half an hour left in it, the Kirkwood was four blocks off, and I had a bad leg. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
 
 * * *
 
@@ -44,7 +44,7 @@ And he knew where to find me. Nobody had told Booth I would be at Ford's that ni
 
 I had thought the letter at midnight was a love letter. That turned over too.
 
-Third: that the message made sense. That was the worst of it. It fit everything I knew. Atzerodt losing his nerve was the most likely thing in the world; I had thought, the first time I met him, that when the thing came close he would find he had somewhere else to be. And if he had, then Booth was exactly the man to go and do it himself. The Kirkwood was four blocks away. The play had more than half an hour to run. Booth knew every line of it. He could be at the Kirkwood and back before the third act turned. Two in one night, instead of one. That was Booth. That was the man who had walked up and down Gautier's with his cigar, lowering an invisible President over an invisible rail.
+Third: that the message made sense. That was the worst of it. It fit everything I knew. Atzerodt losing his nerve was the most likely thing in the world; I had thought, the first time I met him, that when the thing came close he would find he had somewhere else to be. And if he had, then Booth was exactly the man to go and do it himself. The play had more than half an hour to run. Booth knew every line of it. He could be at the Kirkwood and back before the third act turned. Two in one night, instead of one. That was Booth. That was the man who had walked up and down Gautier's with his cigar, lowering an invisible President over an invisible rail.
 
 And fourth: that if Booth was at the Kirkwood, then Booth was not here. He was four blocks away, alone, in a hotel, going up a staircase toward the Vice President. And if I could reach him there, I could stop both of them. Johnson and the President. In one place. Tonight.
 

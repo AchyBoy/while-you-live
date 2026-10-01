@@ -64,8 +64,6 @@ For a while I could not say anything at all.
 
 * * *
 
-We stood there a long time after that without saying anything.
-
 I will tell you the rest of what was said between us, because it was not much, and I have remembered all of it.
 
 Somewhere around three in the morning he said, without looking at me, "Y-you were his."

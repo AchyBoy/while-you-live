@@ -82,7 +82,7 @@ He did not ask about my mother. He picked up the rest of the plates, and went aw
 
 I had it before the coffee came. One of the new men, the headwaiter had said, and would not say which. A hand that had been taught, and taught well, and practiced for years. And a man I had watched in a kitchen yard reading a newspaper faster than I could, and hiding it, who had come to Washington four months ago and walked straight into the best hotel in the city. It was not a hard sum. Damon wrote the bills of fare.
 
-I was right about that. What I made of it was the likely thing: that somebody had taught him as a boy, in secret, at a risk to both of them I did not like to think about, and that he had hidden it for twenty years on our farm and was only now, in a free city, letting it show a little, on a card nobody would ever connect to him. It was the likely answer. It was even partly true.
+I was right about that. What I made of it was the likely thing: that somebody had taught him as a boy, in secret, at a risk to both of them I did not like to think about, and that he had hidden it for twenty years on our farm and was only now, in a free city, letting it show a little, on a card nobody would ever connect to him. It was even partly true.
 
 * * *
 

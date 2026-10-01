@@ -8,7 +8,7 @@ The email from Aldine, Mercer and Voss came on Tuesday morning. It was two lines
 
 I read it three times, and then I had to go back through my own transcript to find out what it meant. It took me ten minutes. It was a single sentence near the start, when he was describing waking in the field, looking at his own sleeves: *There was a hole in one elbow that somebody had darned with the wrong color thread.*
 
-I had typed that sentence myself on Friday, and sent it off to Aldine with the rest, and had not given it a second thought. Somebody else had read it and given it a great deal of thought. Somebody had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
+I had typed that sentence myself on Friday, and sent it off to Aldine with the rest, and had not given it a second thought. Somebody else had read the whole transcript closely enough to find the one detail in it that nobody could possibly check, and had decided to ask about that.
 
 It was, I had to admit, exactly what I would have done.
 

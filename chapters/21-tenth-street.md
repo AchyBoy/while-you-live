@@ -16,13 +16,13 @@ I knew that play. Everyone did; it had been running in one theater or another fo
 
 I was thirty yards from the doors. I was running on a leg that had stopped being a leg some blocks back and become only a thing I threw forward and landed on.
 
-The laugh came out through the open doors like a wave breaking. The whole house, all at once, the way a house laughs at the one line it has been waiting for.
+The laugh came out through the open doors like a wave breaking. The whole house, all at once.
 
 And inside it, very small, very flat, a single crack. Like a stick broken over a knee.
 
-Most of the people on Tenth Street did not hear it. The drivers did not stir. I heard it because I was listening for it, and because I had heard a great many pistols in a great many lives, and there is no other sound in the world quite like one fired indoors.
+Most of the people on Tenth Street did not hear it. The drivers did not stir. I heard it because I was listening for it, and because I had heard a great many pistols, and there is no other sound in the world quite like one fired indoors.
 
-For a moment nothing happened. Then small things happened, all along Tenth Street, the way they do. A carriage horse threw up its head, and its driver did not wake. The boy at the corner stopped calling whatever he was selling and turned to look at the doors. My foot came down wrong, and the leg went, and I caught myself on the wheel of a hack and hung there. And inside, the laugh went on for a second longer than it should have. Then it broke off, raggedly, the way a laugh does when half the people laughing have stopped and the other half have not yet understood why. And then, in the silence after it, a woman screamed.
+For a moment nothing happened. Then small things happened, all along Tenth Street. A carriage horse threw up its head, and its driver did not wake. The boy at the corner stopped calling whatever he was selling and turned to look at the doors. My foot came down wrong, and the leg went, and I caught myself on the wheel of a hack and hung there. And inside, the laugh went on for a second longer than it should have. Then it broke off, raggedly, the way a laugh does when half the people laughing have stopped and the other half have not yet understood why. And then, in the silence after it, a woman screamed.
 
 I have heard that scream in my sleep for a hundred and sixty years.
 
@@ -80,7 +80,7 @@ I had spent my ten hours well. I had bought a ticket and chosen a seat and watch
 
 * * *
 
-Then the doors of Ford's opened wider, and the crowd went quiet in a wave, and I saw that they were carrying him out. A knot of men came down the steps, slowly, carefully, carrying something between them, and the crowd fell back and went silent in a wave that ran out ahead of them down the street. I saw a long body, and a head held in a man's hands, and a pair of long legs. Somebody was shouting to clear the way. Somebody was shouting, *Where can we take him? Where?*
+Then the doors of Ford's opened wider, and I saw that they were carrying him out. A knot of men came down the steps, slowly, carefully, carrying something between them, and the crowd fell back and went silent in a wave that ran out ahead of them down the street. I saw a long body, and a head held in a man's hands, and a pair of long legs. Somebody was shouting to clear the way. Somebody was shouting, *Where can we take him? Where?*
 
 Across the street, a door opened, at the top of a flight of curving steps, in a narrow brick house, and a man stood in it with a candle, and called to them to bring him in there.
 

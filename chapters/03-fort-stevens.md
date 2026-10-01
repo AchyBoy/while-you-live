@@ -62,7 +62,7 @@ On the second afternoon, the twelfth, I saw him.
 
 I had dragged myself forward, a yard at a time, on my elbows, with the leg trailing, to a place behind a stone wall where I could see the fort more clearly. I told the boy with the missing tooth that I wanted a better look at their guns. In truth I wanted to understand where I was, and who I was fighting, and whether we were going to die here. The smoke drifted and thinned, and for a moment the whole length of the parapet was clear in the white afternoon light.
 
-There were officers on the wall, in blue, with swords and field glasses, crouched low the way sensible men crouch when there are rifles pointed at them. And among them, standing up straight, taller than all of them by a head and more, was a man who was not an officer at all.
+There were officers on the wall, in blue, with swords and field glasses, crouched low. And among them, standing up straight, taller than all of them by a head and more, was a man who was not an officer at all.
 
 He wore a long black coat, a civilian's coat, and a tall black hat that made him taller still. He was standing on the top of the wall with nothing in front of him but air, looking out over the fields toward us, as calmly as a farmer looking at weather.
 

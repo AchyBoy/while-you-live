@@ -32,7 +32,7 @@ He came back with a tray. Two cups, a teapot in a knitted cover, a plate of shor
 
 "It must be nice," he said, setting the tray down, "to have a daughter who worries about you."
 
-I looked at him. I had not said one word about Freda. I was sure of it. I went back over everything I had said since I got out of the car, which was not much, and none of it was Freda.
+I looked at him. I went back over everything I had said since I got out of the car, which was not much, and none of it was Freda.
 
 "I'm sorry?" I said. "What? How do you know I have a daughter?"
 

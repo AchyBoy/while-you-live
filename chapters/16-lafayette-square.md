@@ -64,7 +64,7 @@ The President. The Vice President. The Secretary of State.
 
 I knew how that government was put together. Kill only the President, and the Vice President takes his oath the next morning, and nothing changes; the war is still won. Kill the Vice President too, and the law calls for a new election, and the man whose office sends word to the states to hold it is the Secretary of State. Kill all three in one night, and for a few days nobody would be quite sure who was running the country at all. Booth did not mean to kill a man. He meant to cut the head off the government, all at once, in one night, and see what grew back.
 
-It was, I have to tell you, a clever plan. It was the first truly clever plan I ever saw him make. It frightened me more than anything he had done.
+It was, I have to tell you, a clever plan. It was the first truly clever plan I ever saw him make.
 
 And it meant he would need three men, in three places, at the same moment. Himself, for the President. Powell, for Seward, because Powell would do anything and Seward's house would need a man who would. And for Johnson, one of the others. Atzerodt, most likely, who knew nothing about the city and would go where he was told.
 

@@ -10,7 +10,7 @@ Dinner was done and the dishes put away. Tomorrow's lunches were already in the 
 
 These days I wrote whatever people paid me to write. The gutter company paid sixty dollars a piece and paid on time, which put it ahead of most. There was also a dentist who wanted a blog, a retired man writing a memoir about forty years in the carpet business, and a real estate office that sent me photos of houses and asked me to make them sound bigger. I did all of it well and on time. It paid most of the bills. None of it would ever be read twice.
 
-There had been a time when people quoted me. Not often, and not on television, but in rooms that mattered, by people who had read the whole piece. I had been the reporter who went and checked the thing everyone else took for granted. As far as I had ever understood it, that was the whole job: find out whether it was true.
+There had been a time when people quoted me. Not often, and not on television, but in rooms that mattered, by people who had read the whole piece. I had been the reporter who went and checked the thing everyone else took for granted. That was the whole job, as I understood it: find out whether it was true.
 
 Then there had been the auction house story.
 

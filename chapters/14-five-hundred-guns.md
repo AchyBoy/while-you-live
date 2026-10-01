@@ -90,7 +90,7 @@ For a long time neither of us said anything. Then he began to talk, and none of 
 
 "Not in the play," I said. "In the play they run him out of Rome, and he falls on his own sword in the last act. You were there. You played Antony."
 
-Booth laughed, and poured, and went on about Caesar, and I listened. He fell asleep in the chair a little after midnight, with the rockets still going up and the bottle empty. I told myself it was the brandy. I told myself it was an actor talking about a play he had been in. I have told myself a great many things.
+Booth laughed, and poured, and went on about Caesar, and I listened. He fell asleep in the chair a little after midnight, with the rockets still going up and the bottle empty. I told myself it was the brandy. I told myself it was an actor talking about a play he had been in.
 
 When he was asleep, I opened the trunk.
 

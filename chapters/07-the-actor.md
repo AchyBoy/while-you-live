@@ -50,7 +50,7 @@ A younger man, who kept his hat in his hands the whole time, told me the provost
 
 And an old man I did not know at all, with a gray beard down to his second button, leaned in close enough that I could smell the tobacco on him, and said, "When that leg's better, son, if you're minded to go back over, you come and see me. I can find you a boat, and a man who knows the river well enough to row it in the dark."
 
-I thanked every one of them. I did not ask a single question. I did not need to. A man who is trusted does not have to ask; he only has to stand still and let the county tell him what it knows. By the time my mother was ready to go, I knew where at least one boat was kept, which roads the provost men watched, and that half the men in that churchyard were in the business of getting letters and people across the Potomac at night.
+I thanked every one of them. I did not ask a single question. A man who is trusted does not have to ask; he only has to stand still and let the county tell him what it knows. By the time my mother was ready to go, I knew where at least one boat was kept, which roads the provost men watched, and that half the men in that churchyard were in the business of getting letters and people across the Potomac at night.
 
 I was still standing in the churchyard with my weight on the crutch when I saw the stranger.
 
@@ -174,7 +174,7 @@ Then he turned around on the fence and looked at me, and I found out he had been
 
 For a moment I could not breathe.
 
-I had been in that body for four months. I had fooled a mother, which is the hardest audience there is. I had fooled Lottie, and the priest, and every man in that churchyard. And in twenty minutes, leaning on a fence, a stranger had seen the one thing I had spent four months hiding.
+I had been in that body for four months. I had fooled a mother, which is the hardest audience there is. I had fooled Lottie, and the priest, and every man in that churchyard. And in twenty minutes, leaning on a fence, a stranger had seen the one thing I had been hiding.
 
 Then he laughed, and put his hand on my shoulder.
 
@@ -280,7 +280,7 @@ Booth's face did not change at all.
 
 "So I read," he said. "Afterward." And he turned back to Lottie and asked her whether she had ever seen a play, and the talk went on to other things.
 
-I stood at the edge of it on my crutch and thought about his story. It had been beautifully told. He had given every part of that night its moment: the house on its feet, the bow to his mother, the shout, the seats banging, his brother's hand. He had played it for us as well as he had ever played anything. And the only part he had nothing to say about was the part that was in every newspaper in the country.
+I stood at the edge of it on my crutch and thought about his story. It had been beautifully told. He had given every part of that night its moment: the house on its feet, the bow to his mother, the shout, the seats banging, his brother's hand. And the only part he had nothing to say about was the part that was in every newspaper in the country.
 
 A man who has read something afterward usually has an opinion about it. Booth had an opinion about everything.
 
@@ -294,7 +294,7 @@ That afternoon he rode up our lane alone, in the rain, and asked my mother if he
 
 He stopped there and reached for his tea. It had been sitting beside him since the churchyard, and it must have been stone cold, but he drank it anyway.
 
-I realized I had been holding my pen above the page for some time without writing anything. The churchyard, the fence, the good plates on the supper table: I had been there, all of it, and now I was back in his living room, with the woodstove ticking and the little red lights on the recorders, and my hand had gone stiff.
+My pen was still above the page, and I had not written anything for some time. The churchyard, the fence, the good plates on the supper table: I had been there, all of it, and now I was back in his living room, with the woodstove ticking and the little red lights on the recorders, and my hand had gone stiff.
 
 "So he came down to buy a horse," I said, "and you sold him the roads instead."
 
@@ -310,6 +310,6 @@ He was right. I would.
 
 "And he knew?"
 
-"I don't know." He turned his pencil over in his fingers. "That's the honest answer. He told us all about the play, the brothers, the crowd, his mother in her box. He told the fire as if it were only a thing that happened to the Booths one night in New York. I used to think that meant he knew. Then I used to think it meant he didn't care. I've had a long time to think about it, and I still don't know." He looked up at me. "You'd be surprised how much of it is like that."
+"I don't know." He turned his pencil over in his fingers. "That's the honest answer. He told the fire as if it were only a thing that happened to the Booths one night in New York. I used to think that meant he knew. Then I used to think it meant he didn't care. I've had a long time to think about it, and I still don't know." He looked up at me. "You'd be surprised how much of it is like that."
 
 I wrote *Winter Garden. Fires. Did he know?* at the bottom of the page, and underlined the last part twice, and we stopped for lunch.

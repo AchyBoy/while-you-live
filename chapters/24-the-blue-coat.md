@@ -8,7 +8,7 @@ I looked at it on my phone in the parking lot of the grocery store, and then loo
 
 There was no question with it. There was no email at all.
 
-That afternoon I called the number at Aldine, Mercer and Voss, the one I had called in the beginning. The same woman answered on the second ring. I said there must have been a mistake in the payment. The woman said there was no mistake. I asked whether the client had a question for the next session. The woman said the client did not, and that he had asked her to say, if Ms. Barnett called, that he had read the transcript with great attention, and that he was grateful.
+That afternoon I called the number at Aldine, Mercer and Voss, the one I had called in the beginning. The same woman answered on the second ring. I said there must have been a mistake in the payment. She said there was no mistake. I asked whether the client had a question for the next session. She said the client did not, and that he had asked her to say, if Ms. Barnett called, that he had read the transcript with great attention, and that he was grateful.
 
 "Grateful for what?" I said.
 
@@ -60,7 +60,7 @@ I sat on the edge of the bed in my narrow room and went through it, one door at 
 
 What did they have? Not my name. I had kept it out of every mouth that could have given it to them: out of Weichmann's hearing, off Booth's papers. They had a clerk's description. A lame young man, a Maryland voice, a cane, asking for Booth. That was all, unless Weichmann had given them more.
 
-But it was enough. A lame young man was a thing you could see from across a street. I could not hide the leg. I could not walk ten steps without it announcing me. Every soldier on every corner of Washington was looking for Booth and for a lame young Marylander, and I was the second of those, and I could not stop being him.
+But it was enough. A lame young man was a thing you could see from across a street. I could not walk ten steps without it announcing me. Every soldier on every corner of Washington was looking for Booth and for a lame young Marylander, and I was the second of those, and I could not stop being him.
 
 Unless I was someone else who limped.
 

@@ -86,7 +86,7 @@ Atzerodt turned his head and stared at me.
 
 "Leave it," I said again. "It's off. He said to find you and tell you. Go get your horse and go home. Go anywhere. Don't go upstairs, don't go back to your room. Just go."
 
-That was the lie I told him. I had worked it out on the four blocks from Ford's, in case I needed it, the way you work out a move before you know if you'll need to make it. It was not a clever lie. It did not need to be. It only needed to be the thing he most wanted to hear, said by someone he believed was close to Booth. Nobody questions the thing he most wants to hear. I have used that in a great many lives. I am not proud of how often.
+That was the lie I told him. I had worked it out on the four blocks from Ford's, in case I needed it. It was not a clever lie. It did not need to be. It only needed to be the thing he most wanted to hear, said by someone he believed was close to Booth. Nobody questions the thing he most wants to hear. I have used that in a great many lives. I am not proud of how often.
 
 He did not question it. I watched it go into him like warmth. His shoulders came down. He let out a breath that he must have been holding since eight o'clock.
 

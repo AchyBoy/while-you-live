@@ -38,7 +38,7 @@ A little while after, Mrs. Surratt came out and down the steps in her bonnet and
 
 I stood on that corner and thought about that package for a long time.
 
-I did not know what was in it. I want to be honest with you about that, because it came to matter a great deal, later, to a great many people. I did not know, and I could not have known, from the corner of the street. I only knew that Booth had gone into her house and talked with her, and that she had come out after him with a package, and was driving that afternoon to a tavern on the road he would take that night, and that she had put it in the buggy without looking at it.
+I did not know what was in it. I want to be honest with you about that, because it came to matter a great deal, later, to a great many people. I did not know, and I could not have known, from the corner of the street. I only knew that Booth had gone into her house and talked with her, and that she had come out after him with a package, and was driving that afternoon to a tavern on the road he would take that night.
 
 A woman who asks no questions she does not want the answers to. I had thought that of her the first night I met her. I thought it again, standing on that corner, and I did not like it any better.
 
@@ -78,7 +78,7 @@ I meant to be loud.
 
 Booth needed, more than anything, not to be seen. He needed to walk through that crowded dress circle as if he were nobody, one more gentleman going to the back for air. And he was the most famous young actor in America. If a man stood up in that dress circle, with the whole house there, and called out *Mr. Booth! Mr. John Wilkes Booth, as I live!* and came limping toward him with his hand out, delighted, making a fuss, then every head in that half of the theater would turn. Every one. Women would stand up to see him. The ushers would come. And he could not go through that little door with three hundred people watching him do it. Not then. Perhaps not that night at all.
 
-It would not stop him forever. I knew that. But the Grants were gone, and the war was over, and the President might never be so easy to reach again. Every night I could buy was a night for somebody else to notice what I had noticed. It was the best plan I had, and I still think it was a good one.
+It would not stop him forever. I knew that. But the Grants were gone, and the war was over, and the President might never be so easy to reach again. Every night I could buy was a night for somebody else to notice what I had noticed. It was the best plan I had.
 
 It needed only one thing. It needed me to be in that dress circle when Booth came in.
 
@@ -102,7 +102,7 @@ And at a little after half past nine, somebody touched my shoulder from behind, 
 
 He stopped there.
 
-I waited for him to turn around, to tell me who had spoken. When he didn't, I became aware of the quiet in the living room and the notebook in my lap. I had stopped taking notes without noticing. The last thing on the page was one word in the margin, written very small: *loud.* I had underlined it twice.
+I waited for him to turn around, to tell me who had spoken. When he didn't, I looked down at the notebook in my lap. I had stopped taking notes without noticing. The last thing on the page was one word in the margin, written very small: *loud.* I had underlined it twice.
 
 "That was a good plan," I said. I had meant to ask what happened next.
 

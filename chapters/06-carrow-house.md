@@ -32,7 +32,7 @@ I did not answer that. He took my bowl and filled it again without asking, and s
 
 After lunch we went back to the living room. I asked him about Ned, the cousin at Point Lookout, and he went back to 1864.
 
-He talked again about the letter from Point Lookout, and how his mother had carried it in her apron pocket all that fall. He talked about what it did to a family to have a son in a place like that, where you knew he was hungry and could do nothing, where every letter might be the last one. He said the men in those camps wrote home as if they would be back by Christmas, even the ones who knew better. Everyone was hoping for the best.
+He talked again about the letter from Point Lookout, and how his mother had carried it in her apron pocket all that fall. He talked about what it did to a family to have a son in a place like that, where you knew he was hungry and could do nothing, where every letter might be the last one. He said the men in those camps wrote home as if they would be back by Christmas, even the ones who knew better.
 
 "Ned wrote that he thought often of home," he said. "He said to tell my mother not to worry. You don't write that to people unless you mean to come back to them."
 

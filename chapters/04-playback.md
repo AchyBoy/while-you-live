@@ -32,7 +32,7 @@ Freda was at the kitchen table with her laptop and a stack of chemistry workshee
 
 "I know. I looked at the traffic." Freda turned a page. "So is he crazy?"
 
-I hung up my coat. I put the folder on the counter and my bag on the chair and the two recorders side by side on the table, the way I had always set them out after an interview, like a surgeon laying out instruments.
+I hung up my coat. I put the folder on the counter and my bag on the chair and the two recorders side by side on the table, like a surgeon laying out instruments.
 
 "He's very nice," I said. "He made me tea. He has about ten thousand books."
 
@@ -74,7 +74,7 @@ It had not opened in a while.
 
 * * *
 
-At ten o'clock, clearing the table, I checked my bank balance, the way I did every night.
+At ten o'clock, clearing the table, I checked my bank balance.
 
 There was money in it that had not been there that morning. Three thousand dollars, from Aldine, Mercer and Voss, with the note *Session 1* and nothing else. It had come in at four o'clock that afternoon, a couple of hours after I left his house. People who hired writers paid in thirty days, if you were lucky, or sent a check that took a week to clear. This client had paid the same afternoon.
 
@@ -96,7 +96,7 @@ I checked the time on the playback. Eleven seconds. Eleven seconds of the stove 
 
 *"What I think of it,"* he said at last.
 
-I listened to the whole thing. The rain and the mud. The sun coming out when Lincoln stood to speak. The heat in the field. The bullet. The boy with the missing tooth. The tall man on the wall. The army leaving in the dark. His voice did not change much as he told it, and it did not perform. It was the voice of a man describing a place he had lived, not a story he had learned. It went slower in some places than others, and stopped sometimes to go back and correct a small detail, the way people do when they are remembering and not reciting.
+I listened to the whole thing. The rain and the mud. The sun coming out when Lincoln stood to speak. The heat in the field. The bullet. The boy with the missing tooth. The tall man on the wall. The army leaving in the dark. His voice did not change much as he told it, and it did not perform. It was the voice of a man describing a place he had lived, not a story he had learned. It went slower in some places than others, and stopped sometimes to go back and correct a small detail.
 
 Once I stopped the tape and played a line back. *It was the hottest day I had felt in a hundred years.* It was the kind of thing anybody says about a hot day. He was in his seventies. I wrote it down anyway, with a question mark, and let the tape run on.
 
@@ -118,7 +118,7 @@ I found the surgeon's name in an old account: Cornelius Crawford, assistant surg
 
 I sat back.
 
-It was a small thing. It was a strange thing to say, that was all. If you had read about Fort Stevens in a book, the surgeon was a footnote. The book told you his name and that he was hit, and the book moved on to Lincoln, because the book was about Lincoln. You had to go looking to find out whether the surgeon lived. And if you had gone looking, you would know. You would not say *I think.*
+It was a small thing, a strange thing to say, that was all. If you had read about Fort Stevens in a book, the surgeon was a footnote. The book told you his name and that he was hit, and the book moved on to Lincoln, because the book was about Lincoln. You had to go looking to find out whether the surgeon lived. And if you had gone looking, you would know. You would not say *I think.*
 
 You would only say *I think* if you had never looked it up at all. If the last thing you knew about that man was seeing him fall.
 

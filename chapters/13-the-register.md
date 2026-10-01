@@ -28,7 +28,7 @@ The flux. The thing that had killed Jem Carroll.
 
 I wrote it down exactly as it was, spelling and all, the regiment and the company and the date. Then I sat with the pencil in my hand for a long time, in the dim room, with the gray page glowing in front of me.
 
-It did not prove anything. I told myself that first, because it was true. Anyone could have found this. A man with a lot of time and an interest in the war could have sat at this same machine thirty years ago and found a private named Hurly who died of dysentery at Point Lookout, and built a whole family around him: an aunt, a cousin, a farm, a mother with a letter in her apron pocket. It would be a strange thing to do. People did strange things.
+It did not prove anything. Anyone could have found this. A man with a lot of time and an interest in the war could have sat at this same machine thirty years ago and found a private named Hurly who died of dysentery at Point Lookout, and built a whole family around him: an aunt, a cousin, a farm, a mother with a letter in her apron pocket. It would be a strange thing to do. People did strange things.
 
 But on the drive home I found I was thinking about the date. The sixth of February. The first boats had taken men away from Point Lookout to be exchanged a week later, in the middle of the month. I had read that on the website. A week.
 
@@ -36,7 +36,7 @@ But on the drive home I found I was thinking about the date. The sixth of Februa
 
 "Did the cousin die?" Freda said.
 
-She said it without looking up, the way she had said it every night for weeks, the way you ask about the weather. Then she looked up, because I had not answered.
+She said it without looking up, the way she had said it every night for weeks. Then she looked up, because I had not answered.
 
 "Yes," I said.
 
@@ -90,7 +90,7 @@ He had been exchanged in the middle of February. On one of the first boats. The 
 
 I read it standing up, in the hall of the house by the Navy Yard, by the light from the street. Then I read it again. Then I folded it and put it in my coat, and I went out, and walked for a long time, I do not remember where.
 
-I had known since December. I had known from the moment I saw that careful handwriting where Ned's big leaning pencil ought to have been. Knowing is not the same. I have known a great many things, in a great many lives, and it has never once been the same.
+I had known since December. I had known from the moment I saw that careful handwriting where Ned's big leaning pencil ought to have been. Knowing is not the same. It has never once been the same.
 
 * * *
 
@@ -102,7 +102,7 @@ I did not reach for the notebook. There was no need. I knew what was on the card
 
 "The sixth of February," I said.
 
-He looked at me for a long moment, the way you look at someone who has just done something you did not expect of them. Then he smiled.
+He looked at me for a long moment. Then he smiled.
 
 "You found him," he said.
 
@@ -142,4 +142,4 @@ He looked at me, and for a moment he seemed about to say something else entirely
 
 "Because I thought I could steer it," he said. "I had done it before. Many times, in many lives: got inside something that was already moving, and leaned on it until it went a better way. Sometimes it worked. Sometimes it half worked. And a few times it went so badly wrong that I have spent whole lifetimes trying not to think about them." He picked up the pencil again. "But you remember the times it worked. You always do. So I told myself that if I was inside, I could keep it a kidnapping. Keep anyone from getting hurt. I have been clever for a very long time, and clever men always think they can walk right up to the edge and stop."
 
-I wrote it down. On the drive home I thought about how sure he had been, and about Ned, and I could not decide which was sadder.
+On the drive home I thought about how sure he had been, and about Ned, and I could not decide which was sadder.

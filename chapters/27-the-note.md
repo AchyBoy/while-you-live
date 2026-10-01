@@ -112,11 +112,11 @@ The colonel sat back. He was a tired man, and a careful one, and I think he had 
 
 "I don't know what you are, Mr. Hurley," he said. "I don't believe that's your name, and I don't believe you went fishing. But I know what you did on Friday night, because somebody took the trouble to tell me. Unsigned, in the finest hand that has come across this desk all month, and I've had senators' letters on it. An educated man. Somebody who was in that theater himself, I'd guess, and has a name he'd rather keep out of all this. Half the men in that house on Friday were somebody. But every word of it checked." He tapped the letter with one finger. "Whatever you were before that, I've got a building full of men who did less than you did that night and deserve the rope more. Go home."
 
-He did not show me the letter. I asked him who had sent it. He said he did not know, and I believed him.
+I asked him who had sent it. He said he did not know, and I believed him.
 
 I walked out of the Old Capitol Prison into the afternoon, across from the great white dome of the Capitol, and stood on the pavement, and thought about the finest hand the colonel had ever seen. He had pictured a gentleman with a name to protect. It would never once have crossed his mind that it belonged to a hotel waiter. It had crossed mine at a desk in the Kirkwood House, with the clock over it saying eight minutes past ten. And I thought about a man in a white jacket who had stood by the door in the dress circle and watched me go down the stairs, and had seen me nearly fall. He had sent me to the Kirkwood. He would have wanted to know what I did there. He must have gone and asked the bartender himself.
 
-I thought I knew. I have never been certain. I have thought about it every year since, and I have never once been certain.
+I thought I knew. I have thought about it every year since, and I have never once been certain.
 
 * * *
 

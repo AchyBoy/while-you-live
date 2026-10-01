@@ -80,11 +80,11 @@ I stood there. Weeks of Freda going quiet at the dinner table, and the answer ha
 
 He took a moment before answering. "I had just told you about the Arsenal. I sent you home early because I wasn't fit to think about anything else." He looked at me. "But I should have told you before you left. I'm sorry."
 
-I stood there a moment longer, trying to think of what to say. He waited, but nothing came, and eventually I got into the car. He shut the door for me, and I turned around on the gravel and drove home with the radio off.
+I tried to think of what to say. He waited, but nothing came, and eventually I got into the car. He shut the door for me, and I turned around on the gravel and drove home with the radio off.
 
 Twice I reached for my phone to call her, then thought better of it. I wanted to be there when I told her, to see her face and hear what she said.
 
-Somewhere past Frederick, I caught myself saying the words out loud. *Ask Mr. Ostrowski to weigh something on your scale.* I said them again, the way I used to rehearse the first question of an interview I was afraid of. There were only nine words, but I kept going over them, making sure I had them right.
+Somewhere past Frederick, I caught myself saying the words out loud. *Ask Mr. Ostrowski to weigh something on your scale.* I said them again, the way I used to rehearse the first question of an interview I was afraid of. Nine words, and I kept going over them to make sure I had them right.
 
 * * *
 

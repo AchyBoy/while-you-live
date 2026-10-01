@@ -40,7 +40,7 @@ She did not ask me anything else. She had her own grief that week, and it was no
 
 It was Lottie who told me about the gate.
 
-She found me in the barn that evening, where I had gone to be alone, and she sat down on a hay bale across from me with her arms around her knees, the way she had sat when she brought me newspapers in the summer. She was fifteen now. She had grown up in the winter, the way girls do, all at once. She looked at the blue coat and did not ask about it either.
+She found me in the barn that evening, where I had gone to be alone, and she sat down on a hay bale across from me with her arms around her knees, the way she had sat when she brought me newspapers in the summer. She was fifteen now. She had grown up in the winter, all at once. She looked at the blue coat and did not ask about it either.
 
 "Somebody came to the gate," she said. "Saturday night."
 
@@ -54,7 +54,7 @@ I kept my face still.
 
 "What time?"
 
-"After dark. Seven, maybe." She had thought about it; I could see it in her face. She had been thinking about it for two days. "I didn't tell Mama. I didn't tell the soldiers either. When they came on Sunday and asked if we'd seen any strangers." She looked at me steadily. "I don't know why I didn't."
+"After dark. Seven, maybe." She had thought about it; I could see it in her face. "I didn't tell Mama. I didn't tell the soldiers either. When they came on Sunday and asked if we'd seen any strangers." She looked at me steadily. "I don't know why I didn't."
 
 "I do," I said.
 

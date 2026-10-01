@@ -22,7 +22,7 @@ He had stopped at the bottom of the steps. He was looking at me in the way he ha
 
 I stood very still by the car.
 
-The thing about the lights had been a joke, one line in a long list, the way you say things about your children. I had not thought about it twice. He had picked it out of everything else I said and put it next to the phone.
+The thing about the lights had been a joke, one line in a long list. I had not thought about it twice. He had picked it out of everything else I said and put it next to the phone.
 
 "You don't know her," I said.
 
@@ -44,7 +44,7 @@ Then I got out my own laptop and sat down at the kitchen table across from my da
 
 Point Lookout was real. I had known it would be.
 
-It was all there, the way everything was always there, a few clicks down: the long peninsula between the Potomac and the Chesapeake, and at the very bottom of it, where the two waters met, a flat, sandy point that was now a state park, with campsites and a fishing pier and a lighthouse. People went there on weekends to catch rockfish. There were photographs of families on the beach.
+It was all there, a few clicks down: the long peninsula between the Potomac and the Chesapeake, and at the very bottom of it, where the two waters met, a flat, sandy point that was now a state park, with campsites and a fishing pier and a lighthouse. People went there on weekends to catch rockfish. There were photographs of families on the beach.
 
 In 1863 the Union had put a prison camp there. It was built to hold ten thousand men. At times it held nearly twice that. There were no barracks, only tents, on open sand, behind a high board fence, with water on three sides. Men wrote about the heat in summer and the wind off the bay in winter, about the bad water, about the rations. The exchange of prisoners had broken down in 1863, and after that, the men who went in mostly stayed until the war was over, or until they died.
 
@@ -54,7 +54,7 @@ Other websites gave other numbers, some of them much higher. None of them agreed
 
 I sat back.
 
-None of it proved anything. That was the first thing I wrote in my notebook, because it was the thing I needed to remember. Everything he had told me about Point Lookout was on the first page of results. A man with ten thousand books and a lot of time could have read all of it in an afternoon. He could have read it forty years ago. He could have built a whole life, a whole Kit Keene, on top of an afternoon's reading, and believed it by now.
+None of it proved anything. I wrote that in my notebook first. Everything he had told me about Point Lookout was on the first page of results. A man with ten thousand books and a lot of time could have read all of it in an afternoon. He could have read it forty years ago. He could have built a whole life, a whole Kit Keene, on top of an afternoon's reading, and believed it by now.
 
 But there were records. There were always records. That was the other thing I knew.
 

@@ -8,7 +8,7 @@ So I set out the two recorders, and said the date and the time, and before he ha
 
 "Hurley," he said.
 
-He did not pause. He did not look at the ceiling the way people do when they are making something up, or at the floor the way they do when they are trying to remember. He said it the way you would say the name of the street you grew up on.
+He did not pause. He did not look at the ceiling, or at the floor. He said it the way you would say the name of the street you grew up on.
 
 "Edward Hurley. His mother was Margaret's younger sister, Ann. She married a Hurley from St. Mary's County, a waterman, and died when Ned was small, and Ned was more or less raised at the Keenes' after that. That's why he called her Aunt Margaret and wrote to her instead of to anyone else. There was no one else." He tilted his head. "You won't find him as Edward, if you're looking. The clerks at the camps wrote down whatever they heard. He'll be Ned, or E., and they spelled Hurley three different ways."
 
@@ -136,7 +136,7 @@ Samuel Arnold and Michael O'Laughlen came down from Baltimore. They had been boy
 
 And then, in March, a giant came to the door.
 
-He gave his name as Wood, the first time. The next time he came, Weichmann told me afterward, he was a Baptist preacher named Paine. His real name was Lewis Powell. He was twenty years old and over six feet tall, with shoulders like a doorframe, and he had been a Confederate soldier, and been wounded and captured at Gettysburg, and escaped, and ridden with the partisans in Virginia. He ate everything that was put in front of him, quickly, without looking up, the way men eat who have been hungry for a long time. He said almost nothing. When Booth spoke, Powell listened the way a good dog listens: completely, and without any thought of his own.
+He gave his name as Wood, the first time. The next time he came, Weichmann told me afterward, he was a Baptist preacher named Paine. His real name was Lewis Powell. He was twenty years old and over six feet tall, with shoulders like a doorframe, and he had been a Confederate soldier, and been wounded and captured at Gettysburg, and escaped, and ridden with the partisans in Virginia. He ate everything that was put in front of him, quickly, without looking up. He said almost nothing. When Booth spoke, Powell listened the way a good dog listens: completely, and without any thought of his own.
 
 He was the only one of them who frightened me. Not because he was cruel. I never saw him be cruel. It was that there was nothing in him that would stop. Every one of the others had some small door in the back of his mind that he could go out of, if it came to that. Arnold's was his doubts, and Atzerodt's was his cowardice, and Herold's was his boyishness, and John Surratt's was his love of the game for its own sake. Powell did not have one. Whatever Booth asked, Powell would do, all the way to the end of it.
 
@@ -184,7 +184,7 @@ The smile did not go anywhere. Booth only waved his cigar, as if I had mentioned
 
 It was not the reason he had given me in the barn.
 
-I noticed it. And I told myself it was the same reason, only bigger, the way a man's reasons grow when the stakes do. I have told myself that sort of thing in a great many lives. I am nearly always wrong.
+I noticed it. And I told myself it was the same reason, only bigger, the way a man's reasons grow when the stakes do. I have told myself that sort of thing a great many times since, and I am nearly always wrong.
 
 "The road, then," Booth said, and raised his glass to Arnold, and Arnold, after a moment, raised his.
 

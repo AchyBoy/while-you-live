@@ -92,7 +92,7 @@ I read the last line again. My eyes had filled, and I held the letter out over t
 
 I photographed it on my phone, front and back, with no flash, as the sign on the wall asked. Then I asked for a copy anyway, because I wanted one I could hold. The librarian looked at the letter for a long moment when I brought it to the desk, and at me, and did not say anything, and made the copy herself.
 
-I walked out of the Madison Building into the gray winter noon with the copy in a folder under my arm, and sat in my car on the street for a long time without starting it.
+I walked out of the Madison Building into the gray winter noon with the copy in a folder under my arm, and sat in my car on the street without starting it.
 
 For four months I had been a doubter. It had been the one thing I was sure of. Every Thursday I had come to his house determined to find the lie, and I had never found it, and I had told myself that proved nothing, and it had not.
 
@@ -100,4 +100,4 @@ Sitting there in the car, I made myself say it, out loud, alone, to the steering
 
 "I don't know what he is."
 
-It was not the same as believing him. I knew that. But it was the first time since that first Thursday that I had not been sure.
+It was not the same as believing him. But it was the first time since that first Thursday that I had not been sure.

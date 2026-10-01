@@ -70,7 +70,7 @@ He never knew I was there. He told the whole story himself, years later, in a bo
 
 * * *
 
-They did not reach Virginia that night. I know that now; the whole country knows it. The tide and the dark took them up a creek on the Maryland side instead, miles off, and they had to hide another day and go again the next night. I did not know that then. I only knew that the boat had gone out on the river on Friday night, and that by Saturday morning, if they had any luck at all, they were in Virginia.
+They did not reach Virginia that night. I know that now; the whole country knows it. The tide and the dark took them up a creek on the Maryland side instead, miles off, and they had to hide another day and go again the next night. At the time I only knew that the boat had gone out on the river on Friday night, and that by Saturday morning, if they had any luck at all, they were in Virginia.
 
 On Saturday and Sunday I watched the army search Maryland.
 

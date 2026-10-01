@@ -110,7 +110,7 @@ I did not go home.
 
 I should have. Everything that was sensible in me said so. Instead I led that borrowed horse on through the streets of the Navy Yard, and up through the city toward Pennsylvania Avenue, because I had to know. I always have to know. It was more than a mile, and my leg had stiffened from the waiting, and I did not care.
 
-It was full dark by the time I reached the National. The street in front of it was still busy: soldiers, a great many of them, in a cheerful mood, and people coming away from something in the way crowds do after it's over. I asked a newsboy what had happened.
+It was full dark by the time I reached the National. The street in front of it was still busy: soldiers, a great many of them, in a cheerful mood, and people coming away from something that was over. I asked a newsboy what had happened.
 
 A regiment from Indiana, he told me, had captured a rebel flag at some fort in North Carolina, and today they had presented it to the governor of Indiana, who was staying at the National. And the President had come to see it done. He had come instead of going to some hospital, the boy said, because the governor was a friend of his. And at four o'clock he had come out on the balcony, right up there, and made a speech.
 
@@ -118,7 +118,7 @@ At four o'clock, I had been sitting under the trees by the Navy Yard Bridge, ima
 
 I went around to the side of the hotel, where the kitchen was. I do not know why. I think I already knew who I would find there.
 
-There were four or five of the waiters outside the kitchen door, in their white jackets, taking the air the way kitchen men do on a break, talking in low voices. They were talking about the President. I could hear it in the way they were standing before I could hear a word. Something had happened to them that afternoon, all of them, and they were still standing in the middle of it.
+There were four or five of the waiters outside the kitchen door, in their white jackets, taking the air on their break, talking in low voices. They were talking about the President. I could hear it in the way they were standing before I could hear a word. Something had happened to them that afternoon, all of them, and they were still standing in the middle of it.
 
 Damon was among them. He was not talking. He was listening to the others, with his arms folded, and his face in the light from the kitchen door was a face I had never seen him wear. On the farm it had always been shut. Tonight it was open. It was the face of a man who had heard something he had waited his whole life to hear said out loud.
 
