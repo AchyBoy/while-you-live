@@ -28,7 +28,7 @@ I unfolded it. It was Booth's hand. I had seen that hand all winter, on letters 
 
 I read it twice. For a man in a hurry, there was not a blot on it. In the aisle, Damon's hand came out from behind his back, an inch, no more, the way a waiter reaches for a plate before you have quite finished. Then it went back.
 
-I noticed that, and let it go. The play had half an hour left in it, the Kirkwood was four blocks off, and I had a bad leg. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
+I noticed how cleanly it was written, and let it go. The play had half an hour left in it, the Kirkwood was four blocks off, and I had a bad leg. At four o'clock that afternoon I had watched him hand Mathews a letter to the newspapers explaining the whole thing. A man who puts his reasons in a letter to the *Intelligencer* does not worry about four lines to a friend. And he had sent them by the one messenger nobody ever looks at.
 
 * * *
 

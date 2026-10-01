@@ -120,9 +120,9 @@ My mother read the letter aloud three times. Then she folded it up and put it in
 
 * * *
 
-I noticed Damon in September.
+In September, I began to see what I had been watching.
 
-That is not quite true. I had noticed him from the first morning, the way you notice the man who lifts you from behind a wall. But I had not *seen* him. That was the point of him, I understood later. He had made himself into something nobody saw.
+I had noticed him from the first morning, the way you notice the man who lifts you from behind a wall. But he had made himself into something nobody saw. That was the point of him, I understood later.
 
 He was the one my mother relied on for anything that mattered: the horses, the dealings with the tobacco buyer, which were all done by handshake and memory, the mending of anything broken. He spoke only when spoken to and said as little as a man could say and still answer. He never looked at me directly. I thought at first that it was fear, or the habit of that place, where a Black man who looked a white man in the eye could be whipped for it.
 

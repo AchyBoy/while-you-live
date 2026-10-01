@@ -64,7 +64,7 @@ He did not hesitate. "That's him," he said. "He asked for Mr. Booth. Ten o'clock
 
 The officer wrote it down.
 
-That was what they had. It was enough to hang a man that month. A lame Marylander, wearing a coat that was not his and a name that was not his, who had asked for Booth at the Kirkwood House at the very hour of the murder, and had then run toward Ford's. Who had been found nine days later in the heart of the county Booth had fled through, walking into a room of detectives with a story about a boat. The officer who questioned me that afternoon, a tired colonel with a very clean desk, put it to me in almost those words, and asked me whether I had anything to say.
+That was what they had. It was enough to hang a man that month. A lame Marylander, wearing a coat that was not his and a name that was not his, claiming a regiment that was not his, who had asked for Booth at the Kirkwood House at the very hour of the murder, and had then run toward Ford's. Who had been found nine days later in the heart of the county Booth had fled through, walking into a room of detectives with a story about a boat. The officer who questioned me that afternoon, a tired colonel with a very clean desk, put it to me in almost those words, and asked me whether I had anything to say.
 
 I had a great deal to say, and none of it could be said. I could not tell him why I was at the Kirkwood without telling him why I knew Booth. I could not tell him how I knew about the boat without telling him about the pines, and Jones, and my mother's gate.
 
