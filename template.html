@@ -317,8 +317,10 @@ $("cmtSave").onclick = async () => {
 // ---- fixed since you last looked (pencil readers only) ----
 // Each paragraph carries the build time its text last changed (c.pt). "seen" is, per chapter,
 // the newest change the reader has acknowledged. A chapter they've never opened is NEW.
-function seenAt(num) { return store.get("seen", {})[num] || 0; }
-function setSeen(num, t) { const s = store.get("seen", {}); s[num] = Math.max(s[num] || 0, t); store.set("seen", s); }
+// "seen" is kept per review round, so starting a round (or moving it back) shows its boxes fresh on every device.
+const SEEN_KEY = "seen-" + ROUND;
+function seenAt(num) { return store.get(SEEN_KEY, {})[num] || ROUND - 1; }
+function setSeen(num, t) { const s = store.get(SEEN_KEY, {}); s[num] = Math.max(s[num] || 0, t); store.set(SEEN_KEY, s); }
 function isFix(c, t) { return t >= ROUND && t > Math.max(seenAt(c.num), c.added); }
 function fixCount(c) { return c.pt.filter(t => isFix(c, t)).length; }
 function isNew(c) { return c.added > seenAt(c.num); }
