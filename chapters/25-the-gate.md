@@ -64,7 +64,7 @@ She waited.
 
 Lottie's face crumpled. She had been holding it together for two days, alone, fifteen years old, with a secret like that. She put her face down on her knees.
 
-"He was so nice to me," she said into her knees. "He said I was a reader. He said I had ink on my finger." And she cried, and I sat beside her on the hay bale in the dark barn and held her, and did not say anything, because there was nothing true I could say that would help.
+"He was so nice to me," she said into her knees. "He said he'd send me a better picture. Signed." And she cried, and I sat beside her on the hay bale in the dark barn and held her, and did not say anything, because there was nothing true I could say that would help.
 
 * * *
 
