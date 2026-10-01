@@ -21,6 +21,9 @@ def inline(text):
     text = html.escape(text, quote=False)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
     text = re.sub(r"\*(.+?)\*", r"<em>\1</em>", text)
+    # [label](https://...) opens in a new tab so the reader keeps its place; a url may hold one level of ( )
+    text = re.sub(r"\[([^\]]+)\]\((https?://(?:[^()\s]|\([^()\s]*\))+)\)",
+                  r'<a href="\2" target="_blank" rel="noopener">\1</a>', text)
     return text
 
 

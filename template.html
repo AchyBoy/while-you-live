@@ -55,6 +55,8 @@
   .chapter header + p, .chapter p.break + p { text-indent: 0; }
   .chapter header + p { display: flow-root; }
   .chapter header + p::first-letter { float: left; font-size: 3.4em; line-height: .85; padding: .06em .08em 0 0; color: var(--accent); }
+  .chapter.extra p { text-indent: 0; margin: 0 0 .9em; }
+  .chapter a { color: var(--accent); font-size: .8em; white-space: nowrap; }
   .chapter p.break { text-align: center; text-indent: 0; margin: 1em 0; color: var(--soft); }
   /* Ari's testimony: set as a transcript, a rule down the left */
   .chapter p.tape { border-left: 2px solid var(--rule); padding-left: .9em; margin-left: .1em; }
@@ -204,8 +206,8 @@ function go(num, y) {
   const i = CHAPTERS.findIndex(c => c.num === num);
   if (i < 0) return cover();
   const c = CHAPTERS[i], prev = CHAPTERS[i - 1], next = CHAPTERS[i + 1];
-  main.innerHTML = `<article class="chapter">
-    <header><div class="num">${c.extra ? "Afterword" : "Chapter " + c.num}</div><h2>${c.title}</h2></header>
+  main.innerHTML = `<article class="chapter${c.extra ? " extra" : ""}">
+    <header><div class="num">${c.extra ? "" : "Chapter " + c.num}</div><h2>${c.title}</h2></header>
     <div id="fixbarSlot"></div>
     ${c.html}
     ${next ? "" : `<p class="end">More chapters to come.</p>`}
