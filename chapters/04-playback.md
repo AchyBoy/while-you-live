@@ -62,7 +62,7 @@ There were two mugs in the sink. Two plates, rinsed, with crumbs on them.
 
 "Did you have someone over?"
 
-"Maddie came by after school. We did the lab write-up." Freda did not look up. "She left like an hour ago."
+"Maddie came by after school. She wanted to look at my lab." Freda did not look up. "She left like an hour ago."
 
 "That's fine. I was only asking."
 

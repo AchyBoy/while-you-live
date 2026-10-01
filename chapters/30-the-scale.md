@@ -58,7 +58,7 @@ I did remember. I had told it as a joke. "What about it?"
 
 I stood there with my hand on the car door, and I felt it begin to turn over, the way things did around him, a little before I could see what was underneath.
 
-"Nobody else in that room weighed anything on Freda's scale," he said. "Their scales worked. If the other girl had done that lab herself, she'd have got the right answers. She has Freda's wrong ones. So she copied from Freda. Not the other way round."
+"Nobody else in that room weighed anything on Freda's scale," he said. "Their scales worked. If the other girl had done that lab herself, at her own bench, she'd have got the right answers. She has Freda's wrong ones." He lifted one shoulder. "That doesn't prove who copied whom. It proves where the numbers were weighed. That's enough to make him look again. And I know which way I'd bet."
 
 "Freda won't say that. She won't say a word against her."
 
@@ -114,7 +114,7 @@ Freda looked at me for a long moment. Her face did something complicated, and th
 
 It took four days.
 
-On Monday Freda asked Mr. Ostrowski. On Tuesday, she told me that night, he put a hundred-gram weight on her scale in front of her, and it said a hundred and two, and he looked at her write-up, and at the other one, and at the extra paragraph at the end of hers, and he took off his glasses and cleaned them for a long time. On Wednesday there was a meeting in the vice principal's office that Freda was not in and did not tell me about; I knew of it only because the school left a message on my phone. On Thursday, Maddie's mother called me, and was very quiet on the phone, and apologized for something she did not quite name, and I was kinder to her than I had planned to be.
+On Monday Freda asked Mr. Ostrowski. On Tuesday, she told me that night, he put a hundred-gram weight on her scale in front of her, and it said a hundred and two, and he looked at her write-up, and at the other one, and at the extra paragraph at the end of hers. The other one had every one of her wrong numbers, and no paragraph at all. He took off his glasses and cleaned them for a long time. On Wednesday he kept Maddie after class, and Maddie told him: she had copied Freda's numbers at our kitchen table, the afternoon she came over to look at the lab, and then been too frightened to say so. Freda heard that part from Maddie herself, at lunch, and told me that night with her eyes on her plate. There was a meeting in the vice principal's office that Freda was not in; I knew of it only because the school left a message on my phone. On Thursday, Maddie's mother called me, and was very quiet on the phone, and apologized for something she did not quite name, and I was kinder to her than I had planned to be.
 
 The next Thursday I drove up anyway. The client had not said stop, and the money had come on Monday the way it always did, and I told myself that was the reason. It was not. I wanted to tell him.
 
