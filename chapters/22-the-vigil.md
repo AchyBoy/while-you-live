@@ -38,15 +38,19 @@ So I told him. Not all of it. The seat by the door. The plan to stand up and sho
 
 Then I told him what I had worked out on the pavement in the last hour, because I could not stop myself working things out, not even that night.
 
-"And you stayed," I said. "After I left. You never meant to stop him with your hands. You meant to tell the President's man. The footman in livery, by the door. One servant to another. The only man in that dress circle who might have listened to a waiter." I watched his face. "But he did not listen, or you could not get it out in time. And once the note was delivered you were only a Black man standing in the dress circle of Ford's Theatre, with no gentleman to wait on. So an usher came and told you to go down. You went down to the lobby, to wait at the foot of the stairs, where every man going up had to pass you. And you were there when he came in from the street."
+"And you stayed," I said. "After I left. You meant to tell the President's man? The footman by the door? One servant to another, the only man in that dress circle who might have listened to a waiter."
 
-He did not answer. He did not have to.
+He nodded once. "I tried. He wouldn't listen."
+
+"And then you were only a Black man standing in the dress circle of Ford's Theatre, with no gentleman to wait on." I watched his face. "An usher told you to go down? To the lobby, the foot of the stairs, where every man going up had to pass you?"
+
+He nodded again.
 
 "Did you try to stop him?"
 
 His jaw set. I watched him wait for the first word, the way I had watched him wait for it at the National, with that terrible patience. It would not come. His mouth worked, and nothing, and nothing, and he closed his eyes.
 
-And I understood. I did not need him to tell me. Booth had come in off the street, and walked across the lobby past a waiter in a white jacket, and the waiter had opened his mouth to say *stop,* or *help,* or *that man,* or anything at all to anyone in that lobby. And the first sound had caught, the way it always caught. And by the time he got it out, Booth was up the stairs.
+And I thought I understood. Booth had come in off the street, and walked across the lobby past a waiter in a white jacket, and the waiter had opened his mouth to say *stop,* or *help,* or *that man,* or anything at all to anyone in that lobby. And the first sound had caught, the way it always caught. And by the time he got it out, Booth was up the stairs.
 
 "Yes," he said at last. Very quietly. It came without a stumble.
 

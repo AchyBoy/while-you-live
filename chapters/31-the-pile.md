@@ -16,7 +16,7 @@ She called back that afternoon. The job had been booked by phone, eleven days be
 
 He never called.
 
-So on the Monday after Maddie's mother called, when Freda had gone to school with her phone face up in her hand, I drove to the Library of Congress.
+So the following Monday, when Freda had gone to school with her phone face up in her hand, I drove to the Library of Congress.
 
 * * *
 
@@ -76,9 +76,9 @@ I sat in the quiet room under the green lamp for a long time.
 
 I had checked a hundred things for him. The inauguration, the surgeon, Point Lookout, the National, the flag, the speech, the salute. Every one of them had been in some book, somewhere, that anyone could read, and so every one of them had proved nothing, and I had said so, every time, and he had agreed with me every time and seemed pleased. And there were the two I could not check at all, the thread and the sleeves, which proved nothing the other way.
 
-This was not in any book. I checked, right there, quietly, on my phone, searching every phrase of it I could remember. *Lame in the left leg. Much at his table. Knows the roads.* Nothing. No historian had ever quoted it. No book on the assassination mentioned it. It had never been put online. It had sat in a box in the stacks of the Library of Congress, unrequested, for longer than the librarian had worked there.
+I could not find it in any book. I checked, right there, quietly, on my phone, searching every phrase of it I could remember. *Lame in the left leg. Much at his table. Knows the roads.* Nothing. I could find no historian who had quoted it, and no book on the assassination that mentioned it, and nothing online. It had sat in a box in the stacks of the Library of Congress, unrequested, for longer than the librarian had worked there.
 
-Carrow came into my head, because I could not help it. A letter that matched his story word for word was exactly what a clever man would forge, and my client read every word of that story. But nobody had asked for this box in twenty-two years. Nobody could have put anything in it since the autumn. The docket on the back was in a different hand, and the ink had gone brown into the fibers the way ink does in a century and a half, not in a season.
+Carrow came into my head, because I could not help it. A letter that matched his story word for word was exactly what a clever man would forge, and my client read every word of that story. A recent forgery would mean getting it into a box nobody had requested in twenty-two years. The docket on the back was in a different hand, and the ink had gone brown into the fibers the way ink does in a century and a half, not in a season.
 
 Twenty-two years was not forever, either. He could have read it twenty-three years ago, and built the story around it. I had no way of knowing.
 

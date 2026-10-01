@@ -28,7 +28,7 @@ The thing about the lights had been a joke, one line in a long list, the way you
 
 "No," he agreed. "But you do. And you'd noticed already, or you wouldn't have told me about the phone. You'd have told me about the chemistry teacher and stopped there."
 
-I did not answer that. I got into the car. He stood at the bottom of the steps with his hands in his cardigan pockets, and when I had turned the car around on the gravel, he lifted one hand, and I lifted mine, and drove away down the road through the smoke.
+I did not answer that. I got into the car. He stayed by the steps while I turned around on the gravel, and I drove away down the road through the smoke.
 
 * * *
 

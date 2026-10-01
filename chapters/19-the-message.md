@@ -6,7 +6,7 @@
 
 He looked at the clock on the wall. It was twenty past three.
 
-"I'll tell you what he said," he said, "and then I'll tell you what each of us saw. Everything I saw gave me a reason to believe him. And everything he'd seen of me gave him a reason to send me away. We were wrong about each other, Ms. Barnett. But I understand why he did it. That's what makes it unbearable."
+"I'll tell you what he said," he said, "and then I'll tell you what each of us saw. Everything I saw gave me a reason to believe him, Ms. Barnett. That's what makes it unbearable."
 
 * * *
 
