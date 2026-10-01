@@ -58,7 +58,7 @@ She was right.
 
 I sat on the edge of the bed in my narrow room and went through it, one door at a time, the way I always did. I had perhaps an hour.
 
-What did they have? Not my name. I had kept it out of every mouth that could have given it to them: out of Weichmann's hearing, off Booth's papers. They had a clerk's description. A lame young man, a Maryland voice, a cane, asking for Booth. That was all.
+What did they have? Not my name. I had kept it out of every mouth that could have given it to them: out of Weichmann's hearing, off Booth's papers. They had a clerk's description. A lame young man, a Maryland voice, a cane, asking for Booth. That was all, unless Weichmann had given them more.
 
 But it was enough. A lame young man was a thing you could see from across a street. I could not hide the leg. I could not walk ten steps without it announcing me. Every soldier on every corner of Washington was looking for Booth and for a lame young Marylander, and I was the second of those, and I could not stop being him.
 

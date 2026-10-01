@@ -102,7 +102,7 @@ Her son was in the parlor. He was the courier Dr. Mudd had promised to introduce
 
 The last time I saw John Surratt, he was standing on a stage in Rockville, Maryland, more than five years later, selling tickets to all of this. He never said my name.
 
-There was another young man in the parlor, reading a newspaper by the lamp, and I noticed him because nobody introduced him. His name, I learned later, was Louis Weichmann. He had been at school with John, and he boarded in the house and shared John's room, and he worked as a clerk in the War Department, in the office of the Commissary General of Prisoners. He was plump and soft-spoken and polite, and he said good evening to Booth, and to me, and went back to his newspaper.
+A little after we sat down, another young man came down the stairs with a newspaper and settled by the lamp. He had not been in the hall when Booth said my name at the door, and nobody introduced him, which is why I noticed him. His name, I learned later, was Louis Weichmann. He had been at school with John, and he boarded in the house and shared John's room, and he worked as a clerk in the War Department, in the office of the Commissary General of Prisoners. He was plump and soft-spoken and polite, and he said good evening to Booth, and to me, and went back to his newspaper.
 
 He did not turn a page for the next half hour.
 
@@ -202,7 +202,7 @@ He stopped there. The light outside had gone gray.
 
 "Yes."
 
-"You won't find me. Nobody mentions me." He turned the pencil over. "I kept my name out of Weichmann's hearing, from that first night on. I came to H Street as little as I could, and when I saw Booth, I saw him at the National, where nobody from that house was listening. And the ones who did know me had every reason to leave me out. Naming a man the government didn't know about only made the plot bigger, and them guiltier." He set the pencil down. "Now you know part of why."
+"You won't find me. Nobody mentions me." He turned the pencil over. "I kept my name out of Weichmann's hearing, from that first night on. That was never enough, and I knew it; he had seen my face, and the cane. So I came to H Street as little as I could, and when I saw Booth, I saw him at the National, where nobody from that house was listening. And the ones who did know me had every reason to leave me out. Naming a man the government didn't know about only made the plot bigger, and them guiltier." He set the pencil down. "Now you know part of why."
 
 * * *
 

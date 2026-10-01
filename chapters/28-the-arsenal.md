@@ -34,11 +34,11 @@ He had not changed. Plump, soft-spoken, polite. He had gone to the police himsel
 
 He remembered every visit Booth had made to the house on H Street. He remembered Atzerodt, and the bottles, and Powell as Wood and Powell as the Reverend Paine. He remembered driving Mrs. Surratt to her tavern on the afternoon of the fourteenth, and the package she carried, done up in paper, and Booth talking with her before they left. He remembered it all, in order, with dates.
 
-I sat at the back and listened to him, and remembered the first night I saw him, reading by the lamp in the parlor on H Street, and what I had told Booth about him afterward, under a streetlamp: *if this ever goes wrong, that one will talk.* Booth had laughed and called him harmless. I had kept my name out of his hearing from that night on.
+I sat at the back and listened to him, and remembered the first night I saw him, reading by the lamp in the parlor on H Street, and what I had told Booth about him afterward, under a streetlamp: *if this ever goes wrong, that one will talk.* Booth had laughed and called him harmless. I had kept my name out of his hearing from that night on. It was not much protection. He had seen my face across that parlor, and my cane, and he remembered everything.
 
-He did not mention me. Not once, in all those hours. He could not. He had nothing to mention.
+So I waited. Every time he came to a new day, I waited for him to say *and a lame young man who came with Booth.* He did not mention me. Not once, in all those hours. I have never known why. I have had a very long time to wonder, and I still do not know.
 
-I had been right about him, and it had saved my neck. And I sat there and watched that careful memory of his tie a rope, one date at a time, around the neck of the woman who had given him a room and fed him at her table all winter. I did not feel lucky. I did not feel anything I have a good word for.
+I had been right that he would talk, and something in him I never understood had saved my neck. And I sat there and watched that careful memory of his tie a rope, one date at a time, around the neck of the woman who had given him a room and fed him at her table all winter. I did not feel lucky. I did not feel anything I have a good word for.
 
 * * *
 
