@@ -120,7 +120,7 @@ My mother read the letter aloud three times. Then she folded it up and put it in
 
 * * *
 
-In September, I began to see what I had been watching.
+In September, I began to see Damon more clearly.
 
 I had noticed him from the first morning, the way you notice the man who lifts you from behind a wall. But he had made himself into something nobody saw. That was the point of him, I understood later.
 
