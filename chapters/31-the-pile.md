@@ -76,9 +76,11 @@ I sat in the quiet room under the green lamp for a long time.
 
 I had checked a hundred things for him. The inauguration, the surgeon, Point Lookout, the National, the flag, the speech, the salute. Every one of them had been in some book, somewhere, that anyone could read, and so every one of them had proved nothing, and I had said so, every time, and he had agreed with me every time and seemed pleased. And there were the two I could not check at all, the thread and the sleeves, which proved nothing the other way.
 
-This was not in any book. I checked, right there, quietly, on my phone, searching every phrase of it I could remember. *Lame in the left leg. Much at his table. Knows the roads.* Nothing. No historian had ever quoted it. No book on the assassination mentioned it. It had never been put online. It had sat in a box in the stacks of the Library of Congress, unrequested, for longer than the librarian had worked there. For longer, probably, than he had been alive.
+This was not in any book. I checked, right there, quietly, on my phone, searching every phrase of it I could remember. *Lame in the left leg. Much at his table. Knows the roads.* Nothing. No historian had ever quoted it. No book on the assassination mentioned it. It had never been put online. It had sat in a box in the stacks of the Library of Congress, unrequested, for longer than the librarian had worked there.
 
 Carrow came into my head, because I could not help it. A letter that matched his story word for word was exactly what a clever man would forge, and my client read every word of that story. But nobody had asked for this box in twenty-two years. Nobody could have put anything in it since the autumn. The docket on the back was in a different hand, and the ink had gone brown into the fibers the way ink does in a century and a half, not in a season.
+
+Twenty-two years was not forever, either. He could have read it twenty-three years ago, and built the story around it. I had no way of knowing.
 
 And it described him. Not the story. Him. The lame young man at Booth's table. It described him exactly as he had described himself, week after week, from a chair by a woodstove, and it had been written by the waiter he had told me about, in the hand he had told me about, on the night he had told me about, and filed and forgotten less than a day before the shot.
 
