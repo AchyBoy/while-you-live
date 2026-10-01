@@ -98,7 +98,9 @@ He put the pencil down.
 
 "I have lived before," he said. "Not in the way people mean on television, with past-life regression and a woman with a crystal. I mean that I have been other people, one after another, for a very long time, and I remember them. Not perfectly. The way you remember your childhood. Some of it very clearly, and some of it gone, and some of it I would rather have lost."
 
-The woodstove ticked. Outside, a truck went by on the far road, and the sound of it came and went.
+I waited for him to go on. He seemed to be waiting for me.
+
+He had said it without a smile, and now he sat watching me across the table. I could have asked whether he expected me to believe him. Instead, I let him wait. People sometimes took back the strangest part of a story if you did not help them past it.
 
 In my time I had interviewed a man who believed he had been abducted by aliens, twice, and a woman who believed her late husband spoke to her through the microwave. I had interviewed a state senator who believed he had never taken a bribe. I had found, over the years, that the useful thing was not to argue. You let them tell it. People who were lying tripped over their own stories, if you gave them room. People who believed something strange usually told it the same way every time, which was its own kind of information.
 
