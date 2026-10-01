@@ -130,6 +130,10 @@
   #player.on { display: flex; }
   #player button { font-size: 1.15em; min-width: 2.2em; }
   #player .t { color: var(--soft); font-variant-numeric: tabular-nums; min-width: 6.5em; text-align: center; }
+  .voices { margin: 1.2em auto 0; max-width: 22em; font-size: .8em; }
+  .voices .vt, .voices .vn { color: var(--soft); margin: .3em 0; }
+  .voices button { width: 2.4em; height: 2.4em; margin: .2em; border: 1px solid var(--rule); border-radius: 50%; color: var(--ink); }
+  .voices button.on { border-color: var(--accent); color: var(--accent); }
 </style>
 </head>
 <body>
@@ -228,6 +232,7 @@ function go(num, y) {
   addPens(c.num);
   markFixes(c);
   listenHook(c, next);
+  voicePicker(c);
   $("where").textContent = c.extra ? c.title : `${c.num}. ${c.title}`;
   history.replaceState(null, "", "#ch" + c.num);
   store.set("pos", { ch: c.num, y: y || 0 });
@@ -235,6 +240,26 @@ function go(num, y) {
   onScroll();
 }
 $("homeBtn").onclick = () => toc();
+// Tom's voice audition (author only, chapter 2): tap a number to hear a 4-second line.
+const VOICES = ["Onyx", "Onyx, slower", "Eric", "Adam", "Liam", "Echo", "Fenrir", "Puck", "Onyx + Michael", "Onyx + Eric",
+  "George (British)", "Lewis (British)", "Daniel (British)", "Fable (British)", "Michael (current)"];
+const vClip = new Audio();
+function voicePicker(c) {
+  if (!CKEY || c.num !== 2) return;
+  const box = document.createElement("div");
+  box.className = "voices";
+  box.innerHTML = `<div class="vt">Tom's voice: tap to hear</div>` + VOICES.map((v, i) =>
+    `<button data-v="${i + 1}" title="${v}">${i + 1}</button>`).join("") + `<div class="vn" id="vName">&nbsp;</div>`;
+  main.querySelector(".chapter header").appendChild(box);
+  box.querySelectorAll("[data-v]").forEach(b => b.onclick = () => {
+    box.querySelectorAll("[data-v]").forEach(x => x.classList.remove("on"));
+    b.classList.add("on");
+    $("vName").textContent = `${b.dataset.v}. ${VOICES[b.dataset.v - 1]}`;
+    vClip.src = `audio/samples/tom/s${b.dataset.v}.mp3`;
+    vClip.play();
+  });
+}
+
 // Narration: one mp3 per chapter (audio/chNN.mp3) + audio/chNN.json, the start time of each paragraph.
 // The paragraph being read is highlighted and kept on screen; at the end it carries on into the next chapter.
 const player = document.createElement("div");
