@@ -48,7 +48,15 @@ His jaw set. I watched him wait for the first word, the way I had watched him wa
 
 And I understood. I did not need him to tell me. Booth had come in off the street, and walked across the lobby past a waiter in a white jacket, and the waiter had opened his mouth to say *stop,* or *help,* or *that man,* or anything at all to anyone in that lobby. And the first sound had caught, the way it always caught. And by the time he got it out, Booth was up the stairs.
 
-"Yes," he said at last. Very quietly. It was the only word he said that night that came without a stumble.
+"Yes," he said at last. Very quietly. It came without a stumble.
+
+Then he told me the rest, in short pieces, looking at the house across the street and not at me.
+
+"I stood in his way. At the foot of the stairs." A breath. "The usher knew him. He took my arm and moved me to the wall, so the gentleman could pass." Another. "I had the word ready. I never got it out. He was on the stairs by then, and the usher still had my arm."
+
+I had pictured him standing in that lobby, waiting for a word that would not come. I had not pictured the usher's hand.
+
+For a while I could not say anything at all.
 
 * * *
 
