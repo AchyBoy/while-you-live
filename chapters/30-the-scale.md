@@ -26,9 +26,15 @@ He looked at me for a moment, and I could see he was pleased, and that it was wi
 
 I sat at his kitchen table with half a sandwich in front of me and six years going over in my head like pages in a wind. The report I had read over and over since I took the box down. *Framed family photographs on living room wall. Desk.* The closet by the door. The cat.
 
-"The police would have seen that," I said. "Anyone would."
+Then I heard how certain it sounded, and the part of me that used to do this for a living sat up.
 
-"The police never knew there were any boxes," he said. "Nobody did but you, and you saw them once. They walked into an apartment with a desk in it, and wrote down *desk.*" He picked up the plates. "It isn't a thing you missed. You couldn't see it until you set the boxes down next to the photographs, and you'd never said the two things out loud in the same month until you said them to me. I've wanted to tell you for some time. I didn't know how you'd take it."
+"Somebody came to the door," I said. "That's all the cat tells you. He shut her in for anybody. Petrakis said so."
+
+He thought about it. "Yes," he said. "Fair."
+
+"And the boxes. The officer wrote down the cat and the dishes and the photographs because they were in front of him. Two boxes in a closet, he could have looked straight at and never written down. That report doesn't prove anything that isn't in it."
+
+"No," he said. "It doesn't. It's a reason to ask, that's all." He picked up the plates. "But you couldn't see it until you set the boxes down next to the photographs, and you'd never said the two things out loud in the same month until you said them to me. I've wanted to tell you for some time. I didn't know how you'd take it."
 
 "How am I supposed to take it?"
 

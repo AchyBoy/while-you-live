@@ -10,6 +10,12 @@ Piles got kept. That was the thing I knew, that he might not. I had spent twenty
 
 That Thursday night, after Freda was asleep, I took the *CARROW* box down again and read the police report through with a pencil. *Framed family photographs on living room wall. Desk.* Nothing about any papers. I sat on the closet floor with it for a long time.
 
+In the morning I did the two things you do when you have a theory and no proof. I asked the police department for the whole file, not just the report: the officer's notes, any photographs, whatever was behind it. And I found the movers. They were still in business, the same small outfit from across the river, and the woman who answered said they kept their job sheets seven years. I told her what I wanted. Who had booked the job, and when, and whether there was an address to take it to, or a number to call that wasn't his.
+
+She called back that afternoon. The job had been booked by phone, eleven days before he disappeared, with a deposit in cash. The line for the new address was blank. Under it, somebody had written *Customer to call with address.*
+
+He never called.
+
 So on the Monday after Maddie's mother called, when Freda had gone to school with her phone face up in her hand, I drove to the Library of Congress.
 
 * * *
