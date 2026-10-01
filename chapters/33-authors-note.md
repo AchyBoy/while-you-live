@@ -32,9 +32,9 @@ Thomas Jones hid Booth in the pines for days.
 
 Booth was shot in a burning tobacco barn on the Garrett farm. At the end he looked at his hands and said "Useless, useless."
 
-Louis Weichmann and John Lloyd both testified at the trial. Powell was brought to Mrs. Surratt's door carrying a pickaxe, and she said "Before God, sir, I do not know this man."
+Three nights after the shooting, while detectives were in Mrs. Surratt's boarding house, Powell turned up at her door carrying a pickaxe. She said "Before God, sir, I do not know this man."
 
-President Johnson said he never saw the plea for mercy for Mrs. Surratt. The hangings were on July 7, with one day's notice.
+Louis Weichmann and John Lloyd both testified against her at the trial. President Johnson said he never saw the plea for mercy for Mrs. Surratt. The hangings were on July 7, with one day's notice.
 
 John Surratt gave a public lecture about the plot in Rockville, Maryland, in December 1870.
 
