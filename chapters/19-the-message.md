@@ -6,7 +6,7 @@
 
 He looked at the clock on the wall. It was twenty past three.
 
-"I'll tell you what he said," he said, "and then I'll tell you what each of us saw. Because we both saw correctly, Ms. Barnett. That's what I need you to understand about that night. Neither of us made a mistake. That's what makes it unbearable."
+"I'll tell you what he said," he said, "and then I'll tell you what each of us saw. Everything I saw gave me a reason to believe him. And everything he'd seen of me gave him a reason to send me away. We were wrong about each other, Ms. Barnett. But I understand why he did it. That's what makes it unbearable."
 
 * * *
 
@@ -32,7 +32,7 @@ I noticed the blots, and let them go. The play had half an hour left in it, the 
 
 * * *
 
-I want to tell you what I thought, in the next half minute, because I thought very clearly, and every step of it was sound.
+I want to tell you what I thought, in the next half minute, because I thought very clearly, and every step of it felt sound.
 
 First: that the note was Booth's. I knew the hand. And it knew things nobody knew who was not inside: the Kirkwood, the Vice President, that there was a man assigned to him, and that the man was a German, the kind to lose his nerve.
 
@@ -68,7 +68,7 @@ Then I went down. I missed the second stair and caught the rail.
 
 He stopped.
 
-"And what did he see?" I said. "Damon. You said you both saw correctly."
+"And what had he seen?" I said. "Damon."
 
 "He saw a man he had known on a farm, who came back from the war changed, and cold, and whom he had never liked. Who went to Washington in the winter and began to eat his dinners at John Wilkes Booth's own table, in a coat that Booth had paid for. Who came to the side door of the National on the night of the seventeenth of March, the night the plotters were supposed to take the President, with mud to his knees and a saddled horse on a lead with nobody to ride it. Who stood at Booth's elbow on the lawn when Booth said *the last speech he will ever make,* and did not so much as turn his head. Who came out of Booth's room at midnight with his shirt full of papers." He held up his hand, and turned it over, and looked at it. "And who, on the night the President came to Ford's Theatre, had bought the seat in the dress circle nearest to the only door into the President's box, and sat in it for an hour, with his eyes on that door and on the stairs, and did not watch the play."
 

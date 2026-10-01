@@ -118,7 +118,7 @@ The clerk thought about it. "This afternoon, sir," he said. "Three o'clock, mayb
 
 This afternoon.
 
-I have told you that knowing a thing is not the same as knowing it. That was a night I learned it again. It all turned over in me at once, the whole half minute in the dress circle, every sound step of it, like a card turned face up on a table.
+I have told you that knowing a thing is not the same as knowing it. That was a night I learned it again. It all turned over in me at once, the whole half minute in the dress circle, every step that had felt so sound, like a card turned face up on a table.
 
 Booth had not come to the Kirkwood tonight. Booth had never been coming. The card was six hours old, and it was true, and it had been chosen because it was true, because I would check, and it would hold. Somebody had wanted me out of that dress circle. Out of the seat by the only door. And had found the one message that would move me, and made it true enough to check.
 
