@@ -243,7 +243,8 @@ $("homeBtn").onclick = () => toc();
 // Tom's voice audition (author only, chapter 2): tap a number to hear a 4-second line.
 const VOICES = ["Onyx", "Onyx, slower", "Eric", "Adam", "Liam", "Echo", "Fenrir", "Puck", "Onyx + Michael", "Onyx + Eric",
   "George (British)", "Lewis (British)", "Daniel (British)", "Fable (British)", "Michael (current)",
-  "Lewis, American", "9 + Lewis, American", "Lewis + Onyx, American, slower"];
+  "Lewis, American", "9 + Lewis, American", "Lewis + Onyx, American, slower",
+  "NEW model: its own voice", "NEW model: in 9's voice"];
 const vClip = new Audio();
 function voicePicker(c) {
   if (!CKEY || c.num !== 2) return;
