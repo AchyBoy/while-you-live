@@ -72,6 +72,8 @@ body { font-family: "EB Garamond", Georgia, serif; font-size: 11pt; line-height:
 .chapter p.break.tape { margin: 0; padding: .8em 0 .8em .8em; }
 .chapter p.tape-head { text-indent: 0; padding-bottom: .4em; font-variant: small-caps; letter-spacing: .05em; color: #8a1c1c; }
 .chapter p.tape-head em { font-style: normal; }
+.chapter p.tape-head::before { content: "\\25CF\\00a0 Recording \\00b7\\00a0"; font-size: .75em; letter-spacing: .12em; text-transform: uppercase; color: #555; }
+.chapter p:last-child { break-before: avoid; }
 .chapter.extra p { text-indent: 0; text-align: left; margin: 0 0 .7em; }
 """
 
@@ -84,7 +86,7 @@ def page(pages):
         f'<section class="chapter{" extra" if c["extra"] else ""}" id="c{c["num"]}"><header>'
         f'<div class="num">{"" if c["extra"] else "Chapter " + str(c["num"])}</div><h2>{html.escape(c["title"])}</h2>'
         f'</header>{c["html"]}</section>' for c in chapters)
-    return f"""<!doctype html><html><head><meta charset="utf-8">
+    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=block" rel="stylesheet">
 <style>{CSS}</style></head><body>
 <section class="front title"><div class="series">{BOOK["series"]} &middot; Book {BOOK["number"]}</div>
