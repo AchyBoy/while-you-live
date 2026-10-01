@@ -82,7 +82,7 @@ Carrow came into my head, because I could not help it. A letter that matched his
 
 Twenty-two years was not forever, either. He could have read it twenty-three years ago, and built the story around it. I had no way of knowing.
 
-But he had never told me to look. He had said he never saw it. Looking had been my idea, out of my old job. Though he had also told me, back in the fall, that I would look carefully, because that was what I did.
+But he had never asked me to find this letter. He had said he had never seen it. I had gone looking on my own. Still, he knew how I worked.
 
 And it described him. Not the story. Him. The lame young man at Booth's table. It described him exactly as he had described himself, week after week, from a chair by a woodstove, and it had been written by the waiter he had told me about, in the hand he had told me about, on the night he had told me about, and filed and forgotten less than a day before the shot.
 
