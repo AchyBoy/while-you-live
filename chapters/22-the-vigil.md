@@ -92,11 +92,11 @@ I saw it, and Damon saw it, at the same moment. I know that, because we said it 
 
 "His sleeves."
 
-The doctor's sleeves were rolled down, and buttoned at the wrist. All night, every time a doctor had come to the door, his sleeves had been pushed up to the elbow. You do not roll down your sleeves and button them while there is still anything left to do.
+The doctor's sleeves were rolled down and buttoned at the wrist. All night, every doctor who came to that door had them pushed up to the elbow.
 
-Damon turned his head and looked at me. And I looked at him. For a moment, one long moment, in the rain, in front of that house, we only looked at each other. Two men who had just noticed the same small thing, in the same second, and said it in the same two words.
+Damon turned and looked at me. We stood there in the rain.
 
-I had put him down, on the farm, as a word spelled wrong. Standing there in the rain, I had the strangest feeling that he was spelled wrong in the same way I was. I did not know what to make of it. I think he felt it too.
+I had put him down, on the farm, as a word spelled wrong. Standing there, I had the strangest feeling that he was spelled wrong in the same way I was.
 
 Then the word came down the steps, and ran out into the crowd, and went up Tenth Street and down it, the way the news had gone out from the steps of Ford's the morning before. And the bells began. First one church, somewhere up toward the Avenue, and then another, and then all of them, all over the city, in the rain.
 
