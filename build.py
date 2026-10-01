@@ -14,7 +14,7 @@ out of date. Both are public and hold only hashes and times, no text.
 import hashlib, html, json, pathlib, re, sys, time
 
 ROOT = pathlib.Path(__file__).parent
-BOOK = {"series": "While You Live", "title": "Sic Semper", "number": 1}
+BOOK = {"series": "While You Live", "title": "Sic Semper", "number": 1, "author": "Andrew F. Young"}
 
 
 def inline(text):

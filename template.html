@@ -184,6 +184,7 @@ function cover() {
   main.innerHTML = `<section class="cover">
     <div class="series">${BOOK.series} &middot; Book ${BOOK.number}</div>
     <h1>${BOOK.title}</h1>
+    <div class="book">by ${BOOK.author}</div>
     <div class="star">&#10043;</div>
     <button class="begin" id="begin">${c ? "Continue reading" : "Begin"}</button>
     <button class="resume" id="toc">Contents</button>
