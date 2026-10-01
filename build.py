@@ -69,7 +69,8 @@ def chapter(path):
             flush()
         else:
             para.append(s)
-    return {"num": num, "title": title, "extra": extra, "html": "\n".join(blocks), "hashes": hashes}
+    audio = (ROOT / "audio" / f"ch{num:02d}.mp3").exists()  # narration, made by ../audio/narrate.py
+    return {"num": num, "title": title, "extra": extra, "html": "\n".join(blocks), "hashes": hashes, "audio": audio}
 
 
 BUILD = int(time.time() * 1000)

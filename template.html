@@ -122,6 +122,14 @@
   .stale h3 { margin: 0 0 .4em; font-size: 1.4em; color: #c0392b; }
   .stale .go { margin-top: 16px; width: 100%; padding: 14px; border-radius: 999px; background: #c0392b; color: #fff; font-size: 18px; font-weight: 600; }
   .stale .later { margin-top: 12px; color: var(--soft); font-size: 14px; text-decoration: underline; }
+  .listen { margin-top: 1em; padding: .35em 1.2em; border: 1px solid var(--soft); border-radius: 999px; font-size: .8em; color: var(--soft); }
+  .chapter p.reading { background: color-mix(in srgb, var(--accent) 9%, transparent); border-radius: 3px; box-shadow: 0 0 0 5px color-mix(in srgb, var(--accent) 9%, transparent); }
+  #player { position: fixed; left: 0; right: 0; bottom: 0; display: none; align-items: center; justify-content: center; gap: 1.2em;
+    padding: .6em 1em calc(.6em + env(safe-area-inset-bottom)); background: var(--paper); border-top: 1px solid var(--rule); color: var(--ink);
+    font-size: .85em; z-index: 50; }
+  #player.on { display: flex; }
+  #player button { font-size: 1.15em; min-width: 2.2em; }
+  #player .t { color: var(--soft); font-variant-numeric: tabular-nums; min-width: 6.5em; text-align: center; }
 </style>
 </head>
 <body>
@@ -208,7 +216,7 @@ function go(num, y) {
   if (i < 0) return cover();
   const c = CHAPTERS[i], prev = CHAPTERS[i - 1], next = CHAPTERS[i + 1];
   main.innerHTML = `<article class="chapter${c.extra ? " extra" : ""}">
-    <header><div class="num">${c.extra ? "" : "Chapter " + c.num}</div><h2>${c.title}</h2></header>
+    <header><div class="num">${c.extra ? "" : "Chapter " + c.num}</div><h2>${c.title}</h2>${c.audio ? `<button class="listen" id="listenBtn">&#9654;&nbsp; Listen</button>` : ""}</header>
     <div id="fixbarSlot"></div>
     ${c.html}
     ${next ? "" : `<p class="end">More chapters to come.</p>`}
@@ -219,6 +227,7 @@ function go(num, y) {
   main.querySelectorAll("[data-go]").forEach(b => b.onclick = () => go(Number(b.dataset.go), 0));
   addPens(c.num);
   markFixes(c);
+  listenHook(c, next);
   $("where").textContent = c.extra ? c.title : `${c.num}. ${c.title}`;
   history.replaceState(null, "", "#ch" + c.num);
   store.set("pos", { ch: c.num, y: y || 0 });
@@ -226,6 +235,71 @@ function go(num, y) {
   onScroll();
 }
 $("homeBtn").onclick = () => toc();
+// Narration: one mp3 per chapter (audio/chNN.mp3) + audio/chNN.json, the start time of each paragraph.
+// The paragraph being read is highlighted and kept on screen; at the end it carries on into the next chapter.
+const player = document.createElement("div");
+player.id = "player";
+player.innerHTML = `<button id="pBack" aria-label="Back 15 seconds">&#8634;</button><button id="pPlay" aria-label="Play or pause">&#10074;&#10074;</button>
+  <button id="pFwd" aria-label="Forward 15 seconds">&#8635;</button><span class="t" id="pTime"></span><button id="pStop" aria-label="Stop">&#10005;</button>`;
+document.body.appendChild(player);
+const audio = new Audio();
+audio.preload = "auto";
+let aCh = null, aMarks = [], aNext = null, aFollow = true, lastPara = -1;
+const fmtT = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`;
+function paraEls() { return [...main.querySelectorAll(".chapter > p:not(.end)")]; }
+function listenHook(c, next) {
+  if (aCh !== c.num && !audio.paused) audio.pause();
+  if (aCh !== c.num) { player.classList.remove("on"); lastPara = -1; }
+  const b = $("listenBtn");
+  if (b) b.onclick = () => startListen(c, next);
+  if (aCh === c.num) aNext = next;
+}
+async function startListen(c, next, fromStart) {
+  if (aCh !== c.num) {
+    aCh = c.num; aNext = next; lastPara = -1;
+    const nn = String(c.num).padStart(2, "0");
+    try { aMarks = (await (await fetch(`audio/ch${nn}.json?v=${BUILD}`)).json()).paras; } catch (e) { aMarks = []; }
+    audio.src = `audio/ch${nn}.mp3?v=${BUILD}`;
+    const saved = store.get("listen", null);
+    audio.currentTime = !fromStart && saved && saved.ch === c.num ? saved.t : 0;
+  }
+  aFollow = true;
+  player.classList.add("on");
+  audio.play();
+}
+audio.addEventListener("play", () => $("pPlay").innerHTML = "&#10074;&#10074;");
+audio.addEventListener("pause", () => $("pPlay").innerHTML = "&#9654;");
+audio.addEventListener("timeupdate", () => {
+  const t = audio.currentTime;
+  $("pTime").textContent = `${fmtT(t)} / ${fmtT(audio.duration || 0)}`;
+  store.set("listen", { ch: aCh, t });
+  let i = -1;
+  for (let k = 0; k < aMarks.length; k++) if (aMarks[k] <= t + 0.1) i = k; else break;
+  if (i === lastPara) return;
+  lastPara = i;
+  const ps = paraEls();
+  ps.forEach(p => p.classList.remove("reading"));
+  const p = ps[i];
+  if (!p) return;
+  p.classList.add("reading");
+  if (aFollow) {
+    const r = p.getBoundingClientRect();
+    if (r.top < 70 || r.bottom > innerHeight - 90) window.scrollTo(0, window.scrollY + r.top - innerHeight * 0.25);
+  }
+});
+audio.addEventListener("ended", () => {
+  store.set("listen", { ch: aCh, t: 0 });
+  if (aNext && aNext.audio) { const n = aNext; aCh = null; go(n.num, 0); startListen(n, CHAPTERS[CHAPTERS.indexOf(n) + 1], true); }
+  else player.classList.remove("on");
+});
+$("pPlay").onclick = () => audio.paused ? (aFollow = true, audio.play()) : audio.pause();
+$("pBack").onclick = () => audio.currentTime = Math.max(0, audio.currentTime - 15);
+$("pFwd").onclick = () => audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 15);
+$("pStop").onclick = () => { audio.pause(); player.classList.remove("on"); paraEls().forEach(p => p.classList.remove("reading")); lastPara = -1; };
+// scrolling by hand stops the page from following until play is pressed again
+window.addEventListener("touchmove", () => { if (!audio.paused) aFollow = false; }, { passive: true });
+window.addEventListener("wheel", () => { if (!audio.paused) aFollow = false; }, { passive: true });
+
 
 // progress, save place, hide bar while reading down
 let lastY = 0;
