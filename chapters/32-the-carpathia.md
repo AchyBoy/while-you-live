@@ -46,7 +46,7 @@ I was already looking it up.
 
 "Did he ever say anything about the Titanic?"
 
-"No." I looked at the card. "He never said anything about it. Not once. Not in seventeen weeks." I thought back, carefully, through every page of every transcript, all of it, the way I had been trained to. "He's never said anything about 1912. He's never talked about anything after 1865, except to say he's lived before."
+"No." I looked at the card. "He never said anything about it. Not once. Not in seventeen weeks." I thought back, carefully, through every page of every transcript, all of it, the way I had been trained to. "He's never mentioned the Carpathia. Or 1912. Nothing about where he was that April."
 
 Freda looked at the card, and at my face.
 
