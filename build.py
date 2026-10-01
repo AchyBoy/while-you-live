@@ -69,7 +69,10 @@ def chapter(path):
             flush()
         else:
             para.append(s)
-    audio = (ROOT / "audio" / f"ch{num:02d}.mp3").exists()  # narration, made by ../audio/narrate.py
+    # narration (made by ../audio/narrate.py) counts only if its paragraph timings match this text; an edited
+    # chapter hides its Listen button until it is re-narrated, so the read-along highlight never drifts
+    aj = ROOT / "audio" / f"ch{num:02d}.json"
+    audio = (ROOT / "audio" / f"ch{num:02d}.mp3").exists() and aj.exists() and len(json.loads(aj.read_text())["paras"]) == len(blocks)
     return {"num": num, "title": title, "extra": extra, "html": "\n".join(blocks), "hashes": hashes, "audio": audio}
 
 

@@ -134,6 +134,8 @@
   .voices .vt, .voices .vn { color: var(--soft); margin: .3em 0; }
   .voices button { width: 2.4em; height: 2.4em; margin: .2em; border: 1px solid var(--rule); border-radius: 50%; color: var(--ink); }
   .voices button.on { border-color: var(--accent); color: var(--accent); }
+  .hasaudio { margin-left: auto; padding-left: .6em; font-size: .85em; opacity: .75; }
+  .hasaudio + .tag { margin-left: .5em; }
 </style>
 </head>
 <body>
@@ -209,7 +211,7 @@ function cover() {
 }
 function toc() {
   main.innerHTML = `<section class="toc"><h2>${BOOK.title}</h2><ol>${CHAPTERS.map(c =>
-    `<li><button data-ch="${c.num}"><span class="n">${c.extra ? "" : c.num}</span><span>${c.title}</span>${badge(c)}</button></li>`).join("")}</ol></section>`;
+    `<li><button data-ch="${c.num}"><span class="n">${c.extra ? "" : c.num}</span><span>${c.title}</span>${c.audio ? `<span class="hasaudio" title="Has audio">&#127911;</span>` : ""}${badge(c)}</button></li>`).join("")}</ol></section>`;
   main.querySelectorAll("[data-ch]").forEach(b => b.onclick = () => go(Number(b.dataset.ch), 0));
   $("where").textContent = "Contents";
   history.replaceState(null, "", "#contents");
@@ -220,7 +222,7 @@ function go(num, y) {
   if (i < 0) return cover();
   const c = CHAPTERS[i], prev = CHAPTERS[i - 1], next = CHAPTERS[i + 1];
   main.innerHTML = `<article class="chapter${c.extra ? " extra" : ""}">
-    <header><div class="num">${c.extra ? "" : "Chapter " + c.num}</div><h2>${c.title}</h2>${c.audio ? `<button class="listen" id="listenBtn">&#9654;&nbsp; Listen</button>` : ""}</header>
+    <header><div class="num">${c.extra ? "" : "Chapter " + c.num}</div><h2>${c.title}</h2>${c.audio ? `<button class="listen" id="listenBtn">&#9654;&#xFE0E;&nbsp; Listen</button>` : ""}</header>
     <div id="fixbarSlot"></div>
     ${c.html}
     ${next ? "" : `<p class="end">More chapters to come.</p>`}
@@ -232,7 +234,6 @@ function go(num, y) {
   addPens(c.num);
   markFixes(c);
   listenHook(c, next);
-  voicePicker(c);
   $("where").textContent = c.extra ? c.title : `${c.num}. ${c.title}`;
   history.replaceState(null, "", "#ch" + c.num);
   store.set("pos", { ch: c.num, y: y || 0 });
@@ -295,7 +296,7 @@ async function startListen(c, next, fromStart) {
   audio.play();
 }
 audio.addEventListener("play", () => $("pPlay").innerHTML = "&#10074;&#10074;");
-audio.addEventListener("pause", () => $("pPlay").innerHTML = "&#9654;");
+audio.addEventListener("pause", () => $("pPlay").innerHTML = "&#9654;&#xFE0E;");
 audio.addEventListener("timeupdate", () => {
   const t = audio.currentTime;
   $("pTime").textContent = `${fmtT(t)} / ${fmtT(audio.duration || 0)}`;
