@@ -176,7 +176,7 @@
   <button class="later" id="staleLater">Later</button>
 </div></div>
 <script>
-const BUILD = 1790965868751;
+const BUILD = 1790966362378;
 const AUDIO_V = "audio v3";
 const ROUND = 1790884750982;  // only paragraphs changed at or after this build are boxed
 const BOOK = {"series": "While You Live", "title": "Sic Semper", "number": 1, "author": "Andrew F. Young"};
@@ -336,16 +336,20 @@ audio.addEventListener("timeupdate", () => {
   store.set("listen", { ch: aCh, t });
   let i = -1;
   for (let k = 0; k < aMarks.length; k++) if (aMarks[k] <= t + 0.1) i = k; else break;
-  if (i === lastPara) return;
-  lastPara = i;
   const ps = paraEls();
-  ps.forEach(p => p.classList.remove("reading"));
+  if (i !== lastPara) {
+    lastPara = i;
+    ps.forEach(p => p.classList.remove("reading"));
+    if (ps[i]) ps[i].classList.add("reading");
+  }
   const p = ps[i];
   if (!p) return;
-  p.classList.add("reading");
+  // Follow the reading: after a hand scroll, pick it up again by itself after a few seconds of no touching.
+  if (!aFollow && Date.now() - touchedAt > 6000) aFollow = true;
   if (aFollow) {
-    const r = p.getBoundingClientRect();
-    if (r.top < 70 || r.bottom > innerHeight - 90) window.scrollTo(0, window.scrollY + r.top - innerHeight * 0.25);
+    const r = p.getBoundingClientRect(), vh = window.visualViewport ? visualViewport.height : innerHeight;
+    const bottom = vh - (player.classList.contains("on") ? player.offsetHeight : 0) - 12;   // the audio bar covers the bottom
+    if (r.top < 70 || r.bottom > bottom) window.scrollTo(0, window.scrollY + r.top - vh * 0.25);
   }
 });
 audio.addEventListener("ended", () => {
@@ -360,8 +364,9 @@ $("pStop").onclick = () => { audio.pause(); player.classList.remove("on"); paraE
   if (hookC) resume.classList.add("on"); };
 resume.onclick = () => { if (hookC) startListen(hookC, hookNext); };
 // scrolling by hand stops the page from following until play is pressed again
-window.addEventListener("touchmove", () => { if (!audio.paused) aFollow = false; }, { passive: true });
-window.addEventListener("wheel", () => { if (!audio.paused) aFollow = false; }, { passive: true });
+let touchedAt = 0;
+window.addEventListener("touchmove", () => { if (!audio.paused) { aFollow = false; touchedAt = Date.now(); } }, { passive: true });
+window.addEventListener("wheel", () => { if (!audio.paused) { aFollow = false; touchedAt = Date.now(); } }, { passive: true });
 
 
 // progress, save place, hide bar while reading down
