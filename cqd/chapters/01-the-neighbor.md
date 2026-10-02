@@ -28,9 +28,7 @@ The card had come by courier on a Monday night, in the client's own hand. That h
 
 *Please ask him about the Carpathia.*
 
-The Carpathia was the ship that picked up the survivors of the Titanic, in April of 1912. In eighteen sessions he had never said a word about it to me, and I had the transcripts to prove it. When I read him the card he sat for forty seconds without moving, which I know because I counted. Then he said he had never told a living soul where he was in April of 1912. Then he said yes. He had been there.
-
-And then he told me to bring a warmer coat.
+The Carpathia was the ship that picked up the survivors of the Titanic, in April of 1912. In eighteen sessions he had never said a word about it to me, and I had the transcripts to prove it. When I read him the card he sat for forty seconds without moving, which I know because I counted. Then he said he had never told a living soul where he was in April of 1912. Then he said yes. He had been there. And before I could ask him anything else, he told me to come back next Thursday and bring a warmer coat, because it was very cold in the North Atlantic in April.
 
 * * *
 
@@ -38,7 +36,7 @@ Freda was at the kitchen table when I came back through, with her laptop open an
 
 She was sixteen. She had her father's height and, lately, a habit of looking up at me as if I had walked into the wrong room. She had started typing my transcripts that week. It had been her idea. Ever since the night I told her about the letter in the archive, she had been asking about him, and on Friday she had heard me complain that it took me three hours to type up every hour of tape, and she had said, without looking up from her phone, that she could do it in two, and that she would do it for fifteen dollars an hour, and that I should think about it. I had thought about it for about a minute. It was the best deal anyone had offered me in six years, and it kept her at the kitchen table on a Sunday night, where I could see her.
 
-She was doing last Thursday's tape. Her first one, the Carpathia tape. It was a short tape. He had said very little after I read him the card.
+She was doing last Thursday's tape, her first one. I had given it to her because it was the shortest tape of the winter: me reading the card, forty seconds of nothing, and a few minutes of him. But the client paid for every session to be typed, word for word, and I had a feeling this was the one he would read most closely of all.
 
 I put the kettle on and watched her. She typed fast and very straight, with her shoulders up around her ears. Every so often she stopped, and pressed one finger to the headphones, and went back a few seconds, and listened again.
 

@@ -90,7 +90,7 @@
   .pen { margin-left: .2em; padding: .15em .45em; font-size: .85em; color: var(--soft); opacity: .7; vertical-align: .05em; }
   .pen.has { opacity: 1; }
   .pen.has { color: var(--accent); }
-  .cmt { position: fixed; inset: auto 0 0 0; z-index: 12; background: var(--paper); border-top: 1px solid var(--rule);
+  .cmt { position: fixed; inset: auto 0 0 0; z-index: 60;  /* above the audio bar, so Save and Close are never hidden */ background: var(--paper); border-top: 1px solid var(--rule);
          padding: 16px 18px calc(env(safe-area-inset-bottom) + 16px); font-size: 16px; display: none;
          box-shadow: 0 -10px 30px rgba(0,0,0,.18); max-height: 75vh; overflow: auto; }
   .cmt.open { display: block; }
@@ -135,6 +135,10 @@
     padding: .6em 1em calc(.6em + env(safe-area-inset-bottom)); background: var(--paper); border-top: 1px solid var(--rule); color: var(--ink);
     font-size: .85em; z-index: 50; }
   #player.on { display: flex; }
+  body:has(#player.on) #main { padding-bottom: 5em; }  /* the last lines can scroll clear of the bar */
+  #pResume { position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom)); z-index: 50; display: none; padding: .55em 1.1em;
+    border-radius: 999px; background: var(--paper); border: 1px solid var(--rule); color: var(--ink); font-size: .85em; box-shadow: 0 4px 14px rgba(0,0,0,.18); }
+  #pResume.on { display: block; }
   #player button { font-size: 1.15em; min-width: 2.2em; }
   #player .t { color: var(--soft); font-variant-numeric: tabular-nums; min-width: 6.5em; white-space: nowrap; text-align: center; }
   .voices { margin: 1.2em auto 0; max-width: 22em; font-size: .8em; }
@@ -201,6 +205,7 @@ document.addEventListener("click", (e) => { if (!$("sheet").contains(e.target)) 
 
 // views
 function cover() {
+  resume.classList.remove("on");
   const saved = store.get("pos", null);
   const c = saved && CHAPTERS.find(x => x.num === saved.ch);
   main.innerHTML = `<section class="cover">
@@ -226,6 +231,7 @@ function shelf() {
     `<a href="${root + s.path}"${s.n === BOOK.number ? ' class="here"' : ""}><span class="n">Book ${s.n}</span><span>${s.title}</span></a>`).join("")}</div>`;
 }
 function toc() {
+  resume.classList.remove("on");
   main.innerHTML = `<section class="toc"><button class="tohome" id="toHome">&larr; Home &middot; all books</button><h2>${BOOK.title}</h2><ol>${CHAPTERS.map(c =>
     `<li><button data-ch="${c.num}"><span class="n">${c.extra ? "" : c.num}</span><span>${c.title}</span>${c.audio ? `<span class="hasaudio" title="Has audio">&#127911;</span>` : ""}${badge(c)}</button></li>`).join("")}</ol></section>`;
   $("toHome").onclick = () => cover();
@@ -288,6 +294,12 @@ player.id = "player";
 player.innerHTML = `<button id="pBack" aria-label="Back 15 seconds">&#8634;</button><button id="pPlay" aria-label="Play or pause">&#10074;&#10074;</button>
   <button id="pFwd" aria-label="Forward 15 seconds">&#8635;</button><span class="t" id="pTime"></span><button id="pStop" aria-label="Stop">&#10005;</button>`;
 document.body.appendChild(player);
+// After the bar is closed, a small button brings it back where you were, so you don't have to scroll up to Listen.
+const resume = document.createElement("button");
+resume.id = "pResume";
+resume.innerHTML = "&#9654;&#xFE0E;&nbsp; Listen";
+document.body.appendChild(resume);
+let hookC = null, hookNext = null;
 const audio = new Audio();
 audio.preload = "auto";
 let aCh = null, aMarks = [], aNext = null, aFollow = true, lastPara = -1;
@@ -296,6 +308,8 @@ function paraEls() { return [...main.querySelectorAll(".chapter > p:not(.end)")]
 function listenHook(c, next) {
   if (aCh !== c.num && !audio.paused) audio.pause();
   if (aCh !== c.num) { player.classList.remove("on"); lastPara = -1; }
+  hookC = c.audio ? c : null; hookNext = next;
+  resume.classList.toggle("on", !!hookC && !player.classList.contains("on") && aCh === c.num);
   const b = $("listenBtn");
   if (b) b.onclick = () => startListen(c, next);
   if (aCh === c.num) aNext = next;
@@ -311,6 +325,7 @@ async function startListen(c, next, fromStart) {
   }
   aFollow = true;
   player.classList.add("on");
+  resume.classList.remove("on");
   audio.play();
 }
 audio.addEventListener("play", () => $("pPlay").innerHTML = "&#10074;&#10074;");
@@ -341,7 +356,9 @@ audio.addEventListener("ended", () => {
 $("pPlay").onclick = () => audio.paused ? (aFollow = true, audio.play()) : audio.pause();
 $("pBack").onclick = () => audio.currentTime = Math.max(0, audio.currentTime - 15);
 $("pFwd").onclick = () => audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 15);
-$("pStop").onclick = () => { audio.pause(); player.classList.remove("on"); paraEls().forEach(p => p.classList.remove("reading")); lastPara = -1; };
+$("pStop").onclick = () => { audio.pause(); player.classList.remove("on"); paraEls().forEach(p => p.classList.remove("reading")); lastPara = -1;
+  if (hookC) resume.classList.add("on"); };
+resume.onclick = () => { if (hookC) startListen(hookC, hookNext); };
 // scrolling by hand stops the page from following until play is pressed again
 window.addEventListener("touchmove", () => { if (!audio.paused) aFollow = false; }, { passive: true });
 window.addEventListener("wheel", () => { if (!audio.paused) aFollow = false; }, { passive: true });
