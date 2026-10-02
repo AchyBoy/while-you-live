@@ -74,7 +74,7 @@ I gave him nothing to see. I carried the trays and ran the messages and took the
 
 The one thing I could not do was sleep.
 
-The body was tired. It went to sleep the moment it lay down, every night, like a stone dropped down a well. But I did not go with it. I lay in the dark in the bunk under Stan's, with the engines going through the hull and the other boys breathing, and I was wide awake inside a sleeping child, the way you are wide awake in a strange house.
+The body could. It was tired every night, the way a working boy is tired, and it would have gone down the moment it lay in the bunk, like a stone dropped down a well. But my mind would not go down with it, and so neither did the boy. I lay in the dark in the bunk under Stan's, with the engines going through the hull and the other boys breathing, wide awake, the way you are wide awake in a strange house.
 
 An old man's sleep, in a boy's body. It happens. It passes, after a few weeks, when the mind settles into the body and they agree on things. Until then, you get up.
 
@@ -114,11 +114,11 @@ That is what I keep coming back to. That's all it was.
 
 * * *
 
-We came into New York in the first days of April, and lay at the Cunard pier on the North River for some days, and took on coal and stores and passengers for the run back east.
+We came into New York at the start of April. I couldn't tell you the day; one day in port was like the next, at the Cunard pier on the North River, taking on coal and stores and passengers for the run back east.
 
 I saw the city from the boat deck. I had seen it before, in another life, and it had grown since, upward, as it always does. Bertie Pike had seen it a dozen times and found it ordinary, and his body didn't even turn to look. I stood at the rail with a broom I was supposed to be using and looked until Lyle shouted.
 
-On Thursday, the eleventh of April, we sailed.
+I can tell you the day we sailed. Everyone who was aboard her can. Thursday, the eleventh of April.
 
 You have to picture that pier, that morning. Piles of trunks with labels on them for Gibraltar and Genoa and Naples and Trieste and Fiume. The first-class passengers coming up the gangway in good coats, Americans mostly, going to see the Old World, with guidebooks under their arms and their maids behind them. The families in third class, going home to Hungary and Croatia and the mountains behind Fiume, with everything they owned in bundles and baskets, and children asleep on top of the bundles. A band, somewhere, playing something cheerful and out of tune.
 

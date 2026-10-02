@@ -100,13 +100,13 @@ I had been going back and forth like that for twenty weeks. I wrote it down, as 
 
 Freda came out at eleven for a glass of water. She had her headphones around her neck, the new white ones, and her laptop under her arm, and she put it down on the table across from me and opened it.
 
-"I finished this morning's," she said. "You can check it. I left in the ums."
+"I finished this morning's," she said. "You can check it."
 
-"He said you would."
+She turned the laptop toward me, then didn't let go of it. "I left the ums in. And where he stops and starts again. Was I supposed to take those out? You never have them in yours."
 
-"He said what?"
+"Leave them in," I said.
 
-"That you'd leave things in. That I should read what you type, because I'd learn things I missed." I took the laptop. "He said you had a good ear."
+I took the laptop. "He said you had a good ear."
 
 Freda looked at the table. She did a thing with her mouth, a small pressed thing, that she had done since she was very small whenever someone praised her and she did not want them to see it land.
 
@@ -124,7 +124,7 @@ I looked at her. She was standing very straight, with the glass in her hand, and
 
 "Sometimes you find out," I said. "Usually much later. Usually when you'd stopped expecting to."
 
-Freda nodded, as if that were an answer to something, and put the glass in the sink, and said good night, and went. The door to her room closed. It didn't slam. I sat with her transcript open in front of me, all his ums and stops and starts left in, just as he had said, and read it through to the end, and learned that he had said *I don't know* nine times in a single morning, which I had not noticed sitting in the chair.
+Freda nodded, as if that were an answer to something, and put the glass in the sink, and said good night, and went. The door to her room closed. It didn't slam. I sat with her transcript open in front of me, all his ums and stops and starts left in, just as he had said, and read it through to the end, and learned that he had said *I don't know* five times in a single morning, which I had not noticed sitting in the chair.
 
 * * *
 

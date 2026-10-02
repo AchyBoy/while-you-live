@@ -130,7 +130,7 @@ It was nothing, I decided. A sharp young woman who had just lived through the wo
 
 I told myself that, and I believed it, and I put her away.
 
-That was the second time in my long life I had done that, Ms. Barnett. I had done it once before, in a hotel dining room in Washington, to a waiter in a white jacket.
+That was not the first time in my long life I had done that, Ms. Barnett. The last time had been in a hotel dining room in Washington, to a waiter in a white jacket.
 
 * * *
 

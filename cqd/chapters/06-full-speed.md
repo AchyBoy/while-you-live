@@ -26,7 +26,7 @@ I want to tell you what Rostron did in the next hour, Ms. Barnett, because I wat
 
 He did not hurry. That was the first thing. The ship was hurrying, every inch of her, but he did not. He stood in the chart room in his uniform with his cap on, and the officers came to him one at a time, and he gave each of them a list. He gave the lists quietly, and he did not say anything twice, and he did not leave anything out. I stood in the doorway and ran wherever I was sent, and every time I came back there was another officer at the table and another list.
 
-The doctors. The ship carried three, because of the emigrant trade: an Englishman, an Italian and a Hungarian. One saloon each. The English doctor in the first-class dining room, the Italian in the second, the Hungarian in the third, each with blankets and brandy and hot water and whatever he needed, so that anyone brought up out of the cold would find a doctor who spoke their language, or near it.
+Here is what he ordered, Ms. Barnett, an hour and more before we saw a single boat, before we knew whether there would be anyone left to save. The doctors first. The ship carried three, because of the emigrant trade: an Englishman, an Italian and a Hungarian. One saloon each. The English doctor in the first-class dining room, the Italian in the second, the Hungarian in the third, each with blankets and brandy and hot water and whatever he needed, so that anyone brought up out of the cold would find a doctor who spoke their language, or near it.
 
 The purser, the assistant purser and the chief steward at the gangways, to take the names of everyone who came aboard. Every name. He said that twice, actually. It was the only thing I ever heard him say twice. *Every name.*
 
@@ -40,7 +40,7 @@ I remember thinking, as I stood in that doorway, that he had thought of everythi
 
 And when he had finished giving the orders, and the officers had gone, he did a thing I didn't expect. He stood for a moment alone at the chart table, with his hand raised to the peak of his cap, and his eyes open, and his lips moving.
 
-He was praying. I don't think he knew anyone saw. I have seen men pray before a battle, and before a hanging, and on their deathbeds, and I don't think I have ever seen it done so plainly, by a man who so plainly had no time for it, and did it anyway.
+He was praying. I don't think he knew anyone saw. I have seen men pray before a battle, and before a hanging, and on their deathbeds, and I don't think I have ever seen it done so plainly, by a man who so plainly had no time for it, and did it anyway. I understood it later. He had done everything a man could do, in ten minutes, and he knew it wasn't going to be enough. Fifty-eight miles of black water and ice lay between us and them, in a slow old ship. Whatever was going to get us there in time, it wasn't anything he could put on a list. So he asked for it.
 
 Then he put his hand down and went up to the bridge.
 
@@ -94,11 +94,11 @@ At about half past two Lyle sent me down to the engine room with a can of coffee
 
 I have tried, since, to tell people what that was like, and I can't. The stokehold of a ship in 1912 was a kind of hell anyway, a long low room of furnaces and coal dust and heat, with men stripped to the waist feeding the fires by hand. That night it was something else. Every stoker on the ship was down there, the watch that should have been sleeping as well as the watch on duty. The furnace doors were open and shutting and open, open and shutting, so fast it was like a light flickering. The men were shoveling as if the coal had done them a personal injury, with the sweat running down their faces through the black, and nobody spoke, because there was no breath to speak with. The noise was a wall.
 
-And the ship was shaking. Down there you could feel all of it, every turn of the screws, the whole of her straining, as if she knew. The chief engineer was standing by the gauges watching the needles, and I saw his face, and I understood that they were past where they should have been, and that he was letting them stay there.
+And the ship was shaking. Down there you could feel all of it, every turn of the screws, the whole of her straining, as if she knew. The captain had ordered the heat and the hot water shut off all over the ship, every radiator and every tap, so that every ounce of steam went to the engines, and the stokehold was the only warm place left aboard her. The chief engineer was standing by the gauges watching the needles. A stoker came up to him, black to the eyes, and shouted something I couldn't hear, and pointed at a gauge. The chief shouted back, close to his ear, and that I did hear. "I know where it is. Leave it there." Then he turned to the whole roaring room. "There's a ship going down up ahead, and people in her. Give her everything she's got." Nobody answered him. They shoveled faster.
 
 I gave the coffee to the nearest man. He drank it without stopping, and gave me back the can, and went on shoveling.
 
-She had been built to make fourteen knots. People who were there have argued for a hundred years about what she made that night, and I won't argue with them. I'll only tell you I was in her stokehold, and she had never gone like that before, and I don't believe she ever did again.
+She had been built to make fourteen knots. People who were there have argued for a hundred years about what she made that night, and I won't argue with them. I hadn't been aboard her long enough to know what she could do. The stokers had. The man I gave the coffee to said it afterward, at the foot of the ladder, with the sweat still running through the black: she had never gone like that in her life. I don't believe she ever did again.
 
 * * *
 

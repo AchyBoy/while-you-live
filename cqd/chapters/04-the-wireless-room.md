@@ -152,6 +152,6 @@ What I don't know is whether he would still have been sitting there, with his he
 
 I don't know. I have never known. I never will.
 
-I had done a great many things in a great many lives on purpose, and some of them had worked and most of them had not. That night I did nothing on purpose at all. I brought him cocoa because I couldn't sleep.
+I had done a great many things in a great many lives on purpose, and some of them had worked and most of them had not. In those ten minutes I did nothing on purpose at all. I brought him cocoa because I couldn't sleep.
 
 And I have never been sure, in all the years since, whether it was the most important thing I have ever done, or nothing.
