@@ -36,9 +36,9 @@ Freda was at the kitchen table when I came back through, with her laptop open an
 
 She was sixteen. She had her father's height and, lately, a habit of looking up at me as if I had walked into the wrong room. She had started typing my transcripts that week. It had been her idea. Ever since the night I told her about the letter in the archive, she had been asking about him, and on Friday she had heard me complain that it took me three hours to type up every hour of tape, and she had said, without looking up from her phone, that she could do it in two, and that she would do it for fifteen dollars an hour, and that I should think about it. I had thought about it for about a minute. It was the best deal anyone had offered me in six years, and it kept her at the kitchen table on a Sunday night, where I could see her.
 
-She was doing last Thursday's tape, her first one. I had given it to her because it was the shortest tape of the winter: me reading the card, forty seconds of nothing, and a few minutes of him. But the client paid for every session to be typed, word for word, and I had a feeling this was the one he would read most closely of all.
+She was doing last Thursday's tape, her first one. It was the shortest tape of the winter, a few minutes long: me reading the card, then forty seconds of nothing, then a few sentences from him. The words would have taken her about a minute to type. She had been at it for an hour anyway.
 
-I put the kettle on and watched her. She typed fast and very straight, with her shoulders up around her ears. Every so often she stopped, and pressed one finger to the headphones, and went back a few seconds, and listened again.
+I put the kettle on and watched her. She wasn't typing. She sat with her shoulders up around her ears and one finger pressed to the headphones, and every so often she went back, and listened to the same forty seconds again.
 
 They were new, the headphones. I noticed it the way you notice a new picture on a friend's wall. Big and white and soft at the ears, the kind that closed out the world. The old ones had been a pair of my earbuds with one side that only worked if you held the wire at an angle.
 
