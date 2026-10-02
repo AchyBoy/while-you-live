@@ -144,7 +144,7 @@ Then he sent me away, quite gently, and went back to his writing.
 
 I stood in the door of the smoking room for a moment with the empty tray, and looked back at him, a thin man in a brown suit, in the corner by the dark window, bent over a notebook, writing very small, among all those sleeping people.
 
-I've thought about that picture a great deal, since. I thought about it the next night, more than I wanted to.
+I've thought about that picture a great deal, since. I thought about it two nights later, more than I wanted to.
 
 * * *
 
@@ -152,4 +152,4 @@ I've thought about that picture a great deal, since. I thought about it the next
 
 He put his cup down.
 
-"He had about twenty-six hours left," he said. "I didn't know that either."
+"He had two more days," he said. "I didn't know that either."
