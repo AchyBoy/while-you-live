@@ -86,7 +86,7 @@ I read his testimony from the beginning. He had a plain way of talking, short se
 
 I read it twice. Then I sat back in the kitchen chair.
 
-*I have thought about those ten minutes for a hundred and fifteen years.*
+*I have thought about those ten minutes for nearly a hundred and fifteen years.*
 
 There it was, the boots, the headphones, the ten minutes, in black and white, in a public record, under oath. Cottam had testified too, the same week, and so had others. Most of what he had told me that morning that could be checked at all, I could check right here, in one evening, at my own kitchen table.
 

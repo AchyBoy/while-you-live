@@ -66,7 +66,7 @@ It took me a moment. Then I had it, and I felt it go through me like cold water.
 
 "He had a computer," I said. "An old one. A big beige thing, on the desk, with a scanner. He scanned everything. Every document, before he copied it. I saw it the one time I was there. I never even thought about it." I put my hand flat on the table. "It wasn't in the report because it wasn't there. And I always thought, of course it wasn't there, he took it with him. Like the boxes."
 
-"It's the likeliest thing for the second trip," he said. "A computer and a scanner, down three flights, would be heavy and awkward and would want two men. It's a guess, Ms. Barnett. It's a good guess, and it wants checking. Petrakis may remember whether it was there on the Friday. The movers may have listed it." He looked at the page again. "But if it was the computer, then think what went down those stairs. Every copy, every scan, every piece of paper that could prove a word of your story. And she says the light step was his. If she's right, he carried it down himself, and left his cat behind a closed door, and his family's photographs on the wall."
+"It's the likeliest thing for the second trip," he said. "A computer and a scanner, down those stairs, would be heavy and awkward and would want two men. It's a guess, Ms. Barnett. It's a good guess, and it wants checking. Petrakis may remember whether it was there on the Friday. The movers may have listed it." He looked at the page again. "But if it was the computer, then think what went down those stairs. Every copy, every scan, every piece of paper that could prove a word of your story. And she says the light step was his. If she's right, he carried it down himself, and left his cat behind a closed door, and his family's photographs on the wall."
 
 "He thought they were helping him," I said.
 
@@ -98,7 +98,7 @@ I looked. I knew those lines as well as I knew my own name.
 
 "People leave engines running."
 
-"They do. In an alley, in the middle of the morning, with nobody in the car, while they go up three flights of stairs and stay twelve minutes, and leave a car full of the only proof of a story the whole city is talking about, unlocked, with the engine running, in an alley." He let that sit. "Some people. Perhaps."
+"They do. In an alley, in the middle of the morning, with nobody in the car, while they go back up the stairs and stay twelve minutes, and leave a car full of the only proof of a story the whole city is talking about, unlocked, with the engine running, in an alley." He let that sit. "Some people. Perhaps."
 
 "Or somebody was sitting in it."
 
@@ -106,7 +106,7 @@ I looked. I knew those lines as well as I knew my own name.
 
 "Two men got in," I said slowly. "And the one who drove was already in it."
 
-"That's one way to hear it." He shook his head. "Two doors could be two people. They could be one man shutting a door that didn't catch the first time. Three people could shut three doors so close together that she wrote down two. The doors don't give us a number, Ms. Barnett. Nor does the engine. What they give us is a question. Was somebody waiting in that car while they went back up?" He took his finger off the page. "It's a reason to ask, that's all."
+"That's one way to hear it." He shook his head. "Two doors could be two people. They could be one man shutting a door that didn't catch the first time. Three people could shut three doors so close together that she wrote down two. The doors don't give us a number, Ms. Barnett. Nor does the engine. What they give us is a question. Was somebody waiting in that car while they went back up?" He took his finger off the page.
 
 I wrote it down. *Knock: 3, then 2. Signal? Or knocked twice. Half an hour, laughing: at ease, so probably somebody he knew. Two heavy trips: boxes, then the computer? Check Petrakis, movers. Engine running 27 min, 2 doors.* And under it: *Somebody waiting in the car? Two people, or three?*
 

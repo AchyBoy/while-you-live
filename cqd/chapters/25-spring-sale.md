@@ -140,6 +140,12 @@ And under it, because there might have been three of them, and Tom had made me s
 
 Freda read it upside down from the passenger seat. She'd been reading over my shoulder since she was four.
 
+"Shouldn't you tell the police?"
+
+"With what?" I said. "A notebook, a laugh off a phone, and a photograph from a party. They'd put it in the file next to Mrs. Dunleavy's two phone calls, the ones nobody returned. Or somebody would ring him up and ask him about it, politely, and then he'd know exactly who was asking, and how little they had." I put the notebook in my bag. "When I go to them, I want to bring them something they can't file."
+
+Freda thought about that.
+
 "Are you going to go see him?" she said. "The teacher?"
 
 "Not yet."

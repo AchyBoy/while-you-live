@@ -22,11 +22,11 @@ He stared at me.
 
 "Down, I should think," he said. "If he was going down." He frowned. "What sort of question is that?"
 
-"Only, sir, I thought I saw one going up. On the fifth step. Before the lady slipped on it."
+"Only, sir, I thought I saw one going up. On the fifth step, in the blood, before the lady slipped on it. With a notch out of the heel." I made myself say the rest. "And there's a gentleman's shoe in B-52, sir, with a notch just like it. And something brown in the notch. If somebody looked before it's cleaned..."
 
 He looked at me for a long moment. Then something happened in his face that I had seen happen in a great many faces, in a great many lives, when a person of no account says something that would be a great deal of trouble if it were true. He decided it wasn't.
 
-"You thought you saw," he said. "In the fog. At one in the morning. Where you had no business being." He bent down a little, so his face was level with mine. "Listen to me, boy. A man fell down a flight of stairs in the fog, and the doctor's seen him, and it's written in the log, and there's an end of it. We've got seven hundred people on this ship who've lost everything, and a captain who hasn't slept since Sunday, and we'll be in New York tonight with half the world waiting on the pier. The last thing anybody needs is a bell boy with an imagination." He straightened up. "Now cut along before I tell Mr. Lyle where you were last night."
+"You thought you saw," he said. "In the fog. At one in the morning. Where you had no business being. And now you've been handling a first-class gentleman's shoes and making up stories about them." He bent down a little, so his face was level with mine. "Listen to me, boy. A man fell down a flight of stairs in the fog, and the doctor's seen him, and it's written in the log, and there's an end of it. We've got seven hundred people on this ship who've lost everything, and a captain who hasn't slept since Sunday, and we'll be in New York tonight with half the world waiting on the pier. The last thing anybody needs is a bell boy with an imagination." He straightened up. "Now cut along before I tell Mr. Lyle where you were last night."
 
 I cut along.
 

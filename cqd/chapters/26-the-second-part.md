@@ -102,9 +102,11 @@ He listened to all of it without moving. At the end he was quiet for a long time
 
 "Yes."
 
-"The man who taught him the trade. Who'd known him since he was a boy, very likely. Who he'd have trusted with anything." He shook his head, slowly. "Somebody you'd let choose where you lived, Ms. Barnett, when you were more frightened than you'd ever been."
+"The man who taught him the trade. Who'd known him since he was a boy, very likely. Who he'd have trusted with anything." He shook his head, slowly. "If anybody was finding him a place to live, that week, it would be somebody like that. Somebody you'd let choose for you, when you were more frightened than you'd ever been."
 
-"Yes."
+"If," I said.
+
+"If," he agreed.
 
 "And you haven't gone to see him."
 
@@ -150,11 +152,7 @@ I went down the steps. At the bottom I turned around, because I had nearly forgo
 
 He looked at me from the top of the steps, in his shirtsleeves, with the card in his hand, and the sun on him, and the empty frame on the mantel behind him through the open door, its glass polished clean, still waiting.
 
-"No," he said. "You won't need the coat for this one."
-
-He smiled.
-
-"It was summer," he said. "And everybody was lying."
+"No," he said. "You won't need the coat for this one." He smiled. "It was summer. And everybody was lying."
 
 ---
 

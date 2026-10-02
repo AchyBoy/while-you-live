@@ -54,9 +54,11 @@ I stood under the lamp with that shoe in my hand for a long time.
 
 I was sure. In that cupboard, at twenty to five in the morning, I was as sure as I have ever been of anything. Hatch's pocket and Hatch's knuckles and Hatch's pencil, and a half moon on the fifth step with a notch in it, and the shoe that made it, in my hand.
 
-And it was worth nothing. The half moon was gone. Wiped away. Nobody had seen it but me, and the man who made it, and a young woman who had made very sure no one else would. And the shoe, by itself, was a gentleman's shoe with a chipped heel and a speck of something brown in it. Being sure isn't proving. I had spent a great many lives learning the difference, and I could feel it that morning in that cupboard as plainly as the cold.
+It wasn't nothing. But it wasn't enough, and I knew exactly how far short it fell. The half moon was gone. Wiped away. Nobody had seen it but me, and the man who made it, and a young woman who had made very sure no one else would. And the shoe, by itself, was a gentleman's shoe with a chipped heel and a speck of something brown in it. Being sure isn't proving.
 
-I didn't clean it. That was all I could think to do. Fennimore would clean the rest of the rack at five and send them up, and the right shoe of B-52 would go up with the others, and I didn't want a brush or a cloth to touch that heel. So I took a rag and did the toes of both, quickly, the way Fennimore liked, and the uppers, and put a shine on them you could see your face in. And I left the heels alone. I put them back on the rack exactly where they'd been, with the chalk on the sole.
+I thought about taking it. Walking it up to the doctor, who had already written *a fall*, or to the purser, who had seven hundred names to take before New York. But a bell boy with a first-class gentleman's shoe in his hand at five in the morning is a boy who has stolen a shoe. Mr. Ainsley would miss it by six and know somebody had been looking. And by the time anyone who mattered looked into that notch, the brown in it would be whatever the gentleman said it was. Rust. Polish. The deck.
+
+So I did the one thing I could do that kept it where it was. I didn't clean it. Fennimore would clean the rest of the rack at five and send them up, and the right shoe of B-52 would go up with the others, and I didn't want a brush or a cloth to touch that heel. So I took a rag and did the toes of both, quickly, the way Fennimore liked, and the uppers, and put a shine on them you could see your face in. And I left the heels alone. I put them back on the rack exactly where they'd been, with the chalk on the sole.
 
 Then I put out the lamp, and went up, and at breakfast I saw Mr. Ainsley.
 

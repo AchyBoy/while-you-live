@@ -104,11 +104,11 @@ She was the worst. She was so full you could not see the wood of her sides, only
 
 She made it. The officer was the last man up. A tall, hard-looking man, soaked to the waist, who came up the ladder like a man climbing out of a grave, and stood on our deck, and turned, and looked back out at the ice for a long moment before he let them lead him away. I learned afterward he was the senior officer saved. The most senior one left alive.
 
-That was the end of it. Seven hundred and five people. Every boat accounted for, and some of them empty, and all the rest of them gone.
+That was the end of it. Seven hundred and five people had come up our ladders. Behind us the boats we had emptied lay on the water where we'd left them, and near them one more, damaged and half full of water, that had come to us with nobody in it at all. On the bridge the officers were still sweeping the sea with their glasses, among the ice, in case there was another boat out there that nobody had seen. Everyone else was gone.
 
-A little after that, another ship came up out of the north, through the ice. A steamer, smaller than us. She came slowly and stopped a way off, and her wireless and ours talked, and on our bridge the officers looked across at her with faces I did not understand then.
+Before we had quite finished, another ship came up through the ice. A steamer, smaller than us. She came slowly and stopped a way off, and her wireless and ours talked, and on our bridge the officers looked across at her with faces I did not understand then.
 
-She was the Californian. She had been there all night, near enough to see the Titanic's rockets. Her wireless man had gone to bed.
+She was the Californian. Later I read what the British inquiry made of her: that her officers had seen the Titanic's rockets in the night, and that her wireless man had gone to bed. Her captain disputed it for the rest of his life.
 
 I didn't know any of that, that morning. I only saw the officers' faces.
 

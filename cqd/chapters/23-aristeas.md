@@ -8,7 +8,7 @@ It was too warm for it, by then. The last week of April, and the trees along the
 
 He wasn't at the window.
 
-That was the first thing. In twenty-seven Thursdays he had always been at the window, and on the porch before I had the engine off. I sat in the car for a moment with my hand on the key, looking at the house, and the curtain didn't move.
+That was the first thing. On every earlier visit he had been at the window, and on the porch before I had the engine off. I sat in the car for a moment with my hand on the key, looking at the house, and the curtain didn't move.
 
 Then the door opened, and he came out.
 

@@ -38,11 +38,13 @@ It had been cold all evening. Now it was something else. The kind of cold that h
 
 Then I went along to the wireless cabin.
 
-The door was hooked open, and the light was on. He was sitting on the edge of his bunk with his jacket off and his collar off and one boot already unlaced, bent over, working at the laces of the other. He still had the headphones on. The wire ran from his head across the little room to the desk, as if the machine had him on a leash.
+The door was hooked open and the light was on, and the cabin was empty. The headphones hung on their hook over the desk. I stood in the doorway with the two mugs, one for him and one for me, and wondered whether for once he had gone to bed.
 
-"Bertie," he said, without looking up. "You're a saint. Put it on the desk."
+He came along the deck a minute later, from the direction of the bridge, with his coat on and the collar turned up. He had been up to report the day's messages to the officer of the watch, he said, Mr. Bisset, as he did before he turned in. He hung the coat on the back of the door and his collar after it, and sat down on the edge of his bunk, and put the headphones back on. Then he bent over and started on his boots. The wire ran from his head across the little room to the desk, as if the machine had him on a leash.
 
-I put it on the desk. I gave him the other mug, and he sat back against the wall of the cabin with his one boot off and the other half off and drank it, with his eyes closed.
+"Bertie," he said, without looking up. "You're a saint."
+
+I gave him his mug. He sat back against the wall of the cabin with one boot unlaced and the other not yet started, and drank, with his eyes closed.
 
 "I'm going to bed," he said. "As soon as this is gone. I'm waiting on the Parisian. I sent her something this afternoon and she's to confirm it, and then I'm going to bed, and nobody is to wake me until we're in Gibraltar."
 
@@ -80,7 +82,7 @@ He wrote very fast, on the pad, in capitals, and I stood in the door and watched
 
 And then a position, in numbers. Latitude and longitude.
 
-He sat and looked at it. He did not move for perhaps two seconds, and I will tell you that in all the lives I have lived I have seen a great many people receive bad news, and I have never seen it land on anyone as completely as it landed on Harold Cottam that night, sitting on the edge of his bunk with one boot off.
+He sat and looked at it. He did not move for perhaps two seconds, and I will tell you that in all the lives I have lived I have seen a great many people receive bad news, and I have never seen it land on anyone as completely as it landed on Harold Cottam that night, sitting on the edge of his bunk with one boot unlaced.
 
 Then his hand went to the key again, very fast.
 
@@ -142,7 +144,7 @@ I ran down the stairs I had polished that afternoon, and along the corridor on B
 
 She was turning. Under my feet, slowly, all thirteen thousand tons of her, she was leaning over into the turn, the way a big ship does when the helm is put hard across, and the long red carpet tilted under me, and the electric lights in their little glass shades swung out on their chains and stayed there, all of them, all down the corridor, leaning together toward the north.
 
-I have thought about those ten minutes for a hundred and fifteen years, Ms. Barnett.
+I have thought about those ten minutes for nearly a hundred and fifteen years, Ms. Barnett.
 
 I'll tell you what I know, and what I don't. I know Harold Cottam was going to bed. He told me so. I know he was waiting on the Parisian, and that he had the headphones on while he took his boots off, and that he was the one who decided to call the Titanic, out of kindness, to save two tired men some work. Those are his. Nobody gave them to him.
 
@@ -150,6 +152,6 @@ What I don't know is whether he would still have been sitting there, with his he
 
 I don't know. I have never known. I never will.
 
-I had done a great many things in a great many lives on purpose, and some of them had worked and most of them had not. That night I did nothing on purpose at all. I carried a cup of cocoa up a ladder because I couldn't sleep.
+I had done a great many things in a great many lives on purpose, and some of them had worked and most of them had not. That night I did nothing on purpose at all. I brought him cocoa because I couldn't sleep.
 
 And I have never been sure, in all the years since, whether it was the most important thing I have ever done, or nothing.

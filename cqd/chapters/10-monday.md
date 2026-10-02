@@ -26,7 +26,7 @@ So we turned our back on the Mediterranean, and on our own passengers' holidays,
 
 The wireless never stopped.
 
-I went up to the cabin twice that afternoon with tea, and both times Cottam was at the key, in the same shirt he had been wearing at midnight, with the same one boot unlaced, because he had never had time to lace it. He had not slept. He did not look as if he knew what sleep was. He was sending names.
+I went up to the cabin twice that afternoon with tea, and both times Cottam was at the key, in the same shirt he had been wearing at midnight. He had not slept. He did not look as if he knew what sleep was. He was sending names.
 
 That was the captain's order. Two messages had gone first, one to the Cunard company and one to the White Star company, and then a short one to the Associated Press that the captain wrote out himself. After that, names. Every survivor, every name, one by one, to the shore stations and to the ships within reach, so that somewhere in New York, or in London, or in a village in Ireland or Sweden or Lebanon, somebody could stop waiting. He was sending them as fast as his hand would go, and his hand was very tired, and there were seven hundred of them, and the purser's lists had been made in a hurry at a cold gangway door by men whose fingers were numb, and half the names were spelled wrong.
 
@@ -50,7 +50,7 @@ I thought, then, for the first time, that what Mr. Hatch was doing on that ship 
 
 At four o'clock they buried the dead.
 
-There were four. They had come up out of the boats that morning, and there had been nothing the doctors could do. One of them had been a passenger, a gentleman, pulled out of the water still alive in the night and died in the boat before dawn. The other three were Titanic's own crew. Two of them had names. One of them, nobody knew. Nobody in his boat had known him, and there was nothing in his pockets to tell.
+There were four. Some had been lifted up out of the boats that morning already dead, under blankets. One had come aboard alive, and died later that morning with a doctor beside him. One of the four had been a passenger, a gentleman, pulled out of the water still alive in the night, who died in the boat before dawn. The other three were Titanic's own crew. Two of them had names. One of them, nobody knew. Nobody in his boat had known him, and there was nothing in his pockets to tell.
 
 They sewed them into canvas, the way it's done at sea, with a weight at the feet. They laid them on planks at the rail on the after deck, under flags. The engines were stopped again, for the first time since dawn, and in the silence you could hear the wind and the water and the gulls that had found us somewhere in the afternoon.
 

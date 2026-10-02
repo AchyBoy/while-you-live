@@ -92,7 +92,7 @@ I wrote *sun, inauguration, March 1865, check* in my notebook. It was the kind o
 
 "I was there."
 
-I looked at him. He could not have been much past seventy-five. The inauguration he was describing had happened a hundred and sixty years ago.
+I looked at him. He could not have been much past seventy-five. The inauguration he was describing had happened more than a hundred and sixty years ago.
 
 He put the pencil down.
 

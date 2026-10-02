@@ -90,7 +90,7 @@ I thought of the man in the dining room of the National, bent over the headwaite
 
 *I have no name that would carry weight with you. I am one of those you spoke of.*
 
-I read the last line again. My eyes had filled, and I held the letter out over the table, away from me, until they cleared. It was a hundred and sixty years old, and I was not going to be the one who put a mark on it.
+I read the last line again. My eyes had filled, and I held the letter out over the table, away from me, until they cleared. It was more than a hundred and sixty years old, and I was not going to be the one who put a mark on it.
 
 I photographed it on my phone, front and back, with no flash, as the sign on the wall asked. Then I asked for a copy anyway, because I wanted one I could hold. The librarian looked at the letter for a long moment when I brought it to the desk, and at me, and did not say anything, and made the copy herself.
 

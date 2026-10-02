@@ -24,7 +24,7 @@ Most of the people on Tenth Street did not hear it. The drivers did not stir. I 
 
 For a moment nothing happened. Then small things happened, all along Tenth Street. A carriage horse threw up its head, and its driver did not wake. The boy at the corner stopped calling whatever he was selling and turned to look at the doors. My foot came down wrong, and the leg went, and I caught myself on the wheel of a hack and hung there. And inside, the laugh went on for a second longer than it should have. Then it broke off, raggedly, the way a laugh does when half the people laughing have stopped and the other half have not yet understood why. And then, in the silence after it, a woman screamed.
 
-I have heard that scream in my sleep for a hundred and sixty years.
+I have heard that scream in my sleep for more than a hundred and sixty years.
 
 * * *
 

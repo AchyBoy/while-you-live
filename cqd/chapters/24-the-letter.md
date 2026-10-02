@@ -48,7 +48,7 @@ He sat back.
 
 His eyes had filled. He didn't do anything about it. He sat on the bench on his porch in the April sun with the photocopy in front of him and let them, and looked out at the plowed field, and neither of us said anything for a long time.
 
-"He tried," he said at last. "The day before. He tried with everything he had, and he signed it with nothing, so it would only be about the President, and not about him." He shook his head slowly. "I guessed, once. On Seventh Street, that summer, I guessed what he'd been writing. But I never knew. A hundred and sixty years, Ms. Barnett. I never knew what he'd said."
+"He tried," he said at last. "The day before. He tried with everything he had, and he signed it with nothing, so it would only be about the President, and not about him." He shook his head slowly. "I guessed, once. On Seventh Street, that summer, I guessed what he'd been writing. But I never knew. More than a hundred and sixty years, Ms. Barnett. I never knew what he'd said."
 
 "I'm sorry I kept it from you."
 
@@ -74,7 +74,7 @@ Then, without looking down, he reached for the notepad on the bench beside him. 
 
 He looked from one to the other.
 
-The same five points. The same single line, never lifting. The same small letters crowded into the points, in the same order. One in pencil, gone over a thousand times by an old man's hand on a porch. One in brown ink, a hundred and sixty years old, in the margin of a letter to Abraham Lincoln, in the most beautiful hand on any bill of fare in Washington.
+The same five points. The same single line, never lifting. The same small letters crowded into the points, in the same order. One in pencil, gone over a thousand times by an old man's hand on a porch. One in brown ink, more than a hundred and sixty years old, in the margin of a letter to Abraham Lincoln, in the most beautiful hand on any bill of fare in Washington.
 
 "Thank you for bringing this," he said.
 

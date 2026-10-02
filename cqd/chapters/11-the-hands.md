@@ -8,9 +8,7 @@ Session twenty-two was the last Thursday in March. I had called Petrakis on the 
 
 *April 16, 1912*
 
-By Tuesday the ship's grief had settled into a routine, the way water settles into whatever holds it.
-
-There was a routine to it. That was the strange thing. People need one, even then. Breakfast was served in sittings, ours and theirs together, and the women from the boats came to the tables in borrowed clothes and sat with their hands in their laps and ate nothing, and then came back at the next sitting and ate a little. The children ran in the corridors, because children will. The ladies in the second-class saloon went on sewing their blanket coats. The doctors went from cabin to cabin. And all day long, along the rail on the boat deck, there were women standing, one or two at a time, looking out at the sea behind us. Not looking for anything. There was nothing to look for. Only looking.
+By Tuesday the ship's grief had settled into a routine. That was the strange thing. People needed one, even then. Breakfast was served in sittings, ours and theirs together, and the women from the boats came to the tables in borrowed clothes and sat with their hands in their laps and ate nothing, and then came back at the next sitting and ate a little. The children ran in the corridors, because children will. The ladies in the second-class saloon went on sewing their blanket coats. The doctors went from cabin to cabin. And all day long, along the rail on the boat deck, there were women standing, one or two at a time, looking out at the sea behind us. Not looking for anything. There was nothing to look for. Only looking.
 
 I worked. I think I could have gone on working for a week without sleeping, that week, and I nearly did. When you're a bell boy, the work comes to you. A lady wants a shawl from her cabin. A gentleman wants a message taken to the purser. The doctor wants hot water, the chief steward wants the boys to clear the library, a child has been lost on B deck and must be found. You run, and you run, and you carry, and nobody sees you, and you see everyone.
 
@@ -150,11 +148,11 @@ He was quiet for so long that I thought he wasn't going to answer. Then, very so
 
 "That's all, today."
 
-I found it that night. It wasn't hard. The oldest complete piece of music in the world, the websites said, carved on a marble column for a man's wife, somewhere around the first century, in a town that is now in Turkey. Dug up by a Scottish archaeologist in 1883, exactly as the young woman on the deck had said. There were recordings. I played one, very quietly, at the kitchen table, with Freda asleep down the hall, and it was the tune he had hummed.
+I found it that night. It wasn't hard. The oldest complete song in the world, the websites said, carved on a marble column for a man's wife, somewhere around the first century, in a town that is now in Turkey. Dug up by a Scottish archaeologist in 1883, exactly as the young woman on the deck had said. There were recordings. I played one, very quietly, at the kitchen table, with Freda asleep down the hall, and it was the tune he had hummed.
 
 *While you live, shine. Have no grief at all. Life exists only a short while, and time demands its due.*
 
-The first century. It was the oldest music anyone had. Then I went back to the transcript, and the place where he had said he'd known it longer than he'd known anything, and I found I didn't want to think about the arithmetic.
+The first century. It was the oldest complete song anyone had. Then I went back to the transcript, and the place where he had said he'd known it longer than he'd known anything, and I found I didn't want to think about the arithmetic.
 
 Freda typed that session the following Sunday. When she got to the humming, she stopped, and played it back, and played it again.
 

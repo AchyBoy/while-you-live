@@ -22,7 +22,7 @@ She didn't knock. She hadn't knocked on my door since she was nine. She stood in
 
 "I know."
 
-"And Mr. Ainsley had his whole family." She swallowed. "And everybody clapped."
+"And Mr. Ainsley had his whole family." She swallowed. "And everybody laughed."
 
 "I know, honey."
 

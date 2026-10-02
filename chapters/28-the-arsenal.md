@@ -8,7 +8,7 @@
 
 "Then you know what she's famous for. Being the first." He looked at the fire. "I want to tell you what she was to me. It isn't the same."
 
-It was the fifteenth visit. The payment for the last session had come on Monday, double again, with the same note, and I had stopped being surprised by it and started being uneasy. I had not said so to him. I thought he knew.
+It was the fifteenth visit. The payment for the last session had come on Monday, six thousand again, with the same note, and I had stopped being surprised by it and started being uneasy. I had not said so to him. I thought he knew.
 
 Before we started, because he asked, I told him the school business was dragging on. Mr. Ostrowski had called both girls in on Monday and laid the two write-ups side by side on his desk, and Freda said you could hardly tell them apart, they even had the same weird numbers in the tables, and then Freda had cried in the car, which she never did. He listened, and nodded, and asked whether the gutter people had paid yet.
 

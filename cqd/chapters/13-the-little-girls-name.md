@@ -106,7 +106,7 @@ I looked at the envelope in my hand. Then I looked at him.
 
 "Why?"
 
-"Because I'm not telling him," he said. "Not really." He folded his hands on the table. "Ms. Barnett, if I'm wrong about why he's asking, then it's a little girl's name, a hundred and fifteen years old, sealed in an envelope, and it goes to an old man who will read it once and put it in a drawer, and no harm in the world comes of it. And if I'm right about why he's asking..." He stopped.
+"Because I'm not telling him," he said. "Not really." He folded his hands on the table. "Ms. Barnett, if I'm wrong about why he's asking, then it's a little girl's name, nearly a hundred and fifteen years old, sealed in an envelope, and it goes to an old man who will read it once and put it in a drawer, and no harm in the world comes of it. And if I'm right about why he's asking..." He stopped.
 
 "Then what?"
 

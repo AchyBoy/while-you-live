@@ -18,9 +18,9 @@ There was a silence on the line, with an engine in it.
 
 "Yes."
 
-"Hang on," he said. And then, away from the phone, but not far enough: "Ma. *Ma.* It's about the guy upstairs. On Calloway. The quiet one."
+"Hang on," he said. "I'm two streets from the house. I take my break there." The engine note changed, and turned, and stopped. A truck door slammed, and there were steps, and a screen door, and then, away from the phone but not far enough: "Ma. *Ma.* It's about the guy upstairs. On Calloway. The quiet one."
 
-There was a pause. Then a different voice, older, sharper, coming from somewhere on the far side of a kitchen, louder than the engine.
+There was a pause. Then a different voice, older, sharper, coming from somewhere on the far side of a kitchen.
 
 "Give me that phone."
 

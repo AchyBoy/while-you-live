@@ -34,7 +34,7 @@ Every spare berth on the ship made up. Officers to give up their cabins. Hot cof
 
 Oil ready in the forward lavatories, to pour down the drains and calm the sea if the sea was rough. The boats swung out, in case we needed our own. And rockets, once we were near, every quarter of an hour, and the company's signals with them, so that anyone out there in the dark would know a ship was coming, and know whose.
 
-And the passengers. Our own passengers, seven hundred of them, asleep. They were to be kept in their cabins, and kept quiet, and kept out of the way. Stewards in every corridor. No alarm. No running. If a passenger asked what was happening, the passenger was to be told, politely, to go back to bed.
+And the passengers. Our own passengers, more than seven hundred of them, asleep. They were to be kept in their cabins, and kept quiet, and kept out of the way. Stewards in every corridor. No alarm. No running. If a passenger asked what was happening, the passenger was to be told, politely, to go back to bed.
 
 I remember thinking, as I stood in that doorway, that he had thought of everything, and that he had thought of it all in about ten minutes, in his nightshirt, before he even knew how bad it would be. I have planned battles with men who took a week to think of less.
 

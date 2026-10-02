@@ -122,13 +122,13 @@ I was going to ask him about the four days. I had the question ready. I had look
 
 But I was looking at the notepad.
 
-I had seen him draw on it every Thursday for nineteen weeks. The first day, I had even looked properly. I remembered thinking it was the kind of thing people do on the phone. One shape, over and over, gone over so many times that the lead shone. I had noticed it, and noted it, and then it had become part of him, like the cardigan buttoned wrong and the tea gone cold. I had stopped seeing it. You stop seeing anything you see every week.
+I had seen him draw on it at every session since October. The first day, I had even looked properly. I remembered thinking it was the kind of thing people do on the phone. One shape, over and over, gone over so many times that the lead shone. I had noticed it, and noted it, and then it had become part of him, like the cardigan buttoned wrong and the tea gone cold. I had stopped seeing it. You stop seeing anything you see every week.
 
 A five-pointed star, drawn in one long line, without the pencil ever leaving the paper. And in each of the five points, a tiny letter, crowded in. Greek, I had thought, that first day. Or something like it.
 
 I had seen that star somewhere else.
 
-I had seen it ten days ago, in the reading room of the Madison Building, under a lamp, in the left margin of a letter a hundred and sixty years old. Small, beside the last line, drawn in the same brown ink as everything else, as if the pen had moved there by itself while the writer was thinking. A star, the kind you draw without lifting the pen, crowded with some foreign letters. I had looked at it and thought it was vaguely familiar, the way a lot of things are, and I had not given it a second thought. I had been too busy reading the letter.
+I had seen it ten days ago, in the reading room of the Madison Building, under a lamp, in the left margin of a letter more than a hundred and sixty years old. Small, beside the last line, drawn in the same brown ink as everything else, as if the pen had moved there by itself while the writer was thinking. A star, the kind you draw without lifting the pen, crowded with some foreign letters. I had looked at it and thought it was vaguely familiar, the way a lot of things are, and I had not given it a second thought. I had been too busy reading the letter.
 
 *I am one of those you spoke of.*
 
