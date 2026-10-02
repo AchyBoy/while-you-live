@@ -26,9 +26,9 @@ Shoes.
 
 * * *
 
-You'll have forgotten this, or you never knew it. In those days a gentleman traveling first class didn't clean his own shoes. Nobody would have expected him to. At night, before he went to bed, he put them outside his cabin door, in the passage, and in the morning they were back, polished, with his cabin number chalked on the sole. Somebody had come along the passage in the small hours and taken them away and cleaned them and brought them back. On the Carpathia that was the boots, an old steward called Fennimore, and on a busy crossing he had a bell boy to help him, and that week, with seven hundred extra people on board, he had two. I was one.
+You'll have forgotten this, or you never knew it. In those days a gentleman traveling first class didn't clean his own shoes. Nobody would have expected him to. At night, before he went to bed, he put them outside his cabin door, in the passage, and in the morning they were back, polished, with his cabin number chalked on the sole. Somebody had come along the passage in the small hours and taken them away and cleaned them and brought them back. On the Carpathia that was the boots, an old steward called Fennimore. On a busy crossing he had a bell boy to fetch and carry for him, taking the cleaned shoes back up in the morning, and that week, with seven hundred extra people on board, he had two. I was one. The blacking he did himself. Nobody touched Fennimore's brushes but Fennimore.
 
-I'd been doing it for three weeks. I didn't think about it any more than you think about brushing your teeth.
+I'd been carrying shoes for three weeks. I didn't think about it any more than you think about brushing your teeth.
 
 Mr. Ainsley had been given a cabin on B deck, by one of our own first-class gentlemen who had moved in with his brother. I knew which one. I knew every cabin on that deck, by then, and who was in it.
 

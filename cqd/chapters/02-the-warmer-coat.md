@@ -28,7 +28,7 @@ The house was warm, and smelled of woodsmoke and wet wool and something baking. 
 
 He asked it every Thursday, and every Thursday I had given him the short answer, because I was being paid to listen and not to talk. This Thursday I sat in the firmer armchair, the one Tom said didn't eat people, and gave him the long answer.
 
-I told him about the transcript from the sixth week, and the line I had put my pencil on. The woman on the second floor. I told him that I had called Petrakis, and that Petrakis had called her a name I would not write down, and then given me her real one. Eileen Dunleavy. A widow, whose husband had driven a bus. Thirty years in that building. Gone to her son's, out near Frederick.
+I told him about the transcript from the second week, and the line I had put my pencil on. The woman on the second floor. I told him that I had called Petrakis, and that Petrakis had complained about her for five minutes before he would give me her first name. Eileen Dunleavy. A widow, whose husband had driven a bus. Thirty years in that building. Gone to her son's, out near Frederick.
 
 "Frederick," he said. "You drove past it this morning."
 

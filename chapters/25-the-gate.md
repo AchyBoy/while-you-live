@@ -34,7 +34,7 @@ Ours had been searched on Sunday morning. I learned that on the porch, from my m
 
 I never did.
 
-She did not ask me anything else. She had her own grief that week, and it was not the President. The schoolmaster's letter about Ned had come to her first, before she sent it on to me, and she had read it on the porch and folded it up and put it in her apron pocket with the others. I could see the corner of it. She had not taken it out since.
+She did not ask me anything else. She had her own grief that week, and it was not the President. The schoolmaster's letter about Ned had come to her first, and she had read it on the porch and copied it out in her own hand before she sent it on to me. The copy was in her apron pocket with the others. I could see the corner of it. She had not taken it out since.
 
 * * *
 

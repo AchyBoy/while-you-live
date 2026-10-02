@@ -84,7 +84,7 @@ Freda typed for a moment.
 
 That night, after she had gone to bed, I sat at the kitchen table with the coat on the back of my chair and did what I had been putting off all week.
 
-I opened the transcript from the sixth week. Not the Lincoln parts. The lunch.
+I opened the transcript from the second week. Not the Lincoln parts. The lunch.
 
 It was the day he had made the soup, back in the fall, and asked me about myself, and I had told him the whole Carrow House story, badly and out of order. I had typed it up that night the same as everything else, because the client wanted all of it. I had never read it back. I did not like reading my own voice telling that story. It sounded like every crank who had ever called a newsroom.
 
@@ -134,7 +134,7 @@ There was a pause. Then Petrakis laughed, a short, unhappy bark.
 
 "Why do you want Mrs. Dunleavy?"
 
-I thought about how to answer that. Petrakis had been kind to me, in the fall, in his way. He had remembered the cat's name for me after six years, when I could not.
+I thought about how to answer that. Petrakis had been kind to me, in January, in his way. He had remembered the cat's name for me after six years, when I could not.
 
 "Because she lived right under him," I said. "And I think she heard everything."
 

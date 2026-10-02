@@ -40,7 +40,7 @@ It went on for some time. The ship's whistle went, outside, muffled, through the
 
 I didn't answer.
 
-"You smelled of blacking at breakfast," she said. "I was at the second sitting. You poured the coffee at the first-class tables and then you came through ours with the cream. Your hands smelled of blacking, and you had it in the creases of your knuckles, and on your cuff. You don't do the boots. You do the bags and the messages and the tea. The boots is an old man with a limp called Fennimore." She tilted her head. "You went to look at somebody's shoes."
+"You smelled of blacking at breakfast," she said. "I was at the second sitting. You poured the coffee at the first-class tables and then you came through ours with the cream. Your hands smelled of blacking, and you had it in the creases of your knuckles, and on your cuff. You carry shoes for the boots in the mornings, I know. I've seen you. But you don't black them. Nobody touches the blacking but the boots himself, an old man with a limp called Fennimore. Half the ship has heard him say so." She tilted her head. "You went to look at somebody's shoes."
 
 "Yes, miss," I said.
 
