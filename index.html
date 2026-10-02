@@ -176,7 +176,7 @@
   <button class="later" id="staleLater">Later</button>
 </div></div>
 <script>
-const BUILD = 1790966362378;
+const BUILD = 1790966523111;
 const AUDIO_V = "audio v3";
 const ROUND = 1790884750982;  // only paragraphs changed at or after this build are boxed
 const BOOK = {"series": "While You Live", "title": "Sic Semper", "number": 1, "author": "Andrew F. Young"};
@@ -348,8 +348,16 @@ audio.addEventListener("timeupdate", () => {
   if (!aFollow && Date.now() - touchedAt > 6000) aFollow = true;
   if (aFollow) {
     const r = p.getBoundingClientRect(), vh = window.visualViewport ? visualViewport.height : innerHeight;
-    const bottom = vh - (player.classList.contains("on") ? player.offsetHeight : 0) - 12;   // the audio bar covers the bottom
-    if (r.top < 70 || r.bottom > bottom) window.scrollTo(0, window.scrollY + r.top - vh * 0.25);
+    const bottom = vh - (player.classList.contains("on") ? player.offsetHeight : 0) - 16;   // the audio bar covers the bottom
+    if (r.bottom < 70 || r.top > bottom) {
+      window.scrollTo(0, window.scrollY + r.top - vh * 0.3);              // lost entirely (a jump, a new chapter): bring it back
+    } else {
+      // Only nudge: keep the line being read (estimated from how far through the paragraph the audio is) just above the bar.
+      const next = i + 1 < aMarks.length ? aMarks[i + 1] : (audio.duration || t);
+      const frac = Math.min(1, Math.max(0, (t - aMarks[i]) / Math.max(0.1, next - aMarks[i])));
+      const y = r.top + frac * r.height + 32;
+      if (y > bottom) window.scrollBy({ top: Math.min(y - bottom, r.top - 70), behavior: "smooth" });
+    }
   }
 });
 audio.addEventListener("ended", () => {
