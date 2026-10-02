@@ -43,6 +43,13 @@
   .cover .begin { margin-top: 1.2em; padding: .5em 1.6em; border: 1px solid var(--ink); border-radius: 999px; font-size: .9em; }
   .cover .resume { margin-top: .8em; font-size: .8em; color: var(--soft); text-decoration: underline; }
 
+  .shelf { margin-top: 2.2em; width: 100%; max-width: 320px; }
+  .shelf .lbl { letter-spacing: .25em; text-transform: uppercase; font-size: .62em; color: var(--soft); margin-bottom: .6em; }
+  .shelf a { display: flex; gap: 12px; align-items: baseline; padding: 10px 4px; border-top: 1px solid var(--rule); color: var(--ink); text-decoration: none; text-align: left; }
+  .shelf a .n { color: var(--soft); font-size: .8em; min-width: 3.6em; }
+  .shelf a.here { color: var(--soft); pointer-events: none; }
+  .shelf a.here::after { content: "reading"; margin-left: auto; font-size: .7em; }
+  .toc .tohome { margin-top: 1.2em; font-size: .8em; color: var(--soft); text-decoration: underline; }
   .toc h2 { font-weight: 500; text-align: center; margin: 2em 0 1em; }
   .toc ol { list-style: none; padding: 0; margin: 0; }
   .toc li button { display: flex; width: 100%; gap: 14px; padding: 14px 4px; border-bottom: 1px solid var(--rule); text-align: left; }
@@ -204,15 +211,24 @@ function cover() {
     <button class="begin" id="begin">${c ? "Continue reading" : "Begin"}</button>
     <button class="resume" id="toc">Contents</button>
     ${coverFixes()}
+    ${shelf()}
   </section>`;
   $("where").textContent = "";
   $("begin").onclick = () => go(c ? c.num : CHAPTERS[0].num, c ? saved.y : 0);
   $("toc").onclick = () => toc();
   main.querySelectorAll(".fixes [data-ch]").forEach(b => b.onclick = () => go(Number(b.dataset.ch), 0));
 }
+// Every book in the series, so the cover doubles as the home screen: pick a book. Book 1 is the site root, Book 2 lives in cqd/.
+const SERIES = [{ n: 1, title: "Sic Semper", path: "" }, { n: 2, title: "CQD", path: "cqd/" }];
+function shelf() {
+  const root = BOOK.number === 1 ? "./" : "../";
+  return `<div class="shelf"><div class="lbl">The books</div>${SERIES.map(s =>
+    `<a href="${root + s.path}"${s.n === BOOK.number ? ' class="here"' : ""}><span class="n">Book ${s.n}</span><span>${s.title}</span></a>`).join("")}</div>`;
+}
 function toc() {
-  main.innerHTML = `<section class="toc"><h2>${BOOK.title}</h2><ol>${CHAPTERS.map(c =>
+  main.innerHTML = `<section class="toc"><button class="tohome" id="toHome">&larr; Home &middot; all books</button><h2>${BOOK.title}</h2><ol>${CHAPTERS.map(c =>
     `<li><button data-ch="${c.num}"><span class="n">${c.extra ? "" : c.num}</span><span>${c.title}</span>${c.audio ? `<span class="hasaudio" title="Has audio">&#127911;</span>` : ""}${badge(c)}</button></li>`).join("")}</ol></section>`;
+  $("toHome").onclick = () => cover();
   main.querySelectorAll("[data-ch]").forEach(b => b.onclick = () => go(Number(b.dataset.ch), 0));
   $("where").textContent = "Contents";
   history.replaceState(null, "", "#contents");
@@ -242,6 +258,7 @@ function go(num, y) {
   onScroll();
 }
 $("homeBtn").onclick = () => toc();
+$("where").onclick = () => cover();  // the chapter name in the bar goes home, to the cover and its book picker
 // Tom's voice audition (author only, chapter 2): tap a number to hear a 4-second line.
 const VOICES = ["Onyx", "Onyx, slower", "Eric", "Adam", "Liam", "Echo", "Fenrir", "Puck", "Onyx + Michael", "Onyx + Eric",
   "George (British)", "Lewis (British)", "Daniel (British)", "Fable (British)", "Michael (current)",
