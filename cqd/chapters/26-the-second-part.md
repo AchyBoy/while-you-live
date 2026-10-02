@@ -138,7 +138,15 @@ He laughed. He laughed until he had to hold onto the rail, there on the bench in
 
 He didn't go in, that day. Neither did I. We did the whole of session twenty-eight on the porch, the recorders on the little table between us, with the field going green in front of us and the birds back at the feeder, and he didn't tell me about New York. Not yet. He said he wanted to think about where to start. He said there were people in it he hadn't thought about properly in a very long time, and he wanted to do them justice.
 
-So instead he told me about the boy on the pier. About Bertie. What happened to him after the bag and the street door and the rain, which he had said was another Thursday, and which turned out to be this one. I'm not going to put it here. It isn't part of this story. I'll tell you only that he made the best of it, as he said he would, and that it took him a very long time, and that somewhere in Bootle, in a box of family papers, there are letters to a mother in a careful boy's hand that never once mention the Carpathia.
+So instead he told me about the boy on the pier. About Bertie. What happened to him after the bag and the street door and the rain, which he had said was another Thursday, and which turned out to be this one.
+
+Bertie had his wages, less a fine, and a canvas bag, and no character, and he had the two shillings for Stan. He also had an envelope he hadn't known about. Evans had pushed it into his hand at the crew gangway that morning, without a word, and gone back up the plank before Lyle could see. Inside was a note in Evans's square chapel handwriting, addressed to a widow in Brooklyn who kept a clean house for seamen and sang in a Welsh choir. *This boy is honest,* it said. *I would stake my place on it.* That was all. It was the only character Bertie Pike ever had from that ship, and it was worth more than the one he'd lost.
+
+The widow took him in. By June he was carrying bags in a hotel in Manhattan, in a uniform with even more buttons, and sending most of his wages home every month to the two rooms off the Stanley Road. He wrote one other letter that first week, to a woman in Ohio, care of the magazine Hatch had written for. He told her that her brother had been kind to a bell boy nobody else spoke to, and had been writing down what people told him because he thought somebody ought to, and that the last thing he had said to Bertie was *good boy.* He didn't tell her anything else. She wrote back. He kept her letter. It's in the box upstairs, he said, with the obituary.
+
+He went home the next spring, in steerage, on a ticket he'd paid for himself, and his mother met him at the landing stage with Agnes on her hip, over the croup. The letters he'd sent her all that year talked about the hotel, and the weather, and the price of boots. They never once mentioned the Carpathia. She believed to the end of her life that he'd left the Cunard Company for better money, and he let her.
+
+"That's what I meant," he said. "By the best of it."
 
 At three he said that was enough. He stood up, slowly, with his hand on the rail, and picked up the cardigan, and the card from the bench, and held them both.
 

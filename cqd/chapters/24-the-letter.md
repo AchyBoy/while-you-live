@@ -86,7 +86,7 @@ That was all. His voice was perfectly level.
 
 "Yes."
 
-"I saw it in February. In the reading room. I thought it looked familiar, and I didn't know why, and I didn't think about it again. And then in March, the day you told me you were twelve, I looked at your notepad, and I knew." I made myself say the next thing. "Did Kit draw it? Did you? On his letter, somehow? Before it went?"
+I made myself say the next thing. "Did Kit draw it? Did you? On his letter, somehow? Before it went?"
 
 "No," he said. "I never saw this letter. I didn't know it existed until two minutes ago. You know that. You've just watched me find out."
 

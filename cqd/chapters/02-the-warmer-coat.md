@@ -26,7 +26,7 @@ The house was warm, and smelled of woodsmoke and wet wool and something baking. 
 
 "Saturday." He put the tea things on the tray. "The grandchildren didn't want it. I bought two loaves. I'll put one in the freezer and feel sorry for myself in June." He carried the tray through to the living room. "You'll have to tell me how your week was. Before we start."
 
-He asked it every Thursday, and every Thursday I had given him the short answer, because I was being paid to listen and not to talk. This Thursday I sat down in the chair that did not eat people and gave him the long one.
+He asked it every Thursday, and every Thursday I had given him the short answer, because I was being paid to listen and not to talk. This Thursday I sat in the firmer armchair, the one Tom said didn't eat people, and gave him the long answer.
 
 I told him about the transcript from the sixth week, and the line I had put my pencil on. The woman on the second floor. I told him that I had called Petrakis, and that Petrakis had called her a name I would not write down, and then given me her real one. Eileen Dunleavy. A widow, whose husband had driven a bus. Thirty years in that building. Gone to her son's, out near Frederick.
 

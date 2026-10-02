@@ -128,7 +128,7 @@ He laughed, softly.
 
 He thought about it, seriously, the way he thought about everything Freda asked.
 
-"Not on the tape," he said. "Not in the transcript, and not in the book, if there is a book. Not to your client." He paused. "But here. On the porch. When it's just us." He looked at me. "Yes. I think I'd like that."
+"Not on the tape," he said. "Not in the transcript. Not to your client." He paused. "But here. On the porch. When it's just us." He looked at me. "Yes. I think I'd like that."
 
 "Ari," I said.
 
