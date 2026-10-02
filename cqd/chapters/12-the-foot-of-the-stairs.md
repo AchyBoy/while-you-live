@@ -106,7 +106,7 @@ His right hand, the one flung out toward the wall. The knuckles were skinned. Al
 
 His pencil. It was on the third step from the top, lying across the tread. Not at the bottom with him. At the top.
 
-And on the fifth step, near the wall side, on the wet teak, there was a mark. Half a mark. The back of a shoe, where the heel had come down hard on the wet wood. A neat, sharp-edged, curved half-moon, the kind a hard leather heel makes, going up. Not down. Up.
+And on the fifth step, near the wall side, on the wet teak, there was a mark. Half a mark. The back of a shoe, where the heel had come down hard on the wet wood. A neat, sharp-edged, curved half-moon, the kind a hard leather heel makes, with one small square notch out of the curve of it, on the inside edge, where a nail had worked loose or a bit of the leather had chipped. Going up. Not down. Up.
 
 I knelt there, beside him, with the whistle going, and I put it together, as you put together a thing you already know. A man at the top of the stairs, in the fog, at night, with his notebook buttoned in his pocket. Somebody with him. A hat knocked off on the top step before any of the fog had got into it. A fist thrown. A pencil dropped. A fall. And then somebody coming quickly down after him, kneeling where I was kneeling now, unbuttoning a dead man's pocket. And going back up, fast, on hard heels, one of them coming down on a wet step and leaving half a moon.
 
