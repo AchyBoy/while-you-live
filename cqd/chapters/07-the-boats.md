@@ -104,7 +104,7 @@ She was the worst. She was so full you could not see the wood of her sides, only
 
 She made it. The officer was the last man up. A tall, hard-looking man, soaked to the waist, who came up the ladder like a man climbing out of a grave, and stood on our deck, and turned, and looked back out at the ice for a long moment before he let them lead him away. I learned afterward he was the senior officer saved. The most senior one left alive.
 
-That was the end of it. Seven hundred and five people had come up our ladders. Behind us the boats we had emptied lay on the water where we'd left them, and near them one more, damaged and half full of water, that had come to us with nobody in it at all. On the bridge the officers were still sweeping the sea with their glasses, among the ice, in case there was another boat out there that nobody had seen. Everyone else was gone.
+That was the end of it. Seven hundred and five people had come up our ladders. Behind us the boats we had emptied lay on the water where we'd left them, and nearby lay another, damaged and abandoned, with nobody in it. On the bridge the officers were still sweeping the sea with their glasses, among the ice, in case there was another boat out there that nobody had seen.
 
 Before we had quite finished, another ship came up through the ice. A steamer, smaller than us. She came slowly and stopped a way off, and her wireless and ours talked, and on our bridge the officers looked across at her with faces I did not understand then.
 

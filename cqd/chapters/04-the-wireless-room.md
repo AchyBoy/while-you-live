@@ -40,7 +40,7 @@ Then I went along to the wireless cabin.
 
 The door was hooked open and the light was on, and the cabin was empty. The headphones hung on their hook over the desk. I stood in the doorway with the two mugs, one for him and one for me, and wondered whether for once he had gone to bed.
 
-He came along the deck a minute later, from the direction of the bridge, with his coat on and the collar turned up. He had been up to report the day's messages to the officer of the watch, he said, Mr. Bisset, as he did before he turned in. He hung the coat on the back of the door and his collar after it, and sat down on the edge of his bunk, and put the headphones back on. Then he bent over and started on his boots. The wire ran from his head across the little room to the desk, as if the machine had him on a leash.
+He came along the deck a minute later, from the direction of the bridge, with his coat on and the collar turned up. He had been up to report the day's messages to the officer of the watch, he said, Mr. Bisset, as he did before he turned in. He took off his coat and collar, hung them on the back of the door, and sat on the edge of his bunk with the headphones on. Then he bent over and started on his boots. The wire ran from his head across the little room to the desk, as if the machine had him on a leash.
 
 "Bertie," he said, without looking up. "You're a saint."
 
@@ -62,7 +62,7 @@ That's all. I didn't know anything. I was a boy who couldn't sleep, holding a mu
 
 He laughed. He liked the question, as I knew he would.
 
-"Bigger," he said. "She's the biggest thing ever put on water. Phillips and Bride are on her. Jack Phillips. He's the senior man. They've been working that set flat out since Southampton, poor devils, every millionaire on board wanting to send a telegram to his mother." He drank his cocoa and looked at the desk, at the pile of forms from Cape Cod, all addressed to the same ship. "You know what, Bertie. I'll tell her. She can't hear Cape Cod, but she can hear me. We've been passing the time of day with her on and off since this afternoon, just keeping in touch. I'll tell them there's a pile waiting for them at Cape Cod, so they can have it sent on and not wonder why their passengers' answers never came." He set the mug down and leaned across to the desk, his one boot still on, the laces trailing. "Do a fellow operator a good turn."
+"Bigger," he said. "She's the biggest thing ever put on water. Phillips and Bride are on her. Jack Phillips. He's the senior man. They've been working that set flat out since Southampton, poor devils, every millionaire on board wanting to send a telegram to his mother." He drank his cocoa and looked at the desk, at the pile of forms from Cape Cod, all addressed to the same ship. "You know what, Bertie. I'll tell her. She can't hear Cape Cod, but she can hear me. We've been passing the time of day with her on and off since this afternoon, just keeping in touch. I'll tell them there's a pile waiting for them at Cape Cod, so they can have it sent on and not wonder why their passengers' answers never came." He set the mug down and leaned across to the desk, the loosened laces trailing from one boot. "Do a fellow operator a good turn."
 
 He put his hand on the key.
 
