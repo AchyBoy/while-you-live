@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#f6f1e7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16140f" media="(prefers-color-scheme: dark)">
+<title>While You Live</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f6f1e7; --ink: #2a251d; --soft: #7a6f5d; --rule: #d9cfbc; --accent: #8a2b1d;
+    --size: 20px;
+  }
+  :root[data-theme="dark"] { --paper: #16140f; --ink: #e6dfd0; --soft: #9a907e; --rule: #3a342a; --accent: #d4826f; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --paper: #16140f; --ink: #e6dfd0; --soft: #9a907e; --rule: #3a342a; --accent: #d4826f; }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--paper); color: var(--ink); }
+  body { font-family: "EB Garamond", Georgia, "Times New Roman", serif; font-size: var(--size); line-height: 1.6;
+         -webkit-text-size-adjust: 100%; }
+  button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0; }
+
+  .bar { position: sticky; top: 0; z-index: 5; display: flex; align-items: center; justify-content: space-between;
+         gap: 8px; padding: calc(env(safe-area-inset-top) + 10px) 16px 10px; background: var(--paper);
+         border-bottom: 1px solid var(--rule); font-size: 15px; color: var(--soft); transition: transform .25s; }
+  .bar.hide { transform: translateY(-100%); }
+  .bar .where { flex: 1; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar button { padding: 6px 8px; border-radius: 6px; font-size: 15px; }
+  .bar button:active { background: var(--rule); }
+
+  main { max-width: 34em; margin: 0 auto; padding: 0 22px calc(env(safe-area-inset-bottom) + 40px); }
+
+  .cover { min-height: 88vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .cover .series { letter-spacing: .3em; text-transform: uppercase; font-size: .7em; color: var(--soft); }
+  .cover h1 { font-weight: 500; font-size: 2.6em; margin: .4em 0 .1em; letter-spacing: .02em; }
+  .cover .book { font-style: italic; color: var(--soft); }
+  .cover .star { color: var(--accent); font-size: 1.4em; margin: 1.4em 0; }
+  .cover .begin { margin-top: 1.2em; padding: .5em 1.6em; border: 1px solid var(--ink); border-radius: 999px; font-size: .9em; }
+  .cover .resume { margin-top: .8em; font-size: .8em; color: var(--soft); text-decoration: underline; }
+
+  .toc h2 { font-weight: 500; text-align: center; margin: 2em 0 1em; }
+  .toc ol { list-style: none; padding: 0; margin: 0; }
+  .toc li button { display: flex; width: 100%; gap: 14px; padding: 14px 4px; border-bottom: 1px solid var(--rule); text-align: left; }
+  .toc .n { color: var(--soft); min-width: 2em; }
+
+  .chapter header { text-align: center; margin: 2.2em 0 1.8em; }
+  .chapter .num { letter-spacing: .3em; text-transform: uppercase; font-size: .7em; color: var(--soft); }
+  .chapter h2 { font-weight: 500; font-size: 1.6em; margin: .3em 0 0; }
+  .chapter p { margin: 0; text-indent: 1.4em; hyphens: auto; -webkit-hyphens: auto; }
+  .chapter header + p, .chapter p.break + p { text-indent: 0; }
+  .chapter header + p { display: flow-root; }
+  .chapter header + p::first-letter { float: left; font-size: 3.4em; line-height: .85; padding: .06em .08em 0 0; color: var(--accent); }
+  .chapter.extra p { text-indent: 0; margin: 0 0 .9em; }
+  .chapter a { color: var(--accent); font-size: .8em; white-space: nowrap; }
+  .chapter p.break { text-align: center; text-indent: 0; margin: 1em 0; color: var(--soft); }
+  /* Ari's testimony: set as a transcript, a rule down the left */
+  .chapter p.tape { border-left: 2px solid var(--rule); padding-left: .9em; margin-left: .1em; }
+  .chapter p.break.tape { margin: 0; padding: 1em 0 1em .9em; }
+  .chapter p.tape-head { text-indent: 0; padding-top: .2em; padding-bottom: .5em; font-variant: small-caps; letter-spacing: .06em; color: var(--accent); }
+  .chapter p.tape-head em { font-style: normal; }
+  .chapter p.tape-head::before { content: "\25CF\00a0 Recording \00b7\00a0"; font-size: .75em; letter-spacing: .12em; text-transform: uppercase; color: var(--soft); vertical-align: .1em; }
+  .chapter p.tape-head + p { text-indent: 0; }
+
+  .nav { display: flex; justify-content: space-between; gap: 12px; margin: 3em 0 1em; padding-top: 1.2em; border-top: 1px solid var(--rule); font-size: .85em; }
+  .nav button { max-width: 48%; text-align: left; }
+  .nav button.next { text-align: right; margin-left: auto; }
+  .nav small { display: block; color: var(--soft); font-size: .8em; }
+  .end { text-align: center; color: var(--soft); font-style: italic; margin: 3em 0 1em; }
+
+  .progress { position: fixed; left: 0; bottom: 0; height: 3px; background: var(--accent); width: 0; z-index: 6; }
+  .sheet { position: fixed; inset: auto 0 0 0; z-index: 10; background: var(--paper); border-top: 1px solid var(--rule);
+           padding: 18px 22px calc(env(safe-area-inset-bottom) + 18px); font-size: 16px; display: none; box-shadow: 0 -10px 30px rgba(0,0,0,.15); }
+  .sheet.open { display: block; }
+  .sheet .row { display: flex; align-items: center; justify-content: space-between; margin: 10px 0; }
+  .sheet .seg { display: flex; border: 1px solid var(--rule); border-radius: 8px; overflow: hidden; }
+  .sheet .seg button { padding: 8px 14px; }
+  .sheet .seg button.on { background: var(--ink); color: var(--paper); }
+  .pen { margin-left: .2em; padding: .15em .45em; font-size: .85em; color: var(--soft); opacity: .7; vertical-align: .05em; }
+  .pen.has { opacity: 1; }
+  .pen.has { color: var(--accent); }
+  .cmt { position: fixed; inset: auto 0 0 0; z-index: 12; background: var(--paper); border-top: 1px solid var(--rule);
+         padding: 16px 18px calc(env(safe-area-inset-bottom) + 16px); font-size: 16px; display: none;
+         box-shadow: 0 -10px 30px rgba(0,0,0,.18); max-height: 75vh; overflow: auto; }
+  .cmt.open { display: block; }
+  .cmt .quote { color: var(--soft); font-style: italic; margin-bottom: 10px; }
+  .cmt .old { border-left: 3px solid var(--accent); padding: 4px 10px; margin: 8px 0; display: flex; gap: 10px; justify-content: space-between; }
+  .cmt .old button { color: var(--soft); }
+  .cmt textarea { width: 100%; min-height: 90px; font: inherit; font-size: 16px; color: var(--ink); background: transparent;
+                  border: 1px solid var(--rule); border-radius: 8px; padding: 10px; }
+  .cmt .acts { display: flex; justify-content: space-between; align-items: center; margin-top: 10px; }
+  .cmt .save { padding: 8px 20px; border-radius: 999px; background: var(--ink); color: var(--paper); }
+  .cmt .status { color: var(--soft); font-size: 14px; }
+
+  /* fixed since you last looked (pencil readers only) */
+  :root { --fix: #2f8a4f; --fixbg: rgba(47,138,79,.09); }
+  :root[data-theme="dark"] { --fix: #5cc47f; --fixbg: rgba(92,196,127,.10); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --fix: #5cc47f; --fixbg: rgba(92,196,127,.10); } }
+  .chapter p.fixed { outline: 2px solid var(--fix); outline-offset: 5px; border-radius: 3px; background: var(--fixbg); margin: 14px 0; }
+  .tag { display: inline-block; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; font-family: -apple-system, system-ui, sans-serif;
+         font-weight: 600; padding: 2px 7px; border-radius: 999px; color: #fff; background: var(--fix); vertical-align: .2em; text-indent: 0; }
+  .tag.new { background: var(--accent); }
+  .chapter p.fixed > .tag { margin-right: .5em; }
+  .toc .tag { margin-left: auto; align-self: center; }
+  .fixbar { border: 2px solid var(--fix); background: var(--fixbg); border-radius: 10px; padding: 10px 14px; margin: 0 0 1.6em;
+            font-size: 16px; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; }
+  .fixbar b { flex: 1 1 100%; font-weight: 600; color: var(--fix); }
+  .fixbar button { padding: 5px 12px; border-radius: 999px; border: 1px solid var(--fix); color: var(--fix); }
+  .fixbar button.done { background: var(--fix); color: #fff; }
+  .cover .fixes { margin-top: 1.6em; font-size: .75em; }
+  .cover .fixes button { color: var(--fix); text-decoration: underline; margin: 0 .3em; }
+
+  /* this page is out of date */
+  .stale { position: fixed; inset: 0; z-index: 50; background: rgba(0,0,0,.6); display: none; align-items: center; justify-content: center; padding: 24px; }
+  .stale.open { display: flex; }
+  .stale .box { background: var(--paper); border: 3px solid #c0392b; border-radius: 14px; padding: 24px 22px; max-width: 26em; text-align: center;
+                font-size: 17px; box-shadow: 0 20px 60px rgba(0,0,0,.4); }
+  .stale h3 { margin: 0 0 .4em; font-size: 1.4em; color: #c0392b; }
+  .stale .go { margin-top: 16px; width: 100%; padding: 14px; border-radius: 999px; background: #c0392b; color: #fff; font-size: 18px; font-weight: 600; }
+  .stale .later { margin-top: 12px; color: var(--soft); font-size: 14px; text-decoration: underline; }
+  .listen { margin-top: 1em; padding: .35em 1.2em; border: 1px solid var(--soft); border-radius: 999px; font-size: .8em; color: var(--soft); }
+  .chapter p.reading { background: color-mix(in srgb, var(--accent) 9%, transparent); border-radius: 3px; box-shadow: 0 0 0 5px color-mix(in srgb, var(--accent) 9%, transparent); }
+  #player { position: fixed; left: 0; right: 0; bottom: 0; display: none; align-items: center; justify-content: center; gap: 1.2em;
+    padding: .6em 1em calc(.6em + env(safe-area-inset-bottom)); background: var(--paper); border-top: 1px solid var(--rule); color: var(--ink);
+    font-size: .85em; z-index: 50; }
+  #player.on { display: flex; }
+  #player button { font-size: 1.15em; min-width: 2.2em; }
+  #player .t { color: var(--soft); font-variant-numeric: tabular-nums; min-width: 6.5em; white-space: nowrap; text-align: center; }
+  .voices { margin: 1.2em auto 0; max-width: 22em; font-size: .8em; }
+  .voices .vt, .voices .vn { color: var(--soft); margin: .3em 0; }
+  .voices button { width: 2.4em; height: 2.4em; margin: .2em; border: 1px solid var(--rule); border-radius: 50%; color: var(--ink); }
+  .voices button.on { border-color: var(--accent); color: var(--accent); }
+  .hasaudio { margin-left: auto; padding-left: .6em; font-size: .85em; opacity: .75; }
+  .hasaudio + .tag { margin-left: .5em; }
+</style>
+</head>
+<body>
+<div class="bar" id="bar">
+  <button id="homeBtn" aria-label="Contents">Contents</button>
+  <div class="where" id="where"></div>
+  <button id="aaBtn" aria-label="Text settings">Aa</button>
+</div>
+<main id="main"></main>
+<div class="progress" id="progress"></div>
+<div class="sheet" id="sheet">
+  <div class="row"><span>Text size</span>
+    <div class="seg"><button data-size="-1">A&minus;</button><button data-size="1">A+</button></div></div>
+  <div class="row"><span>Page</span>
+    <div class="seg" id="themeSeg"><button data-theme="auto">Auto</button><button data-theme="light">Light</button><button data-theme="dark">Dark</button></div></div>
+</div>
+<div class="cmt" id="cmt">
+  <div class="quote" id="cmtQuote"></div>
+  <div id="cmtOld"></div>
+  <textarea id="cmtText" placeholder="Your note on this paragraph"></textarea>
+  <div class="acts"><button id="cmtClose">Close</button><span class="status" id="cmtStatus"></span><button class="save" id="cmtSave">Save</button></div>
+</div>
+<div class="stale" id="stale"><div class="box">
+  <h3>This page is out of date</h3>
+  <div>A newer version of the book is up. Reload before you read or leave notes, or you'll be marking things that are already fixed.</div>
+  <button class="go" id="staleGo">Reload now</button>
+  <button class="later" id="staleLater">Later</button>
+</div></div>
+<script>
+const BUILD = /*BUILD*/0;
+const AUDIO_V = "/*AUDIOV*/";
+const ROUND = /*ROUND*/0;  // only paragraphs changed at or after this build are boxed
+const BOOK = /*BOOK*/null;
+const CHAPTERS = /*CHAPTERS*/[];
+const $ = (id) => document.getElementById(id);
+const main = $("main");
+const store = {
+  get(k, d) { try { const v = localStorage.getItem("wyl2." + k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem("wyl2." + k, JSON.stringify(v)); } catch {} },
+};
+
+// settings
+function applySize() { document.documentElement.style.setProperty("--size", store.get("size", 20) + "px"); }
+function applyTheme() {
+  const t = store.get("theme", "auto");
+  if (t === "auto") document.documentElement.removeAttribute("data-theme"); else document.documentElement.dataset.theme = t;
+  document.querySelectorAll("#themeSeg button").forEach(b => b.classList.toggle("on", b.dataset.theme === t));
+}
+applySize(); applyTheme();
+document.querySelectorAll("[data-size]").forEach(b => b.onclick = () => {
+  store.set("size", Math.min(28, Math.max(15, store.get("size", 20) + Number(b.dataset.size)))); applySize();
+});
+document.querySelectorAll("[data-theme]").forEach(b => b.onclick = () => { store.set("theme", b.dataset.theme); applyTheme(); });
+$("aaBtn").onclick = (e) => { e.stopPropagation(); $("sheet").classList.toggle("open"); };
+document.addEventListener("click", (e) => { if (!$("sheet").contains(e.target)) $("sheet").classList.remove("open"); });
+
+// views
+function cover() {
+  const saved = store.get("pos", null);
+  const c = saved && CHAPTERS.find(x => x.num === saved.ch);
+  main.innerHTML = `<section class="cover">
+    <div class="series">${BOOK.series} &middot; Book ${BOOK.number}</div>
+    <h1>${BOOK.title}</h1>
+    <div class="book">by ${BOOK.author}</div>
+    <div class="star">&#10043;</div>
+    <button class="begin" id="begin">${c ? "Continue reading" : "Begin"}</button>
+    <button class="resume" id="toc">Contents</button>
+    ${coverFixes()}
+  </section>`;
+  $("where").textContent = "";
+  $("begin").onclick = () => go(c ? c.num : CHAPTERS[0].num, c ? saved.y : 0);
+  $("toc").onclick = () => toc();
+  main.querySelectorAll(".fixes [data-ch]").forEach(b => b.onclick = () => go(Number(b.dataset.ch), 0));
+}
+function toc() {
+  main.innerHTML = `<section class="toc"><h2>${BOOK.title}</h2><ol>${CHAPTERS.map(c =>
+    `<li><button data-ch="${c.num}"><span class="n">${c.extra ? "" : c.num}</span><span>${c.title}</span>${c.audio ? `<span class="hasaudio" title="Has audio">&#127911;</span>` : ""}${badge(c)}</button></li>`).join("")}</ol></section>`;
+  main.querySelectorAll("[data-ch]").forEach(b => b.onclick = () => go(Number(b.dataset.ch), 0));
+  $("where").textContent = "Contents";
+  history.replaceState(null, "", "#contents");
+  window.scrollTo(0, 0);
+}
+function go(num, y) {
+  const i = CHAPTERS.findIndex(c => c.num === num);
+  if (i < 0) return cover();
+  const c = CHAPTERS[i], prev = CHAPTERS[i - 1], next = CHAPTERS[i + 1];
+  main.innerHTML = `<article class="chapter${c.extra ? " extra" : ""}">
+    <header><div class="num">${c.extra ? "" : "Chapter " + c.num}</div><h2>${c.title}</h2>${c.audio ? `<button class="listen" id="listenBtn">&#9654;&#xFE0E;&nbsp; Listen</button>` : ""}</header>
+    <div id="fixbarSlot"></div>
+    ${c.html}
+    ${next ? "" : `<p class="end">More chapters to come.</p>`}
+    <nav class="nav">
+      ${prev ? `<button data-go="${prev.num}"><small>Previous</small>${prev.title}</button>` : ""}
+      ${next ? `<button class="next" data-go="${next.num}"><small>Next</small>${next.title}</button>` : ""}
+    </nav></article>`;
+  main.querySelectorAll("[data-go]").forEach(b => b.onclick = () => go(Number(b.dataset.go), 0));
+  addPens(c.num);
+  markFixes(c);
+  listenHook(c, next);
+  $("where").textContent = c.extra ? c.title : `${c.num}. ${c.title}`;
+  history.replaceState(null, "", "#ch" + c.num);
+  store.set("pos", { ch: c.num, y: y || 0 });
+  requestAnimationFrame(() => window.scrollTo(0, (y || 0) * (document.body.scrollHeight - innerHeight)));
+  onScroll();
+}
+$("homeBtn").onclick = () => toc();
+// Tom's voice audition (author only, chapter 2): tap a number to hear a 4-second line.
+const VOICES = ["Onyx", "Onyx, slower", "Eric", "Adam", "Liam", "Echo", "Fenrir", "Puck", "Onyx + Michael", "Onyx + Eric",
+  "George (British)", "Lewis (British)", "Daniel (British)", "Fable (British)", "Michael (current)",
+  "Lewis, American", "9 + Lewis, American", "Lewis + Onyx, American, slower",
+  "NEW model: its own voice", "NEW model: in 9's voice", "NEW model: 9's voice, calmer", "TURBO new model: 9's voice", "IOLA on the new model", "IOLA now (for comparison)"];
+const vClip = new Audio();
+function voicePicker(c) {
+  return;  // the voice audition was Book 1 only
+  const box = document.createElement("div");
+  box.className = "voices";
+  box.innerHTML = `<div class="vt">Tom's voice: tap to hear</div>` + VOICES.map((v, i) =>
+    `<button data-v="${i + 1}" title="${v}">${i + 1}</button>`).join("") + `<div class="vn" id="vName">&nbsp;</div>`;
+  main.querySelector(".chapter header").appendChild(box);
+  box.querySelectorAll("[data-v]").forEach(b => b.onclick = () => {
+    box.querySelectorAll("[data-v]").forEach(x => x.classList.remove("on"));
+    b.classList.add("on");
+    $("vName").textContent = `${b.dataset.v}. ${VOICES[b.dataset.v - 1]}`;
+    vClip.src = `audio/samples/tom/s${b.dataset.v}.mp3`;
+    vClip.play();
+  });
+}
+
+// Narration: one mp3 per chapter (audio/chNN.mp3) + audio/chNN.json, the start time of each paragraph.
+// The paragraph being read is highlighted and kept on screen; at the end it carries on into the next chapter.
+const player = document.createElement("div");
+player.id = "player";
+player.innerHTML = `<button id="pBack" aria-label="Back 15 seconds">&#8634;</button><button id="pPlay" aria-label="Play or pause">&#10074;&#10074;</button>
+  <button id="pFwd" aria-label="Forward 15 seconds">&#8635;</button><span class="t" id="pTime"></span><button id="pStop" aria-label="Stop">&#10005;</button>`;
+document.body.appendChild(player);
+const audio = new Audio();
+audio.preload = "auto";
+let aCh = null, aMarks = [], aNext = null, aFollow = true, lastPara = -1;
+const fmtT = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`;
+function paraEls() { return [...main.querySelectorAll(".chapter > p:not(.end)")]; }
+function listenHook(c, next) {
+  if (aCh !== c.num && !audio.paused) audio.pause();
+  if (aCh !== c.num) { player.classList.remove("on"); lastPara = -1; }
+  const b = $("listenBtn");
+  if (b) b.onclick = () => startListen(c, next);
+  if (aCh === c.num) aNext = next;
+}
+async function startListen(c, next, fromStart) {
+  if (aCh !== c.num) {
+    aCh = c.num; aNext = next; lastPara = -1;
+    const nn = String(c.num).padStart(2, "0");
+    try { aMarks = (await (await fetch(`audio/ch${nn}.json?v=${BUILD}`)).json()).paras; } catch (e) { aMarks = []; }
+    audio.src = `audio/ch${nn}.mp3?v=${BUILD}`;
+    const saved = store.get("listen", null);
+    audio.currentTime = !fromStart && saved && saved.ch === c.num ? saved.t : 0;
+  }
+  aFollow = true;
+  player.classList.add("on");
+  audio.play();
+}
+audio.addEventListener("play", () => $("pPlay").innerHTML = "&#10074;&#10074;");
+audio.addEventListener("pause", () => $("pPlay").innerHTML = "&#9654;&#xFE0E;");
+audio.addEventListener("timeupdate", () => {
+  const t = audio.currentTime;
+  $("pTime").textContent = `${fmtT(t)} / ${fmtT(audio.duration || 0)}  \u00b7  ${AUDIO_V}`;
+  store.set("listen", { ch: aCh, t });
+  let i = -1;
+  for (let k = 0; k < aMarks.length; k++) if (aMarks[k] <= t + 0.1) i = k; else break;
+  if (i === lastPara) return;
+  lastPara = i;
+  const ps = paraEls();
+  ps.forEach(p => p.classList.remove("reading"));
+  const p = ps[i];
+  if (!p) return;
+  p.classList.add("reading");
+  if (aFollow) {
+    const r = p.getBoundingClientRect();
+    if (r.top < 70 || r.bottom > innerHeight - 90) window.scrollTo(0, window.scrollY + r.top - innerHeight * 0.25);
+  }
+});
+audio.addEventListener("ended", () => {
+  store.set("listen", { ch: aCh, t: 0 });
+  if (aNext && aNext.audio) { const n = aNext; aCh = null; go(n.num, 0); startListen(n, CHAPTERS[CHAPTERS.indexOf(n) + 1], true); }
+  else player.classList.remove("on");
+});
+$("pPlay").onclick = () => audio.paused ? (aFollow = true, audio.play()) : audio.pause();
+$("pBack").onclick = () => audio.currentTime = Math.max(0, audio.currentTime - 15);
+$("pFwd").onclick = () => audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 15);
+$("pStop").onclick = () => { audio.pause(); player.classList.remove("on"); paraEls().forEach(p => p.classList.remove("reading")); lastPara = -1; };
+// scrolling by hand stops the page from following until play is pressed again
+window.addEventListener("touchmove", () => { if (!audio.paused) aFollow = false; }, { passive: true });
+window.addEventListener("wheel", () => { if (!audio.paused) aFollow = false; }, { passive: true });
+
+
+// progress, save place, hide bar while reading down
+let lastY = 0;
+function onScroll() {
+  const max = document.body.scrollHeight - innerHeight;
+  const frac = max > 0 ? scrollY / max : 0;
+  const reading = !!main.querySelector(".chapter");
+  $("progress").style.width = reading ? (frac * 100) + "%" : "0";
+  if (reading) { const p = store.get("pos", null); if (p) store.set("pos", { ch: p.ch, y: frac }); }
+  $("bar").classList.toggle("hide", scrollY > lastY && scrollY > 80);
+  lastY = scrollY;
+}
+addEventListener("scroll", onScroll, { passive: true });
+
+
+// ---- paragraph comments (only for whoever opened the page with ?c=<key>) ----
+const API = "https://api.jobhubgo.com/api/yam/";
+(function () { const k = new URLSearchParams(location.search).get("c"); if (k) store.set("ckey", k); })();
+// Book 2 keeps its notes apart from Book 1's: same key, "-cqd" on the end. A reader who opened Book 1 with ?c= is already signed in here.
+const CKEY = (() => { let k = store.get("ckey", null); if (!k) { try { k = JSON.parse(localStorage.getItem("wyl.ckey")); } catch {} } return k ? k + "-cqd" : null; })();
+let comments = [];
+async function loadComments() {
+  if (!CKEY) return;
+  try { const r = await fetch(API + CKEY); const j = await r.json(); comments = (j.data && j.data.comments) || []; } catch {}
+  markPens();
+}
+async function saveComments(mutate) {
+  // Re-read, apply, write; retry once if someone else wrote in between.
+  for (let i = 0; i < 2; i++) {
+    let cur = [];
+    try { const j = await (await fetch(API + CKEY)).json(); cur = (j.data && j.data.comments) || []; } catch {}
+    const next = mutate(cur.slice());
+    try {
+      const r = await fetch(API + CKEY, { method: "PUT", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ data: { comments: next }, updatedAt: Date.now() }) });
+      const j = await r.json();
+      if (j.ok) { comments = next; markPens(); return true; }
+    } catch {}
+  }
+  return false;
+}
+function markPens() {
+  document.querySelectorAll(".pen").forEach(b => {
+    b.classList.toggle("has", comments.some(c => c.ch === Number(b.dataset.ch) && c.p === Number(b.dataset.p)));
+  });
+}
+function addPens(chNum) {
+  if (!CKEY) return;
+  main.querySelectorAll(".chapter p:not(.break):not(.end)").forEach((p, i) => {
+    const text = p.textContent.trim();
+    const b = document.createElement("button");
+    b.className = "pen"; b.textContent = "✎"; b.dataset.ch = chNum; b.dataset.p = i;
+    b.setAttribute("aria-label", "Comment on this paragraph");
+    b.onclick = (e) => { e.stopPropagation(); openCmt(chNum, i, text); };
+    p.appendChild(b);
+  });
+  markPens();
+}
+let cmtAt = null;
+function renderOld() {
+  const mine = comments.filter(c => c.ch === cmtAt.ch && c.p === cmtAt.p);
+  $("cmtOld").innerHTML = mine.map(c => `<div class="old"><span></span><button data-id="${c.id}">Delete</button></div>`).join("");
+  $("cmtOld").querySelectorAll(".old span").forEach((el, i) => el.textContent = mine[i].text);
+  $("cmtOld").querySelectorAll("button").forEach(b => b.onclick = async () => {
+    $("cmtStatus").textContent = "Deleting...";
+    await saveComments(cur => cur.filter(c => c.id !== b.dataset.id));
+    $("cmtStatus").textContent = ""; renderOld();
+  });
+}
+function openCmt(ch, p, text) {
+  if (staleV) { showStale(); return; }
+  cmtAt = { ch, p, quote: text.slice(0, 80) };
+  $("cmtQuote").textContent = "“" + text.slice(0, 90) + (text.length > 90 ? "...”" : "”");
+  $("cmtText").value = ""; $("cmtStatus").textContent = "";
+  renderOld();
+  $("cmt").classList.add("open");
+}
+$("cmtClose").onclick = () => $("cmt").classList.remove("open");
+$("cmtSave").onclick = async () => {
+  const text = $("cmtText").value.trim();
+  if (!text) return;
+  $("cmtStatus").textContent = "Saving...";
+  const c = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6), ch: cmtAt.ch, p: cmtAt.p,
+              quote: cmtAt.quote, text, at: new Date().toISOString(), v: BUILD };
+  const ok = await saveComments(cur => cur.concat([c]));
+  if (ok) { $("cmtText").value = ""; $("cmtStatus").textContent = "Saved"; renderOld(); }
+  else $("cmtStatus").textContent = "Didn't save, try again";
+};
+
+// ---- fixed since you last looked (pencil readers only) ----
+// Each paragraph carries the build time its text last changed (c.pt). "seen" is, per chapter,
+// the newest change the reader has acknowledged. A chapter they've never opened is NEW.
+// "seen" is kept per review round, so starting a round (or moving it back) shows its boxes fresh on every device.
+const SEEN_KEY = "seen-" + ROUND;
+function seenAt(num) { return store.get(SEEN_KEY, {})[num] || ROUND - 1; }
+function setSeen(num, t) { const s = store.get(SEEN_KEY, {}); s[num] = Math.max(s[num] || 0, t); store.set(SEEN_KEY, s); }
+function isFix(c, t) { return t >= ROUND && t > Math.max(seenAt(c.num), c.added); }
+function fixCount(c) { return c.pt.filter(t => isFix(c, t)).length; }
+function isNew(c) { return c.added > seenAt(c.num); }
+function badge(c) {
+  if (!CKEY) return "";
+  if (isNew(c)) return `<span class="tag new">New</span>`;
+  const n = fixCount(c);
+  return n ? `<span class="tag">${n} fixed</span>` : "";
+}
+function coverFixes() {
+  if (!CKEY) return "";
+  const fixed = CHAPTERS.filter(c => !isNew(c) && fixCount(c));
+  const fresh = CHAPTERS.filter(isNew);
+  if (!fixed.length && !fresh.length) return "";
+  const list = (cs) => cs.map(c => `<button data-ch="${c.num}">${c.extra ? c.title : "Ch " + c.num}</button>`).join("");
+  return `<div class="fixes">${fixed.length ? `<div><span class="tag">Fixed</span> ${list(fixed)}</div>` : ""}
+    ${fresh.length ? `<div style="margin-top:.5em"><span class="tag new">New</span> ${list(fresh)}</div>` : ""}</div>`;
+}
+function markFixes(c) {
+  if (!CKEY) return;
+  if (isNew(c)) { setSeen(c.num, c.added); return; }  // a new chapter is all new; nothing to box
+  const ps = [...main.querySelectorAll(".chapter p:not(.break):not(.end)")];
+  const boxed = ps.filter((p, i) => isFix(c, c.pt[i]));
+  if (!boxed.length) return;
+  boxed.forEach(p => { p.classList.add("fixed"); const t = document.createElement("span"); t.className = "tag"; t.textContent = "Fixed"; p.prepend(t); });
+  const slot = $("fixbarSlot");
+  slot.innerHTML = `<div class="fixbar"><b>${boxed.length} paragraph${boxed.length > 1 ? "s" : ""} changed in the latest round of fixes, boxed in green.</b>
+    <button id="fixNext">Show me &darr;</button><button class="done" id="fixDone">Got it, clear the boxes</button></div>`;
+  let at = 0;
+  $("fixNext").onclick = () => { boxed[at % boxed.length].scrollIntoView({ block: "center" }); at++; };
+  $("fixDone").onclick = () => {
+    setSeen(c.num, Math.max(...c.pt));
+    boxed.forEach(p => { p.classList.remove("fixed"); const t = p.querySelector(":scope > .tag"); if (t) t.remove(); });
+    slot.innerHTML = "";
+  };
+}
+
+// ---- this page is out of date ----
+let staleV = 0;
+function showStale() { $("stale").classList.add("open"); }
+$("staleGo").onclick = () => {
+  const q = new URLSearchParams(location.search); q.delete("c"); q.set("v", staleV || Date.now());
+  location.replace(location.pathname + "?" + q + location.hash);
+};
+$("staleLater").onclick = () => $("stale").classList.remove("open");
+async function checkVersion() {
+  try {
+    const r = await fetch("version.json?t=" + Date.now(), { cache: "no-store" });
+    const j = await r.json();
+    if (j.v > BUILD) { const first = !staleV; staleV = j.v; if (first) showStale(); }
+  } catch {}
+}
+document.addEventListener("visibilitychange", () => { if (!document.hidden) checkVersion(); });
+addEventListener("focus", checkVersion);
+setInterval(checkVersion, 3 * 60 * 1000);
+checkVersion();
+
+// start
+const h = location.hash;
+if (h.startsWith("#ch")) go(Number(h.slice(3)), 0);
+else if (h === "#contents") toc();
+else cover();
+loadComments();
+</script>
+</body>
+</html>
