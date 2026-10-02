@@ -150,6 +150,6 @@ He did not say anything else for a while.
 
 I didn't either. The recorders went on recording the woodstove, and the rain, and the two of us not talking, and I let them.
 
-"That's enough for today," he said at last. "If you don't mind."
+"Do you want to stop?" I said.
 
-I didn't mind.
+"No." He picked up his tea and found it cold and drank it anyway. "If I stop here, I'll have to start again from here. I'd rather not." He set the cup down. "They came up all morning."
