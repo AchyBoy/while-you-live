@@ -52,7 +52,7 @@ I did not answer at once, because I knew the answer, and I did not much like whe
 
 "With the date," he said. "And the time. So that one day, when somebody finally asks, she can prove it." He looked at me over his cup. "You did exactly that. You have a box at the top of a closet that says so. I would be very surprised if Mrs. Dunleavy hasn't got one too."
 
-I sat back. Outside the rain had picked up, and it ran down the window in long uneven lines.
+I sat back. My own box was on the top shelf of my closet with a bag of winter hats on it, and I had not wanted to be told that it was a habit somebody could predict.
 
 "There's something else," I said. "I didn't tell you last week. There wasn't time, after the card."
 
@@ -62,17 +62,17 @@ I told him about the movers. The small outfit from across the river, still in bu
 
 He did not say anything for a long moment. The pencil lay still on the pad.
 
-"Eleven days," he said at last. "He booked a truck to take everything he owned out of that apartment, eleven days before a Saturday. And he didn't know where it was going."
+"Eleven days," he said at last. "He booked a truck to take everything he owned out of that apartment, eleven days before a Saturday. And he didn't give them an address."
 
 "He told me he was going to move after the story ran. Somewhere Carrow couldn't find him."
 
-"Yes. But a man who is going somewhere knows where it is. He's chosen it, he's paid a deposit on it, he's carried a box of dishes up its stairs in his head a hundred times. Your man had a truck and no address." He turned the pencil over in his fingers. "So either he was going to decide at the last minute, which doesn't sound like a man who kept copies of everything. Or somebody else was finding him the place. And he was waiting to be told."
+"Then he may have known exactly where, and not wanted it on a moving company's form. You told me he never wrote a real name down where someone could find it. That would be like him." He turned the pencil over in his fingers. "Or he hadn't decided, which doesn't sound like a man who kept copies of everything. Or somebody else was finding him the place, and he was waiting to be told."
 
-"Somebody he trusted."
+"Which do you think?"
 
-"Somebody he trusted enough to let them choose where he would live," he said, "when he was more frightened than he had ever been." He looked toward the window. "Which is a great deal of trust, Ms. Barnett. It's more than most people give anyone."
+"I think the first is the likeliest, and the last is the one that would matter." He looked toward the window. "If somebody was finding him a place, it was somebody he trusted enough to let them choose where he would live, when he was more frightened than he had ever been. That's a great deal of trust, Ms. Barnett. It would narrow things."
 
-I wrote it down. I wrote, *Somebody finding him a place?* and, under it, *Same person at the door?* and then I looked at what I had written and did not like it at all.
+I wrote it down. I wrote, *No address: secrecy? undecided? somebody finding him a place?* and, under the last one, *Same person at the door?* and then I looked at what I had written and did not like it at all.
 
 * * *
 

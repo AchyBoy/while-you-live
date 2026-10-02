@@ -62,13 +62,13 @@ I learned the rest from Stan Malley. Stan was fourteen, the oldest of the bell b
 
 That is the strangest part of it, Ms. Barnett, every time. Not the waking. The finding out what kind of person you've been.
 
-The body keeps what it knows how to do. I've told you that. Bertie Pike's body knew every ladder and passage on that ship. It could go from the boat deck down to the third-class dining saloon and back without touching a rail, at a speed that made the stewards swear. It knew how to carry six cups on a tray in a swell. It knew how to take a coin from a passenger's hand without seeming to, and say *thank you, sir* in a way that made the next coin larger. It could whistle through the gap in its teeth, loud enough to make a lady in a pink wrapper complain.
+The body keeps what it knows how to do. I've told you that. Bertie Pike's body knew every ladder and passage on that ship. It could go from the boat deck down to the third-class dining saloon and back without touching a rail, at a speed that made the stewards swear. It knew how to carry six cups on a tray in a swell. It knew how to take a coin from a passenger's hand without seeming to, and say *thank you, sir* in a way that made the next coin larger. It could whistle through the gap in its teeth, loud enough to make a lady in a pink wrapper complain, but only while I wasn't attending to it. The first time I tried on purpose, nothing came out but air. Twice that first week it started up by itself on the stairs, and both times I stopped it, because I didn't know what tunes Bertie whistled, and I couldn't afford to find out by getting one wrong.
 
 What it did not keep was anything Bertie had thought. Whether he was happy. Whether he missed his mother. Whether he was the kind of boy who took the extra biscuit or the kind who gave his to Stan. I had to work all of that out from the outside, from how the others treated him, from the soap, from the letter in the locker. And then I had to go on being him, as near as I could, so that nobody noticed he had gone.
 
 I have done that a great many times. It never gets easier when the body is a child. A grown man who changes overnight is thought to be ill, or in love, or in trouble. A boy who changes overnight is thought to be up to something. Lyle watched me for a week.
 
-I gave him nothing to see. I carried the trays and ran the messages and took the coins and said *sir* and *madam*, and I did not whistle, which Stan noticed and Lyle noticed and neither of them understood. The truth was that I couldn't. Bertie whistled through the gap where a tooth had been. I had never had that gap before, and I could not work out how to use it.
+I gave him nothing to see. I carried the trays and ran the messages and took the coins and said *sir* and *madam*, and I did not whistle, which Stan noticed and Lyle noticed and neither of them understood. A quiet Bertie was odd. A Bertie whistling a tune he had never known would have been worse.
 
 * * *
 
@@ -108,7 +108,7 @@ He let me listen, once. He put the headphones over my cap. It was a thin dry cra
 
 I could not tell anything. But I was in the room, and the room was warm, and the sea was black and enormous on the other side of the wall, and in that little cupboard of brass and wire a young man was listening to the whole of it.
 
-I want you to understand that I didn't know anything, Ms. Barnett. I am not a prophet. I've told you so. I didn't know what ship had sailed from Southampton the day before we sailed from New York, or what was waiting for her, or that it would have anything to do with us. I was an old man who couldn't sleep, in the body of a boy, and I liked that room better than any other place on the ship. That's all it was.
+I didn't know anything, Ms. Barnett. I am not a prophet. I've told you so. I didn't know what ship had sailed from Southampton the day before we sailed from New York, or what was waiting for her, or that it would have anything to do with us. I was an old man who couldn't sleep, in the body of a boy, and I liked that room better than any other place on the ship. That's all it was.
 
 That is what I keep coming back to. That's all it was.
 

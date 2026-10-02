@@ -78,17 +78,17 @@ I drove past, and watched the exit go by in the mirror, and decided it was becau
 
 That night, after Freda had gone to her room, I did what I always did. I checked.
 
-It did not take long. The Senate had held hearings on the Titanic within days of the Carpathia getting into New York, and every word of them had been printed, and every word of the printed record was online, searchable, on a site run by people who cared about it more than anyone has ever cared about anything. Rostron had been the very first witness, on the very first morning. The nineteenth of April, 1912. The day after he brought them in.
+It did not take long. The Senate had held hearings on the Titanic within days of the Carpathia getting into New York, and every word of them had been printed, and every word of the printed record was online, searchable, on a site run by people who plainly cared about it a great deal. Rostron had testified on the very first day, the nineteenth of April, 1912, the morning after he brought them in.
 
 I read his testimony from the beginning. He had a plain way of talking, short sentences, no fuss, and you could hear in it the man Tom had described, turning his whole body toward whatever he looked at. He told them about the course he set, and the stokers, and the ice. And then, partway through, a senator asked him about the message, and how it was that he had happened to receive it, and he said this.
 
 *I will tell you this, that the wireless operator was in his cabin, at the time, not on official business at all, but just simply listening as he was undressing. He was unlacing his boots at the time. He had this apparatus on his ear, and the message came. That was the whole thing. In 10 minutes, maybe he would have been in bed, and we would not have heard the messages.*
 
-I read it twice. Then I sat back in the kitchen chair and looked at the screen for a long time.
+I read it twice. Then I sat back in the kitchen chair.
 
-*I have thought about those ten minutes for a hundred and fourteen years.*
+*I have thought about those ten minutes for a hundred and fifteen years.*
 
-There it was, the boots, the headphones, the ten minutes. All of it, in black and white, in a public record, under oath. Every detail he had given me that morning that I could check, I could check right here, in one sitting, at my own kitchen table.
+There it was, the boots, the headphones, the ten minutes, in black and white, in a public record, under oath. Cottam had testified too, the same week, and so had others. Most of what he had told me that morning that could be checked at all, I could check right here, in one evening, at my own kitchen table.
 
 Which was exactly the problem. I knew it was, and I made myself look at it squarely, as I would have made a junior reporter look at it. A man who had read this testimony would know about the boots. He would know about the ten minutes. He could build a beautiful story around them, with a bell boy and a mug of cocoa and a Welshman with a Bible, and every piece I could check would check, because he had taken it from the very place I would go to check it. That was how a clever liar worked. I had written about clever liars. I had been called one.
 
@@ -130,11 +130,11 @@ Freda nodded, as if that were an answer to something, and put the glass in the s
 
 The money came on Saturday.
 
-It had always come on a Monday. For twenty weeks, Monday, like the electric bill. On Saturday morning, at nine o'clock, my phone buzzed on the kitchen counter, and it was the bank, and it was the payment for Session 19, the same amount as the last few, with the same short line in the note.
+In the fall it had come on Thursday afternoons, three thousand dollars, a few hours after I left his house. Since January, since the client doubled it, it had come on Mondays, six thousand, as regular as the electric bill. On Saturday morning, at nine o'clock, my phone buzzed on the kitchen counter, and it was the bank, and it was the payment for Session 19, the same six thousand, with the same line in the note that had come with every payment since the rate went up.
 
-*With our client's thanks.*
+*Our client asks you to take all the time the gentleman needs.*
 
-I had sent the transcript on Friday at noon. Somebody, somewhere, had read it on Friday afternoon, every word, and had not been able to wait for Monday.
+I had sent the transcript on Friday at noon. Somebody had read it by Friday evening, or had it read to him, and had not waited for Monday. I didn't know what that meant. I didn't like any of the things it might mean.
 
 I stood at the counter with the phone in my hand. Then I took my notebook out of my bag, and turned to a clean page, and drew the star from memory, in one line, the way his hand did it and the letter's did. Five points. A small letter crowded into each.
 

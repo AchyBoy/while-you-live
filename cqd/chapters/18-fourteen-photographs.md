@@ -1,6 +1,6 @@
 # CQD
 
-## Chapter 17: Fourteen Photographs
+## Chapter 18: Fourteen Photographs
 
 The records office was in the basement of a building downtown that I had walked past a thousand times, back when I worked six blocks away, and never once gone into.
 
@@ -36,11 +36,13 @@ They were color prints, glossy, four by six, each one with a number written on t
 
 The first three were the building. The front, with the dry cleaner's sign and the steam coming out of a vent at the side. The front door. And the stairs, from the bottom, looking up. A narrow staircase with a wooden rail, and the walls painted a pale clean cream, fresh, glossy, the kind of paint that shows everything.
 
-I picked up the third one and held it closer.
+I picked up the third one and held it closer, because Tom had told me to look at that wall.
 
 All the way up the left-hand wall of the staircase, at about the height of a man's waist, there was a line of marks. Scuffs, and dents, and in two places small gouges where the cream paint had come away and the old green showed through underneath. Every few steps. All the way up, as far as the photograph went.
 
 *Something banging the wall all the way down. New paint!!*
+
+It didn't say what had made the marks, or exactly when. Anybody moving anything up or down those stairs could have done it. But it was new paint, and it was marked all the way up, and a woman on the second floor had written down the day she heard it happen.
 
 I put it down very carefully, as if it might break.
 
@@ -60,9 +62,11 @@ Older. Sixty, perhaps, or a fit seventy. Tall, heavy-shouldered, with a fine hea
 
 I didn't know him. I sat with the photograph in my hand and went through every face I could remember from eight months of Carrow House, every name in every document, every lawyer, every executive in every annual report, and I didn't know him.
 
-But I knew the laugh. I had never heard it. I knew it anyway, from a furious little line in a composition book.
+And I thought of the laugh. I had never heard it. I had only a furious little line in a composition book.
 
 *A big one. Too big. The kind of laugh a man has when he's used to people laughing with him.*
+
+A man laughing in a photograph at a party proves nothing. Half the men at any party are laughing in the pictures. I knew that. I looked at him anyway, for a long time.
 
 * * *
 

@@ -1,6 +1,6 @@
 # CQD
 
-## Chapter 18: Pages in the Wake
+## Chapter 17: Pages in the Wake
 
 *April 18, 1912, afternoon*
 

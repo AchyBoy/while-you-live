@@ -94,7 +94,7 @@ I had. I knew it the way I knew my own hand.
 
 "Then how is it on there?"
 
-He looked at the two stars for a long time.
+He looked from one star to the other, and back.
 
 "I don't know," he said.
 
@@ -128,7 +128,7 @@ Hope. It was hope.
 
 "It's yours. I made it for you. I just didn't know I had."
 
-He folded it, very carefully, along the creases, and held it in both hands in his lap, and looked out at the field, and didn't say anything else for a long time. I didn't either. We sat on the porch in the sun and the wind came across the furrows, and somewhere a long way off the tractor turned at the end of a row and started back.
+He folded it, very carefully, along the creases, and held it in both hands in his lap. Neither of us said anything else. After a while he unfolded it again, and looked at the margin, and folded it back along the same creases, as if he needed to see it was still there.
 
 * * *
 

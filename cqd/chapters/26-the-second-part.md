@@ -4,13 +4,13 @@
 
 The money came on a Wednesday.
 
-It had come on Mondays all winter, and on a Saturday once in March, and now it came on a Wednesday, at a little after eleven in the morning, while I was at the kitchen table writing four hundred words about a dentist's new whitening service. My phone buzzed on the table. It was the bank.
+This wasn't the regular money. The six thousand for each Thursday had come on Mondays since January, and on a Saturday once in March, and it had come that Monday too. This came on the Wednesday, the same Wednesday as Frederick, at a little after eleven in the morning, while I was at the kitchen table writing four hundred words about a dentist's new whitening service. My phone buzzed on the table. It was the bank.
 
 It was more than the twenty thousand in the winter. It was more than I had made in the two years before the letter came, put together. And it had not come from Aldine, Mercer and Voss. It had come by wire from a bank in a different city, one I had never been to either, a long way from the firm's, and the line in the note was one I had read once before, in February, on the night of the courier and the Carpathia card.
 
 *With our client's thanks, at the close of the second part.*
 
-I sat and looked at it for a long time. Then I texted Freda, at school, because we had terms, and the terms said money too.
+I looked at it until the screen went dark. Then I texted Freda, at school, because we had terms, and the terms said money too.
 
 *Client paid. A lot. Tell you tonight. Not worried. Just telling you.*
 
@@ -84,7 +84,7 @@ He smiled. Slowly. Not happily, quite. The smile of a man who has just been deal
 
 "The British?"
 
-"The losing one," he said. "As it turned out." He looked out over the field, which was green now, all of it, a low green fuzz over the furrows all the way to the trees. "I spent the best part of two years in that city hunting a spy. And I lost. And then there was a country, partly because I lost." He was quiet a moment. "I've never decided how I feel about that. Two hundred and forty-six years, and I've never decided."
+"The losing one," he said. "As it turned out." He looked out over the field, which was green now, all of it, a low green fuzz over the furrows all the way to the trees. "I spent the best part of two years in that city hunting a spy. And I lost. And then there was a country, partly because I lost." He was quiet a moment. "I've never decided how I feel about that. Two hundred and forty-seven years, and I've never decided."
 
 "Is that what you'll tell me? Next?"
 
@@ -116,7 +116,7 @@ He looked at me, and I saw him work out why, and smile, a little.
 
 "That's exactly what I said."
 
-"I know," he said. "Freda told me. She wrote again." He touched the pocket of the folded cardigan beside him. "She writes a very good letter. Short. She doesn't waste words." He looked at me sideways. "She says her father fixed your kitchen tap."
+"Of course it is." He touched the pocket of the folded cardigan beside him. "Freda wrote again." "She writes a very good letter. Short. She doesn't waste words." He looked at me sideways. "She says her father fixed your kitchen tap."
 
 I felt my face go hot.
 
@@ -134,7 +134,7 @@ He laughed. He laughed until he had to hold onto the rail, there on the bench in
 
 * * *
 
-He didn't go in, that day. Neither did I. We did the whole session on the porch, the recorders on the little table between us, with the field going green in front of us and the birds back at the feeder, and he didn't tell me about New York. Not yet. He said he wanted to think about where to start. He said there were people in it he hadn't thought about properly in a very long time, and he wanted to do them justice.
+He didn't go in, that day. Neither did I. We did the whole of session twenty-eight on the porch, the recorders on the little table between us, with the field going green in front of us and the birds back at the feeder, and he didn't tell me about New York. Not yet. He said he wanted to think about where to start. He said there were people in it he hadn't thought about properly in a very long time, and he wanted to do them justice.
 
 So instead he told me about the boy on the pier. About Bertie. What happened to him after the bag and the street door and the rain, which he had said was another Thursday, and which turned out to be this one. I'm not going to put it here. It isn't part of this story. I'll tell you only that he made the best of it, as he said he would, and that it took him a very long time, and that somewhere in Bootle, in a box of family papers, there are letters to a mother in a careful boy's hand that never once mention the Carpathia.
 

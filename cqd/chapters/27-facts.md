@@ -4,7 +4,7 @@
 
 The Carpathia sailed from New York on Thursday, April 11, 1912, bound for the Mediterranean and Fiume, with about 740 passengers: American tourists in first class and emigrants going home to Hungary and Croatia in third.
 
-Her only wireless operator, Harold Cottam, was twenty-one. Just after midnight on April 15 he was in his cabin, getting ready for bed, still wearing his headphones while he waited on a reply from another ship. He had been listening to the Cape Cod station, which had messages for the Titanic, and he called the Titanic to offer to pass them on. The answer came back: "Come at once. We have struck a berg. It's a CQD, old man."
+Her only wireless operator, Harold Cottam, was twenty-one. Just after midnight on April 15 he was in his cabin, getting ready for bed, still wearing his headphones while he waited on a reply from another ship. The two ships had exchanged signals on and off that evening, "merely to keep in touch," he told the British inquiry. He had been listening to the Cape Cod station, which had messages for the Titanic, and he called the Titanic to tell her they were waiting. The answer came back: "Come at once. We have struck a berg. It's a CQD, old man."
 
 Captain Arthur Rostron told the Senate inquiry: "the wireless operator was in his cabin, at the time, not on official business at all, but just simply listening as he was undressing. He was unlacing his boots at the time. He had this apparatus on his ear, and the message came. That was the whole thing. In 10 minutes, maybe he would have been in bed, and we would not have heard the messages."
 
@@ -16,13 +16,13 @@ The Carpathia's passengers gave up their cabins and their clothes, and sewed coa
 
 Four people who died in the boats or soon after were buried at sea at four o'clock that afternoon. One of them has never been identified.
 
-Harold Bride, the Titanic's junior wireless operator, had his feet crushed and frozen. He was carried to the Carpathia's wireless cabin and helped Cottam send the names of the survivors. Rostron ordered names first and nothing to the press. Inquiries from newspapers went unanswered, and so did those from President Taft about his aide, Major Archibald Butt, who was lost.
+Harold Bride, the Titanic's junior wireless operator, had his feet crushed and frozen. He was carried to the Carpathia's wireless cabin and helped Cottam send the names of the survivors. Rostron testified that two official messages went first, to Cunard and to the White Star Line, then one message to the Associated Press, then the names. Newspapers asking for more got nothing. The papers reported that inquiries made for President Taft about his aide, Major Archibald Butt, who was lost, went unanswered. Rostron told the Senate that his purser remembered a reply going back: "Not on board."
 
 The Carpathia met thick fog near the Nantucket shoals and groped through it for hours at slow speed, sounding her whistle. It lifted on Thursday afternoon, and at six she passed the Sandy Hook lightship.
 
 She came up the river at about half past nine on the night of April 18, in a cold driving rain, through a crowd of tugs full of reporters shouting offers through megaphones. Rostron let none of them aboard. She went first to the White Star pier and lowered the Titanic's lifeboats, then to the Cunard pier, Pier 54, where tens of thousands of people were waiting.
 
-The United States Senate opened its inquiry the next morning at the Waldorf-Astoria. Rostron was the first witness. Cottam sold his story to the New York Times for $750.
+The United States Senate opened its inquiry the next morning at the Waldorf-Astoria. Rostron testified on the first day. Cottam sold his story to the New York Times for $750.
 
 The Seikilos song was carved on a marble column as a memorial, probably in the first century, at Tralles, near what is now Aydın in Turkey. William Ramsay found it in 1883. It is the oldest complete piece of music that survives, notes and words together. It begins: "While you live, shine."
 

@@ -32,7 +32,7 @@ He looked at me for a long moment. Then he nodded, once, slowly, and something i
 
 * * *
 
-We sat on the porch. He suggested it. He said the house was stuffy and the sun was out and he had been indoors too much that week, and I thought that he didn't want to climb the steps again so soon, and I didn't say so. He sat on the bench and I sat in one of the two chairs, and the kettle went on inside and he let it whistle, and neither of us got up.
+We sat on the porch. He suggested it. He said the house was stuffy and the sun was out and he had been indoors too much that week, and I thought that he didn't want to climb the steps again so soon, and I didn't say so. He sat on the bench and I sat in one of the two chairs. He had put the kettle on before he came out. Through the open door I could hear it beginning to tick on the stove.
 
 "What I said," I said. "Last week. In the kitchen. About pretending to be other people for a living."
 
@@ -46,7 +46,7 @@ We sat on the porch. He suggested it. He said the house was stuffy and the sun w
 
 "Freda's very hard to pretend in front of," he said. "So are you."
 
-The kettle stopped whistling, inside, as it boiled itself quiet.
+Inside, the kettle began to whistle. He started to get up, and I said, "I'll get it," and went in and took it off the stove and turned the gas off. I stood for a moment in his kitchen, where I had never once been by myself. Then I came back out.
 
 "How is she?" he said.
 
@@ -132,7 +132,7 @@ He thought about it, seriously, the way he thought about everything Freda asked.
 
 "Ari," I said.
 
-He closed his eyes for a moment, as if he were listening to something a long way off. Then he opened them, and picked up the pencil, and settled the notepad on his knee.
+He closed his eyes for a moment, as if he were listening for it to come again. Then he opened them, and picked up the pencil, and settled the notepad on his knee.
 
 "Turn them on," he said. "We've got a great deal to do, and I don't know how many Thursdays."
 

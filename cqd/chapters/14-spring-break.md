@@ -16,7 +16,7 @@ We drove north. The trees along the highway had gone a faint, uncertain green, t
 
 "Mr. Hale."
 
-"He calls you Ms. Barnett. Still. After like five months." She thought about it. "That's so weird. That's like a guy in a movie about a butler."
+"He calls you Ms. Barnett. Still. After like six months." She thought about it. "That's so weird. That's like a guy in a movie about a butler."
 
 "He's from another time."
 
@@ -96,7 +96,7 @@ Freda did the thing with her mouth, the small pressed thing, and looked at her p
 
 My phone rang at a quarter past ten.
 
-I almost didn't answer. It was a number I didn't know, a city exchange. But I had been waiting three months for a number I didn't know, so I took it out onto the porch and shut the door behind me.
+I almost didn't answer. It was a number I didn't know, a city exchange. But I had been waiting two months for a number I didn't know, so I took it out onto the porch and shut the door behind me.
 
 It was a woman at the police department's records unit. She had the voice of somebody who had been reading out the same sentences all morning. My request for the complete file in the missing persons case had been processed, she said, and approved in part. Some material was withheld under the usual exemptions. The rest, including the responding officer's notes and the photographs taken at the scene, was ready to be collected in person, with identification, at the records office downtown, any weekday between nine and four.
 

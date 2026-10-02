@@ -94,7 +94,7 @@ I told her about the money, then.
 
 I hadn't planned to. It came out of me because she had told me everything, all of it, sitting on the end of my bed in my sweater at midnight, and I was sitting there with something I hadn't told her, and it had gotten heavy.
 
-"The client," I said. "In November. The payments doubled. Then they doubled again. I never told you. And the twenty thousand in the winter. I never told you that was coming, or what it was for, because I didn't know. I still don't." I looked at my hands. "I didn't tell you because I didn't know what it meant, and I didn't want you to worry about it, and I wanted to keep it until I understood it."
+"The client," I said. "In January, the payments doubled. Six thousand a Thursday, not three, and they've stayed that way. I never told you. And the twenty thousand in February, on top of that, the night the Carpathia card came. I never told you what that was for, because I didn't know. I still don't." I looked at my hands. "I didn't tell you because I didn't know what it meant, and I didn't want you to worry about it, and I wanted to keep it until I understood it."
 
 Freda stared at me.
 
@@ -130,7 +130,7 @@ She could see him. Not secretly. I would know where, and when, every time. I wou
 
 "I'm allowed to be mad."
 
-"You can be mad. You have to go back, though." She looked up from the gas bill. "He didn't tell you because I asked him not to. Kind of. I mean, I didn't ask, but he could tell. And he made me promise to tell you, and I didn't, for two weeks, because I was scared. That's on me. Not him." She held out the pen. "Sign it."
+"You can be mad. You have to go back, though." She looked up from the gas bill. "He didn't tell you because I asked him not to. Kind of. I mean, I didn't ask, but he could tell. And he made me promise to tell you, and I didn't, all weekend, because I was scared. That's on me. Not him." She held out the pen. "Sign it."
 
 I signed it. She signed it under me. She folded it in half and put it in the pocket of my sweater, which she was wearing, which meant I would never see it again.
 

@@ -134,7 +134,17 @@ I read it three times. Then I looked up at her, and she was watching me with her
 
 "Not that day."
 
-"Not that day. Not ever." She said it very plainly. "I'd have heard him. I heard everybody come up those stairs for thirty years. He had a step like nobody else's. Very light. Like he was apologizing to the stairs." She looked at the notebook in my hands. "He went down those stairs at twenty to eleven on that Wednesday morning, with whoever that was, carrying whatever that was, and he got into that car, and that was the last time."
+"Not that day. Not ever." She said it very plainly. "I'd have heard him. I heard everybody come up those stairs for thirty years. He had a step like nobody else's. Very light. Like he was apologizing to the stairs." She looked at the notebook in my hands. "He went down those stairs at twenty to eleven on that Wednesday morning, with whoever that was, carrying whatever that was, and two car doors shut in the alley, and that was the last time."
+
+"You said two people on the stairs," I said. "How do you know one of them was him?"
+
+"Because one of them was light, and one of them was click, click, click." She said it as if I were slow. "And after, it was quiet up there. Two days quiet. Nothing but that poor cat."
+
+"Were you home all of those two days?"
+
+"I'm always home," said Mrs. Dunleavy.
+
+I wrote that down, and put a question mark after it, because I had been hearing people tell me *always* for twenty years, and I kept my hand over the page so she wouldn't see it.
 
 "Did you tell the police?"
 
@@ -198,11 +208,11 @@ The door didn't slam.
 
 I sat at the kitchen table with Mrs. Dunleavy's notebook open in front of me and copied out that one page by hand, every line, the way I used to copy out a source's quotes on the night before a story ran, so that they would be in my own hand and I would know I had them right. Then, under it, I wrote:
 
-*He let them in. He shut Pearl away. They talked half an hour, and the other one laughed.*
+*Knock 9:38. Pearl crying 9:39: shut away. Half an hour of talk, and the other one laughed.*
 
-*Two trips. Two boxes, the first time. What was the second?*
+*Two heavy trips down. The boxes, the first time? What was the second?*
 
-*He went down with them. He didn't come back up.*
+*Two people on the stairs, light step and leather heels. She says the light one was him. Two car doors. Nobody came back up, that she heard.*
 
 And then the question that I was going to be asking, I already knew, for a very long time.
 

@@ -8,7 +8,7 @@ I want to tell you about that coffee, and I'm not going to, not all of it. It is
 
 I'll tell you I asked him everything. Very politely. With my notebook in my bag where he couldn't see it. Where he lived, and since when. Where he worked, and since when. How long sober, and how he knew, and who he called when it was bad. Phoenix, and what happened there. The card in March.
 
-"I forgot her birthday," he said. He looked at the table. "I was drunk the whole of that January. I don't remember most of it. I found the card in a drawer in March, already bought, never sent, with her name on it. And I thought, if I send it now it's worse. And then I thought, if I don't send it at all, that's worse still." He turned his cup around. "I sent it. I wrote *sorry it's late.* That's all I wrote. Two words, on a card two months late, the year you lost everything." He looked up at me. "I knew about the story. I read it in Phoenix, online. I knew what was happening to you. I sent two words."
+"I forgot her birthday," he said. He looked at the table. "I was drunk the whole of that January. I don't remember most of it. I found the card in a drawer in March, already bought, never sent, with her name on it. And I thought, if I send it now it's worse. And then I thought, if I don't send it at all, that's worse still." He turned his cup around. "I sent it. I wrote *sorry it's late.* That's all I wrote. Three words, on a card two months late, the year you lost everything." He looked up at me. "I knew about the story. I read it in Phoenix, online. I knew what was happening to you. I sent three words."
 
 I didn't say anything to that. I didn't have to. He had said it all himself.
 
@@ -80,7 +80,7 @@ I knew that laugh. I had never heard it before tonight. And I knew it.
 
 * * *
 
-Freda came with me to Frederick on Saturday afternoon. She asked. I didn't have to think about it this time.
+Freda came with me to Frederick on Wednesday, after school. She asked. I didn't have to think about it this time.
 
 Kevin opened the door before we knocked again. Mrs. Dunleavy was by the window in her wheelchair with the crocheted blanket over her knees, in the same cardigan buttoned all the way to the top, and she watched us come up the ramp with her bird's eyes, and when we came in she said, "You came back," before we had our coats off.
 
@@ -128,13 +128,13 @@ She said the name over to herself twice, quietly, as if she were writing it down
 
 In the car, at the bottom of Kevin Dunleavy's cul-de-sac, I took my notebook out and wrote it down.
 
-I had never written down a name in the Carrow House story. Not one, not in eight months, not in six years. I had kept my source's name out of every notebook I owned, and I had kept it out of this one too, even now, even after the catalog. I wrote this one anyway. He wasn't a source. He wasn't somebody I was protecting.
+I had never once written down my source's name. Not in eight months of reporting, not in the six years since. Petrakis was in my notebooks, and Delacroix, and the movers, and every lawyer Carrow ever hired. He wasn't, and he wasn't now, even after the catalog. I wrote this name anyway. This man wasn't my source. He wasn't somebody I was protecting.
 
 *Gerald Whitcombe.*
 
-*His teacher. Laughed. Leather heels. Two trips.*
+*His teacher. Mrs. D knows the laugh, by ear, six years on, off a phone. Not proof. Leather heels? Two trips?*
 
-And under it, because there had been three of them, and Tom had made me see it, and I couldn't stop seeing it now:
+And under it, because there might have been three of them, and Tom had made me see it, and I couldn't stop seeing it now:
 
 *Who was driving?*
 

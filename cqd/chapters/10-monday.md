@@ -1,6 +1,6 @@
 # CQD
 
-## Chapter 9: Monday
+## Chapter 10: Monday
 
 *April 15, 1912, afternoon*
 
@@ -28,7 +28,7 @@ The wireless never stopped.
 
 I went up to the cabin twice that afternoon with tea, and both times Cottam was at the key, in the same shirt he had been wearing at midnight, with the same one boot unlaced, because he had never had time to lace it. He had not slept. He did not look as if he knew what sleep was. He was sending names.
 
-That was the captain's order. Names first. Every survivor, every name, one by one, to the shore stations and to the ships within reach, so that somewhere in New York, or in London, or in a village in Ireland or Sweden or Lebanon, somebody could stop waiting. He was sending them as fast as his hand would go, and his hand was very tired, and there were seven hundred of them, and the purser's lists had been made in a hurry at a cold gangway door by men whose fingers were numb, and half the names were spelled wrong.
+That was the captain's order. Two messages had gone first, one to the Cunard company and one to the White Star company, and then a short one to the Associated Press that the captain wrote out himself. After that, names. Every survivor, every name, one by one, to the shore stations and to the ships within reach, so that somewhere in New York, or in London, or in a village in Ireland or Sweden or Lebanon, somebody could stop waiting. He was sending them as fast as his hand would go, and his hand was very tired, and there were seven hundred of them, and the purser's lists had been made in a hurry at a cold gangway door by men whose fingers were numb, and half the names were spelled wrong.
 
 And on the desk beside him, there was another pile. A growing one.
 
@@ -38,7 +38,7 @@ He didn't look up from the key. "Newspapers. Every newspaper in America. And a g
 
 "What are you going to do?"
 
-"Nothing." He reached for the tea without looking at it. "Captain's orders. Names first, and official business, and nothing to the press. Nothing at all." He drank. "He's right. If I start answering newspapers, I'll never get the names out. And it's the names that matter. It's the names people are waiting for." He put the cup down. "Let them wait. Let them all wait."
+"Nothing." He reached for the tea without looking at it. "Captain's orders. The press has had its one message, the one he wrote himself, and that's all it gets. After that it's names and official business. Nothing else." He drank. "He's right. If I start answering newspapers, I'll never get the names out. And it's the names that matter. It's the names people are waiting for." He put the cup down. "Let them wait. Let them all wait."
 
 I looked at the pile. It was very tall. I could read the top one from where I stood. It was from a newspaper in New York, and it asked, politely, at great length, for a statement from any survivor, at any price.
 
@@ -100,7 +100,7 @@ Something moved in her face. Not a smile. Something underneath one, quick, and t
 
 I stood by the hatch for some time after she'd gone.
 
-I have told you that I put her away, that morning, in the saloon, just as I had once put away a waiter in a white jacket. I want to be honest with you. I took her out again, by the hatch, for perhaps a minute. I turned her over. A young Englishwoman, educated, very composed, with gray eyes too far apart and a way of looking at a room. And then Lyle shouted for me from the companionway, and there was a lady in first class who wanted her trunk moved, and I put her away again, and went.
+I have told you that I put her away, that morning, in the saloon, just as I had once put away a waiter in a white jacket. That isn't quite true. I took her out again, by the hatch, for perhaps a minute. I turned her over. A young Englishwoman, educated, very composed, with gray eyes too far apart and a way of looking at a room. And then Lyle shouted for me from the companionway, and there was a lady in first class who wanted her trunk moved, and I put her away again, and went.
 
 I have asked myself since, more times than I could count, what I would have done if Lyle had not shouted.
 

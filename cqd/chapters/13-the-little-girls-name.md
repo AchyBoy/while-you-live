@@ -20,7 +20,7 @@ It was worse than the last one. I saw that before I had read a word. The tremor 
 
 *Please ask him the little girl's name.*
 
-I read it out. Freda held out her hand, and I gave it to her, and she looked at it under the kitchen light for a long time.
+I read it out. Freda held out her hand, and I gave it to her, and she tilted it under the kitchen light.
 
 "His hand's worse," she said.
 
@@ -64,7 +64,7 @@ That was all.
 
 I sat at the kitchen table and read it, and read it again, and then I got up and walked around the kitchen, and came back, and read it again. *A magazine writer. Bound for Naples. Wednesday night. A fall on a companionway. The fog.*
 
-Every word of it was what he'd told me. And there was not one word in it he couldn't have known if he had been there, and not one word he could have read anywhere else, because I had just spent six hours finding it and I was the best there was at finding things, once.
+Every fact in it was one he'd told me. Nothing in it was anything he couldn't have known if he'd been there. And I had just spent six hours finding it, and I had been very good at finding things, once. If it was anywhere easier, I hadn't found that either.
 
 Or he had found it first. Years ago. On some long night of his own. And built a man around it.
 
@@ -74,7 +74,7 @@ And then: *I don't know that.*
 
 * * *
 
-I read him the card on Thursday morning, before the recorders, at the kitchen table, with the coffee.
+I read him the card on Thursday morning, the twenty-fourth session, before the recorders, at the kitchen table, with the coffee.
 
 He took it out of my hand and held it near the window, in the gray light, and looked at it for a long time. He looked at the handwriting more than at the words. I watched his eyes go along the long strokes, the blots, the places where the pen had stopped and started.
 
@@ -106,7 +106,7 @@ I looked at the envelope in my hand. Then I looked at him.
 
 "Why?"
 
-"Because I'm not telling him," he said. "Not really." He folded his hands on the table. "Ms. Barnett, if I'm wrong about why he's asking, then it's a little girl's name, a hundred and fourteen years old, sealed in an envelope, and it goes to an old man who will read it once and put it in a drawer, and no harm in the world comes of it. And if I'm right about why he's asking..." He stopped.
+"Because I'm not telling him," he said. "Not really." He folded his hands on the table. "Ms. Barnett, if I'm wrong about why he's asking, then it's a little girl's name, a hundred and fifteen years old, sealed in an envelope, and it goes to an old man who will read it once and put it in a drawer, and no harm in the world comes of it. And if I'm right about why he's asking..." He stopped.
 
 "Then what?"
 

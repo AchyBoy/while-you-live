@@ -18,13 +18,13 @@ If you do not know me, here is how I came to be standing in a hall closet on a S
 
 My name is Iola Barnett. I used to be a reporter. Six years ago I broke a story about forged letters being sold as genuine at Carrow House, the old auction house downtown, and three days after it ran, the man who had given me the story disappeared. Without him, nobody believed a word of it. The paper printed a correction and let me go. Since then I have written whatever people pay me to write: gutter guards, dentists, houses that need to sound bigger than they are.
 
-Last fall a law firm called Aldine, Mercer and Voss wrote to me on behalf of a client who would not give his name. The client wanted me to drive two hours north every Thursday and record the memories of an old man who lived alone in a small house full of books. He paid three thousand dollars a session, more than I had made in a month in years. The old man's name, as far as anybody knew, was Tom Hale. He was somewhere in his seventies. He told me, on the first day, that he remembered 1865.
+Last fall a law firm called Aldine, Mercer and Voss wrote to me on behalf of a client who would not give his name. The client wanted me to drive two hours north every Thursday and record the memories of an old man who lived alone in a small house full of books. He paid three thousand dollars a session, more than I had made in a month in years, and after Christmas, without a word of explanation, he doubled it. The old man's name, as far as anybody knew, was Tom Hale. He was somewhere in his seventies. He told me, on the first day, that he remembered 1865.
 
 He did not mean that he had read about it. He meant that he had been there. That he had woken up one July afternoon in 1864 in the body of a wounded Confederate soldier outside Washington, and had lived in that body for a year, and had been in the city the night Lincoln was shot. He said it had happened to him a great many times, in a great many places. He said he did not know why.
 
-I did not believe him. I want to be clear about that. I spent eighteen Thursdays not believing him, and checking everything he said, and finding that everything he said checked out. In the end I went to the Library of Congress and found a letter in a box nobody had asked for in twenty-two years. It matched what he had told me, line for line, and he had never seen it. I had a copy of it in a folder in my bag. I had meant to show it to him last Thursday, and I had not, because of the card.
+I did not believe him. I want to be clear about that. I spent eighteen Thursdays not believing him, and checking everything he said, and finding that everything I could check, checked out. In the end I went to the Library of Congress and found a letter in a box nobody had asked for in twenty-two years. It matched what he had told me closely enough to frighten me, and he had told me he had never seen it. I had a copy of it in a folder in my bag. I had meant to show it to him last Thursday, and I had not, because of the card.
 
-The card had come by courier on a Monday night, in the client's own hand. That hand had started to shake. There was one line on it.
+The card had come by courier on a Monday night, in the client's own hand. That hand had always shaken a little. Now it shook badly. There was one line on it.
 
 *Please ask him about the Carpathia.*
 
@@ -96,13 +96,13 @@ The diner. The grilled cheese and the tomato soup he always ordered and never at
 
 I put the pencil on that line and left it there.
 
-All winter I had been going over the same few facts, the way you turn over a stone in your pocket until it is smooth. The cat shut in the bedroom, because somebody was at the door. The family photographs still on the wall. The two banker's boxes of papers gone from the closet by the door, and not a word about them in the police report. He had put it together for me, at his kitchen table, a few weeks ago. My source had not run. He had opened his door to somebody he knew. And somebody had left with his papers.
+All winter I had been going over the same few facts, the way you turn over a stone in your pocket until it is smooth. The cat shut in the bedroom, which Petrakis said my source only did when somebody came to the door. The family photographs still on the wall. The two banker's boxes of papers I had seen in the closet by the door, and not a word about them in the police report. Tom had put those facts together at his kitchen table a few weeks ago, and I had argued with him. He thought my source had not run. He thought he had opened his door to somebody he knew, and that somebody had left with his papers. I had told him the cat only proved that somebody came to the door, and that a police report doesn't prove anything that isn't in it. Both of those were still true. I had still not been able to stop thinking about what he said.
 
 *Who was at the door?*
 
 I had written that on the back of an envelope the night I drove home, and I had looked at it every day since, and I had not done one useful thing about it. I had decided it had been six years. That the dry cleaner's was a smoothie place now. That Petrakis had sold the building and moved in with his daughter in Silver Spring, and that the police had never cared, and that nobody remembered a knock on a door on a Wednesday morning six years ago. I had asked the police for the whole file, the officer's notes and the photographs and anything else behind those two thin pages, and that was all I had done, and the police had not answered.
 
-But somebody might. A woman who called the landlord so often about noise that he stopped picking up was a woman who listened. She listened through her ceiling, every day, to a building full of other people's lives. She had lived one floor below him. If anyone in the world had heard that door, it was her.
+But somebody might. A woman who called the landlord so often about noise that he stopped picking up was a woman who listened. She listened through her ceiling, every day, to a building full of other people's lives. She had lived one floor below him. If anyone had heard that door, it was her.
 
 And I had known she existed for six years. I had made a joke about her at lunch. I had never once asked her name.
 

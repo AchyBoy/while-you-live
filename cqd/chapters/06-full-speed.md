@@ -2,6 +2,10 @@
 
 ## Chapter 6: Full Speed
 
+Session twenty was the second Thursday in March. It rained the whole way up. He had the notepad on his knee before I had my coat off, and when I had said the date into the recorders he began in the passage outside the captain's cabin, exactly where he had stopped, as if he had been standing there all week.
+
+* * *
+
 *April 15, 1912, a little after half past twelve*
 
 The chief steward slept in a cabin on C deck, aft, and he slept like a dead man. I knocked, and then I hammered, and then I opened the door and shook him by the shoulder, which a bell boy does not do to a chief steward in any life, and said the captain wanted him in the chart room at once, sir, at once.
@@ -22,7 +26,7 @@ I want to tell you what Rostron did in the next hour, Ms. Barnett, because I wat
 
 He did not hurry. That was the first thing. The ship was hurrying, every inch of her, but he did not. He stood in the chart room in his uniform with his cap on, and the officers came to him one at a time, and he gave each of them a list. He gave the lists quietly, and he did not say anything twice, and he did not leave anything out. I stood in the doorway and ran wherever I was sent, and every time I came back there was another officer at the table and another list.
 
-The doctors. There were three on board, the ship's own surgeon and two who happened to be sailing with us, an Italian and a Hungarian. One saloon each. The English doctor in the first-class dining room, the Italian in the second, the Hungarian in the third, each with blankets and brandy and hot water and whatever he needed, so that anyone brought up out of the cold would find a doctor who spoke their language, or near it.
+The doctors. The ship carried three, because of the emigrant trade: an Englishman, an Italian and a Hungarian. One saloon each. The English doctor in the first-class dining room, the Italian in the second, the Hungarian in the third, each with blankets and brandy and hot water and whatever he needed, so that anyone brought up out of the cold would find a doctor who spoke their language, or near it.
 
 The purser, the assistant purser and the chief steward at the gangways, to take the names of everyone who came aboard. Every name. He said that twice, actually. It was the only thing I ever heard him say twice. *Every name.*
 
@@ -54,13 +58,13 @@ Nobody said anything. Then somebody at the back said, "The Titanic," in the voic
 
 * * *
 
-They put me on blankets first. I carried blankets from the linen stores to the gangways and the saloons until my arms shook, armful after armful, a boy with a pile of gray wool up to his eyes running along corridors that were still tilted over into the turn, because she was still leaning, still pushing, still going north-west as fast as she could go.
+They put me on blankets first. I carried blankets from the linen stores to the gangways and the saloons until my arms shook, armful after armful, a boy with a pile of gray wool up to his eyes running along corridors that shook under my feet. She had come round onto her new course and settled, and now she was pushing north-west harder than I had felt her push in three weeks, and every so often the shaking changed its note, as if somebody below had found a little more.
 
-It got cold very fast. That was the heat. Rostron had shut off the steam to every radiator on the ship, every cabin, every saloon, and sent every pound of it down to the engines. Within half an hour you could see your breath in the corridors. Within an hour there was frost on the inside of the portholes.
+Then it began to get cold. That was the heat. Rostron had shut off the steam to every radiator on the ship, every cabin, every saloon, and sent every pound of it down to the engines. It didn't happen all at once. The radiators went quiet first, then cool to the hand, and the cold came in through the steel a little at a time. By two o'clock the passengers who came to their doors came in their coats. Out on the open decks it was another thing altogether. Out there it had been bitter all night.
 
 Then Lyle put me and Stan in the second-class corridor on C deck, one at each end, to keep the passengers in.
 
-It was strange work. The passengers woke one at a time, from the cold and from the shaking, because the whole ship had begun to shake, a deep hard shudder that came up through the floor and the walls and the bed frames and the teeth. A door would open, and a man in a dressing gown would look out, and I would say, "Captain's compliments, sir, nothing to be alarmed about, please stay in your cabin," and he would look at me, and at the frost on the porthole at the end of the corridor, and go back in, and shut the door, and not believe a word of it.
+It was strange work. The passengers woke one at a time, from the cold and from the shaking, because the whole ship had begun to shake, a deep hard shudder that came up through the floor and the walls and the bed frames and the teeth. A door would open, and a man in a dressing gown would look out, and I would say, "Captain's compliments, sir, nothing to be alarmed about, please stay in your cabin," and he would look at me, and at the silent radiator by his door, and go back in, and shut the door, and not believe a word of it.
 
 Mr. Hatch came out at about two.
 
@@ -68,7 +72,7 @@ He was fully dressed, in the brown suit, with a muffler around his neck and his 
 
 "Captain's compliments, sir," I said. "Nothing to be alarmed about. Please stay in your cabin."
 
-He looked down at me for a moment. He had a long, clever, tired face, and I saw him look at my face, and then at my hands, which were red and raw from the blankets, and then at the frost on the porthole behind me.
+He looked down at me for a moment. He had a long, clever, tired face, and I saw him look at my face, and then at my hands, which were red and raw from the blankets, and then at the radiator on the wall behind me, which had knocked and ticked every night since New York and was silent now.
 
 "Bertie," he said. "She turned, a little after half past twelve. I felt her go over in my bunk. She's been going flat out ever since, faster than she's ever gone, or the whole ship wouldn't be rattling like a tin of nails. And somebody's turned the heat off to do it, in the middle of the night, in the North Atlantic, with seven hundred paying passengers asleep." He put his hat on. "There's nothing to be alarmed about, is there?"
 

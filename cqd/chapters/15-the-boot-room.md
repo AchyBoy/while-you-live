@@ -12,7 +12,7 @@ The hat, dry inside. The pencil on the third step. The knuckles. The open pocket
 
 And a smear on the fifth step, where the half moon had been.
 
-I could have told the officer, of course. I want you to know I thought about it. I thought about it very carefully. I could have stood up on that landing in my socks and said, *Sir, there was a heel print on the fifth step and the lady wiped it out with her nightdress, and I heard a man in hard shoes walking away along the deck, and it was Mr. Ainsley, who offered Mr. Hatch five hundred dollars on Tuesday.*
+I could have told the officer, of course. I thought about it, very carefully. I could have stood up on that landing in my socks and said, *Sir, there was a heel print on the fifth step and the lady wiped it out with her nightdress, and I heard a man in hard shoes walking away along the deck, and it was Mr. Ainsley, who offered Mr. Hatch five hundred dollars on Tuesday.*
 
 And the officer would have looked at a bell boy with no cap on, at one in the morning, out of his bunk where he had no business to be, telling tales about a first-class gentleman who sat on the boards of several things. And then at the young lady, who had just told him she slipped. And then at the step, which had nothing on it but a smear.
 
@@ -32,11 +32,11 @@ I'd been doing it for three weeks. I didn't think about it any more than you thi
 
 Mr. Ainsley had been given a cabin on B deck, by one of our own first-class gentlemen who had moved in with his brother. I knew which one. I knew every cabin on that deck, by then, and who was in it.
 
-And this is the thing I sat on the floor and turned over, Ms. Barnett, until I was sure. A man who has done what Mr. Ainsley did on that staircase wants, more than anything in the world, the next morning, to be a man who did nothing. He wants to be ordinary. He wants to do every single thing he would have done anyway. And a first-class gentleman, every night of his life, puts his shoes out.
+And this is the thing I sat on the floor and turned over, Ms. Barnett, until I thought I knew what he'd do. A man who has done what Mr. Ainsley did on that staircase wants, more than anything in the world, the next morning, to be a man who did nothing. He wants to be ordinary. He wants to do every single thing he would have done anyway. And a first-class gentleman, every night of his life, puts his shoes out.
 
 If he didn't, Fennimore would notice. Fennimore noticed everything about shoes. He'd mention it to the bedroom steward, who'd mention it to somebody else, and by breakfast half the stewards on the ship would know that the gentleman in B-52 had kept his shoes in, the night the writer fell.
 
-A careful man would put them out. Wet as they were. And hope.
+I thought a careful man would put them out. Wet as they were. And hope. If I was wrong, there would be a gap on the rack where B-52's shoes should be, and that would tell me something too.
 
 At half past four I went to the boot room.
 
@@ -44,17 +44,17 @@ At half past four I went to the boot room.
 
 It was a little steel cupboard of a place down on C deck, with a bench and a gas ring and a hundred pairs of shoes in rows on racks, and a smell of blacking that I can call up now if I close my eyes. Fennimore wasn't there yet. He came at five. I lit the lamp.
 
-They were on the second rack, in the row Fennimore had collected from B deck at midnight. Black, good leather, a gentleman's shoes, still damp across the toes from the deck. And on the sole of the right one, in Fennimore's chalk, the number of his cabin.
+Fennimore did his round of the first-class passages at three every morning, racked what he'd collected, and went back to his bunk for two hours before he cleaned them. The shoes were on the second rack, in the row he had brought down from B deck. Black, good leather, a gentleman's shoes, still damp across the toes from the deck. And on the sole of the right one, in Fennimore's chalk, the number of his cabin.
 
 I picked up the right shoe and turned it over under the lamp.
 
-The heel was a hard one, stacked leather, the kind that clicks. And on the inside edge of it, at the curve, there was a notch. One small square notch, where a nail had worked loose and a bit of the leather had chipped away. Just there. Just that shape.
+The heel was a hard one, stacked leather, the kind that clicks. And on the inside edge of it, at the curve, there was a notch. One small square notch, where a nail had worked loose and a bit of the leather had chipped away. Just there. Just that shape. And down in the notch, dried brown, a little crust of something the walk back along a wet deck hadn't washed out. It might have been anything, to anyone who hadn't seen the fifth step.
 
 I stood under the lamp with that shoe in my hand for a long time.
 
-I had him. I want you to understand that. In that cupboard, at twenty to five in the morning, I had him, as surely as I've ever had anyone. Hatch's pocket and Hatch's knuckles and Hatch's pencil, and a half moon on the fifth step with a notch in it, and the shoe that made it, in my hand.
+I was sure. In that cupboard, at twenty to five in the morning, I was as sure as I have ever been of anything. Hatch's pocket and Hatch's knuckles and Hatch's pencil, and a half moon on the fifth step with a notch in it, and the shoe that made it, in my hand.
 
-And it was worth nothing. The half moon was gone. Wiped away. There was no one in the world who had seen it but me, and a young woman who had made very sure no one else would. And the shoe, by itself, was a gentleman's shoe with a chipped heel.
+And it was worth nothing. The half moon was gone. Wiped away. Nobody had seen it but me, and the man who made it, and a young woman who had made very sure no one else would. And the shoe, by itself, was a gentleman's shoe with a chipped heel and a speck of something brown in it. Being sure isn't proving. I had spent a great many lives learning the difference, and I could feel it that morning in that cupboard as plainly as the cold.
 
 I didn't clean it. That was all I could think to do. Fennimore would clean the rest of the rack at five and send them up, and the right shoe of B-52 would go up with the others, and I didn't want a brush or a cloth to touch that heel. So I took a rag and did the toes of both, quickly, the way Fennimore liked, and the uppers, and put a shine on them you could see your face in. And I left the heels alone. I put them back on the rack exactly where they'd been, with the chalk on the sole.
 
@@ -62,7 +62,7 @@ Then I put out the lamp, and went up, and at breakfast I saw Mr. Ainsley.
 
 * * *
 
-He was at the head of a table in the first-class dining saloon, at the first sitting, in his good gray suit and his shined shoes, with his little group around him. He was talking. He looked rested. He had a bruise on the left side of his jaw. A fresh one, going purple, just at the corner, where a man's fist lands if he's right-handed and swinging up.
+He was at the head of a table in the first-class dining saloon, at the first sitting, in his good gray suit and his shined shoes, with his little group around him. He was talking. He looked rested. He had a bruise on the left side of his jaw. A fresh one, going purple, just at the corner, about where a right-handed man's fist lands if he swings up at somebody taller. A fall against a rail could have done it too.
 
 He was telling them about it. I could hear him from the sideboard. He'd slipped on deck, he said, in that confounded fog, last night, coming back from a turn around the deck. Gone down like a sack of potatoes and hit his chin on the rail. He laughed about it. The big laugh. His group laughed too.
 
@@ -82,7 +82,7 @@ The typewriter case.
 
 Mr. Hatch had typed all Wednesday afternoon, in the library. A fair copy, he'd said. The worst of his handwriting. And when I took him his tea, I had seen the little stack of typed pages, folded, in the lid of the case. Five or six. And the case had been on the chair beside him.
 
-Mr. Ainsley had his notebook. I was sure of that. A man like Ainsley doesn't throw a thing like that over the side. He keeps it. He wants to know whose names are in it. Who talked. Three people, Hatch had said. Three people in the same boat, who'd agreed to forget. In New York, Mr. Ainsley would want to see each of the three of them, very privately, and be very kind.
+I thought Mr. Ainsley still had the notebook. I couldn't know it. He might have put it over the side in the fog before he was ten steps from the stairs. But a man like Ainsley, in my experience, keeps a thing like that. He wants to know whose names are in it. Who talked. Three people, Hatch had said. Three people in the same boat, who'd agreed to forget. In New York, Mr. Ainsley would want to see each of the three of them, very privately, and be very kind.
 
 But Mr. Ainsley hadn't been in the library on Wednesday afternoon. He'd been in the smoking room, with his group, telling them about the tiller.
 
@@ -132,7 +132,7 @@ Freda had gone very still.
 
 "Mr. Ainsley stood up in the boat," he said, "with his oar. And hit his hands. Twice. Until he let go."
 
-Nobody said anything. The woodstove ticked. Outside, a car went by on the far road.
+Freda put her forehead down on her knees. He waited until she lifted it again.
 
 "Then he sat down," said Tom, "and took up his oar, and pulled. And he told everyone in that boat it hadn't happened. That the man had been gone already. That nobody had seen anything, in the dark. And they all agreed. They sat in that boat until dawn, and they agreed. Hatch got it from three of them. The mother was one. She'd been holding the little boy, at the side, right there, and she'd seen the man's face." He put the pencil down. "That was what was in Hatch's notebook. That was what Mr. Ainsley was going to walk off the ship with in his pocket. And that was what I had in a typewriter case in my locker, five pages of it, typed with two fingers, at a quarter past seven on Thursday morning."
 
@@ -166,8 +166,8 @@ Freda was looking at him from the stairs.
 
 "Yes."
 
-Freda put her chin back down on her knees. She looked at the books on the step beside her for a long time.
+Freda put her chin back down on her knees. She ran her thumb down the spine of the book on the step beside her, and up again.
 
 "I don't like that both of those are true," she said.
 
-"No," said Tom. "Nobody does." He picked up the pencil again. "That's how you know they are."
+"No," said Tom. "Nobody does." He picked up the pencil again. "You don't have to like it. You only have to not pretend one of them away."

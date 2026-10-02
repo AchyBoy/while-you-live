@@ -2,9 +2,13 @@
 
 ## Chapter 11: The Hands
 
+Session twenty-two was the last Thursday in March. I had called Petrakis on the Monday to ask whether there had been a computer on the desk, and he had said of course there was, a big ugly thing, the tenant was always on it, and had it been on the Friday he didn't know, he was looking at the cat. I told Tom that at the door. He nodded, and said that was something, and that it wasn't enough, and went in and sat down and started on the Tuesday.
+
+* * *
+
 *April 16, 1912*
 
-By Tuesday the ship had found a shape for its grief, the way water finds a shape for a jar.
+By Tuesday the ship's grief had settled into a routine, the way water settles into whatever holds it.
 
 There was a routine to it. That was the strange thing. People need one, even then. Breakfast was served in sittings, ours and theirs together, and the women from the boats came to the tables in borrowed clothes and sat with their hands in their laps and ate nothing, and then came back at the next sitting and ate a little. The children ran in the corridors, because children will. The ladies in the second-class saloon went on sewing their blanket coats. The doctors went from cabin to cabin. And all day long, along the rail on the boat deck, there were women standing, one or two at a time, looking out at the sea behind us. Not looking for anything. There was nothing to look for. Only looking.
 
@@ -12,7 +16,7 @@ I worked. I think I could have gone on working for a week without sleeping, that
 
 That was the day I learned who was in the boat.
 
-I never asked. I want you to understand that. A bell boy who asks questions gets sent below. I only stood where I was put, by doors and in corners and at the ends of tables with a coffee pot, and the survivors talked, as people do on the second day, when the first shock has worn off and the words begin to come. They talked to each other, low, over my head, as if I were a coat stand. *Which boat were you in? Oh, we were in the one with the officer who swore. We were in the one with the lady who rowed. We were in the one that went back.* By the afternoon I could have drawn you a chart of every boat on that ship and who had been in it, most of them. I had not set out to. It was what I did with my eyes when nobody needed them.
+I never asked. A bell boy who asks questions gets sent below. I only stood where I was put, by doors and in corners and at the ends of tables with a coffee pot, and the survivors talked, as people do on the second day, when the first shock has worn off and the words begin to come. They talked to each other, low, over my head, as if I were a coat stand. *Which boat were you in? Oh, we were in the one with the officer who swore. We were in the one with the lady who rowed. We were in the one that went back.* By the afternoon I could have drawn you a chart of every boat on that ship and who had been in it, most of them. I had not set out to. It was what I did with my eyes when nobody needed them.
 
 And the boat with the young woman in the dark coat, and the mother who didn't speak, and the two children: that one I found I had drawn more carefully than the others.
 
@@ -28,15 +32,15 @@ I brought them tea. Bride looked up when I came in and said, "Thanks, kid," and 
 
 There was a telegram on the top of the press pile that afternoon that was not from a newspaper. Cottam saw me look at it, and turned it toward me so I could read it, without a word.
 
-It was from the President of the United States. It asked whether Major Archibald Butt was aboard.
+It had come relayed from shore, and it was sent on behalf of the President of the United States. It asked whether Major Archibald Butt was aboard.
 
 "Is he?" I said.
 
-Cottam shook his head. "Not on any list." He turned it back face down on the pile. "Captain says names, and nothing but names, to the shore. If the major's name isn't in them, that's the answer." He put his hand on the key. "Names, Bertie. That's all we can do."
+Cottam shook his head. "Not on any list." He folded the form and held it out to me. "Take that to the purser. He answers anything official. He'll want to say *not on board.*" He put his hand on the key. "I've no time for it, Bertie. Names. That's all I can do."
 
-He went on sending. The President's telegram stayed on the pile, face down, with all the others.
+I took it to the purser's office and put it in the purser's hand, and went back up with more tea.
 
-I have thought about that since. The President of the United States asked a question about his friend, and a boy of twenty-one with no sleep put it face down on a pile, because the names came first. And he was right. I have been on the wrong side of a great many orders, in a great many lives. That one was right.
+I have thought about that telegram since. The newspapers said afterward that the President never got an answer from the Carpathia. The captain told the senators that his purser remembered one going back: *Not on board.* I carried it to the purser's office. I never saw what went out. I don't know which of them is right, and I don't think anybody alive does. What I know is that a boy of twenty-one with no sleep looked at a question from the President of the United States and went on sending names, because there were seven hundred families waiting for those. I've been on the wrong side of a great many orders, in a great many lives. I don't think that one was wrong.
 
 * * *
 
@@ -46,7 +50,7 @@ I'll call him Mr. Ainsley. It wasn't his name. I told you I wouldn't give you th
 
 He was about forty-five. Tall, well made, with a good jaw and a fine head of hair going gray at the sides, the kind of man who looks as if he ought to be on the board of something, and was, I learned later, on the boards of several things. He had been in first class on the Titanic. He was on the boat deck of the Carpathia by Tuesday morning, in his own clothes. That was the first thing I noticed about him. His own clothes. A good gray suit, a little creased, but dry and whole, and a proper collar, and his own shoes. Good black shoes, with hard leather heels, that you could hear on the deck boards from twenty feet away.
 
-Most of the men who came off those boats came off them in whatever they'd been wearing at midnight. Evening clothes with a coat over them. Pajamas. One man came up the ladder in his dressing gown and a lifebelt and a bowler hat. Mr. Ainsley had dressed. He had dressed, all the way to his shoes, and come up on deck and got into a boat. And there was only one kind of boat a man could have got into in his own good shoes, with time to tie the laces: one of the early ones, that went down half empty, when nobody yet believed the ship would sink.
+Most of the men who came off those boats came off them in whatever they'd been wearing at midnight. Evening clothes with a coat over them. Pajamas. One man came up the ladder in his dressing gown and a lifebelt and a bowler hat. Mr. Ainsley had dressed. He had dressed, all the way to his shoes, and come up on deck and got into a boat. A man who had time to dress down to his laces had most likely gone in one of the early boats, the ones that went down half empty, when nobody yet believed the ship would sink.
 
 He talked a great deal. He was a talker, the kind people gather around. By Tuesday afternoon he had a little group of his own in the first-class smoking room, other survivors, and a few of our own passengers too, and he told them about the night, the boat, the cold, and he told it well. He had a way of telling things so that you saw them. He had a big laugh, and he used it, even then, even that week, at the right moments, to let people breathe.
 
@@ -58,11 +62,11 @@ And I saw his hands.
 
 He had wrapped the right one in a handkerchief. The left was bare. Across the palm of it, at the base of every finger, there was a row of blisters, big ones, the kind you get from hours on something rough and hard, and all of them had burst, and the skin had come away raw and red underneath. The handkerchief on the right hand had a stain coming through it in the same places. In the same row.
 
-I have pulled an oar, Ms. Barnett, in more than one life. I know the hands of a man who has rowed all night. You blister in that row, across the root of the fingers, both hands, because an oar takes both. A tiller you steer with one hand, and you shift it from one to the other when you're tired, and you may get a sore palm, but you don't get that. Not on both hands. Not in that row.
+I have pulled an oar, Ms. Barnett, in more than one life. I know what hours on one do to a man's hands. You blister in that row, across the root of the fingers, both hands, because an oar takes both. A tiller you steer with one hand, and shift to the other when you're tired, and you may get a sore palm, but you don't usually get that.
 
-Mr. Ainsley had not been sitting in the stern keeping up the ladies' spirits. Mr. Ainsley had been on an oar, all night, as hard as he could pull.
+I couldn't know it was an oar. A man can tear his hands on a rope, or on the falls coming down, or holding on to something in the dark. I couldn't know for how long. But they looked like an oarsman's hands to me, both of them, and he was telling a room full of people that he'd sat at the tiller.
 
-There was nothing wrong with that. I want to say that plainly. A man who rows all night in an open boat to keep people alive has nothing to hide. He has something to be proud of. Most men would have shown you their hands.
+If he had rowed, there was nothing wrong with that. A man who rows in an open boat to keep people alive has nothing to hide. Most men would have shown you their hands.
 
 Mr. Ainsley had wrapped one of his up, and was telling a room full of people that he'd sat at the tiller.
 
@@ -150,7 +154,7 @@ I found it that night. It wasn't hard. The oldest complete piece of music in the
 
 *While you live, shine. Have no grief at all. Life exists only a short while, and time demands its due.*
 
-The first century. It was the oldest music anyone had. I sat and looked at the date for a long time. Then I went back to the transcript, and the place where he had said he'd known it longer than he'd known anything, and I found I didn't want to think about the arithmetic.
+The first century. It was the oldest music anyone had. Then I went back to the transcript, and the place where he had said he'd known it longer than he'd known anything, and I found I didn't want to think about the arithmetic.
 
 Freda typed that session the following Sunday. When she got to the humming, she stopped, and played it back, and played it again.
 

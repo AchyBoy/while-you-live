@@ -2,6 +2,10 @@
 
 ## Chapter 12: The Foot of the Stairs
 
+Session twenty-three was the first of April. Freda had typed the song on the Sunday and left the transcript on the kitchen table with every place he hummed it marked in yellow, on every tape she had typed since February. I didn't show him. I set out the recorders and asked him about the Wednesday.
+
+* * *
+
 *April 17, 1912*
 
 On Wednesday evening the fog came down.
@@ -16,7 +20,7 @@ Nobody slept much, on the Wednesday. Not them, and not us.
 
 Mr. Hatch spent the afternoon typing.
 
-He had moved from the smoking room to a table in the corner of the second-class library, where it was quieter, and he had the typewriter out of its case for the first time since we'd left New York, and he was typing with two fingers, very fast, from the notebook propped open beside the machine. The notebook was twice the size it had been on Monday. He had been writing in it for three days.
+He had moved from the smoking room to a table in the corner of the second-class library, where it was quieter, and he had the typewriter out of its case again, and he was typing with two fingers, very fast, from the notebook propped open beside the machine. The notebook was twice the size it had been on Monday. He had been writing in it for three days.
 
 I asked him once, when I brought him tea, what he was typing.
 
@@ -90,11 +94,11 @@ A gray felt hat, a cheap one, lying upside down on the top step, with its crown 
 
 Then I looked down the stairs.
 
-He was lying at the bottom. On his back, on the landing, with one leg still up on the lowest step and his arms out, and his head at an angle a head should not be at, against the wall. His eyes were open. He was looking up the stairs, straight at me.
+He was lying at the bottom. On his back, on the landing, with one leg still up on the lowest step and his arms out, and his head at an angle a head should not be at, against the wall. His eyes were open. He was looking up the stairs, straight at me. Under his head, on the boards of the landing, there was blood, not a great deal, dark, spreading very slowly.
 
 I have seen a great many dead men, Ms. Barnett. I knew before I was halfway down.
 
-I went down anyway. I went down very carefully, on the edges of the steps, close to the rail, not touching it, and I knelt beside him on the landing and put two fingers under his jaw, as I had done in other lives, and there was nothing. He was still warm. He had not been there long. Minutes.
+I went down anyway. I went down very carefully, on the edges of the steps, close to the rail, not touching it, and I knelt beside him on the dry side of the landing and put two fingers under his jaw, as I had done in other lives, and there was nothing. He was still warm. He had not been there long. Minutes.
 
 I didn't touch anything else. I looked.
 
@@ -102,15 +106,17 @@ I want to tell you what I saw, in the order I saw it, because I have gone over i
 
 His coat. The inside pocket, on the left. The one he buttoned every time, and patted. It was unbuttoned. It was hanging open, and it was empty. I could see the lining. There was nothing in it.
 
-His right hand, the one flung out toward the wall. The knuckles were skinned. All four of them, raw and fresh, with a little blood in the creases. You don't skin your knuckles falling down a flight of stairs on your back. You skin them hitting something.
+His right hand, the one flung out toward the wall. The knuckles were skinned. All four of them, raw and fresh, evenly across the tops, with a little blood in the creases. A man falling down a stair on his back might skin a hand on the wall. To me, all four together, like that, looked like a fist that had hit something hard.
 
 His pencil. It was on the third step from the top, lying across the tread. Not at the bottom with him. At the top.
 
-And on the fifth step, near the wall side, on the wet teak, there was a mark. Half a mark. The back of a shoe, where the heel had come down hard on the wet wood. A neat, sharp-edged, curved half-moon, the kind a hard leather heel makes, with one small square notch out of the curve of it, on the inside edge, where a nail had worked loose or a bit of the leather had chipped. Going up. Not down. Up.
+And on the fifth step, near the wall side, there was a mark. Half a mark, dark on the pale scrubbed teak. The back of a shoe heel, printed in blood. A neat, sharp-edged, curved half-moon, the kind a hard leather heel makes, with one small square notch out of the curve of it, on the inside edge, where a nail had worked loose or a bit of the leather had chipped. The only blood anywhere was on the landing, by his head. So whoever made that mark had stood down there, after he fell, and then gone up. The round back of the heel was toward the landing, which is how a heel sits when a man is climbing.
 
-I knelt there, beside him, with the whistle going, and I put it together, as you put together a thing you already know. A man at the top of the stairs, in the fog, at night, with his notebook buttoned in his pocket. Somebody with him. A hat knocked off on the top step before any of the fog had got into it. A fist thrown. A pencil dropped. A fall. And then somebody coming quickly down after him, kneeling where I was kneeling now, unbuttoning a dead man's pocket. And going back up, fast, on hard heels, one of them coming down on a wet step and leaving half a moon.
+I knelt there, beside him, with the whistle going, and I made a story out of it. I want to be honest about that. It was the story that fitted, and not all of it was in front of me. A man at the top of the stairs, in the fog, at night, with his notebook buttoned in his pocket. Somebody with him. A hat knocked off on the top step before the fog had time to wet the inside of it. A fist thrown. A pencil dropped. A fall. And then somebody coming down after him, kneeling where I was kneeling now, unbuttoning a dead man's pocket. And going back up, fast, on hard heels, one of them coming down in the blood he'd stood in and leaving half a moon on the fifth step.
 
 Click, click, click. A door.
+
+Most of that I couldn't have proved to anybody. The hat and the pencil said something had happened at the top of the stairs. The knuckles said he had hit something, or somebody. The pocket said somebody had emptied it, or he had. The heel said somebody had stood in his blood and gone up. The rest was me.
 
 * * *
 
@@ -180,9 +186,9 @@ The half moon was gone.
 
 There was a smear there instead. A long, soft, shapeless smear across the wet teak, as if somebody had slipped on it. Somebody in soft shoes.
 
-I looked at the young woman. She was getting up off her knees, with one hand on the rail, and her coat had come open, and I saw that the hem of her nightdress was wet and dark across the front, as if she'd gone down on a wet stair.
+I looked at the young woman. She was getting up off her knees, with one hand on the rail, and her coat had come open, and I saw that the hem of her nightdress was wet and dark across the front, as if she'd knelt in something. Everybody there could see she had knelt beside him. Nobody but me had seen the fifth step before she went up it.
 
-"I'm sorry," she said to the officer. Her voice was perfectly steady. "I slipped, coming down to him. I'm afraid I've made a mess of your stairs."
+"I'm sorry," she said to the officer. Her voice was perfectly steady. "I went up to see if there was anyone on deck to help, and I slipped. I'm afraid I've made a mess of your stairs."
 
 "Not at all, miss," said the officer. "Easily done. That's just what I'm saying. Easily done, in this."
 
@@ -202,9 +208,13 @@ He stopped.
 
 I realized I had been holding my pen without writing anything for some time. I put it down.
 
-"Did she take it?" I said. "The notebook."
+"She couldn't have taken it," I said. "The pocket was empty before she came."
 
-"That's what I thought," he said. "For about a day."
+"Yes."
+
+"Then did she know who had?"
+
+"That's what I wondered," he said. "For about a day."
 
 "And the mark on the step. She wiped it out. On purpose."
 

@@ -116,7 +116,7 @@ And on the porch, holding my plate: *We were talking about Bertie. His sisters.*
 
 And on Thursday, in the living room, with the recorders running between us, while Freda made the tea: *She's a good girl, Ms. Barnett.* And holding my eyes a moment longer than he needed to.
 
-"He knew," I said. "For two weeks."
+"He knew," I said. "Since Thursday."
 
 "Mom, he said it wasn't his to tell."
 

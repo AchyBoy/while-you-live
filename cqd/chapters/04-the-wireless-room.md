@@ -48,7 +48,7 @@ I put it on the desk. I gave him the other mug, and he sat back against the wall
 
 "Yes, sir."
 
-"Don't call me sir." He opened his eyes. "Cape Cod's been at it all evening. Messages for the Titanic, piles of them. Private traffic. Rich men on board telling other rich men where to put their money." He tapped the headphones. "She's out of Cape Cod's reach, out where she is. They'll have to wait till she comes in range of Cape Race in the morning."
+"Don't call me sir." He opened his eyes. "Cape Cod's been at it all evening. Messages for the Titanic, piles of them. Private traffic. Rich men on board telling other rich men where to put their money." He tapped the headphones. "She's too far out for Cape Cod to reach. Phillips has been working Cape Race all evening with his own pile, and nobody's told him this lot is sitting there."
 
 "Is she really as big as they say, sir? The Titanic?"
 
@@ -56,11 +56,11 @@ I want to be careful here, Ms. Barnett, because I have gone over this a great ma
 
 I asked him that because I wanted to keep him talking.
 
-That's all. I didn't know anything. I've told you. I was a boy who couldn't sleep, holding a mug of cocoa in a warm room on a cold night, and I didn't want to go back down to the bunk under Stan and lie awake in the dark. If he went to bed, I'd have to go too. So I asked him a question I knew he would like to answer, because all the wireless men were talking about her that month, about her set, the most powerful at sea, and her two operators, who were Marconi men like him and whom he knew by their hands. I asked it to buy myself ten more minutes in that room.
+That's all. I didn't know anything. I was a boy who couldn't sleep, holding a mug of cocoa in a warm room on a cold night, and I didn't want to go back down to the bunk under Stan and lie awake in the dark. If he went to bed, I'd have to go too. So I asked him a question I knew he would like to answer, because all the wireless men were talking about her that month, about her set, the most powerful at sea, and her two operators, who were Marconi men like him and whom he knew by their hands. I asked it to buy myself ten more minutes in that room.
 
 He laughed. He liked the question, as I knew he would.
 
-"Bigger," he said. "She's the biggest thing ever put on water. Phillips and Bride are on her. Jack Phillips. He's the senior man. They've been working that set flat out since Southampton, poor devils, every millionaire on board wanting to send a telegram to his mother." He drank his cocoa and looked at the desk, at the pile of forms from Cape Cod, all addressed to the same ship. "You know what, Bertie. I'll tell her. She can't hear Cape Cod, but she'll hear me. I'll tell them there's a pile waiting for them, and they can take it off Cape Race in the morning and save themselves the trouble of asking." He set the mug down and leaned across to the desk, his one boot still on, the laces trailing. "Do a fellow operator a good turn."
+"Bigger," he said. "She's the biggest thing ever put on water. Phillips and Bride are on her. Jack Phillips. He's the senior man. They've been working that set flat out since Southampton, poor devils, every millionaire on board wanting to send a telegram to his mother." He drank his cocoa and looked at the desk, at the pile of forms from Cape Cod, all addressed to the same ship. "You know what, Bertie. I'll tell her. She can't hear Cape Cod, but she can hear me. We've been passing the time of day with her on and off since this afternoon, just keeping in touch. I'll tell them there's a pile waiting for them at Cape Cod, so they can have it sent on and not wonder why their passengers' answers never came." He set the mug down and leaned across to the desk, his one boot still on, the laces trailing. "Do a fellow operator a good turn."
 
 He put his hand on the key.
 
@@ -142,7 +142,7 @@ I ran down the stairs I had polished that afternoon, and along the corridor on B
 
 She was turning. Under my feet, slowly, all thirteen thousand tons of her, she was leaning over into the turn, the way a big ship does when the helm is put hard across, and the long red carpet tilted under me, and the electric lights in their little glass shades swung out on their chains and stayed there, all of them, all down the corridor, leaning together toward the north.
 
-I have thought about those ten minutes for a hundred and fourteen years, Ms. Barnett.
+I have thought about those ten minutes for a hundred and fifteen years, Ms. Barnett.
 
 I'll tell you what I know, and what I don't. I know Harold Cottam was going to bed. He told me so. I know he was waiting on the Parisian, and that he had the headphones on while he took his boots off, and that he was the one who decided to call the Titanic, out of kindness, to save two tired men some work. Those are his. Nobody gave them to him.
 

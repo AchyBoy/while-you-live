@@ -26,7 +26,7 @@ It wasn't what I had planned to say. I had planned something much longer.
 
 "Yes," he said.
 
-"For two weeks."
+"For a week."
 
 "Yes."
 
@@ -34,7 +34,7 @@ It wasn't what I had planned to say. I had planned something much longer.
 
 "Yes."
 
-"And last Thursday. *She's a good girl, Ms. Barnett.*" I heard my voice rising and let it. "You sat there with the recorders going and said that to my face, and you folded a dish towel, the week before, when I told you she knew her way round Georgia Avenue. You folded a dish towel. I watched you do it. You knew then, too, didn't you? Before she ever told you. You knew in March."
+"And an hour later. *She's a good girl, Ms. Barnett.*" I heard my voice rising and let it. "You sat there with the recorders going, while she was in your kitchen making the tea, and said that to my face. And in March you folded a dish towel, when I told you she knew her way round Georgia Avenue. You folded a dish towel. I watched you do it. You knew then, too, didn't you? Before she ever told you."
 
 He didn't answer that at once.
 
@@ -84,7 +84,7 @@ I heard it go across the kitchen and land on him. I saw it land. His face didn't
 
 He didn't say anything. He turned around and took the kettle off the stove, because it had started to whistle, and stood holding it for a moment, as if he had forgotten what it was for.
 
-I didn't take it back. I want to be honest about that. I stood there and didn't take it back, and I was glad, for about a minute, that I'd said it.
+I didn't take it back. I stood there and didn't take it back, and I was glad, for about a minute, that I'd said it.
 
 * * *
 
@@ -96,7 +96,7 @@ He set the kettle down.
 
 "No," he said. "I suppose I don't."
 
-He made the tea anyway. He made it as he always did, the pot warmed first, the cover on, the two cups, and he carried the tray through to the living room and put it down on the little table, and sat down in his chair, and picked up the notepad. I followed him in, because I didn't know what else to do, and because I was being paid three thousand dollars, and because I could not bear to drive away.
+He made the tea anyway. He made it as he always did, the pot warmed first, the cover on, the two cups, and he carried the tray through to the living room and put it down on the little table, and sat down in his chair, and picked up the notepad. I followed him in, because I didn't know what else to do, and because I was being paid six thousand dollars, and because I could not bear to drive away.
 
 I set out the recorders. I pressed the buttons. I said the date into them, and the time, and *Session twenty-six,* and nothing else.
 
