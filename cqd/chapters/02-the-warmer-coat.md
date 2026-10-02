@@ -92,7 +92,7 @@ He didn't laugh.
 
 "I assumed," I said, and stopped, and tried again. "I suppose I'd assumed you'd still be Kit. He'd have been, what. Sixty-seven?"
 
-"He would." He looked down at the pad. "Kit didn't see the new century. He had a good deal more life than he expected, after 1865, and a good deal less than he wanted. That's another Thursday." He turned the pencil around in his fingers, once. "The next time I opened my eyes, I was very small. I was a boy on a ship, in a uniform with too many buttons, and I had been one for about three weeks when the part I want to tell you about began."
+"He would." He looked down at the pad. "Kit didn't see the new century. He had a good deal more life than he expected, after 1865, and a good deal less than he wanted. That's another Thursday." He turned the pencil around in his fingers, once. "There were others in between, and they're other Thursdays too. In the spring of 1912 I was very small. I was a boy on a ship, in a uniform with too many buttons, and I had been one for about three weeks when the part I want to tell you about began."
 
 "A boy."
 
