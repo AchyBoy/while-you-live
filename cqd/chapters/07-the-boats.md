@@ -72,25 +72,21 @@ He looked at me. He had been looking at the window, at the rain, while he told i
 
 "I know it is. That's why I'm asking." He was very calm. "I won't give you the names of anyone in that boat. Not the woman with the children. Not the others. Not the number of the boat. Everyone else, you can have. Rostron, Cottam, Evans, Hatch. Check them all. But not the boat."
 
-"Then how am I supposed to know any of it's true?"
-
-"You aren't," he said. "Not that part. You'll have to decide whether to believe me." He smiled, a little, not happily. "I know. It's a great deal to ask of you, of all people."
-
-"The lists are public," I said. "Every boat has been studied to death. If you tell me enough about who was in it and what you saw when it came alongside, I can work out which boat it was without you."
-
-"You might," he said. "You're good enough. I'm asking you not to try."
-
-I didn't promise. He noticed that I didn't.
-
-"Every other Thursday," I said, "you've given me something I could check."
-
-"Yes."
-
-"Why not this?"
+"Why?"
 
 He was quiet for a long moment.
 
 "Because I was twelve," he said, "and I couldn't do anything about it. And I've had a very long time to decide what I owe those people now." He picked up the pencil. "Not their names. That much I can still do."
+
+"Then how am I supposed to know any of it's true?"
+
+"You aren't," he said. "Not that part. You'll have to decide whether to believe me."
+
+"The lists are public. I could probably work out which boat it was."
+
+"You probably could." He looked at me. "I'm asking you not to."
+
+I didn't promise. He noticed that I didn't.
 
 I wrote it down. I wrote, *Won't name the boat. Won't name anyone in it.* And then, because I was honest on paper: *First time he's refused me anything.*
 
