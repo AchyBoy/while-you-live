@@ -147,6 +147,8 @@
   .voices button.on { border-color: var(--accent); color: var(--accent); }
   .hasaudio { margin-left: auto; padding-left: .6em; font-size: .85em; opacity: .75; }
   .hasaudio + .tag { margin-left: .5em; }
+  .cover .abook { margin-top: 1.4em; font-size: .78em; color: var(--soft); }
+  .cover .abook a { color: var(--accent); }
 </style>
 </head>
 <body>
@@ -176,7 +178,7 @@
   <button class="later" id="staleLater">Later</button>
 </div></div>
 <script>
-const BUILD = 1791013011946;
+const BUILD = 1791013817267;
 const AUDIO_V = "audio v3";
 const ROUND = 1790884750982;  // only paragraphs changed at or after this build are boxed
 const BOOK = {"series": "While You Live", "title": "Sic Semper", "number": 1, "author": "Andrew F. Young"};
@@ -215,6 +217,7 @@ function cover() {
     <div class="star">&#10043;</div>
     <button class="begin" id="begin">${c ? "Continue reading" : "Begin"}</button>
     <button class="resume" id="toc">Contents</button>
+    <div class="abook">Audiobook &middot; <a href="audio/Sic-Semper-Part-1.m4b" download>Part 1</a> &middot; <a href="audio/Sic-Semper-Part-2.m4b" download>Part 2</a></div>
     ${coverFixes()}
     ${shelf()}
   </section>`;
