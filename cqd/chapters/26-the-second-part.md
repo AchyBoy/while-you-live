@@ -6,7 +6,7 @@ The money came on a Wednesday.
 
 This wasn't the regular money. The six thousand for each Thursday had come on Mondays since January, and on a Saturday once in March, and it had come that Monday too. This came on the Wednesday, the same Wednesday as Frederick, at a little after eleven in the morning, while I was at the kitchen table writing four hundred words about a dentist's new whitening service. My phone buzzed on the table. It was the bank.
 
-It was more than the twenty thousand in the winter. It was more than I had made in the two years before the letter came, put together. And it had not come from Aldine, Mercer and Voss. It had come by wire from a bank in a different city, one I had never been to either, a long way from the firm's, and the line in the note was one I had read once before, in February, on the night of the courier and the Carpathia card.
+It was more than the twenty thousand in the winter. It was more than I had made in the two years before the letter came, put together. And it had not come from Aldine, Mercer and Voss. It had come by wire from a bank in a different city, one I had never been to either, a long way from the firm's, and the line in the note was one I had read before, in February, on the night of the courier and the Carpathia card. All but one word.
 
 *With our client's thanks, at the close of the second part.*
 
