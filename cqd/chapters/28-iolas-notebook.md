@@ -6,6 +6,8 @@
 
 *What he knew before I did*
 
-**1.** Pvt. E. Hurly, "Ned." Point Lookout register: *Hurly, E. Pvt.,* d. Feb. 6, 1865, chr. diarrhoea. It's on the microfilm. Anyone with an afternoon could find it. BUT he told me the clerks spelled it three ways before I looked, and when I held back the date, he gave it to me. Not proof. Keeping the page anyway.
+**1.** *Session 7.* Pvt. E. Hurly, "Ned." Point Lookout register: *Hurly, E. Pvt.,* d. Feb. 6, 1865, chr. diarrhoea. It's on the microfilm. Anyone with an afternoon could find it. BUT he told me the clerks spelled it three ways before I looked, and when I held back the date, he gave it to me. Not proof. Keeping the page anyway.
 
-**2.** Lowell Hatch. *New-York Tribune,* Sat. Apr. 20, 1912, p. 7, bottom of *Incidents of the Rescue Ship's Voyage.* Three lines. Most of a day, reading columns by eye, because the search can't read the small print. I didn't choose the Carpathia. The client did, on a card, in February. He had one week between the card and the first Thursday in March. Possible. Not likely. He says he never looked. Brown suit, two fingers, "Good boy." Nobody builds that from three lines. *I don't know that.*
+**2.** *Session 23.* Lowell Hatch. *New-York Tribune,* Sat. Apr. 20, 1912, p. 7, bottom of *Incidents of the Rescue Ship's Voyage.* Three lines. Most of a day, reading columns by eye, because the search can't read the small print. I didn't choose the Carpathia. The client did, on a card, in February. He had one week between the card and the first Thursday in March. Possible. Not likely. Brown suit, two fingers, "Good boy." Nobody builds that from three lines. *I don't know that.*
+
+*Session 24.* Read it to him on the porch. He says he never looked. "I didn't want to see how short it was."

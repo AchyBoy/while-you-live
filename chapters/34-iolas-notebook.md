@@ -6,4 +6,4 @@
 
 *What he knew before I did*
 
-**1.** Pvt. E. Hurly, "Ned." Point Lookout register: *Hurly, E. Pvt.,* d. Feb. 6, 1865, chr. diarrhoea. It's on the microfilm. Anyone with an afternoon could find it. BUT he told me the clerks spelled it three ways before I looked, and when I held back the date, he gave it to me. Not proof. Keeping the page anyway.
+**1.** *Session 7.* Pvt. E. Hurly, "Ned." Point Lookout register: *Hurly, E. Pvt.,* d. Feb. 6, 1865, chr. diarrhoea. It's on the microfilm. Anyone with an afternoon could find it. BUT he told me the clerks spelled it three ways before I looked, and when I held back the date, he gave it to me. Not proof. Keeping the page anyway.
