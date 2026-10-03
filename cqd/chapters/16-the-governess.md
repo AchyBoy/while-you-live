@@ -20,11 +20,11 @@ I was still working out where to put it when Lyle put his head round the door.
 
 "For me, sir?"
 
-"By name. God knows why." He looked at me as if I might have been stealing the spoons. "One of the survivors. D deck, forward. She says you were very kind to the children and she'd like a word, and some hot milk for the little one. Get the milk from Evans and go. And Pike." He narrowed his eyes. "Whatever she gives you, you give half to me."
+"By name. God knows why." He looked at me as if I might have been stealing the spoons. "One of the survivors. Second class, up on the bridge deck. She says you were very kind to the children and she'd like a word, and some hot milk for the little one. Get the milk from Evans and go. And Pike." He narrowed his eyes. "Whatever she gives you, you give half to me."
 
 * * *
 
-It was an inside cabin, small, with two berths and a washstand and no porthole. Somebody from our own second class had given it up for them. The mother was asleep in the lower berth, on her side, facing the wall, very still, with the doctor's sleeping draught on the washstand beside her. The little boy was asleep in the upper berth with his thumb in his mouth. The girl, the six-year-old, was sitting on the floor in the corner wrapped in a blanket coat that one of our ladies had sewn, drawing on the back of a menu card with a pencil.
+It was an inside cabin, small, with two berths and a washstand and no porthole. Somebody from our own second class had given it up for them. The lower berth was empty, the blanket turned back, and on the washstand beside it stood the doctor's sleeping draught in its little bottle, the cork still in. I noticed that, the way you notice a picture hanging crooked, and then the girl looked up at me, and I forgot it. The little boy was asleep in the upper berth with his thumb in his mouth. The girl, the six-year-old, was sitting on the floor in the corner wrapped in a blanket coat that one of our ladies had sewn, drawing on the back of a menu card with a pencil.
 
 The young woman in the dark coat was sitting on the only chair, by the door, with her hands in her lap. She was dressed now, properly, in a gray skirt and a white blouse that were not hers, too short in the sleeves, and her hair was up. She looked tired. She looked as if she had not slept at all. She looked, also, as if she had been waiting for me, and had known exactly how long I would take.
 
@@ -74,7 +74,7 @@ I watched her take that in. I watched her see the five pages, folded, in the lid
 
 "Yes, miss."
 
-She looked at the lower berth, at the mother's back, turned to the wall.
+She looked at the lower berth, at the hollow in the pillow.
 
 "Then you know what's in them," she said, "and who."
 
@@ -184,7 +184,7 @@ Freda, on the stairs, had her hand over her mouth.
 
 "She kept you talking," she said, through her fingers. "On purpose. The whole time."
 
-"Twenty minutes," he said. "About right and wrong, and a mother asleep in a berth, and what the two of us could and couldn't do. And I enjoyed every minute of it. God help me. It was the first real conversation I'd had in three weeks, and she'd known I would enjoy it, and she'd known that while I was enjoying it I wouldn't be thinking about my locker." He shook his head slowly. "She asked for the pages so I'd say no. So I'd feel I'd won. She never expected me to give them to her. She'd already sent somebody else to get them."
+"Twenty minutes," he said. "About right and wrong, and what the two of us could and couldn't do. And I enjoyed every minute of it. God help me. It was the first real conversation I'd had in three weeks, and she'd known I would enjoy it, and she'd known that while I was enjoying it I wouldn't be thinking about my locker." He shook his head slowly. "She asked for the pages so I'd say no. So I'd feel I'd won. She never expected me to give them to her. She'd already sent somebody to look in that case."
 
 "That's so..." Freda took her hand away from her mouth. "That's so good, though. That's evil. But it's so good."
 

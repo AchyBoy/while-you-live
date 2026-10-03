@@ -70,9 +70,13 @@ She came along the rail toward me, unhurried, with her hands in the pockets of h
 
 "Miss."
 
-"I owe Stan another shilling," she said. "I think I underpaid him. He looked very unhappy about it when I left."
+"I owe Stan another shilling," she said. "She says he looked very unhappy about it."
 
-I didn't answer.
+"She," I said.
+
+"I offered to go myself." She glanced back at the wake. "She wouldn't let me. She said it was her name in them, not mine."
+
+I thought of the lower berth, and the hollow in the pillow, and the cork still in the bottle.
 
 "The notebook's gone too," she said. "If you were wondering. In case you thought you might still find it. Mr. Ainsley went down to the stokehold at six this morning, before anyone was about, with a cigar he didn't light, and came up again without the notebook. I was on the stair." She looked past me, at the funnel, where the smoke was going up. "There's nothing left. Not a page. Not anywhere."
 
