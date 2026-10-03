@@ -112,7 +112,7 @@ I sat in my car in the parking garage under the building where my career had end
 
 *at maddies, back by 7.*
 
-And under it, in my memory, as clear as if I were reading it off the page: *Maddie's sister was getting rid of them.* And *Maddie's sister drives that way.*
+And under it, in my memory, as clear as if I were reading it off the page: *Maddie's sister was getting rid of the white headphones.* *Maddie's sister drove that way, up Georgia Avenue.*
 
 Maddie didn't have a sister. Maddie had two older brothers, and no sister at all. I had known that for eleven years. I had even made a little joke, in my own head, in the car on the way to Frederick, about how generous Maddie's sister had become. I had known it the whole time.
 

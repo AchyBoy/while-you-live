@@ -6,7 +6,7 @@ I didn't wear the coat.
 
 It was hanging on the back of the kitchen chair where it had hung every Thursday since March, and I walked past it on the way out of the door and took my old rain jacket off the hook instead, the thin blue one with the broken zipper, and I knew exactly what I was doing and did it anyway.
 
-Freda had left for school without breakfast. We had said perhaps forty words to each other since Monday, most of them about whether there was milk. She had typed nothing. Last Thursday's tape, the governess and the pages in the wake, the one she had sat on the stairs for, was sitting untouched on her laptop. I had not asked her to do it. She had not offered.
+Freda had taken the bus rather than ride with me, and gone without breakfast. We had said perhaps forty words to each other since Monday, most of them about whether there was milk. She had typed nothing. Last Thursday's tape, the governess and the pages in the wake, the one she had sat on the stairs for, was sitting untouched on her laptop. I had not asked her to do it. She had not offered.
 
 It was a bright, hard, cold morning, the kind April throws in once to remind you it can. The fields past Frederick were green now, properly green, and the trees along the road had leaves you could see from a distance. I didn't look at any of it. I drove with both hands on the wheel and the radio off and went over, the whole way, what I was going to say.
 

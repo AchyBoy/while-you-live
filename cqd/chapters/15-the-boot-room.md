@@ -102,7 +102,7 @@ I picked it up.
 
 It was heavier than it looked. I remember thinking that. A small case, scuffed at the corners, with a leather handle that had been mended with string. *It's all I've got that's worth stealing,* he had said, on the gangway at New York, when I tried to take it from him.
 
-I carried it out of the library past the sleeping people, and nobody woke. A bell boy carrying a case is the most ordinary thing in the world. I carried it down four decks to the bell boys' cabin and put it in my locker and shut the door.
+I carried it out of the library past the sleeping people, and nobody woke. A bell boy carrying a case is the most ordinary thing in the world. I carried it down four decks to the bell boys' cabin.
 
 Then I sat down on the floor in front of the locker, in my socks, and opened the case, and took the pages out of the lid, and read them.
 

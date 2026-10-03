@@ -8,7 +8,7 @@ The bakery had been shut for twelve days, and on Thursday he made eggs.
 
 I had not. I had left before seven, because I wanted to be early, and I had said it was for the traffic.
 
-We ate at the kitchen table. Scrambled eggs, very soft, as the French do them, with chives from a pot on the windowsill and toast from the crying pillow. He had made too much, and watched me eat it with the expression of a man who does not get to feed people often enough.
+We ate at the kitchen table. He sat down before I did, which I noticed, because he always waited for me. Scrambled eggs, very soft, as the French do them, with chives from a pot on the windowsill and toast from the crying pillow. He had made too much, and watched me eat it with the expression of a man who does not get to feed people often enough.
 
 Then I took Mrs. Dunleavy's notebook out of my bag and put it on the table between the plates.
 

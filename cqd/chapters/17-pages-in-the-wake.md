@@ -138,7 +138,7 @@ He didn't answer that.
 
 "It was a long time ago, Freda," he said instead. "And there's still the rest of Thursday. The worst of it." He picked the pencil up again, and looked at it, and put it down. "I think I'd like a cup of tea first. If nobody minds."
 
-Freda got up off the stairs and said she'd make it. He started to protest, and she said, "Sit," in exactly my voice, and went into the kitchen. He sat.
+Freda got up off the stairs and said she'd make it. He started to protest, and she said, "Sit," in exactly my voice, and went into the kitchen. He sat. A month ago he would have argued with her. I noticed that, and I didn't write it down.
 
 He looked at me across the little table, with the recorders running between us.
 

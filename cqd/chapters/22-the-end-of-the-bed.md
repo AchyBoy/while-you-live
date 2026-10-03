@@ -70,7 +70,7 @@ I had. I remembered it. She had read a text and her face had gone still and shut
 
 "I remember."
 
-"He told me I did. Made a difference. To him." She pulled at a thread on the sweater. "He said when I called, he'd been thinking about drinking again. For the first time in like a year. Just that week. He'd had a bad week at work and he was standing outside a liquor store on Kennedy Street and he got the call from the store manager saying some girl named Freda had called asking for him." She laughed, a small wet sound. "He said he went back to work instead. And he hasn't been back to that store since."
+"He told me I did. Made a difference. To him." She pulled at a thread on the sweater. "He said when I called, he'd been thinking about drinking again. For the first time in like a year. He'd had a bad week, and he'd been planning to stop at the liquor store on Kennedy Street on his way home. And then somebody yelled there was a call for him, and it was me." She laughed, a small wet sound. "He said he hung up because he couldn't say anything. And then he drove home the long way, so he wouldn't pass it. He hasn't been back to that store since."
 
 I couldn't say anything for a moment.
 

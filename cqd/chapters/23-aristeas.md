@@ -46,7 +46,7 @@ We sat on the porch. He suggested it. He said the house was stuffy and the sun w
 
 "Freda's very hard to pretend in front of," he said. "So are you."
 
-Inside, the kettle began to whistle. He started to get up, and I said, "I'll get it," and went in and took it off the stove and turned the gas off. I stood for a moment in his kitchen, where I had never once been by myself. Then I came back out.
+Inside, the kettle began to whistle. He started to get up, and I said, "I'll get it," and went in and took it off the stove and turned the gas off. I stood for a moment in his kitchen. The last time I had made tea in it, I had opened all the wrong cupboards. I knew where the cups were now. Then I came back out.
 
 "How is she?" he said.
 
