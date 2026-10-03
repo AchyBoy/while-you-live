@@ -76,7 +76,7 @@ He looked at me. He had been looking at the window, at the rain, while he told i
 
 "You aren't," he said. "Not that part. You'll have to decide whether to believe me." He smiled, a little, not happily. "I know. It's a great deal to ask of you, of all people."
 
-"The lists are public," I said. "Every boat has been studied to death. If you tell me enough about what happened in it, I can work out which boat it was without you."
+"The lists are public," I said. "Every boat has been studied to death. If you tell me enough about who was in it and what you saw when it came alongside, I can work out which boat it was without you."
 
 "You might," he said. "You're good enough. I'm asking you not to try."
 

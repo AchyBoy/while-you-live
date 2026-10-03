@@ -46,7 +46,7 @@ There was a gentleman from the boat I want to tell you about.
 
 I'll call him Mr. Ainsley. It wasn't his name. I told you I wouldn't give you the names, and I won't. But you need to be able to call him something, and so do I, and Ainsley will do.
 
-He was about forty-five. Tall, well made, with a good jaw and a fine head of hair going gray at the sides, the kind of man who looks as if he ought to be on the board of something, and was, I learned later, on the boards of several things. He had been in first class on the Titanic. He was on the boat deck of the Carpathia by Tuesday morning, in his own clothes. That was the first thing I noticed about him. His own clothes. A good gray suit, a little creased, but dry and whole, and a proper collar, and his own shoes. Good black shoes, with hard leather heels, that you could hear on the deck boards from twenty feet away.
+He was about forty-five. Tall, well made, with a good jaw and a fine head of hair going gray at the sides, the kind of man who looks as if he ought to be on the board of something, and was, I learned later, on the boards of several things. He had been in first class on the Titanic. He was on the boat deck of the Carpathia by Tuesday morning, in his own clothes. That was the first thing I noticed about him. His own clothes. A good gray suit, a little creased, but dry and whole, and a proper collar, and his own shoes. Good black shoes, with hard leather heels.
 
 Most of the men who came off those boats came off them in whatever they'd been wearing at midnight. Evening clothes with a coat over them. Pajamas. One man came up the ladder in his dressing gown and a lifebelt and a bowler hat. Mr. Ainsley had dressed. He had dressed, all the way to his shoes, and come up on deck and got into a boat. A man who had time to dress down to his laces had most likely gone in one of the early boats, the ones that went down half empty, when nobody yet believed the ship would sink.
 
@@ -76,11 +76,11 @@ At about five, I saw him go and talk to Mr. Hatch.
 
 Hatch was in his corner of the second-class smoking room, by the window, with his notebook. He had been at it all day. Survivors came and sat with him, one at a time, and talked, and he listened and wrote, and bought them coffee, and they went away. I had carried a good deal of the coffee.
 
-Mr. Ainsley came in from the deck, in his hard heels, and the room heard him come, and he went to Hatch's corner and sat down across from him, uninvited, and smiled. I was at the sideboard with a tray of cups. I couldn't hear them. They kept their voices low. But I could see them, and I watched.
+Mr. Ainsley came in from the deck and went to Hatch's corner and sat down across from him, uninvited, and smiled. I was at the sideboard with a tray of cups. I couldn't hear them. They kept their voices low. But I could see them, and I watched.
 
 Ainsley did most of the talking. He leaned forward with his elbows on his knees and his wrapped hand hanging loose, very friendly, very easy, and talked, and once he laughed, the big laugh, loud enough to make heads turn, and put his good hand on Hatch's shoulder for a moment. Hatch didn't laugh. He sat back in his chair with his own hand flat on the notebook and listened, and his face went very still, and then a little white, and at the end he shook his head, once. Only once.
 
-Ainsley looked at him for a moment, still smiling. Then he stood up and went out, with his heels going across the boards.
+Ainsley looked at him for a moment, still smiling. Then he stood up and went out.
 
 I took Hatch his tea.
 

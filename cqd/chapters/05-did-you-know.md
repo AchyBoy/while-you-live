@@ -130,7 +130,7 @@ Freda nodded, as if that were an answer to something, and put the glass in the s
 
 The money came on Saturday.
 
-In the fall it had come on Thursday afternoons, three thousand dollars, a few hours after I left his house. Since January, since the client doubled it, it had come on Mondays, six thousand, as regular as the electric bill. On Saturday morning, at nine o'clock, my phone buzzed on the kitchen counter, and it was the bank, and it was the payment for Session 19, the same six thousand, with the same line in the note that had come with every payment since the rate went up.
+In the fall it had come on Thursday afternoons, three thousand dollars, a few hours after I left his house. I had wondered about that, once. The transcripts took me most of the evening. Whoever released the money knew the session was over before I told them it was. I had put the question away with the others. Since January, since the client doubled it, it had come on Mondays, six thousand, as regular as the electric bill. On Saturday morning, at nine o'clock, my phone buzzed on the kitchen counter, and it was the bank, and it was the payment for Session 19, the same six thousand, with the same line in the note that had come with every payment since the rate went up.
 
 *Our client asks you to take all the time the gentleman needs.*
 

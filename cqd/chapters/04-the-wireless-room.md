@@ -106,9 +106,9 @@ He didn't say anything. He went. He went straight down the ladder toward the cap
 
 Dean knocked once and opened the door.
 
-The captain was asleep. He woke the way a man wakes who has been woken at sea before, all at once, up on one elbow in his bunk, and his first words were angry ones. He didn't like his door opened without leave, and he said so, sharply, to both of them.
+The captain had just turned in. He came up on one elbow when Dean opened the door, angry at being disturbed, and said so sharply to both of them.
 
-Then Cottam told him.
+Cottam cut in. "Sir, the Titanic's sending CQD. She's struck a berg. She wants assistance at once."
 
 I was standing in the passage, behind them, in the dark. I saw the captain's face in the light from the corridor. I saw the anger go out of it, all at once, like a lamp being turned down, and something else come into it, and settle, and stay.
 
