@@ -30,7 +30,7 @@ I read it out. Freda held out her hand, and I gave it to her, and she tilted it 
 
 "In the boat. The one the governess was holding. On the deck, at night, when she hummed." I sat down across from her. "It's in Thursday's tape. You typed it."
 
-"I know who she is. I mean, why her?" Freda put the card down on the table between us, very carefully, as if it might break. "Of everybody on the whole ship, he wants to know her name. Not the bad guy's. Not the governess's. A little kid's."
+"Oh. Her." Freda put the card down on the table between us, very carefully, as if it might break. "But why her? Of everybody on the whole ship, he wants to know her name. Not the bad guy's. Not the governess's. A little kid's."
 
 "He's told me he won't give any names from the boat."
 
@@ -66,7 +66,7 @@ I sat at the kitchen table and read it, and read it again, and then I got up and
 
 Every fact in it was one he'd told me. Nothing in it was anything he couldn't have known if he'd been there. And I had just spent six hours finding it, and I had been very good at finding things, once. If it was anywhere easier, I hadn't found that either.
 
-Or he had found it first. Years ago. On some long night of his own. And built a man around it.
+Or he had found it first. In the week between the card and the first Thursday in March, when he knew what I was going to ask him. And built a man around it.
 
 I made myself write that down. I made myself look at it. Then I wrote under it: *Three lines. Brown suit, two fingers, "Good boy." Nobody builds that from three lines.*
 

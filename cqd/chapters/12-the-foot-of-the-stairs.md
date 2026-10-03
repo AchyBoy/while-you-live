@@ -32,7 +32,7 @@ I asked him once, when I brought him tea, what he was typing.
 
 I looked at the typewriter case, open on the chair beside him. There were already pages in the lid, a little stack of them, typed and folded. Not many. Five or six.
 
-I didn't know then that I would carry that case off the ship myself, and that it would cost me more than anything I had carried on it.
+I didn't know then that I would carry that case out of that library myself, and that it would cost me more than anything else I carried on that ship.
 
 * * *
 
@@ -112,7 +112,7 @@ His pencil. It was on the third step from the top, lying across the tread. Not a
 
 And on the fifth step, near the wall side, there was a mark. Half a mark, dark on the pale scrubbed teak. The back of a shoe heel, printed in blood. A neat, sharp-edged, curved half-moon, the kind a hard leather heel makes, with one small square notch out of the curve of it, on the inside edge, where a nail had worked loose or a bit of the leather had chipped. The only blood anywhere was on the landing, by his head. So whoever made that mark had stood down there, after he fell, and then gone up. The round back of the heel was toward the landing, which is how a heel sits when a man is climbing.
 
-I knelt there, beside him, with the whistle going, and I made a story out of it. I want to be honest about that. It was the story that fitted, and not all of it was in front of me. A man at the top of the stairs, in the fog, at night, with his notebook buttoned in his pocket. Somebody with him. A hat knocked off on the top step before the fog had time to wet the inside of it. A fist thrown. A pencil dropped. A fall. And then somebody coming down after him, kneeling where I was kneeling now, unbuttoning a dead man's pocket. And going back up, fast, on hard heels, one of them coming down in the blood he'd stood in and leaving half a moon on the fifth step.
+I knelt there, beside him, with the whistle going, and I made a story out of it. I want to be honest about that. It was the story that fitted, and not all of it was in front of me. A man at the top of the stairs, in the fog, at night, with his notebook buttoned in his pocket. Somebody with him. A hat knocked off on the top step before the fog had time to wet the inside of it. A fist thrown. A pencil dropped. A fall. And then somebody coming down after him, kneeling where I was kneeling now, unbuttoning a dead man's pocket. And going back up, not running, because a running man is remembered, but quick, setting each foot down flat on hard heels, and one of them coming down in the blood he'd stood in and leaving half a moon on the fifth step.
 
 Click, click, click. A door.
 
@@ -206,7 +206,7 @@ She didn't need to.
 
 He stopped.
 
-I realized I had been holding my pen without writing anything for some time. I put it down.
+I found I was rubbing the knuckles of my right hand with my thumb, all four of them, one after another. I made myself stop.
 
 "She couldn't have taken it," I said. "The pocket was empty before she came."
 
