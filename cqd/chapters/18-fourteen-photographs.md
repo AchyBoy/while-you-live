@@ -72,7 +72,7 @@ A man laughing in a photograph at a party proves nothing. Half the men at any pa
 
 The rest I went through quickly, because I couldn't help it, and then slowly, because I made myself.
 
-Nine was the desk. A plain wooden desk under the window, with a lamp and a mug of pens. And on the desk, in the middle, a big pale rectangle in the dust, perfectly clean, with a power strip on the floor beneath it and three cables hanging down off the back of the desk into nothing. You could see exactly where the computer had been, and the scanner beside it. The officer had stood in front of that and written, *No computer observed.*
+Nine was the desk. A plain wooden desk under the window, with a lamp and a mug of pens. And on the desk, in the middle, a big pale rectangle in the dust, perfectly clean, with a power strip on the floor beneath it and three cables hanging down off the back of the desk into nothing. You could see exactly where the computer had been, and the scanner beside it. The officer had stood in front of that and written one word. *Desk.*
 
 Ten was the closet by the door, opened. Coats on hooks. Shoes on the floor. And at the back of the floor, two more rectangles in the dust, side by side, the size and shape of banker's boxes.
 

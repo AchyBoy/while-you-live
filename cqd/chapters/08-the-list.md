@@ -110,7 +110,7 @@ I knew it before I read the date. The handwriting was different. Not messier. Sm
 
 *10:12. His door. TWO on stairs going DOWN. Slow. Heavy. Something banging the wall all the way down. New paint!!*
 
-*10:14. Back door. Car in alley. Engine running. Exhaust coming in my kitchen window AGAIN.*
+*10:14. Back door. Somebody fighting it, it STICKS, been telling P. for a YEAR. Car in alley. Engine running. Exhaust coming in my kitchen window AGAIN.*
 
 *10:21. Two back UP. Quick.*
 

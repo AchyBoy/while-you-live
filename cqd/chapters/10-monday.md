@@ -34,13 +34,13 @@ And on the desk beside him, there was another pile. A growing one.
 
 "What are those?" I said, the second time I came.
 
-He didn't look up from the key. "Newspapers. Every newspaper in America. And a good many in England." He sent something, fast. "They want the story. They want to know what happened. Who's alive. Who's dead. Whether it's true about the millionaires. What it was like. They'll pay anything. One of them's offered me more than I make in a year."
+He didn't look up from the key. "Messages. From newspapers. Every newspaper in America, and a good many in England." He sent something, fast. "They want the story. They want to know what happened. Who's alive. Who's dead. Whether it's true about the millionaires. What it was like. They'll pay anything. One of them's offered me more than I make in a year."
 
 "What are you going to do?"
 
 "Nothing." He reached for the tea without looking at it. "Captain's orders. The press has had its one message, the one he wrote himself, and that's all it gets. After that it's names and official business. Nothing else." He drank. "He's right. If I start answering newspapers, I'll never get the names out. And it's the names that matter. It's the names people are waiting for." He put the cup down. "Let them wait. Let them all wait."
 
-I looked at the pile. It was very tall. I could read the top one from where I stood. It was from a newspaper in New York, and it asked, politely, at great length, for a statement from any survivor, at any price.
+I looked at the pile of forms. It was very tall. I could read the top one from where I stood. It had come in from a newspaper in New York, and it asked, politely, at great length, for a statement from any survivor, at any price.
 
 I thought of Mr. Hatch, in his brown suit, going from blanket to blanket with his notebook.
 
@@ -50,7 +50,7 @@ I thought, then, for the first time, that what Mr. Hatch was doing on that ship 
 
 At four o'clock they buried the dead.
 
-There were four. Some had been lifted up out of the boats that morning already dead, under blankets. One had come aboard alive, and died later that morning with a doctor beside him. One of the four had been a passenger, a gentleman, pulled out of the water still alive in the night, who died in the boat before dawn. The other three were Titanic's own crew. Two of them had names. One of them, nobody knew. Nobody in his boat had known him, and there was nothing in his pockets to tell.
+There were four. Three had been lifted up out of the boats that morning already dead, under blankets, and the fourth had come aboard alive and died later that morning with a doctor beside him. One of the four was a passenger, a gentleman, pulled out of the water still alive in the night, who died in the boat before dawn. The other three were Titanic's own crew, and two of those had names. The third, nobody knew. Nobody in his boat had known him, and there was nothing in his pockets to tell.
 
 They sewed them into canvas, the way it's done at sea, with a weight at the feet. They laid them on planks at the rail on the after deck, under flags. The engines were stopped again, for the first time since dawn, and in the silence you could hear the wind and the water and the gulls that had found us somewhere in the afternoon.
 

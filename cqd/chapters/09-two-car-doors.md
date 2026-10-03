@@ -58,11 +58,11 @@ I had been trying to answer that all week. I said what I had come up with, which
 
 He shook his head, very slightly.
 
-"You told me once what the police wrote down, in his apartment. The officer who only wrote down what was in front of him. You read it to me off the report." He waited. "What did the officer write down that wasn't there?"
+"You told me once what the police wrote down, in his apartment. The officer who only wrote down what was in front of him. You read it to me off the report." He waited. "What did the officer write about the desk?"
 
 It took me a moment. Then I had it, and I felt it go through me like cold water.
 
-*Desk. No computer observed.*
+*Desk.* One word, and nothing after it.
 
 "He had a computer," I said. "An old one. A big beige thing, on the desk, with a scanner. He scanned everything. Every document, before he copied it. I saw it the one time I was there. I never even thought about it." I put my hand flat on the table. "It wasn't in the report because it wasn't there. And I always thought, of course it wasn't there, he took it with him. Like the boxes."
 
@@ -86,7 +86,7 @@ I looked up.
 
 I looked. I knew those lines as well as I knew my own name.
 
-*10:14. Back door. Car in alley. Engine running. Exhaust coming in my kitchen window AGAIN.*
+*10:14. Back door. Somebody fighting it, it STICKS, been telling P. for a YEAR. Car in alley. Engine running. Exhaust coming in my kitchen window AGAIN.*
 
 *10:21. Two back UP. Quick.*
 
