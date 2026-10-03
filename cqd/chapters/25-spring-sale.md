@@ -76,7 +76,7 @@ At thirty-one minutes, somebody in the audience asked a question I couldn't hear
 
 I took the headphones off. I sat in the kitchen with the screen frozen on him, mid-laugh, his mouth wide open, his head back, exactly as he was in photograph number seven.
 
-I knew that laugh. I had never heard it before tonight. And I knew it.
+I had never heard that laugh before tonight. But I had heard it described. A big laugh. Too big. The kind of laugh a man has when he's used to people laughing with him. It wasn't proof. It was a laugh. I sat with it a long time anyway.
 
 * * *
 
