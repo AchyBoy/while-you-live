@@ -44,7 +44,7 @@ def chapter(path):
         if para:
             text = " ".join(para)
             cls = ""
-            if start[0] and re.fullmatch(r"\*[^*]*\b1[789]\d\d\b[^*]*\*", text):
+            if start[0] and re.fullmatch(r"\*[A-Za-z0-9 ,]*\b1[789]\d\d\*", text):
                 tape[0] = True
                 cls = ' class="tape tape-head"'
             elif tape[0]:
