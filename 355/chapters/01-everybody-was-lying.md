@@ -106,7 +106,7 @@ It wasn't proof. It was a laugh. An old woman's memory of a laugh, through a cei
 
 That morning, the woman downstairs had heard two people go down the stairs with something heavy, twice. She had heard a car in the alley, and its engine running, a long time, and the doors. Two car doors. Not three.
 
-Somebody had stayed in the car. Somebody had sat in that alley with the engine running for twenty-seven minutes while two men carried my source's life down the back stairs, and then driven them away.
+Somebody had stayed in the car. Somebody had sat in that alley with the engine running for twenty-seven minutes while two men carried my source's life down the stairs, and then driven them away.
 
 At one in the morning I got up and went into the kitchen in my socks. Freda's laptop was shut. The house ticked. Out on the street a car went by slowly, the way they do at that hour, and its lights moved across the ceiling and were gone.
 
