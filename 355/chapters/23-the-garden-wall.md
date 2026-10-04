@@ -94,7 +94,7 @@ I looked. It was a stretch of the paling fence along Arnold's garden, five or si
 
 "That's careful work," Prince said, with professional respect. "Somebody knew what they were about."
 
-I stood in the alley and looked at those palings, and then at the bottom of the alley, at the boats tied up among the slips. And I thought of a sergeant who'd swum the river with his sword in his teeth. And of a man who walked in his garden at midnight, alone, every night, for a quarter of an hour. And of February, and five rockets going up out of the dark country to the west, and Beckwith's finger on his map going back and back to Morristown.
+I stood in the alley and looked at those palings, and then at the bottom of the alley, at the boats tied up among the slips. And I thought of a sergeant who'd swum the river with a packed valise on his back. And of a man who walked in his garden at midnight, alone, every night, for a quarter of an hour. And of February, and five rockets going up out of the dark country to the west, and Beckwith's finger on his map going back and back to Morristown.
 
 I'd planned this. That's what I thought, standing there. I'd sat in a cold office ten months before and planned exactly this, for the other side. Take a general out of his own headquarters at night, in the middle of his own army, and carry him off across the water before anybody knew he was gone.
 
