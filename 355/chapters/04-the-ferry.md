@@ -72,23 +72,23 @@ Robinson looked at me for a long time.
 
 "Yes, sir."
 
-He didn't say anything else. But a week later there was Mr. Hill, with two soldiers and a table at the top of the ferry stairs, opening every letter and turning out every basket and making grown men take off their boots.
+He didn't say anything else. But a week later there was Mr. Hill, with two soldiers and a table at the Brooklyn landing, where the boats came in from the city, opening every letter and turning out every basket and making grown men take off their boots.
 
-I learned afterward, a long time afterward, from people who could read the other side's letters, what it did. One of their couriers was coming back from the city with a letter that very week. When he saw the table at the stairs, he destroyed it before they could find it on him, and went home with nothing. Their man in Setauket wrote to Tallmadge, the next day: *Every letter is opened at the entrance of New York, and every man is searched.* And he wrote, *They have some knowledge of the route our letters take.*
+I learned afterward, a long time afterward, from people who could read the other side's letters, what it did. One of their couriers was coming back from the city with a letter that very week. When he saw the table at the landing, he destroyed it before they could find it on him, and went home with nothing. Their man in Setauket wrote to Tallmadge, the next day: *Every letter is opened at the entrance of New York, and every man is searched.* And he wrote, *They have some knowledge of the route our letters take.*
 
 We did. A little. Because of me.
 
-It was the first round of the game, and I didn't even know that I'd won it. I didn't know there was a game. I only knew that I'd noticed something, and said it, and that the next week grown men were standing in their stockings at the top of the ferry stairs, swearing at Mr. Hill.
+It was the first round of the game, and I didn't even know that I'd won it. I didn't know there was a game. I only knew that I'd noticed something, and said it, and that the next week grown men were standing in their stockings on the Brooklyn landing, swearing at Mr. Hill.
 
 * * *
 
-I watched that table a good deal, the rest of that summer. Sometimes I stood near it on purpose, if I was waiting for a boat, and I watched Hill work.
+I watched that table a good deal, the rest of that summer. Sometimes, when I'd crossed with a party, I stood near it on purpose while I waited for the boat back, and I watched Hill work.
 
 He wasn't good at it. He was a clerk, not a hunter. He opened the letters and read them, and found nothing in them, because the letters said nothing, because anybody clever enough to be worth catching wasn't going to put anything in a letter that a clerk at a ferry table could read. He turned out baskets. He made men take off their boots. He never once looked at the women.
 
-I saw a young man searched very hard there, one morning in September. Thin, pale, sweating, with a satchel. Hill had him empty it on the table, and turned every paper over twice, and held the letters up to the light, and found nothing, and let him go. The young man went down the ferry stairs without looking back, and I watched him all the way down, and I thought, *that is a man who has just been very lucky*. I never saw him again. I don't know his name. I've often thought I'd like to.
+I saw a young man searched very hard there, one morning in September. Thin, pale, sweating, with a satchel. Hill had him empty it on the table, and turned every paper over twice, and held the letters up to the light, and found nothing, and let him go. The young man went off up the Brooklyn road without looking back, and I watched him all the way down, and I thought, *that is a man who has just been very lucky*. I never saw him again. I don't know his name. I've often thought I'd like to.
 
-And I saw a farmer and his wife go through, one morning in late August. I'm only telling you because I remember everything, and I can't leave it out. He was about thirty, thin, anxious, in a brown coat, with the look of a man who's never been anywhere and doesn't like it. She was on his arm, a little older than him, in a gray cloak and a plain cap, scolding him the whole way up to the table about what he'd paid for a ham. Hill opened their basket, and found butter and a ham, and the wife told him what she thought of men who put their hands in other people's butter, at some length. Hill was glad to see them go. So was everybody in the line. I laughed, I think. Most people did.
+And I saw a farmer and his wife go through, one morning in late August, coming off the boat from the city. I'm only telling you because I remember everything, and I can't leave it out. He was about thirty, thin, anxious, in a brown coat, with the look of a man who's never been anywhere and doesn't like it. She was on his arm, a little older than him, in a gray cloak and a plain cap, scolding him the whole way up to the table about what he'd paid in the city for a pound of tea. Hill opened their basket, and found tea and a loaf of sugar and a bolt of calico, and the wife told him what she thought of men who put their hands in other people's sugar, at some length. Hill was glad to see them go. So was everybody in the line. I laughed, I think. Most people did.
 
 * * *
 
