@@ -116,7 +116,7 @@ The sun had gone round. The porch was in shade now, all of it, and the field had
 
 He stood up, with his hand on the rail.
 
-"There's one more thing," he said. "And then I'll stop, and you can drive home." He looked at me. "I told you the man in the city stopped writing, in October. After Arnold came over. He was frightened, and he had every reason to be. But before he stopped, he wrote one more letter. And in it, he wrote this. I've read it so often I don't need to look at it." He closed his eyes. "*I never felt more sensibly for the death of a person whom I knew only by sight, and had heard converse, than I did for Major André.*"
+"There's one more thing," he said. "And then I'll stop, and you can drive home." He looked at me. "The man in the city stopped writing, that October. After Arnold came over. I'll tell you how, next week. He was frightened, and he had every reason to be. But before he stopped, he wrote one more letter. And in it, he wrote this. I've read it so often I don't need to look at it." He closed his eyes. "*I never felt more sensibly for the death of a person whom I knew only by sight, and had heard converse, than I did for Major André.*"
 
 He opened his eyes.
 
@@ -134,7 +134,7 @@ At six she came out and put the laptop on the kitchen table and said, "It's done
 
 I didn't say anything.
 
-"He's been dead two hundred and forty-seven years," Freda said. "Why does it feel like somebody died this week?"
+"He's been dead nearly two hundred and forty-seven years," Freda said. "Why does it feel like somebody died this week?"
 
 "Because somebody told you about him who loved him," I said. "That's how it works. That's all it takes."
 

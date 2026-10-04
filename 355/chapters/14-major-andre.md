@@ -160,7 +160,7 @@ He looked at me for a long moment.
 
 "Everybody knows it. It's the one thing everybody knows about that whole war. Benedict Arnold."
 
-"Everybody knows it now." He set his glass down. "That summer, in all New York, I'd guess a dozen people knew it. Clinton. André. Beckwith. Robinson. A clergyman called Odell, who decoded for them. Perhaps the General's secretary. I wasn't one of them. I carried his letters for two months and didn't know whose they were." He was quiet. "I found out in the worst way it's possible to find anything out. You'll hear it. Not today."
+"Everybody knows it now." He set his glass down. "That summer, in all New York, I'd guess a dozen people knew it. Clinton. André. Beckwith. Robinson. A clergyman called Odell, who decoded for them. Perhaps the General's secretary. I wasn't one of them. I carried his letters for two months and didn't know whose they were. I found out in the worst way it's possible to find anything out. You'll hear it. Not today."
 
 "Did you like him? Arnold?"
 

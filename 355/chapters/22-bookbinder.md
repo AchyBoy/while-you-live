@@ -22,6 +22,16 @@ She hung up without saying goodbye. I sat at the kitchen table with the phone in
 
 * * *
 
+The next day was Thursday, so I went up. Freda came. She'd had her learner's permit since March and she drove the first hour, both hands on the wheel, while I sat beside her and tried not to hold the door handle.
+
+I told him on the porch, about the call. *It was twenty-seven minutes.* He listened, and then he sat back and closed his eyes for a moment in the sun.
+
+"Saturday," he said. "Good."
+
+And then he wouldn't do any 1780 at all. "Not this week," he said. "You wouldn't hear a word of it. Neither of you." So I said the date into the recorders anyway, *session forty, Thursday, July twenty-ninth*, and they ran for an hour and ten minutes on the three of us sitting on his porch talking about pie crust, and a hawk over the field, and whether a cat with white feet could be called anything but Socks. Freda typed it on the Sunday and said it was her favorite tape of the whole year, and I've never asked her why, because I know.
+
+* * *
+
 It was the kind of diner I'd done half my reporting in, years ago. Chrome and red vinyl, a long counter with stools, pies under plastic domes, a waitress with a coffee pot who called everybody hon. I got there at a quarter to twelve and sat in a booth by the window where I could see the lot. Freda was in the car, at the far end of it, with the windows down and her headphones round her neck, pretending to look at her phone.
 
 At five to twelve a dusty white pickup with a vet's box on the back pulled in and parked, and Claire Whitcombe sat in it with the engine running for a minute, looking at the diner. Then she turned off the engine and got out.

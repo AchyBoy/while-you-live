@@ -16,7 +16,7 @@ I stopped the car. Freda got out first. She didn't say anything. She went straig
 
 * * *
 
-I told it all on the porch. Every word, from the phone call to the drive home over the mountains in the dark. He didn't interrupt once. Freda sat on the top step against the post and corrected me twice, about the soup, and about the color of the cat. When I got to the receipt, and what I'd said in the driveway, he closed his eyes. When I got to Pearl, and the pay phone in Front Royal, and the family with two little girls, he took off his glasses, which he almost never wore, and cleaned them on his shirt for a long time.
+I told it all on the porch. Every word, from the diner to the drive home over the mountains in the dark. He didn't interrupt once. Freda sat on the top step against the post and corrected me twice, about the soup, and about the color of the cat. When I got to the receipt, and what I'd said in the driveway, he closed his eyes. When I got to Pearl, and the pay phone in Front Royal, and the family with two little girls, he took off his glasses, which he almost never wore, and cleaned them on his shirt for a long time.
 
 At the end he sat with his hands folded on his knee and looked out at the field.
 
@@ -26,7 +26,7 @@ At the end he sat with his hands folded on his knee and looked out at the field.
 
 "No." He turned his head and looked at me. "You won. I sat on a porch and talked about ice. You drove to a barn with nothing in your hands and asked one question and went away, and waited a month without knowing, and didn't tell anybody, and didn't give up." He looked back at the field. "Six years, Ms. Barnett. You've held it six years by yourself. And you got there."
 
-I didn't trust myself to answer. I said the date into the recorders instead. *Session forty. Thursday, August fifth.* My voice wasn't very steady, and I've left it on the tape.
+I didn't trust myself to answer. I said the date into the recorders instead. *Session forty-one. Thursday, August fifth.* My voice wasn't very steady, and I've left it on the tape.
 
 "And now," he said, "since it's a day for it, I'll tell you about the best thing I did that whole year. For the worst man I ever met."
 

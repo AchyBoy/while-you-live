@@ -2,7 +2,7 @@
 
 ## Chapter 4: The Ferry
 
-*August 1779*
+*July 1779*
 
 I should tell you what the city was like, because you won't find it in the pictures. The pictures are all of the harbor, with the ships in it, and the church spires, and little figures in good coats walking about on the Battery. That was there. It wasn't the city.
 
@@ -20,11 +20,11 @@ That's what I meant, when I told you everybody was lying. It wasn't wickedness. 
 
 The British had a letter.
 
-That was the thing everybody in Robinson's rooms was talking about, that August, in low voices, the way men talk about a thing they're pleased with and not supposed to mention.
+That was the thing everybody in Robinson's rooms was talking about, that July, in low voices, the way men talk about a thing they're pleased with and not supposed to mention.
 
 At the beginning of July, a British cavalry raid under a young colonel called Tarleton had hit a rebel cavalry camp up at Pound Ridge, in the north of the county, and caught it so badly by surprise that one of the officers there, a major, left his horse behind. In the saddlebags of the horse there was money, and there were papers, and among the papers there was a letter from General Washington himself.
 
-Robinson had a copy of it. I saw it once, in the second week of August, for about the time it takes to put a candle on a table and take your hand away again. Robinson was reading it to another officer at the table, under the window, and he had asked me to bring the light. I brought the light. I put it down. And it was mine.
+Robinson had a copy of it. I saw it once, in the third week of July, for about the time it takes to put a candle on a table and take your hand away again. Robinson was reading it to another officer at the table, under the window, and he had asked me to bring the light. I brought the light. I put it down. And it was mine.
 
 It was a short letter, and most of it was about money. Washington was telling his officer, a major called Tallmadge, how to pay for the intelligence he was getting from New York. There was a man who wrote to them from inside the city. The letter called him *C——r*, with a long dash in the middle, the way people wrote a name they didn't want to write. And it said that this man might need a new way to send his letters, and it named somebody who might carry them: *a man on York Island, living on or near the North River,* called George Higday.
 
@@ -52,7 +52,7 @@ And I learned the ferry.
 
 The Brooklyn ferry ran from the city across the East River to the Long Island shore, all day, in all weathers, so long as the river wasn't full of ice. It was the only road between the city and the whole of Long Island. Everything that came into New York from the east came across it: cattle and hay and firewood, farmers with butter and eggs and cheese for the markets, officers going out to their regiments on the Island and coming back, letters, newspapers, women visiting their sisters, men visiting other men's sisters. Twenty crossings a day, maybe more.
 
-I crossed it often. The army had cattle grazing on Long Island, and forage stacked there, and Robinson's people had business out there too, and somebody had to guide the parties to the right farms and back. So I knew the ferry well. The flat boats with their big sweeps, and the boatmen who swore at the tide. The stairs down to the water on the city side, slimy with weed at the bottom. The crowd at the top of the stairs waiting for the next boat, with their baskets and their bundles and their complaints. The carts selling things to the crowd: hot cakes, cider, oysters in season. A widow selling eggs and butter from a handcart, whom I bought from twice a week for two years and could not then have described to you if you'd held a pistol to my head, which tells you how good she was.
+I crossed it often. The army had cattle grazing on Long Island, and forage stacked there, and Robinson's people had business out there too, and somebody had to guide the parties to the right farms and back. So I knew the ferry well. The flat boats with their big sweeps, and the boatmen who swore at the tide. The stairs down to the water on the city side, slimy with weed at the bottom. The crowd at the top of the stairs waiting for the next boat, with their baskets and their bundles and their complaints. The carts selling things to the crowd: hot cakes, cider, oysters in season. A widow selling eggs and butter from a handcart, with her eggs set out on top in a shallow basket, in two neat rows of six on a fold of white cloth, so a buyer could see they were clean. I bought from her twice a week for a year and a half and could not then have described to you if you'd held a pistol to my head, which tells you how good she was.
 
 I could describe her to you now. But I'll come to that.
 
@@ -62,7 +62,7 @@ On the fourteenth of August the *Royal Gazette* announced that a gentleman calle
 
 I had something to do with that. Not much. I want to be careful not to make it bigger than it was.
 
-A few days before, Robinson had asked me, as he sometimes did, what the country was saying. Not the rebels. The farmers. The people who came over the ferry with their butter. I told him what I'd heard, and then I told him something I hadn't heard, but seen. That there were more letters coming across that ferry than there ought to be. Farmers who couldn't write, as far as anybody knew, carrying sealed letters to cousins in the city they'd never mentioned before. A young man, three times in a month, who came over with nothing to sell and went back with nothing he'd bought. I'd noticed because I noticed everything. I couldn't help it.
+Some weeks before, in July, Robinson had asked me, as he sometimes did, what the country was saying. Not the rebels. The farmers. The people who came over the ferry with their butter. I told him what I'd heard, and then I told him something I hadn't heard, but seen. That there were more letters coming across that ferry than there ought to be. Farmers who couldn't write, as far as anybody knew, carrying sealed letters to cousins in the city they'd never mentioned before. A young man, three times in a month, who came over with nothing to sell and went back with nothing he'd bought. I'd noticed because I noticed everything. I couldn't help it.
 
 "Washington's letter," I said, "talks about a way for this Culper to send what he writes. If he's in the city, and his letters go to Tallmadge, and Tallmadge is in Connecticut, they have to go out somehow. Not north. The country north is ours and the rebels' both, and it's full of thieves. Out by the east, across Long Island, is quieter."
 
@@ -72,13 +72,13 @@ Robinson looked at me for a long time.
 
 "Yes, sir."
 
-He didn't say anything else. But a week later there was Mr. Hill, with two soldiers and a table at the Brooklyn landing, where the boats came in from the city, opening every letter and turning out every basket and making grown men take off their boots.
+He didn't say anything else. But by the middle of August there was Mr. Hill, with two soldiers and a table at the Brooklyn landing, where the boats came in from the city, opening every letter and turning out every basket and making grown men take off their boots.
 
 I learned afterward, a long time afterward, from people who could read the other side's letters, what it did. One of their couriers was coming back from the city with a letter that very week. When he saw the table at the landing, he destroyed it before they could find it on him, and went home with nothing. Their man in Setauket wrote to Tallmadge, the next day: *Every letter is opened at the entrance of New York, and every man is searched.* And he wrote, *They have some knowledge of the route our letters take.*
 
 We did. A little. Because of me.
 
-It was the first round of the game, and I didn't even know that I'd won it. I didn't know there was a game. I only knew that I'd noticed something, and said it, and that the next week grown men were standing in their stockings on the Brooklyn landing, swearing at Mr. Hill.
+It was the first round of the game, and I didn't even know that I'd won it. I didn't know there was a game. I only knew that I'd noticed something, and said it, and that within the month grown men were standing in their stockings on the Brooklyn landing, swearing at Mr. Hill.
 
 * * *
 

@@ -2,7 +2,7 @@
 
 ## Chapter 25: The Story Runs
 
-I called my old editor on the Monday after the valley. The first of August.
+I called my old editor on the Monday after the valley. The second of August.
 
 Her name is Ruth Okafor. She was the one who'd hired me, and the one who'd stood in the doorway of the conference room six years ago while the lawyers talked, with her arms folded, and said nothing, and the one who'd handed me the box at the end. She was managing editor now. I'd seen her name on the masthead every Sunday for six years and never once called the number underneath it.
 

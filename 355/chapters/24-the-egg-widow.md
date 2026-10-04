@@ -6,9 +6,9 @@ It rained on the Thursday. A steady, gentle, all-day rain, the first in three we
 
 Freda saw them and stopped in the kitchen doorway.
 
-"Sit down," he said. "They're for later. I'll make you an omelet when it's done. I make a very good omelet." He poured the tea. "Session forty-one, Ms. Barnett."
+"Sit down," he said. "They're for later. I'll make you an omelet when it's done. I make a very good omelet." He poured the tea. "Session forty-two, Ms. Barnett."
 
-I said it into the recorders. *Session forty-one. Thursday, August twelfth. Raining. Freda's here.* And then, because I couldn't help it, *There are eggs on the table.*
+I said it into the recorders. *Session forty-two. Thursday, August twelfth. Raining. Freda's here.* And then, because I couldn't help it, *There are eggs on the table.*
 
 "Twelve," Freda said, from the doorway. She hadn't moved.
 
@@ -30,7 +30,7 @@ He didn't go down the stairs to the boats. He stopped at the top. At the cart.
 
 * * *
 
-I'd seen her there a hundred times. Two hundred. Twice a week for a year and a half, with her basket of eggs under a cloth and her butter in its crock and her little iron pot of coals for the cold mornings. I'd bought eggs from her and put them inside my shirt and walked away without ever once looking at her face.
+I'd seen her there a hundred times. Two hundred. Twice a week for a year and a half, with her eggs in their two rows on the white cloth and her butter in its crock and her little iron pot of coals for the cold mornings. I'd bought eggs from her and put them inside my shirt and walked away without ever once looking at her face.
 
 I watched her look up and see him.
 
@@ -40,7 +40,7 @@ She didn't charge him. I watched her not charge him.
 
 And she looked up, then, across the street, straight at me.
 
-Just for a moment. Not long. The way you'd look at a man you'd sold eggs to twice a week for a year and a half, standing across the street on a cold morning for no reason. And then she looked away, and pulled the cloth back over her basket, and rubbed her hands over her little pot of coals.
+Just for a moment. Not long. The way you'd look at a man you'd sold eggs to twice a week for a year and a half, standing across the street on a cold morning for no reason. And then she looked away, and straightened the rows of eggs with one finger, and rubbed her hands over her little pot of coals.
 
 I stood there in the snow in the gutter. And something went down my arms, the way it does when a thing goes click, the way your mother's told me it does for her. And I didn't know yet what it was. I knew only that I'd been looking at the wrong thing for a year and a half, and that I'd just looked at the right one, and that it had looked back.
 
@@ -60,7 +60,7 @@ He stopped. The rain was steady on the roof. Freda had come and sat down, finall
 
 I went back to the shed by the North River that night, and lay down on my bed with my coat over me, and shut my eyes, and went back.
 
-You've never had eyes like Caesar's. Nobody has. I can't make you understand what it was like. The nearest I can come is this: imagine every day of your life were a book on a shelf, and you could take any one of them down and open it at any page and the page would be there, exactly as it was, every word, every face, the light on it, the smell of the morning. And imagine that you'd never once taken down most of the books, because you hadn't known there was anything in them worth reading.
+You've never had eyes like Caesar's. Nobody has. I can't make you understand what it was like. The nearest I can come is this: imagine every day of your life were a book on a shelf, and you could take any one of them down and open it at any page and the page would be there, exactly as his eyes had seen it, every word, every face, the light on it. Only what he saw. Never what he heard. But all of that. And imagine that you'd never once taken down most of the books, because you hadn't known there was anything in them worth reading.
 
 I took them down. All night. One after another.
 
@@ -70,13 +70,13 @@ I took down every morning I'd stood at the top of the ferry stairs, from the sum
 
 I'll give you what I found. In the order I found it.
 
-The first thing was her face. I'd never looked at it, in a year and a half. But Caesar's eyes had, every time, without me. It was there in every morning, on every page, waiting. A woman of perhaps thirty-five, or a little more, with a broad plain face, weathered, and a strong chin, and gray hair coming out from under a plain cap, and a little white scar through her left eyebrow. Gray cloak. Every morning, the same gray cloak.
+The first thing was her face. I'd never looked at it, in a year and a half. But Caesar's eyes had, every time, without me. It was there on every one of those mornings, on every page, waiting. A woman of perhaps thirty-five, or a little more, with a broad plain face, weathered, and a strong chin, and gray hair coming out from under a plain cap, and a little white scar through her left eyebrow. Gray cloak. Every morning, the same gray cloak.
 
-The second thing was the eggs. Your mother wrote them down for me, Freda, every time I told her, and so did you, I suppose, when you typed it. In January, on the frozen stairs, with no boat running at all, eleven. They'd found some other way across the ice that week, I suppose. I never learned it. In March, a morning I'd been watching for the carter, eleven. In May, every single day, twelve. And on the twentieth of July, at dawn, with the carter going over in the first boat with his face gray and no cart, eleven.
+The second thing was the eggs. Your mother wrote them down for me, Freda, every time I told her, and so did you, I suppose, when you typed it. In January, on the frozen stairs, with no boat running at all, eleven. They'd found some other way across the ice that week, I suppose. I never learned it. In March, a morning I'd been watching for the carter, eleven. In May, every time I passed, twelve. And on the twentieth of July, at dawn, with the carter going over in the first boat with his face gray and no cart, eleven.
 
-Now I went through every morning. Every one. And it was the same. On the days I'd seen the carter come over with a parcel the shape of a quire, or go back in a hurry, or anything at all to do with their road, there were eleven eggs in her basket when the sun came up. One gone, before she'd sold a single one. On every other morning there were twelve. A full dozen. Every morning in May, when the road was shut, twelve. Every morning since October, when the man in the city stopped writing, twelve.
+Now I went through them all again. Every morning Caesar's eyes had caught that cart, one after another. Not every morning there was. I was away a great deal, in the Neutral Ground, on the Island, on the ice. But every morning I'd passed. And it was the same. On the days I'd seen the carter come over with a parcel the shape of a quire, or go back in a hurry, or anything at all to do with their road, there were eleven eggs in her two rows when the sun came up. A gap in the front row. One gone, before she'd sold a single one. On every other morning I'd seen, there were twelve. A full dozen. Every morning I'd passed in May, when the road was shut, twelve. Every morning I'd passed since October, when the man in the city stopped writing, twelve.
 
-I'd counted them every morning for a year and a half. I couldn't help it. I counted everything. And I'd never once asked myself why a woman who sold eggs by the dozen started some mornings with one missing.
+I'd counted them every time I passed, for a year and a half. I couldn't help it. I counted everything. And I'd never once asked myself why a woman who sold eggs by the dozen started some mornings with one missing.
 
 She'd been standing at the top of the only road out of the city, in plain sight, telling them. One egg gone: there's something to carry today. A full basket: there's nothing; stay home. Every carter and boatman and courier on that road had only to walk past her cart on his way to the boat, and look at her basket, and he'd know. And nobody had to say a word. Nobody had to carry a scrap of paper. Hill could search them all to the skin.
 
@@ -120,7 +120,7 @@ He thought about that for a long time.
 
 I didn't sleep. At first light I was at the top of the ferry stairs.
 
-The cart was there. The basket on top, under the cloth. The butter in its crock. The little iron pot of coals, with the coals just catching.
+The cart was there. The shallow basket on top, the eggs in their two rows on the white cloth. The butter in its crock. The little iron pot of coals, with the coals just catching.
 
 And a different woman behind it.
 
@@ -128,7 +128,7 @@ Younger. Stout, red-faced, cheerful, with her hands wrapped in rags against the 
 
 I asked her, as carelessly as I could, as a man who bought eggs there twice a week and was used to another face, where the widow was.
 
-"Gone over to the Island," the young woman said. "Yesterday, on the noon boat. Her sister's poorly, out Setauket way. I'm minding the cart for her." She lifted the cloth off the basket. "Eggs? They're good. She'd want me to keep her people."
+"Gone over to the Island," the young woman said. "Yesterday, on the noon boat. Her sister's poorly, out Setauket way. I'm minding the cart for her." She tipped the basket toward me. "Eggs? They're good. She'd want me to keep her people."
 
 I looked down into the basket. I didn't need to count them. I counted them anyway.
 
@@ -138,7 +138,7 @@ Twelve.
 
 The young woman looked at me oddly. A Black man asking a white woman's name, at the top of the ferry stairs, at dawn.
 
-"Widow Ames," she said. "Everybody knows Widow Ames." She put the cloth back over the eggs. "You'd know her if you saw her. She's been here forever."
+"Widow Ames," she said. "Everybody knows Widow Ames." She nudged an egg back into its row. "You'd know her if you saw her. She's been here forever."
 
 I bought two eggs. I don't know why. I stood at the top of the stairs with them warm in my hand, and watched the first boat of the morning push off for Brooklyn, with half a dozen people in it, none of whom was a woman in a gray cloak. She'd gone over the day before. On the noon boat. A few hours after an old one-eyed ferryman came out of the Provost and walked straight to her cart, and she'd looked up and seen me across the street.
 

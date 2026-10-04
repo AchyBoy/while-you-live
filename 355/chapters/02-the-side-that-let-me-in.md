@@ -36,7 +36,7 @@ I wrote that down. I wrote it down exactly, and the number, and then I looked at
 
 "Just lady," I said.
 
-"Just lady. One of them used it once, in one letter, in August of my first summer there. He wrote that he meant to go into New York, past the men searching everybody at the ferry, *by the assistance of a lady of my acquaintance.* That's the whole of her. One line. A word in a code book." He was quiet a moment. "Everything else people have said about her since, they made up because one line wasn't enough for them."
+"Just lady. One of them used it once, in one letter, in August of my first summer there. He wrote that he meant to go into New York, past the men searching everybody at the ferry, *by the assistance of a lady of my acquaintance.* That's the whole of her. One line. A word in a code book. Everything else people have said about her since, they made up because one line wasn't enough for them."
 
 "Was she real?" I said. "The lady."
 

@@ -34,7 +34,7 @@ He wiped his eyes.
 
 * * *
 
-I said the date into the recorders. *Session forty-two. Thursday, August nineteenth.* And then, because I'd promised myself, before we started, I told him about the money.
+I said the date into the recorders. *Session forty-three. Thursday, August nineteenth.* And then, because I'd promised myself, before we started, I told him about the money.
 
 The deposit on the Monday, with the wrong account on it. *Trustees of the Halloran Fund, established 1938, Hartford.* The single scanned page from the 1950s. *The support of historical inquiry and the preservation of testimony.* Eighty-nine years.
 
@@ -124,7 +124,7 @@ Freda had her arms round her knees again.
 
 "So you let her go," she said. "For you. Again."
 
-"For all of us," he said. "Again." And then, gently, "And for her. Because she was the best I ever saw. And I didn't want to be the man who caught her." He picked up his glass and found it empty and set it down. "I've never once been sorry. Not in two hundred and forty-seven years. I've been sorry about nearly everything else."
+"For all of us," he said. "Again." And then, gently, "And for her. Because she was the best I ever saw. And I didn't want to be the man who caught her." He picked up his glass and found it empty and set it down. "I've never once been sorry. Not once, in all the years since. I've been sorry about nearly everything else."
 
 * * *
 
@@ -156,7 +156,7 @@ In May of 1783, Washington came to meet the new British commander, Sir Guy Carle
 
 And each of them was given a certificate, he said, signed on behalf of the new Commandant of the city, General Birch. The same Birch who'd led the cavalry over the crusted snow toward Morristown, that February, and sent up the five rockets, and turned round. *This is to certify,* the certificates said, *that the Bearer hereof, a Negro, resorted to the British Lines, in consequence of the Proclamations of Sir William Howe, and Sir Henry Clinton.* And that he had permission to go to Nova Scotia, or wherever else he might think proper.
 
-"Any occupation which he shall think proper," he said. "Wherever else he may think proper. They never could bring themselves to say the word. But they kept the promise." He was quiet. "I've never decided how I feel about that either."
+"Any occupation which he shall think proper," he said. "Wherever else he may think proper. They never could bring themselves to say the word. But they kept the promise." He rubbed his thumb along the folded edge of the newspaper beside him. "I've never decided how I feel about that either."
 
 * * *
 
@@ -170,7 +170,7 @@ And each of them was given a certificate, he said, signed on behalf of the new C
 
 "Is that where you..."
 
-"The second year," he said. "Of fever. A great many of us did. I was forty-three, and free, and I'd built my own house with Prince, with a door that shut." He was quiet for a moment. "And Caesar's eyes went with him. Everything I saw after that, in every life since, I've had to remember the ordinary way. Badly. With the edges worn off." He looked at Freda, and then at me. "Except the two of you. I'll remember the two of you the ordinary way. And I find that I don't mind at all."
+"The second year," he said. "Of fever. A great many of us did. I was forty-three, and free, and I'd built my own house with Prince, with a door that shut." He looked down at his hands. "And Caesar's eyes went with him. Everything I saw after that, in every life since, I've had to remember the ordinary way. Badly. With the edges worn off." He looked at Freda, and then at me. "Except the two of you. I'll remember the two of you the ordinary way. And I find that I don't mind at all."
 
 * * *
 

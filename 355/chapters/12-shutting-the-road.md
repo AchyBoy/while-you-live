@@ -68,7 +68,7 @@ The paper stopped in the middle of April.
 
 I didn't know why. I didn't know anything then except what I could see from the ferry: that the carter still came, with his rum and his sugar and his nutmeg, but never again that spring with a parcel the shape of a quire. That the rumors about Setauket went round the north shore and came back to us bigger. That the dragoons rode out and rode back. That the polite lieutenant's clipboard had fourteen names on it and not one purchase of paper by the quire.
 
-And that the widow at the top of the ferry stairs on the city side had a full dozen eggs in her basket every morning that May. Every single morning. I noticed it, as I noticed everything. I remember thinking her business must be very bad, and buying an extra two, once or twice, because I felt sorry for her.
+And that the widow at the top of the ferry stairs on the city side had a full dozen eggs in her two rows every morning I passed that May. Every one of them. I noticed it, as I noticed everything. I remember thinking her business must be very bad, and buying an extra two, once or twice, because I felt sorry for her.
 
 That's what I could see. Here is what I couldn't, which I learned a long time afterward, reading their own letters, in that library, with my gloves on.
 
@@ -98,7 +98,7 @@ I didn't say anything for a while. The fan ticked round on the counter. I had wr
 
 He looked at me.
 
-"Twelve," I said. "Every morning in May. You said she always had eleven, the morning in January, and the morning in March, and now in May it was twelve. A full dozen." I tapped my notebook, where I'd written it, each time, because he'd told me to. "You told me to write down eleven. You said I'd want it later."
+"Twelve," I said. "Every time you passed, in May. You said she always had eleven, the morning in January, and the morning in March, and now in May it was twelve. A full dozen." I tapped my notebook, where I'd written it, each time, because he'd told me to. "You told me to write down eleven. You said I'd want it later."
 
 He was quiet for a long time. The fan went round.
 

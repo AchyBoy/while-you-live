@@ -120,7 +120,7 @@ The widow was at the top of the stairs with her cart. She had a little iron pot 
 
 I couldn't hear what. The ice was too loud. Every time the tide moved, the whole river creaked and cracked and boomed, like a great house settling. I caught a turn of something, under it. Up, and a little turn, and down. And then a slab of ice somewhere out in the stream gave way with a noise like a cannon, and everybody on the stairs jumped, and when I looked back, she had stopped, and was rubbing her hands over the little pot of coals, and the tune was gone.
 
-I bought two eggs from her. I remember them perfectly, the weight of them, warm from the coals, in my hand. I put them inside my shirt for later. She didn't look at me any more than I looked at her.
+I bought two eggs from her. I remember them still, the weight of them, warm from the coals, in my hand. I put them inside my shirt for later. She didn't look at me any more than I looked at her.
 
 I've wondered since what she was humming. I've wondered it for two hundred and forty-seven years.
 
@@ -134,7 +134,7 @@ He stopped there and looked over at the coat on the chair, and so did I.
 
 He didn't answer for a moment. On the far side of the field the tractor had reached the end of its row and was turning, slowly, to come back.
 
-"Because I remember everything else about that morning," he said. "Every word anybody said on those stairs. The color of the ice. The number of eggs in her basket, which was eleven, before I bought two." He turned his glass of water slowly on the little table, a quarter turn, and another. "And the one thing I didn't catch is the one thing I'd give the rest of it for. That's how it goes, I find. You notice everything, and then the river makes a noise." He looked at me. "Write down that it was eleven. You'll want it later."
+"Because I remember everything else about that morning," he said. "Every face on those stairs. The color of the ice. The number of eggs in her basket, which was eleven, before I bought two." He turned his glass of water slowly on the little table, a quarter turn, and another. "And the one thing I didn't catch is the one thing I'd give the rest of it for. That's how it goes, I find. You notice everything, and then the river makes a noise." He looked at me. "Write down that it was eleven. You'll want it later."
 
 I wrote it down. *Eleven eggs.* I didn't ask why. I'd learned by then that he'd tell me, and that he'd tell me when it would do the most good, and that asking only made him wait longer.
 

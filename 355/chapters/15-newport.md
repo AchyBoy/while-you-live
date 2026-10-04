@@ -34,7 +34,7 @@ I've thought since that if anybody on the other side had wanted the best possibl
 
 On the morning of the twentieth, very early, before it was light, I was sent back into the city with a message for the Quartermaster, and I came down Queen Street to the river just as the sun came up, because it was the quickest way, and I passed the top of the ferry stairs.
 
-The widow was there with her cart. Her basket of eggs was on top, under a cloth, and I saw it as I went by, because I saw everything. Eleven. I noticed it without noticing it, as I'd noticed it before. I didn't stop. I was on a horse, with a message.
+The widow was there with her cart. Her eggs were on top, in their two rows on the white cloth, and I saw them as I went by, because I saw everything. Eleven. A gap in the front row, where the sixth should have been. I noticed it without noticing it, as I'd noticed it before. I didn't stop. I was on a horse, with a message.
 
 And at the bottom of the stairs the first boat of the morning was pushing off for Brooklyn, with half a dozen people in it, and one of them was the carter.
 
@@ -92,13 +92,13 @@ He stopped and ate the last corner of his sandwich, slowly.
 
 "Then why did Clinton turn back? I read that he turned back."
 
-"He did. Ten days later. From Huntington Bay, halfway up the Island, with seventy transports full of men." He folded the napkin in half. "Because the navy wouldn't move fast enough, and the admiral and the general hated each other and wouldn't talk, and by the time they'd stopped hating each other long enough to sail, the French had dug in so deep it'd have been murder to go at them. And because Washington, who's the cleverest of them all, marched his whole army down to the Hudson as if he were going to attack New York while Clinton was away. So Clinton came home. That's all." He looked at me. "The man in the city did a brave thing, and got his news through, and it changed nothing at all. Neither did my failing to stop him. Neither of us mattered, that time. The weather mattered, and two old men who couldn't stand each other."
+"He did. Ten days later. From Huntington Bay, halfway up the Island, with seventy transports full of men." He folded the napkin in half. "Because the navy wouldn't move fast enough, and the admiral and the general hated each other and wouldn't talk, and by the time they'd stopped hating each other long enough to sail, the French had dug in so deep it'd have been murder to go at them. And because Washington, who's the cleverest of them all, marched his whole army down to the Hudson as if he were going to attack New York while Clinton was away. So Clinton came home. That's all." He looked at me. "The man in the city did a brave thing, and got his news through, and it changed nothing at all. Neither did my failing to stop him. Neither of us decided it, that time. The weather mattered, and two old men who couldn't stand each other."
 
 "So why tell me?"
 
 He was quiet.
 
-"Because I had it in front of me," he said, "and I didn't see it. The carter on the thwart, with no cart. I saw that. I knew what it meant. But I didn't see the rest of what was in front of me that morning, and I've had two hundred and forty-seven years to wish I had." He folded the napkin again, smaller. "It was in front of me the whole time, Ms. Barnett. All year. I just didn't look at it, because it was the kind of thing nobody looks at."
+"Because I had it in front of me," he said, "and I didn't see it. The carter on the thwart, with no cart. I saw that. I knew what it meant. But I didn't see the rest of what was in front of me that morning, and I've had every year since to wish I had." He folded the napkin again, smaller. "It was in front of me the whole time, Ms. Barnett. All year. I just didn't look at it, because it was the kind of thing nobody looks at."
 
 * * *
 
@@ -120,4 +120,4 @@ I looked up. He was watching me.
 
 "No," he said, and smiled, and picked up both our plates, and stood up with his hand on the rail. "Not yet. It's July. I didn't see it until December." He looked down at me. "You've seen it in July. You're quicker than I was, Ms. Barnett. I'd like you to remember that, when you're feeling slow."
 
-And he went in with the plates, and I sat alone on the north end of the porch, in the heat, with the circle on the page, and the field going pale gold in the afternoon light, and in my head, very clearly, a woman at the top of a flight of stone stairs above a river, at sunrise, with a cloth over her basket, counting.
+And he went in with the plates, and I sat alone on the north end of the porch, in the heat, with the circle on the page, and the field going pale gold in the afternoon light, and in my head, very clearly, a woman at the top of a flight of stone stairs above a river, at sunrise, setting out her eggs in two rows on a white cloth, counting.

@@ -126,7 +126,7 @@ He stopped and looked down at his hands. We were in the kitchen that day, becaus
 
 "Did he know?" I said. "Robinson. That you'd read his letter."
 
-"I've wondered that for two hundred and forty-seven years." He reached for the pot, found it cold, and poured himself a cup anyway, and drank it. "I think he knew there was something. He couldn't have said what. He was the kind of man who notices that his dog is cleverer than other people's dogs, and doesn't like to think too hard about why." He set the cup down. "He folded that letter very carefully, after I said no. And he never once left another one on the table when I was in the room. Not in two years."
+"I've wondered that for two hundred and forty-eight years." He reached for the pot, found it cold, and poured himself a cup anyway, and drank it. "I think he knew there was something. He couldn't have said what. He was the kind of man who notices that his dog is cleverer than other people's dogs, and doesn't like to think too hard about why." He set the cup down. "He folded that letter very carefully, after I said no. And he never once left another one on the table when I was in the room. Not in two years."
 
 "Did anyone ever find out?" I said. "That you could read."
 
