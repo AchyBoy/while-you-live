@@ -120,7 +120,7 @@ I took the letter out by the ferry and along the north shore road on a good hors
 
 I didn't know what it meant. I didn't know what his men were ready for. Every messenger was to remain ignorant. I rode back to the city with the answer and gave it to André word for word, as I gave everything, and André smiled and said, "Good," and went back to his papers.
 
-I stood in the front hall of that house, Ms. Barnett, with my hat in my hands, while Simcoe read his letter. And while I stood there, one of the sons of the house came down the stairs. Home from the city for a day or two, a servant said afterward. A pale young man of about my own age, with a long nose and a careful mouth, in a good plain coat. He stood aside on the bottom step to let a Ranger officer go by, and glanced at me, the way a man glances at another man's servant, and went out by the back. I looked at him for perhaps three seconds. I have him still, every line.
+I stood in the front hall of that house, Ms. Barnett, with my hat in my hands, while Simcoe read his letter. And while I stood there, one of the sons of the house came down the stairs. Home from the city for a day or two, a servant said afterward. A pale young man a few years younger than me, with a long nose and a careful mouth, in a good plain coat. He stood aside on the bottom step to let a Ranger officer go by, and glanced at me, the way a man glances at another man's servant, and went out by the back. I looked at him for perhaps three seconds. I have him still, every line.
 
 It was another hundred and fifty years before anybody in the world knew who he was. I'd stood in his own father's hall, with André's letter in my hand, and watched him go by, and thought of nothing at all.
 
