@@ -110,7 +110,7 @@ The second paper was the one that mattered. In June of 1779, the British command
 
 I wrote *Gen. Daniel Jones, June 1779, "Free"* in my notebook and drew a box round it. I could see him watching me do it.
 
-"Check it," he said. "People get his name wrong. Somebody misprinted it once, in a book people trust, and he's been David ever since. It was Daniel."
+"Check it," he said. "People get his name wrong. Somebody misprinted it once, in a good history people trust, as David. It was Daniel."
 
 * * *
 

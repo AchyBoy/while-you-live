@@ -4,7 +4,7 @@
 
 I hung the coat up on the Thursday night, as soon as I got home.
 
-It was the green one. Long wool, a hood that folded into the collar, pockets deep enough for two notebooks and a recorder. I had bought it the winter I was working on the Carrow House story, and taken it out of the closet again in March, because he had told me to bring a warmer coat, and for nine Thursdays I had worn it up and down his porch steps while he told me about the North Atlantic. There was a new button on it now, sewn on by Freda, in a slightly wrong shade of green. There was a receipt in the pocket from a diner that wasn't there anymore. I left the receipt where it was.
+It was the green one. Long wool, a hood that folded into the collar, pockets deep enough for two notebooks and a recorder. I had bought it the winter I was working on the Carrow House story, and taken it out of the closet again in March, because he had told me to bring a warmer coat, and for nine Thursdays I had worn it up and down his porch steps while he told me about the North Atlantic. The button that had hung by a thread all spring was back where it belonged. I'd sewn it on myself, at the kitchen table, one night at the end of April, while Freda typed beside me. The moth hole in the sleeve was still there. I left it.
 
 *You won't need the coat for this one,* he had said, from the top of the steps, in his shirtsleeves. *It was summer. And everybody was lying.*
 
