@@ -178,7 +178,7 @@
   <button class="later" id="staleLater">Later</button>
 </div></div>
 <script>
-const BUILD = 1791037726730;
+const BUILD = 1791133315427;
 const AUDIO_V = "audio v3";
 const ROUND = 1790884750982;  // only paragraphs changed at or after this build are boxed
 const BOOK = {"series": "While You Live", "title": "Sic Semper", "number": 1, "author": "Andrew F. Young"};
@@ -227,7 +227,7 @@ function cover() {
   main.querySelectorAll(".fixes [data-ch]").forEach(b => b.onclick = () => go(Number(b.dataset.ch), 0));
 }
 // Every book in the series, so the cover doubles as the home screen: pick a book. Book 1 is the site root, Book 2 lives in cqd/.
-const SERIES = [{ n: 1, title: "Sic Semper", path: "" }, { n: 2, title: "CQD", path: "cqd/" }];
+const SERIES = [{ n: 1, title: "Sic Semper", path: "" }, { n: 2, title: "CQD", path: "cqd/" }, { n: 3, title: "355", path: "355/" }];
 function shelf() {
   const root = BOOK.number === 1 ? "./" : "../";
   return `<div class="shelf"><div class="lbl">The books</div>${SERIES.map(s =>

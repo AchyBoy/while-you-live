@@ -184,8 +184,8 @@ const CHAPTERS = /*CHAPTERS*/[];
 const $ = (id) => document.getElementById(id);
 const main = $("main");
 const store = {
-  get(k, d) { try { const v = localStorage.getItem("wyl2." + k); return v === null ? d : JSON.parse(v); } catch { return d; } },
-  set(k, v) { try { localStorage.setItem("wyl2." + k, JSON.stringify(v)); } catch {} },
+  get(k, d) { try { const v = localStorage.getItem("wyl3." + k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem("wyl3." + k, JSON.stringify(v)); } catch {} },
 };
 
 // settings
@@ -394,8 +394,8 @@ addEventListener("scroll", onScroll, { passive: true });
 // ---- paragraph comments (only for whoever opened the page with ?c=<key>) ----
 const API = "https://api.jobhubgo.com/api/yam/";
 (function () { const k = new URLSearchParams(location.search).get("c"); if (k) store.set("ckey", k); })();
-// Book 2 keeps its notes apart from Book 1's: same key, "-cqd" on the end. A reader who opened Book 1 with ?c= is already signed in here.
-const CKEY = (() => { let k = store.get("ckey", null); if (!k) { try { k = JSON.parse(localStorage.getItem("wyl.ckey")); } catch {} } return k ? k + "-cqd" : null; })();
+// Book 3 keeps its notes apart: same key, "-355" on the end. A reader who opened Book 1 with ?c= is already signed in here.
+const CKEY = (() => { let k = store.get("ckey", null); if (!k) { try { k = JSON.parse(localStorage.getItem("wyl.ckey")); } catch {} } return k ? k + "-355" : null; })();
 let comments = [];
 async function loadComments() {
   if (!CKEY) return;
