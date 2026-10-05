@@ -14,13 +14,13 @@ I looked at it until the screen went dark. Then I texted Freda, at school, becau
 
 *Client paid. A lot. Tell you tonight. Not worried. Just telling you.*
 
-She wrote back in under a minute, from what I very much hoped was the hallway between classes.
+Her text came back in under a minute, from what I very much hoped was the hallway between classes.
 
 *ok. thank you for telling me. how much is a lot*
 
-*Tonight.*
+I texted back. *Tonight.*
 
-*thats a LOT a lot isnt it*
+Her next text was faster. *thats a LOT a lot isnt it*
 
 * * *
 
