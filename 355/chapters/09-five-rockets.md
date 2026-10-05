@@ -32,9 +32,7 @@ It was the week after Young's House. The ice was still hard. And Washington was 
 
 I thought about it for a long time. I want you to know that I thought about it honestly, with everything I had, the way I'd have thought about it if it had been my own idea. Because there was a part of me, I'll admit it, that wanted to see it done. To be the man who brought George Washington across the ice to New York in a sleigh, and set him down in front of Knyphausen like a parcel. It would have been the greatest stroke of the whole war, from that side. It might have ended it.
 
-And I knew, of course, that it hadn't happened. I'd known Washington's name for a hundred and fifty years before I was Caesar, and I knew how his life went. He died in his bed at Mount Vernon, an old man, the first president of a country. Nobody ever carried him anywhere in a sleigh.
-
-That's the strange part of what I am, Ms. Barnett, and I've never found a good way to explain it. I don't know what's going to happen in the lives I'm living. Not the small things. Not the things that only matter to the people in front of me. But some of the big things I know the way you know how a book ends that you read as a child. And I'd already learned, by then, a long time before, that knowing how it ends doesn't tell you what you're for. Only that the ending's already paid for. Somebody's got to pay it.
+And I didn't know how it would come out. I want you to understand that, because people always assume I must have. I don't know the future of any life I'm in, Ms. Barnett. I only know the ones I've finished. In February of 1780 Washington was a tired man in a farmhouse in Jersey, and for all I knew he'd be in New York by the end of the week, in a sleigh, and the war would be over, and I'd have done it. I wanted it, a little. And I was afraid of it, a little more, though I couldn't have told you why.
 
 So I didn't tell Beckwith it couldn't be done. I told him the truth about the roads.
 
@@ -78,7 +76,7 @@ It was the signal for every party to turn back. Birch had got five miles, perhap
 
 I lay there on the ice and watched the last one fade, and I'll tell you honestly what I felt. I felt two things at once, and I've never been able to separate them, not in two hundred and forty-seven years. I felt sorry. For Beckwith, who'd wanted it so much, and for Birch's horses, and a little, God help me, for myself, who'd been one road away from being the man who caught Washington. And under that, lower down, I felt something I didn't have a name for, that was very much like relief.
 
-Because I'd known how it ended. And it had ended. The ending was already paid for, and it had been the weather that paid it, not me. I'd told the truth, and the truth hadn't been enough, and the weather had done what the truth couldn't.
+Because I hadn't had to choose. I'd told the truth about the snow, and the truth hadn't been enough, and the weather had decided it instead of me. Whatever came of that war now, I hadn't been the man who carried Washington across the ice in a sack.
 
 Hugh Gaine, the printer, wrote in his journal the next day that the troops had gone out to surprise General Washington at Morristown. That's very nearly all anybody wrote. That's all it ever was, in the record. A night ride that came to nothing.
 

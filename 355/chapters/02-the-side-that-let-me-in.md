@@ -44,7 +44,7 @@ He didn't answer straight away. Down in the field a pair of crows had come down 
 
 "Oh, yes," he said. "She was real."
 
-And then he didn't say anything else about her at all, and I knew him well enough by then to know that he wasn't going to, not that day, and that I'd be a fool to push. I put a small mark in the margin next to *lady*, which is a thing I do when I've been told I'll be told later.
+And then he didn't say anything else about her at all, and I knew him well enough by then to know that he wasn't going to, not that day, and that I'd be a fool to push. He'd done it to me all winter and all spring, set something down on the table between us and left it there. I'd never marked those places. That day I did. I drew a small circle in the margin next to *lady*, so I'd know where to come back to. It seemed like the year to start.
 
 * * *
 
@@ -114,7 +114,7 @@ I wrote *Gen. Daniel Jones, June 1779, "Free"* in my notebook and drew a box rou
 
 * * *
 
-He went in at noon and came out with lunch on a tray: cold chicken, a loaf of the bread from the bakery in town, which had opened again, and a jar of iced tea with mint in it from the bed by the back step. We ate on the porch with the plates on our knees and the recorders running between us. He ate more than I'd seen him eat in weeks. I noticed it, and I noticed myself noticing it, and I didn't write it down.
+He went in at noon and came out with lunch on a tray: cold chicken, a loaf of the bread from the bakery in town, which had opened again, and a jar of iced tea with mint in it from the bed by the back step. We ate on the porch with the plates on our knees and the recorders running between us. He ate more than I'd seen him eat in weeks. I noticed it, and I wrote it down, small, at the bottom of the page, the way I write down everything.
 
 "How did you get away?" I said. "In June."
 

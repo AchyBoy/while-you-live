@@ -2,6 +2,10 @@
 
 ## Chapter 3: Kingsbridge
 
+He'd made the tea before I got there, and it was already on the kitchen table in the brown pot. I set out the recorders and said the date into them. *Session thirty, Thursday, May twentieth.*
+
+"Kingsbridge," he said. "June. The middle of the night."
+
 *June 1779*
 
 The Hessian who found me that night was about nineteen, and frightened, and trying very hard not to look it, and I liked him at once.
@@ -134,4 +138,4 @@ He looked at me over the cup for a long moment.
 
 "Once," he said.
 
-Then he looked at the clock on the wall over the stove, which said a quarter to two, and got up to put the kettle on again, and didn't say who. I wrote it in my notebook under the date, *Session 30, Thursday, May 20,* the way I always do: *Once.* And the recorders ran on in the warm kitchen with the window open and the hay smell coming in, and the kettle began, very quietly, to tick.
+Then he looked at the clock on the wall over the stove, which said a quarter to two, and got up to put the kettle on again, and didn't say who. I wrote it in my notebook, under the date, the way I always do: *Once.* And the recorders ran on in the warm kitchen with the window open and the hay smell coming in, and the kettle began, very quietly, to tick.
