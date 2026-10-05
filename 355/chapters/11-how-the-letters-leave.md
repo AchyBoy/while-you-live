@@ -20,7 +20,7 @@ He had Freda's letter on the kitchen table when I came in, under the sugar bowl,
 
 "No. I wanted to ask you how."
 
-He thought about it. Outside it was the first real summer day, clear and hot and very still, and the bees were loud in the clover at the edge of the yard.
+He thought about it. Outside it was clear and hot and very still, and the bees were loud in the clover at the edge of the yard.
 
 "Go where she works," he said. "Not where she lives. People are braver at their work. Their hands know what they're doing, even when the rest of them doesn't. And don't go as a reporter. Go as a woman who wants to ask her one question." He set his cup down. "And not this week. Let her have one more week of not knowing anybody's looking. You'll need her to have had it."
 
@@ -38,7 +38,7 @@ Not in so many words. But every deserter who came in from Jersey that spring was
 
 Beckwith had me in his office in the second week of March, with the window open for the first time since December and the noise of the slips coming in with the smell of the river, and he was angry. Not with me. He was angry the way a man is when he's done everything right and it hasn't worked.
 
-"Hill finds nothing," he said. "Eight months at that table. He's opened four thousand letters. He's turned out every basket on Long Island. He's made half the farmers in Kings County stand in their stockings. Nothing." He pushed a paper across the table at me, face down; I suppose he'd forgotten I couldn't read. "We've had the letters held to the fire. We've had them washed with every acid the surgeons have got. Nothing comes up. They're letters about butter. About cousins. About the price of salt. And Washington is still getting his news."
+"Hill finds nothing," he said. "Seven months at that table. He's opened four thousand letters. He's turned out every basket on Long Island. He's made half the farmers in Kings County stand in their stockings. Nothing." He pushed a paper across the table at me, face down; I suppose he'd forgotten I couldn't read. "We've had the letters held to the fire. We've had them washed with every acid the surgeons have got. Nothing comes up. They're letters about butter. About cousins. About the price of salt. And Washington is still getting his news."
 
 "Then it isn't in the letters, sir."
 
@@ -76,7 +76,7 @@ The carter came on a Tuesday.
 
 He wasn't anybody. That was what caught me. A Long Island man, about thirty, broad and quiet, with a good wagon and a good gray horse, who carted goods between the city and the north shore of the Island for anybody who'd pay him, every week or two. Butter and cheese and firewood in. Rum and sugar and nutmeg and cloth out. There were twenty men doing the same thing. He was a carpenter by trade, the boatmen said, a joiner, and cart work paid better in a war. I'd seen him a dozen times and never once thought about him.
 
-But that Tuesday I'd seen him come out of a dry goods shop, the week before, with his hands full, and put a parcel in his wagon. And the parcel was the right size and the right shape and the right weight for a quire of good paper, wrapped in brown paper and tied with string. And now here he was at the ferry with his wagon, and the parcel was in among the sugar, and when Hill's men turned his load over at the Brooklyn landing, they found the parcel and opened it, and riffled through twenty-four sheets of good clean writing paper, and asked him what a carter wanted with all that, and he said it was for a gentleman in Setauket who'd asked him to get it, and had paid for it, and would want it.
+But the week before, I'd seen him come out of a dry goods shop with his hands full, and put a parcel in his wagon. And the parcel was the right size and the right shape and the right weight for a quire of good paper, wrapped in brown paper and tied with string. And now here he was at the ferry with his wagon, and the parcel was in among the sugar. I crossed on the same boat, and when Hill's men turned his load over at the Brooklyn landing, they found the parcel and opened it, and riffled through twenty-four sheets of good clean writing paper, and asked him what a carter wanted with all that, and he said it was for a gentleman in Setauket who'd asked him to get it, and had paid for it, and would want it.
 
 And they gave it back to him. Of course they did. It was paper.
 
@@ -124,7 +124,7 @@ He turned back.
 
 He smiled a little.
 
-"I didn't want to give anybody a face," he said. "Not yet. I'd seen what happened to faces in that city. I'd given Robinson one at Young's House, the year's only face, and it had been the man who owned me, and I'd spent it on getting him exchanged." He turned his cup on the table, a quarter turn. "The carter whistled when he drove, and he gave his horse half his bread. I wanted to be sure. That's all. I wanted to be quite sure, before I gave anybody a face."
+"I didn't want to give anybody a face," he said. "Not yet. I'd seen what happened to faces in that city. I'd given one at Young's House, to Norton's adjutant, and it had been the man who owned me, and I'd spent it getting him exchanged. I'd given the corporal at Kingsbridge, and the fever had him." He turned his cup on the table, a quarter turn. "The carter whistled when he drove, and he gave his horse half his bread. I wanted to be sure. That's all. I wanted to be quite sure, before I gave anybody a face."
 
 "And were you? Sure?"
 

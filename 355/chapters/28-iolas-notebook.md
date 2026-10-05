@@ -14,4 +14,4 @@
 
 **3.** *Session 33.* A deserter, a British corporal with a book of drawings of the posts, caught on the last of the ice at Kingsbridge at the end of February 1780 by three Black men. Caesar, Prince, Isaac. He said there was a line about it somewhere in Clinton's papers, with no names in it. Found it on Aug. 18: the William L. Clements Library's guide to the Henry Clinton Papers, vol. 87, papers of Feb. 27 to Mar. 3, 1780: *British deserter caught and turned in by three African Americans.* Four hours, and I knew what I was looking for and where. The words are the archivist's, not the officer's. I haven't seen the page itself. No names. He said there wouldn't be. Not proof. Anyone could find it, if they knew to look. He knew to look in June.
 
-*Session 43.* Read it to him on the porch. "Isaac would be pleased." He says to tell them they didn't spell any of them. "We knew who we were."
+*Session 43.* Read it to him on the porch. "Isaac would be pleased." They didn't spell any of them, he says, and that's all right. "We knew who we were."

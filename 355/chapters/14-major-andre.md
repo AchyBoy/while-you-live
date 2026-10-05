@@ -4,7 +4,7 @@
 
 "She didn't ask what you meant," he said.
 
-It was the first thing he said. I'd told him all of it, on the porch, before I'd even said the date into the recorders, standing at the top of the steps with my bag still on my shoulder. The barn, the hoof testers, the towel, the *please*. He'd listened without moving. And then he said that, and I knew he'd seen it before I had, which is to say about a second after I'd said it.
+It was the first thing he said. I'd told him all of it, on the porch, before I'd even said the date into the recorders, standing at the top of the steps with my bag still on my shoulder. The barn, the hoof testers, the towel, the *please*. He'd listened without moving. And then he said that, and I knew he'd seen it the moment I said it, where I'd needed half an hour under an oak.
 
 "No."
 
@@ -16,7 +16,7 @@ It was the first thing he said. I'd told him all of it, on the porch, before I'd
 
 "How long?"
 
-"I don't know. Longer than you'd like." He smiled. "Say the date, Ms. Barnett. It's July. That's when he came back."
+"I don't know. Longer than you'd like." He smiled. "Say the date, Ms. Barnett. It's July. That's when I met him."
 
 *Session thirty-six, Thursday, July first.*
 
@@ -30,9 +30,9 @@ You have to understand what that meant to the city. Charleston was the greatest 
 
 And Major André came home with the General, and the whole secret business of the army came home with him.
 
-I'd seen him twice before, at a distance, as I've told you. Now Robinson took me to him.
+I'd seen him twice before, at a distance, as I've told you.
 
-He was too busy to see me for a month, with the General home and a war to restart. It was a morning at the end of July before Robinson took me to him, at headquarters on the Broadway, at the bottom of the island, a big house with a garden that went down toward the water. André had an office on the first floor at the back, looking out over the garden, with a long table under the window covered in papers and maps, and a smaller table to one side with a drawing board on it, and a half-finished pencil sketch pinned to the board of a man in a cocked hat asleep in a chair. I recognized the man. It was one of Clinton's aides. It was very good, and very unkind.
+He was too busy to see me for a month, with the General home and a war to restart. It was a morning in the first days of August before Robinson took me to him, at headquarters on the Broadway, at the bottom of the island, a big house with a garden that went down toward the water. André had an office on the first floor at the back, looking out over the garden, with a long table under the window covered in papers and maps, and a smaller table to one side with a drawing board on it, and a half-finished pencil sketch pinned to the board of a man in a cocked hat asleep in a chair. I recognized the man. It was one of Clinton's aides. It was very good, and very unkind.
 
 André was standing at the window with a letter when we came in. He turned round.
 
@@ -60,9 +60,9 @@ I gave it to him. All of it. Twenty-three regiments and corps, in the order they
 
 André listened to the whole thing with the paper in his hand, following it down with his finger. When I'd finished he looked up at Robinson, and then at me, and his eyes were shining.
 
-"That is the most remarkable thing I have ever seen," he said. And then, to Robinson, "He's got the sick wrong in the Seventy-first. Hasn't he? Two hundred and twelve?"
+"That is the most remarkable thing I have ever seen," he said. And then, to Robinson, "He's got the sick wrong in the Seventy-first. Hasn't he? Two hundred and seventy?"
 
-"Two hundred and twenty-one, sir," I said. "The clerk's made his ones like sevens."
+"Two hundred and ten, sir," I said. "The clerk makes his ones like sevens."
 
 André looked at the paper. He laughed out loud.
 
@@ -78,7 +78,7 @@ He was a man who couldn't leave a puzzle alone. It was the thing that made him s
 
 And I read it. Of course I read it. I couldn't not. That's what reading is, once you can do it; you can't look at words and not read them, any more than you can hear your own name and not turn round.
 
-It was a poem. Verses, rhymed, very bad on purpose, about a rebel general called Wayne who'd attacked a Loyalist blockhouse on the Jersey shore a few days before and been beaten off, and had consoled himself by stealing the local farmers' cattle. André was writing a mock epic about it, for Rivington to print. It was called *The Cow-Chace*. It was rather funny.
+It was a poem. Verses, rhymed, very bad on purpose, about a rebel general called Wayne who'd attacked a Loyalist blockhouse on the Jersey shore late in July and been beaten off, and had consoled himself by stealing the local farmers' cattle. André was writing a mock epic about it, for Rivington to print. It was called *The Cow-Chace*. It was rather funny.
 
 He took it away.
 
@@ -132,9 +132,9 @@ He stopped. He was smiling, out at the field, the way you smile at something nob
 
 *August 1780*
 
-He used me, that summer, for the thing he cared about most. And I didn't know what it was for nearly two months.
+He used me, that summer, for the thing he cared about most. And I didn't know whose it was for nearly two months.
 
-He never told me. That was the rule of his correspondence, which he'd written down himself in a letter long before, though I didn't see that letter till much later: every messenger was to remain ignorant of what he carried. There was a man, on the other side, an American general, writing to André in secret. That was all I knew, that summer. Letters came in from him, by roundabout roads: under flags of truce with other business, with ladies' letters about bonnets and gloves, with exchanged prisoners coming back. The letters were in a cipher made of numbers, three numbers to a word. Page, line, word, out of some big book. I glimpsed one, once, on André's table, and kept it, and could have read it in a moment if I'd had the book. I didn't have the book. I didn't try to find it. I knew better.
+He never told me. That was the rule of his correspondence, which he'd written down himself in a letter long before, though I didn't see that letter till much later: every messenger was to remain ignorant of what he carried. There was a man, on the other side, an American general, writing to André in secret. That was all I knew, that summer. Letters came in from him, by roundabout roads: under flags of truce with other business, with ladies' letters about bonnets and gloves, with exchanged prisoners coming back. The letters were in a cipher made of numbers, three numbers to a word. Page, line, word, out of some big book. I glimpsed one, once, on André's table, and it stayed with me, the way everything did, and could have read it in a moment if I'd had the book. I didn't have the book. I didn't try to find it. I knew better.
 
 What I did was the thing I was good at. I watched the roads the letters came by, and the men who touched them, and made sure nothing leaked.
 
@@ -160,7 +160,7 @@ He looked at me for a long moment.
 
 "Everybody knows it. It's the one thing everybody knows about that whole war. Benedict Arnold."
 
-"Everybody knows it now." He set his glass down. "That summer, in all New York, I'd guess a dozen people knew it. Clinton. André. Beckwith. Robinson. A clergyman called Odell, who decoded for them. Perhaps the General's secretary. I wasn't one of them. I carried his letters for two months and didn't know whose they were. I found out in the worst way it's possible to find anything out. You'll hear it. Not today."
+"Everybody knows it now." He set his glass down. "That summer, in all New York, I'd guess a dozen people knew it. Clinton. André. Beckwith. Robinson. A clergyman called Odell, who decoded for them. Perhaps the General's secretary. I wasn't one of them. I guarded his letters for two months and didn't know whose they were. I worked it out in the end, from a letter about a house. You'll hear it. Not today."
 
 "Did you like him? Arnold?"
 
@@ -168,4 +168,12 @@ He looked at me for a long moment.
 
 He picked up his glass again, and found it empty, and set it down.
 
-"I worked very hard for André that summer," he said. "I'd do it again. But I never once, in all of it, stopped knowing what the letters were for."
+"I worked very hard for André that summer," he said. "I'd do it again. But I never once, in all of it, stopped knowing it was treason I was guarding."
+
+* * *
+
+He was right about the letter.
+
+I checked the mail every day the rest of that week, and my email every hour, and my phone, which I left switched on, on the kitchen table, face up, all day and all night. I didn't get a letter from Carrow House's lawyers. I didn't get a call. Nobody wrote anything about me on any blog. Nobody came to my door.
+
+Nothing happened at all. And by the end of the week, I'd understood that nothing happening was the loudest thing that had happened to me all summer.

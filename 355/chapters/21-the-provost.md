@@ -10,7 +10,7 @@ He was at the bottom of the steps again, under the maple.
 
 "After André?" Freda said.
 
-"After André." He looked out at the field. "I've told you the truth about everything else. I'll tell you the truth about this. I've never in any life worked as hard as I did that autumn, or as well. And I've never been as unhappy doing it."
+"After André." He looked out at the field. "I've told you the truth about everything else. I'll tell you the truth about this. I don't think I've ever worked as hard as I did that autumn, or as well. And I've never been as unhappy doing it."
 
 * * *
 
@@ -30,7 +30,7 @@ It frightened the city. I'll give it that. It frightened everybody. That's the t
 
 There was a new man in André's office by the middle of October. Oliver DeLancey, a New Yorker, a Loyalist, a cavalry officer, cousin to the DeLanceys whose refugee horse I'd ridden with in the Neutral Ground. He was made Adjutant General in André's place, and he took over André's secret business, with Beckwith beside him.
 
-He sent for me the first week.
+He sent for me his first week.
 
 He wasn't André. Nobody was. He was a brisk, square, practical man with no imagination, and he didn't offer me a chair. But he'd read what Beckwith had written about me, and he'd read what André had written, and he looked at me across André's long table under the window, with André's drawing board still in the corner with nothing pinned to it, and he said, "The Major thought very highly of you."
 
@@ -56,9 +56,9 @@ DeLancey looked at me for a long time. Then he said, "Make them stop, then," in 
 
 So I made them stop. I'll tell it quickly, because it's mostly small things, done well, one after another.
 
-I watched the ferry. I'd never stopped watching it. And on the eighth or ninth of October, I went past the dry goods shop in Hanover Square that I'd watched in the spring, the one the carter had come out of with the quire of paper. And the shutters were up. In the middle of a Monday. And they stayed up. I went past every day for eighteen days, and the shutters stayed up, and on the twenty-seventh they came down again, and the young partner was back behind the counter, very pale. That day, I read long afterward in his own account book, he drew a great deal of money out of the business in cash.
+I watched the ferry. I'd never stopped watching it. And on Monday, the ninth of October, I went past the dry goods shop in Hanover Square that I'd watched in the spring, the one the carter had come out of with the quire of paper. And the shutters were up. In the middle of a Monday. And they stayed up. I went past every day for eighteen days, and the shutters stayed up, and on the twenty-seventh they came down again, and the young partner was back behind the counter, very pale. That day, I read long afterward in his own account book, he drew a great deal of money out of the business in cash.
 
-I didn't go in. I didn't tell DeLancey. I knew what DeLancey would do with a shop that had shut its shutters for eighteen days in the week after Arnold came over. He'd have had the partner in the Provost by dinner, and the shop turned out, and nothing would have been found, because there'd be nothing to find. And then DeLancey would have had to decide what to do with a frightened young merchant with nothing against him but his shutters. And DeLancey didn't like waste.
+I didn't go in. I didn't tell DeLancey. I knew what DeLancey would do with a shop that had shut its shutters for eighteen days, two weeks after Arnold came over. He'd have had the partner in the Provost by dinner, and the shop turned out, and nothing would have been found, because there'd be nothing to find. And then DeLancey would have had to decide what to do with a frightened young merchant with nothing against him but his shutters. And DeLancey didn't like waste.
 
 I let it be. I'd frightened that shop once. It was frightened again. That was the round.
 
@@ -82,7 +82,7 @@ And the third thing. The one I want to tell you properly.
 
 There was a man who helped them. Not one of the ring. One of the people around it, who carried a thing here and there, who held a horse, who kept a letter in his house for a night. Every chain has people like that. They're never in the books. They're never in anybody's books. He was a ferryman on the Brooklyn ferry, an old man with one eye, who'd worked the sweeps on those flat boats for thirty years. I'd watched him all year. I'd watched him take a folded paper from the carter, once, in the spring, and put it inside his hat, and give it to somebody on the Brooklyn side. I'd never done anything about it. I'd been saving him.
 
-In the first week of November, after the shutters, I gave him to DeLancey.
+In the first week of November, after the shutters, I gave him to DeLancey. They had to see one of their own taken and not hanged. Taken, so they'd stop. Not hanged, so I could live with it.
 
 Not as a spy. I was very careful. As a man who'd been seen carrying letters for persons unknown. DeLancey had him taken up at the ferry stairs and put in the Provost. And they questioned him, and he said nothing. Nothing at all. He said he was an old man who rowed a boat, and he'd carried a great many things for a great many people in thirty years, and he couldn't remember any of them, and he was sorry. He said it for three weeks. They didn't hurt him. I'd asked DeLancey not to, and DeLancey had looked at me as if I were mad, and then, I think because André would have, agreed.
 

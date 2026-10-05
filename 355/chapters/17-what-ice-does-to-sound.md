@@ -68,7 +68,7 @@ Nobody said anything for a while. Outside, the bees were working in the clover. 
 
 "Who?" Freda said at last. She said it to him, not to me.
 
-He didn't answer. He looked at me. He was waiting for me to say it, the way he'd waited in the spring for me to find the eggs, and the way he'd waited on the first day, last October, for me to decide whether he was mad.
+He didn't answer. He looked at me. He was waiting for me to say it, the way he'd waited in June for me to find the eggs, and the way he'd waited on the first day, last October, for me to decide whether he was mad.
 
 I didn't want to say it. I'd stopped letting myself think it, years ago. You do, after a while. You put a thing down so you can carry everything else.
 

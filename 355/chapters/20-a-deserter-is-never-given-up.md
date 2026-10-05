@@ -16,7 +16,7 @@ I'll tell you the week the way I lived it. In pieces. That's how it came.
 
 On the twenty-eighth, word came down the river, the way word does, by boatmen and deserters and market women, that the rebels had moved André. Across the Hudson, under a heavy guard, to a village called Tappan, on the Jersey side, near the border with New York, where Washington had his headquarters that week. They'd put him in a tavern, in an upstairs room, with two officers in the room with him day and night, and the door open.
 
-On the twenty-ninth, the news that there'd been a board. Fourteen of Washington's generals, at a table in a church in Tappan, with André in front of them, answering their questions. He'd answered them all, truthfully, the deserters said. He'd told them everything about himself and nothing about anybody else. He'd been so frank and so courteous that some of the generals hadn't been able to look at him. And at the end of the afternoon they'd found that he'd come behind their lines in disguise, under a false name, with papers, and that by the laws of war that made him a spy. And that he ought to suffer death.
+On the thirtieth, in the morning, the news that there'd been a board. Fourteen of Washington's generals, at a table in a church in Tappan, with André in front of them, answering their questions. He'd answered them all, truthfully, the deserters said. He'd told them everything about himself and nothing about anybody else. He'd been so frank and so courteous that some of the generals hadn't been able to look at him. And at the end of the afternoon they'd found that he'd come behind their lines in disguise, under a false name, with papers, and that by the laws of war that made him a spy. And that he ought to suffer death.
 
 I heard that in the yard at headquarters, from a groom, while I was holding a horse. I remember the horse. A bay mare, with a white sock behind. She stood on my foot, and I didn't notice until somebody pointed it out.
 
@@ -76,7 +76,7 @@ The rebels let one of them ashore. General Greene came down to meet him at Dobbs
 
 And our general, the record says, *answered with a Look*.
 
-That's all. Answered with a look. I've read those three words in an old letter more times than I've read anything, in all my lives. I can see the look. I don't need anybody to describe it to me.
+That's all. Answered with a look. I've read those three words in an old letter more times than I can count. I can see the look. I don't need anybody to describe it to me.
 
 They hanged André the next day, at noon, on a hill outside Tappan. The second of October.
 
@@ -86,7 +86,7 @@ We didn't know for three days.
 
 On the third, Gaine wrote in his journal that the general had come back down the river, and that Major André was not hanged. The whole city believed it, for a day. I believed it. I went down to the slip at the bottom of Queen Street, where I'd watched him go up the river in his scarlet coat, and stood there half the afternoon, watching every boat that came down, as if he'd be in one of them.
 
-On the fifth, it came. The lieutenant governor wrote in his diary that an account had come to town that morning that Major André was executed at Tappan. And on the sixth and seventh, Gaine wrote that it was confirmed, and that there were great lamentations.
+On the fifth, it came. The lieutenant governor wrote that an account had come to town that morning that Major André was executed at Tappan. And on the sixth and seventh, Gaine wrote that it was confirmed, and that there were great lamentations.
 
 There were. I'll say that for the city that week, and for the army. They loved him. The General put out an order to the whole army mourning him as a gentleman of the highest integrity and honour. Robinson, I was told, sat on the edge of his bed in his lodgings with his face in his hands. Every officer in the army put a band of black crêpe round his arm.
 
@@ -112,7 +112,7 @@ Nobody said anything for a very long time.
 
 The sun had gone round. The porch was in shade now, all of it, and the field had turned the color it turns in the late afternoon in July, a deep tired gold, with the shadows of the trees reaching right across it.
 
-"I have his face," he said at last. Quietly. "From the night in his office, with the candle. Saying he'd come back in his own coat. I have it exactly. I'll have it until I die in this body, and then I suppose I'll lose it, the way I've lost everything else of Caesar's. And I find I don't know if I'll be sorry."
+"I have his face," he said at last. Quietly. "From the night in his office, with the candle. Saying he'd come back in his own coat. I have it exactly. I'll have it as long as I have anything. And I find I don't know if I'm glad."
 
 He stood up, with his hand on the rail.
 
@@ -120,7 +120,7 @@ He stood up, with his hand on the rail.
 
 He opened his eyes.
 
-"That's the man I'd been hunting all year," he said. "The man whose road I'd shut, and whose carter I'd frightened, and whose boat I'd had shot up in a creek. And he sat in his room, in that city, and grieved for André, the same week I did." He was quiet for a moment. "That was a war, Ms. Barnett. Freda. That's what a war is. We were on opposite sides of it, he and I, and we were the only two men in that city who'd have understood each other completely, and neither of us ever knew the other one existed."
+"That's the man I'd been hunting all year," he said. "The man whose road I'd shut, and whose carter I'd frightened, and whose boat I'd had shot up in a creek. And he sat in his room, in that city, and grieved for André, the same week I did." He was quiet for a moment. "That was a war, Ms. Barnett. Freda. That's what a war is. We were on opposite sides of it, he and I, and we were the only two men in that city who'd have understood each other completely, and he never knew I existed, and I never knew his name."
 
 * * *
 

@@ -88,7 +88,7 @@ She'd had six years of thinking it was over. Of driving her father to his talks,
 
 I'd taken that week away from her this morning in a barn aisle with five words. And she would know, now, for the rest of her life, the exact difference between the week before and the week after. Every time she heard an engine idle.
 
-He'd wanted her to have it, so that she'd know what she'd lost.
+He'd wanted her to have it. One last ordinary week. He knew I was going to take the six years away from her, and he couldn't stop me, only make me wait.
 
 I sat under the oak for a long time after that. The three horses in the pasture came over, slowly, one at a time, and put their heads over the fence by the car, and looked at me through the window, and I looked back at them, and none of us said anything.
 
@@ -125,11 +125,3 @@ Freda put her hand on top of the notebook.
 I looked at my daughter for a long time across the kitchen table.
 
 "We'll see," I said. "In a week."
-
-* * *
-
-We saw.
-
-I checked the mail every day that week, and my email every hour, and my phone, which I left switched on, on the kitchen table, face up, all day and all night. I didn't get a letter from Carrow House's lawyers. I didn't get a call. Nobody wrote anything about me on any blog. Nobody came to my door.
-
-Nothing happened at all. And by the end of the week, I'd understood that nothing happening was the loudest thing that had happened to me all summer.

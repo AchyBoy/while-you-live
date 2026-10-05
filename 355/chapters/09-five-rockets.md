@@ -130,7 +130,7 @@ He stopped, and got up, and stood at the window with his back to me, looking at 
 
 "You were right," I said. "About the crust."
 
-"I was right about the crust," he said, to the window. "Remember that, later. You'll need it." He came back and sat down. "That's twice now I've been right and been thanked and sent away. The first time it didn't matter. It didn't matter at all." He picked up his tea. "Let's do something smaller. I could do with something smaller."
+"I was right about the crust," he said, to the window. "Remember that, later. You'll need it." He came back and sat down. He picked up his tea. "Let's do something smaller. I could do with something smaller."
 
 * * *
 
@@ -146,7 +146,7 @@ Prince found out about it first. He was building a gun platform at one of those 
 
 Prince told me, in the shed, at night. He wasn't sure what to do with it. A Black workman accusing a British corporal of anything, in that city, with nothing but his own eyes to show for it, was likely to end up with his back laid open for insolence, and the corporal free.
 
-"Then we don't accuse him," I said. "We wait till he goes. And we bring him back with the book in his pocket. Nobody argues with a book."
+"Then we don't accuse him," I said. "We wait till he goes. And we bring him back with the book in his pocket. Nobody argues with a book." I looked at Prince. "If that drawing reaches Jersey, the next thing across the ice is a raid on those posts, at night, with men asleep in them. You're building one of them."
 
 * * *
 
@@ -176,6 +176,6 @@ We walked him to the guard at Kingsbridge, the three of us, with his hands tied 
 
 "And you three?"
 
-"We went back to the shed." He looked at the rain. "But that one's in the record, Ms. Barnett. I've always rather liked that. It's the only time I'm in the record that whole war, under any name at all. In Clinton's papers, somewhere, there's a line. The officer wrote it up, that night, and it went to headquarters with the corporal's book, and it's still there, as far as I know, in a box in a library." He turned his cup. "It doesn't say Caesar Freeman. It doesn't say Prince, or Isaac. It says the corporal was caught and brought in by three Black men. That's all. Three of them, no names, in a line on a page." He looked at me. "But it's true. It's the truest line anybody ever wrote about me."
+"We went back to the shed." He looked at the rain. "But that one's in the record, Ms. Barnett. I've always rather liked that. It's the only thing I did in that whole war that anybody wrote down. In Clinton's papers, somewhere, there's a line. The officer wrote it up, that night, and it went to headquarters with the corporal's book, and it's still there, as far as I know, in a box in a library." He turned his cup. "It doesn't say Caesar Freeman. It doesn't say Prince, or Isaac. It says the corporal was caught and brought in by three Black men. That's all. Three of them, no names, in a line on a page." He looked at me. "But it's true. It's the truest line anybody ever wrote about me."
 
 I wrote down the words exactly as he'd said them. *A deserter, caught and brought in by three Black men.* And under it, *Clinton's papers.* And under that, *Find it.* Then I underlined *Find it* twice, which I really don't do, and he watched me do it from across the table, with the rain behind him, and didn't say anything at all, and I saw that he was pleased.

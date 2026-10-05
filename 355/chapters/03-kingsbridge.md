@@ -48,7 +48,7 @@ It was the first time I understood what that body could do.
 
 I should tell you about it properly, because it's the reason for everything that happened to me over the next two years, and I didn't understand it myself for a long time.
 
-Caesar's body had a memory such as I've never had before or since, in any life. I don't mean a good memory. I've had good memories. I mean that anything his eyes fell on stayed, as it was, as long as I lived in him. A page, a face, a list of numbers, the pattern of a quilt on a bed I walked past once. I didn't have to try. It went in like light into a room. And afterward, if I wanted it, I could go back and stand in front of it and read it off again, as if I were holding the paper.
+Caesar's body had a memory such as I've never had before or since, in any life. I don't mean a good memory. I've had good memories. I mean that anything his eyes fell on stayed, as it was. It's still there. A page, a face, a list of numbers, the pattern of a quilt on a bed I walked past once. I didn't have to try. It went in like light into a room. And afterward, if I wanted it, I could go back and stand in front of it and read it off again, as if I were holding the paper.
 
 Caesar himself had never known. How could he? He couldn't read. Nobody had ever let him. All his life he'd had the most remarkable eyes in the county and nothing to point them at but fields and cattle and the roads he was sent down. He'd known every road, and every farm, and every horse he'd ever handled, better than any man alive, and everybody thought him slow, because he didn't say much, and because he was owned, and people find it very easy to think slowly of anyone they own.
 

@@ -144,7 +144,7 @@ I bought two eggs. I don't know why. I stood at the top of the stairs with them 
 
 One day.
 
-If I'd seen it on the street, instead of in the night. If I'd gone to the cart, then and there, in the snow in the gutter, instead of home to my bed to take down my books. One day.
+If I'd seen it on the street, instead of in the night. If I'd gone to the cart, then and there, in the snow in the gutter, instead of home to my bed to take down my books. One day. Not to take her. I've never known what I'd have done. To look at her once, knowing. That's all.
 
 * * *
 

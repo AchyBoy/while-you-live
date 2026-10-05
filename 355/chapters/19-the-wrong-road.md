@@ -2,7 +2,7 @@
 
 ## Chapter 19: The Wrong Road
 
-He came back from the end of the drive after a quarter of an hour, slowly, and washed his hands at the kitchen sink for a long time, and then made sandwiches, because it was lunchtime, and he made them for us every Thursday, and I think he needed to do something that he always did.
+He came back from the end of the drive after a quarter of an hour, slowly, and washed his hands at the kitchen sink for a long time, and then made sandwiches, because it was lunchtime, and he made lunch for us every Thursday, and I think he needed to do something that he always did.
 
 Freda helped. He let her. She buttered the bread and he cut the cheese, and neither of them said anything, and I sat at the table and watched them, the tall girl and the old man, side by side at the counter, moving around each other in the small kitchen as if they'd done it for years.
 
@@ -44,7 +44,7 @@ He'd want him gone. The fastest way he could find.
 
 I'd spent all summer thinking about the land road, and I'd thought it through to the end long before that morning. I want you to know that, so you'll understand what I did next. It wasn't a guess.
 
-If André came down by land, he'd come down the east side of the river. He'd have to cross somewhere. The nearest crossing to Teller's Point was King's Ferry, a few miles up, and Arnold controlled King's Ferry. He'd send André over there, with a pass. And a pass from Arnold would be good on the roads Arnold commanded, which were the roads through his own posts. Down from the ferry, east, through the country behind the American lines, to their outposts. To North Castle, where a lieutenant colonel called Jameson kept a post of dragoons. And then through the outposts, on Arnold's pass, to White Plains. And from White Plains, into the Neutral Ground and down to us.
+If André came down by land, he'd start on the west side of the river, where Arnold would have taken him ashore, away from his own headquarters and the people who knew his face. And he'd have to cross to our side somewhere. The nearest crossing to Teller's Point was King's Ferry, a few miles up, and Arnold controlled King's Ferry. He'd send André over there, with a pass. And a pass from Arnold would be good on the roads Arnold commanded, which were the roads through his own posts. Down from the ferry, east, through the country behind the American lines, to their outposts. To North Castle, where a lieutenant colonel called Jameson kept a post of dragoons. And then through the outposts, on Arnold's pass, to White Plains. And from White Plains, into the Neutral Ground and down to us.
 
 The White Plains road. A man with a pass from the commanding general would take the road his pass was written for. He'd go through the posts openly, because his pass was good at the posts. He'd ride in daylight. He'd look like what he was pretending to be, a gentleman on business, with a paper from the general. That was the sensible road. The safe road. The only road where the paper in his pocket meant anything.
 
@@ -66,7 +66,7 @@ Nobody came.
 
 * * *
 
-At first light I went further north. I couldn't help it. Up the road toward North Castle, as far as I dared, which was further than I should have. I thought he might have been held up, at a post, by a careful sentry. I thought he might have lodged somewhere for the night, the way travelers did. I thought a great many things. I asked a boy driving cows, as if I were a runaway, whether he'd seen a gentleman ride by, and he said there'd been gentlemen riding by all week with the armies the way they were, and asked me if I was a runaway, and I said no and gave him half the bread.
+At first light I went further north. I couldn't help it. Up the road toward North Castle, as far as I dared, which was further than I should have. I thought he might have been held up, at a post, by a careful sentry. I thought he might have lodged somewhere for the night, the way travelers did. I thought a great many things. I asked a boy driving cows, keeping my head down like a hired man, whether he'd seen a gentleman ride by, and he said there'd been gentlemen riding by all week with the armies the way they were, and asked me if I was a runaway, and I said no and gave him half the bread.
 
 The sun came up. It got warm. Nine o'clock came, and went, on that empty road. I can tell you the exact moment, because I've worked it out since, a thousand times, from the records. At about nine o'clock on the morning of the twenty-third of September, while I sat on a borrowed horse in a stand of cedars above the White Plains road, looking north, with my bread in my coat, Major John André was sitting on a borrowed horse on a different road, perhaps eight miles to the west of me, being asked to get down.
 
@@ -84,9 +84,9 @@ He told them he was a British officer.
 
 * * *
 
-There were eight of them, in the end, rebel militia, out on the road that morning on their own account, looking for cattle thieves and anything else worth taking. Three stopped him. Three of them searched him. They made him take off his boots. And in his stockings, under his feet, they found papers in General Arnold's own hand: the state of the works at West Point, the strength of the garrison, the placing of the guns, the minutes of a council of war.
+There were seven or eight of them, in the end, rebel militia, out on the road that morning on their own account, looking for cattle thieves and anything else worth taking. Three stopped him, and searched him. They made him take off his boots. And in his stockings, under his feet, they found papers in General Arnold's own hand: the state of the works at West Point, the strength of the garrison, the placing of the guns, the minutes of a council of war.
 
-He offered them his watch. His horse. Any sum of money they liked to name. They took him to the American post at North Castle instead.
+He offered them his horse. Any sum of money they liked to name. They took his watch, and took him to the American post at North Castle.
 
 He was wearing somebody else's coat.
 

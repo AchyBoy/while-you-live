@@ -2,11 +2,11 @@
 
 ## Chapter 23: The Garden Wall
 
-He was at the bottom of the steps when we drove up. Under the maple, with his hands in his pockets, watching the car come up the gravel road.
+On the Thursday, he was at the bottom of the steps when we drove up. Under the maple, with his hands in his pockets, watching the car come up the gravel road.
 
 And I understood, all at once, with my hands on the wheel, what he'd meant. *It's a good thing to see, a car coming up a road. You'll understand later.* He'd been waiting at the bottom of those steps every Thursday since July for a car to come up a road. Not ours. Somebody else's. A dusty white pickup with a vet's box on the back, turning into a side street in a valley town, with a man in a garage looking up from his workbench.
 
-He'd known. Freda was right. He hadn't known the town, or the garage, or the grilled cheese. But he'd known there'd be a car, and a road, and somebody looking up. And he'd stood at the bottom of his own steps for a month so that when it came, I'd remember he'd been waiting for it.
+He hadn't known. He couldn't have. He hadn't known the town, or the garage, or the grilled cheese. But he'd guessed there'd be a car, and a road, and somebody looking up. And he'd stood at the bottom of his own steps for a month so that when it came, I'd remember he'd been waiting for it.
 
 I stopped the car. Freda got out first. She didn't say anything. She went straight across the gravel and stood in front of him, and he took his hands out of his pockets, and she put her arms round him, which she'd never done, and he stood very still for a moment, and then put one hand on the back of her head, the way you do with a child, though she was taller than he was.
 
@@ -28,7 +28,7 @@ At the end he sat with his hands folded on his knee and looked out at the field.
 
 I didn't trust myself to answer. I said the date into the recorders instead. *Session forty-one. Thursday, August fifth.* My voice wasn't very steady, and I've left it on the tape.
 
-"And now," he said, "since it's a day for it, I'll tell you about the best thing I did that whole year. For the worst man I ever met."
+"And now," he said, "since it's a day for it, I'll tell you about the best thing I did that whole year. For the worst man I never met."
 
 * * *
 
@@ -132,7 +132,7 @@ And a night or two later, the story goes, a sergeant of Arnold's Legion and a ma
 
 Nobody was waiting for them. Nobody took them. They went away. The sergeant sailed with Arnold's Legion for Virginia a week or two later, on the twentieth of December, with the rest of the corps, in his British coat. And a long time after that, in Virginia, he walked away one night and found his way back to his own side, and to his major, and was given his discharge, so he'd never be taken and hanged as a deserter. I've always been glad of that. I'd like to have shaken his hand.
 
-Arnold lived to be an old man too. In London, rich and despised, with nobody on either side of the ocean who'd sit at a table with him if they could help it. He died in his bed, twenty-one years later. They say he asked to be buried in his old American uniform. I don't know if that's true. I'd like it to be. It would be the only thing about him I ever understood.
+Arnold lived to be an old man. In London, rich and despised, with nobody on either side of the ocean who'd sit at a table with him if they could help it. He died in his bed, twenty-one years later. They say he asked to be buried in his old American uniform. I don't know if that's true. I'd like it to be. It would be the only thing about him I ever understood.
 
 * * *
 
@@ -140,7 +140,7 @@ Arnold lived to be an old man too. In London, rich and despised, with nobody on 
 
 He stopped. Freda was looking at him from the top step with an expression I couldn't read.
 
-"Why?" she said. "You hated him. You said he was the worst man you ever met. You could have just... not said anything. Let them take him. Nobody would ever have known."
+"Why?" she said. "You hated him. You said he was the worst man you never met. You could have just... not said anything. Let them take him. Nobody would ever have known."
 
 He thought about it, honestly, the way he thinks about everything she asks him. He'd always been honest with Freda. More honest, sometimes, than he was with me.
 
@@ -148,7 +148,7 @@ He thought about it, honestly, the way he thinks about everything she asks him. 
 
 "So you saved him for you," Freda said.
 
-"I saved him for all of us," he said. "And for André, I think. Because André would have." He picked up his glass. "And I did it without giving them the sergeant. So nobody hanged. On either side. That's the part I'm proud of." He drank. "The best work I did that whole year, Freda. For the worst man I ever met. That's how it goes, sometimes. You don't get to pick who you're good for."
+"I saved him for all of us," he said. "And for André, I think. Because André would have." He picked up his glass. "And I did it without giving them the sergeant. So nobody hanged. On either side. That's the part I'm proud of." He drank. "The best work I did that whole year, Freda. For the worst man I never met. That's how it goes, sometimes. You don't get to pick who you're good for."
 
 Freda thought about that for a long time, with her chin on her knees.
 
@@ -160,7 +160,7 @@ He laughed so hard he had to hold on to the rail.
 
 When he'd stopped laughing, and wiped his eyes, he looked at the two of us. At me in my chair, with my notebook. At Freda on the step.
 
-"Next week," he said, "is December. The end of the year." He folded his hands on his knee. "The eggs."
+"Next week," he said, "is still December. After Christmas. The end of the year." He folded his hands on his knee. "The eggs."
 
 Freda went very still.
 

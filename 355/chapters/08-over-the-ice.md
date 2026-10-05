@@ -116,7 +116,7 @@ And the ninth man in the line was Captain Joseph Reynolds.
 
 He'd been at the house with a company of his militia. He was standing in the snow in his good blue coat with no hat, with his hands tied in front of him, and blood on his cheek from a cut over the eye, and he looked older than I remembered, and smaller, and very cold.
 
-He knew me at once. I saw him know me. I watched it go across his face, all of it: surprise, and then disbelief, and then something I think was nearly fear, and then, last, the thing I'd seen on the first morning I woke up in that body, at noon, in his barnyard, with his account book under his arm. He was looking at his property. Six months gone, and turned up in the wrong army, with a British officer at its elbow.
+He knew me at once. I saw him know me. I watched it go across his face, all of it: surprise, and then disbelief, and then something I think was nearly fear, and then, last, the thing I'd seen on the first morning I woke up in that body, at noon, in his barnyard, with his account book under his arm. He was looking at his property. Eight months gone, and turned up in the wrong army, with a British officer at its elbow.
 
 "Caesar," he said.
 

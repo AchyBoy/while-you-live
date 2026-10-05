@@ -16,7 +16,7 @@ Robinson didn't care about his property that week. I knew Robinson. I'd watched 
 
 I knew whose letters they were. I knew what was being sold. And I knew, from the way André had been all that month, that it was nearly done.
 
-General Benedict Arnold. Gustavus. Mr. Moore. He'd been writing to André for more than a year, and André was going up the river to buy West Point from him, and the war was nearly over.
+General Benedict Arnold. Gustavus. Mr. Moore. Those were the names he signed himself. He'd been writing to André for more than a year, and André was going up the river to buy West Point from him, and the war was nearly over.
 
 * * *
 
@@ -94,7 +94,7 @@ He stopped. Freda had stopped eating pie some time ago. She was sitting with bot
 
 Freda looked at him. Then at me. Then she put her face down on her knees for a moment, and brought it up again.
 
-"I looked it up," she said. "Last night. After you said September. I'm sorry. I couldn't not." Her voice wobbled, and she steadied it. "He wore a different coat."
+"I looked it up," she said. "Last night. After Mom said it was September. I'm sorry. I couldn't not." Her voice wobbled, and she steadied it. "He wore a different coat."
 
 "Yes," he said gently. "He did."
 
@@ -102,7 +102,7 @@ Freda looked at him. Then at me. Then she put her face down on her knees for a m
 
 *September 1780*
 
-The first attempt was on the eleventh, at Dobbs Ferry, before Robinson's letter about the house. André and Robinson went up by boat to meet Arnold on the river, and Arnold came down by barge from his side, and the British gunboats on the river, who hadn't been told, saw a rebel barge on the water and fired on it, and Arnold turned round and went home. That was nearly the end of it, right there. A gunboat lieutenant doing his duty.
+I should go back a week. The first attempt was on the eleventh, at Dobbs Ferry, before Robinson's letter about the house. André and Robinson went up by boat to meet Arnold on the river, and Arnold came down by barge from his side, and the British gunboats on the river, who hadn't been told, saw a rebel barge on the water and fired on it, and Arnold turned round and went home. That was nearly the end of it, right there. A gunboat lieutenant doing his duty.
 
 They tried again. Arnold wrote, under his false name, that he'd be on the river on the night of the twentieth. Robinson went up on the *Vulture* on the sixteenth with his letter about the house, and the *Vulture* anchored off a long low point of land on the east shore called Teller's Point, a few miles below King's Ferry, and waited.
 

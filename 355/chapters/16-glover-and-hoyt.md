@@ -6,7 +6,7 @@ Nine days, and nothing from Purcellville.
 
 I'd stopped checking the mail every hour. I checked it every three. I'd stopped leaving my phone face up on the kitchen table all night and started leaving it face down, which Freda said was worse, because it meant I was pretending. She was right. She was right about most things that summer, and insufferable about all of them, and I'd never liked her more.
 
-On the Thursday he was waiting for me at the bottom of the porch steps, which he hadn't done since the spring, standing in the shade of the maple by the gravel with his hands in his pockets.
+On the Thursday he was waiting for me at the bottom of the porch steps, standing in the shade of the maple by the gravel with his hands in his pockets.
 
 "I wanted to see the car come up the road," he said, when I asked. "It's a good thing to see, a car coming up a road. You'll understand later." He turned and went up the steps, slowly, one hand on the rail. "Nothing from her?"
 
@@ -22,7 +22,7 @@ I said the date, *session thirty-seven, Thursday, July eighth*, and he settled h
 
 *August 1780*
 
-They'd started again in the middle of August. I knew it before anybody else at headquarters did, because the carter had a parcel the shape of a quire again, under his sugar, for the first time since April. He'd been over the ferry and back, and I'd watched him go through Hill's table at the Brooklyn landing, and seen the parcel, and seen Hill's men riffle it and hand it back.
+The road was open again. I'd known it since the twentieth of July, from a carter on a thwart with no cart. And at the beginning of August he had a parcel the shape of a quire again, under his sugar, for the first time since April. He'd been over the ferry and back, and I'd watched him go through Hill's table at the Brooklyn landing, and seen the parcel, and seen Hill's men riffle it and hand it back.
 
 I didn't stroke his horse that time. I let him go. I'd frightened that road once, and it had worked, and now it was open again, because Washington needed it more than they were frightened. You can't frighten people twice the same way. The second time, they're ready for it. So I didn't try to close the road again. I went to the other end of it.
 
@@ -56,7 +56,7 @@ Glover was looking at me differently by then.
 
 "Which cove?" he said.
 
-"I don't know. One of the ones east of the harbor. Behind the Strong farm, perhaps, on the Neck. There's good cover there." I'd never been there. I'd only listened to a hundred carters and boatmen and farmers at the ferry talk about that shore, for a year, and kept all of it. "And I don't know which night. But it'll be a dark one, near the new moon, when the carter's just come back from the city with a parcel. Watch the carter. When the carter's been to the city, watch the coves."
+"I don't know. One of the ones east of the harbor. Behind the Strong farm, perhaps, on the Neck. There's good cover there." I'd never been there. I'd heard a hundred carters and boatmen and farmers at the ferry talk about that shore, for a year, and I'd looked at Beckwith's map till I could see every cove on it. "And I don't know which night. But it'll be a dark one, near the new moon, when the carter's just come back from the city with a parcel. Watch the carter. When the carter's been to the city, watch the coves. And when you find him, take the boat while they sleep. Push it off. Without a boat he can't carry a letter, and nobody needs to be shot."
 
 * * *
 
@@ -68,7 +68,7 @@ They went at him in the dark. It was a hard little fight, in the reeds and the s
 
 The letters stayed on the Island. The man in the city's dispatches, the first he'd written since he'd started again, were sitting in Setauket waiting for a boat that had just been driven off. Tallmadge wrote to Washington a couple of days later, I read it afterward, that his boatman had been *drove from Long Island so suddenly* that the dispatches had been left behind. Brewster wrote, in his own letter, which was a very angry letter, that Glover and Hoyt *never stayed to bury their dead man*.
 
-That's true. They didn't. I didn't, either.
+That's true. They didn't. And I never went to look for him, either.
 
 * * *
 
@@ -86,7 +86,7 @@ He stopped. The bees were in the clover at the edge of the porch again. Somewher
 
 "So you lost that round too."
 
-"No," he said. "No, that one I won. A week is a long time, in a war. A week late is a week in which Washington didn't know something. And it was the first letter he'd written them in three months, and the boat that should have carried it had been shot up in the night by men who knew where it would be." He looked at me. "They knew, after that, that somebody knew. It wasn't a road anymore. It was a road with somebody standing on it. You can feel the difference, from inside. I've been on both sides of it."
+"No," he said. "No, that one I won. A week is a long time, in a war. A week late is a week in which Washington didn't know something. And those were the first real dispatches since April, and the boat that should have carried it had been shot up in the night by men who knew where it would be." He looked at me. "They knew, after that, that somebody knew. It wasn't a road anymore. It was a road with somebody standing on it. You can feel the difference, from inside. I've been on both sides of it."
 
 * * *
 
@@ -94,7 +94,7 @@ He stopped. The bees were in the clover at the edge of the porch again. Somewher
 
 The last week of August I was out in Westchester again, with a troop of DeLancey's refugee horse, the Westchester men, hunting the rebels' dispatch riders.
 
-Washington's army was up the Hudson by then, around the forts in the Highlands, and his letters to his officers in Connecticut went across the Neutral Ground by express, a dragoon on a good horse, riding hard, alone or in pairs. There was a bridge over the Croton River called Pine's Bridge that every one of them used, because it was the only good crossing for miles and the fords were deep in summer. I'd known it since I was Caesar's age, which is to say since before I was in him. The body knew the bridge. It had driven cattle over it.
+Washington's army was up the Hudson by then, around the forts in the Highlands, and his letters to his officers in Connecticut went across the Neutral Ground by express, a dragoon on a good horse, riding hard, alone or in pairs. There was a bridge over the Croton River called Pine's Bridge that every one of them used, because it was the only good crossing for miles and the fords were deep in summer. Caesar had known it since he was a boy, long before I was in him. The body knew the bridge. It had driven cattle over it.
 
 We lay up in the woods above Pine's Bridge for two days. On the second evening, a rebel dragoon came down the road from the north, alone, on a tired horse, with a leather satchel on his back. DeLancey's men took him on the bridge without a shot. He'd been riding since dawn. He looked very young, and very tired, and he didn't even try to run.
 
@@ -132,7 +132,7 @@ It was another hundred and fifty years before anybody in the world knew who he w
 
 He looked at me for a long moment. Then he picked up his glass and drank the rest of the water in it.
 
-"Look it up," he said. "Oyster Bay. Townsend. You're quicker than I was." He set the glass down. "That's the end of August, Ms. Barnett. Next week is September. I'd like you to bring Freda, if she'll come." He looked out at the pale field, and the heat lying on it, and the line of trees. "I don't think I want to tell September twice."
+"Look it up," he said. "Oyster Bay. Townsend. You're quicker than I was." He set the glass down. "That's as far as I'll go today, Ms. Barnett. Next week is the rest of September. I'd like you to bring Freda, if she'll come." He looked out at the pale field, and the heat lying on it, and the line of trees. "I don't think I want to tell September twice."
 
 I looked it up that night, at the kitchen table. It took me about four minutes.
 

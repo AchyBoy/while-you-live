@@ -2,7 +2,7 @@
 
 ## Chapter 26: A Certain Woman
 
-I brought him the paper.
+On the Thursday, I brought him the paper.
 
 Not a copy off the internet. The real thing, the Sunday paper, the whole heavy fat front section of it, folded under my arm. I'd bought six at the gas station on the Sunday morning, at five, when the bundles came off the truck, and the man behind the counter had looked at me as if I'd lost my mind, and I'd told him I had a story in it, and he'd said, "Well, congratulations," and given me a free coffee.
 
@@ -60,7 +60,7 @@ I opened my notebook to the last page, the one I keep, the one with nothing cros
 
 When I'd finished, he didn't say anything for a long time. He was looking at the field, and his hands were folded on his knee, and they weren't quite steady.
 
-"Isaac would be pleased," he said at last. "He'd want to know if they'd spelled him right." He smiled, a little. "Tell him they didn't spell any of us. That's all right. That's how it was. We knew who we were."
+"Isaac would be pleased," he said at last. "He'd want to know if they'd spelled him right." He smiled, a little. "They didn't spell any of us. That's all right. That's how it was. We knew who we were."
 
 * * *
 
@@ -100,6 +100,8 @@ He looked up.
 
 "I don't know, sir," I said.
 
+I had to give him something, or he'd have sent a man who'd look harder than I had. So I gave him Setauket, which he had already, and a woman, and there are a great many women in Setauket. No face. No cart. I sent him looking fifty-five miles from the ferry stairs.
+
 * * *
 
 [now]
@@ -136,7 +138,7 @@ He smiled. Slowly.
 
 "And nobody ever found her."
 
-"Nobody ever found her," he said. "I looked, myself. Afterward. In every record there is. There's no Widow Ames. Not in New York, not in Setauket, not anywhere. She was never caught, and never named, and never written down, except once, as a word in a code book." He looked at me. "Three hundred and fifty-five. Lady. That's all anybody will ever know about her. That's all she ever wanted anybody to know."
+"Nobody ever found her," he said. "I looked, myself. Afterward. In every record there is. There's no Widow Ames. Not in New York, not in Setauket, not anywhere. She was never caught, and never named, and never written down, except once as a number in a letter, and once as two words of mine in somebody else's." He looked at me. "Three hundred and fifty-five. Lady. That's all anybody will ever know about her. That's all she ever wanted anybody to know."
 
 * * *
 
@@ -146,9 +148,9 @@ The war went on another year. In October of 1781, at Yorktown, in Virginia, Corn
 
 "Property," he said. "That was us. In the treaty. Between the cattle and the furniture."
 
-In May of 1783, Washington came to meet the new British commander, Sir Guy Carleton, at a village on the Hudson, to arrange the handing over of the city. And to ask for his property back. Including the people who had run from Mount Vernon, his own household, who were in New York.
+In May of 1783, Washington came to meet the new British commander, Sir Guy Carleton, at a village near the Hudson, to arrange the handing over of the city. And to ask for his property back. Including the people who had run from Mount Vernon, his own household, who were in New York.
 
-"It was Tappan," he said. "Orangetown, they called it by then. The same village. I've always thought that was something. The same village where they hanged André, three years before." He looked at the field. "Carleton said no. He said the men and women who'd come in on the King's proclamations were free before the treaty was ever signed, and that handing them back would be, I'll give you his words, *a dishonourable violation of the public faith*. He said the King's promise would be kept. And he wrote down all our names in a book, every one of us, with our ages and where we'd come from and who'd owned us, so that if Britain was ever found to be wrong, the owners could be paid for us instead."
+"It was Tappan," he said. "Orangetown, the letters call it, after the township it sits in. The same village. I've always thought that was something. The same village where they hanged André, three years before." He looked at the field. "Carleton said no. He said the men and women who'd come in on the King's proclamations were free before the treaty was ever signed, and that handing them back would be, I'll give you his words, *a dishonourable violation of the public faith*. He said the King's promise would be kept. And he wrote down all our names in a book, every one of us, with our ages and where we'd come from and who'd owned us, so that if Britain was ever found to be wrong, the owners could be paid for us instead."
 
 "The Book of Negroes," I said. I'd read about it, for the Facts.
 
@@ -170,7 +172,7 @@ And each of them was given a certificate, he said, signed on behalf of the new C
 
 "Is that where you..."
 
-"The second year," he said. "Of fever. A great many of us did. I was forty-three, and free, and I'd built my own house with Prince, with a door that shut." He looked down at his hands. "And Caesar's eyes went with him. Everything I saw after that, in every life since, I've had to remember the ordinary way. Badly. With the edges worn off." He looked at Freda, and then at me. "Except the two of you. I'll remember the two of you the ordinary way. And I find that I don't mind at all."
+"The second year," he said. "Of fever. A great many of us did. I was forty-three, and free, and I'd built my own house with Prince, with a door that shut." He looked down at his hands. "And Caesar's eyes went with him. Everything I saw after that, in the lives since, I've had to remember the ordinary way. Badly. With the edges worn off." He looked at Freda, and then at me. "Except the two of you. I'll remember the two of you the ordinary way. And I find that I don't mind at all."
 
 * * *
 
@@ -194,7 +196,7 @@ Freda read it upside down. Then she looked at me.
 
 * * *
 
-I read it to him on the porch, on the Thursday. The last Thursday of August. The light was already different, the way it gets at the end of summer, lower and more golden, with the long shadows coming early across the field. I said the date into the recorders before anything else, because I always do. *Session forty-four. Thursday, August twenty-sixth.*
+I read it to him on the porch, on the Thursday. The last Thursday of August. The light was already different, the way it gets at the end of summer, lower and more golden, with the long shadows coming early across the field. I said the date into the recorders before anything else, because I'd promised myself I would, this time. *Session forty-four. Thursday, August twenty-sixth.*
 
 I gave him the card first, before the words, the way I always do now. He held it in the sun for a long time and looked at the hand. He touched the place where the pen had gone through.
 

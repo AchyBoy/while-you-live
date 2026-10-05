@@ -2,7 +2,7 @@
 
 ## Chapter 15: Newport
 
-"I've told you some of this a little out of order," he said, after lunch. "I'm going to go back two weeks. To the middle of July. Before André and I had our secret. Because something happened in those two weeks that I didn't see at the time, and I want you to see it the way I didn't."
+"I've told you some of this a little out of order," he said, that same Thursday, when he brought the lunch out. "I'm going to go back two weeks. To the middle of July. Before André and I had our secret. Because something happened in those two weeks that I didn't see at the time, and I want you to see it the way I didn't."
 
 He'd made sandwiches, tomato and mayonnaise on the bakery bread, with the first tomatoes from the plant by the back step, and salt and pepper, nothing else. We ate them on the porch, in the shade at the north end, with the plates on our knees. It was too hot to eat anything else. It was too hot, really, to eat that.
 
@@ -24,9 +24,9 @@ He didn't get either. But it was a near thing on the second. That's my part.
 
 The news that the French had landed came to the city on the eighteenth, by a courier from the far end of Long Island. And that same night the whole army began to move.
 
-I'd never seen anything like it, in that war. Six thousand men, perhaps more, marching out of their camps and quarters on the island and the Jersey shore and the city itself, all heading east, for the narrows at the top of the East River where the Sound begins, at Whitestone and Throg's Neck, where the transports were coming round to meet them. All the roads full. Every wagon in the city commandeered, every horse. Officers shouting at each other in the dark. And every guide the Quartermaster had on his books called in, to take the columns along the roads that were too small for them.
+I'd never seen anything like it, in that war. Six thousand men, perhaps more, marching out of their camps and quarters on the island and the Jersey shore and the city itself, all heading east, for the narrows at the top of the East River where the Sound begins, at Whitestone and Throg's Neck, where the transports were coming round to meet them. All the roads full. Every wagon in the city commandeered, every horse. All but a few: the carters who worked the Long Island road for the army's own forage were left their wagons, because the army needed the forage too. I knew which ones. I'd guided half of them. Officers shouting at each other in the dark. And every guide the Quartermaster had on his books called in, to take the columns along the roads that were too small for them.
 
-I was one. I spent four days and three nights on horseback, going back and forth along the north shore of the island, between the camps and the landing places, with columns of men behind me. I didn't sleep. Nobody slept. And I didn't go near the ferry once in all that time, or the city, or the shops, or Setauket road. There wasn't a minute for it.
+I was one. I spent four days and three nights on horseback, going back and forth along the north shore of the island, between the camps and the landing places, with columns of men behind me. I didn't sleep. Nobody slept. And I didn't stand at the ferry once in all that time, or go to the shops, or near the Setauket road. There wasn't a minute for it.
 
 I've thought since that if anybody on the other side had wanted the best possible week to send a letter out of New York, they couldn't have chosen better. Every eye in the British army was looking at the Sound. Including mine.
 
@@ -56,7 +56,7 @@ I told him about the carter. He listened, in a tent on the shore at Whitestone, 
 
 "Then Washington knows. Or will, in two or three days." He rubbed his eyes. "It doesn't signify now. We're past being secret. You can't move six thousand men without every farmer on Long Island knowing it, and every farmer on Long Island has a cousin in Connecticut." He looked at me. "You couldn't have stopped him. You know that."
 
-"I could have stopped him at the ferry," I said. "If I'd been at the ferry."
+"I could have stopped him at the ferry," I said. "If I'd got off my horse."
 
 "And had him searched, and found nothing, and let him go," Beckwith said. "Because there'd have been nothing on him. Would there?"
 
@@ -72,7 +72,7 @@ Here is what had happened. I learned it a long time afterward, reading their let
 
 Washington had dropped the man in the city in May, as I've told you. On the eleventh of July, the day after the French landed, he'd written to Tallmadge to start him up again, at once, at any price, because he needed to know what Clinton was going to do. Tallmadge got the letter three days later and went to the Connecticut shore. The boat went over to Setauket. The man in Setauket was sick in bed with a fever. So he sent the carter to the city.
 
-And the man in the city was frightened, still. I'd seen to that. But he wasn't too frightened to do it once more, for this. He wrote a letter on the nineteenth or twentieth, in the stain, on a sheet with an ordinary letter on the other side of it, to a well-known Loyalist colonel on Long Island, about some goods the colonel had ordered, so that if the carter was stopped and searched, it would look like the most loyal letter in the world. So I'd been wrong, in Beckwith's tent. There was something on him after all. And then I think he told the carter the rest, out loud, in case the letter was lost. And the carter rode it fifty-five miles in a day. He was back in Setauket on the evening of the twentieth, the man in Setauket wrote, *in great haste*.
+And the man in the city was frightened, still. I'd seen to that. But he wasn't too frightened to do it once more, for this. He wrote a letter on the nineteenth or twentieth, in the stain, on a sheet with an ordinary letter on the other side of it, to a well-known Loyalist colonel on Long Island, about some goods the colonel had ordered, so that if the carter was stopped and searched, it would look like the most loyal letter in the world. So I'd been wrong, in Beckwith's tent. There was something on him after all. And then I think he told the carter the rest, out loud, in case the letter was lost. And the carter took a horse at Brooklyn and rode it fifty-five miles in a day. He was back in Setauket on the evening of the twentieth, the man in Setauket wrote, *in great haste*.
 
 The man in Setauket got up out of his sickbed and wrote a covering note and sent it down to the boat with a message I've never forgotten, because it's the most frightened, most urgent thing I've ever read in that whole correspondence. *Let not an hour pass,* he wrote. *For this day must not be lost. You have news of the greatest consequence perhaps that ever happened to your country.*
 

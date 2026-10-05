@@ -42,7 +42,7 @@ She'd come straight from a call. She was in the same kind of jeans and flannel a
 
 * * *
 
-I'm going to tell it the way she told it. As near as I can. I didn't have a recorder. I didn't take a note, the whole time, not one, and I've never done that before in my life. I wrote it down in the car afterward, for an hour, while Freda sat beside me and didn't say a word.
+I'm going to tell it the way she told it. As near as I can. I didn't have a recorder. I didn't take a note, the whole time, not one, and I'd only done that once before, in a barn. I wrote it all down that night at the kitchen table, for an hour, while Freda sat across from me and didn't say a word.
 
 Her father had called her on the Wednesday morning at seven. She was at home, in Purcellville, getting ready for the day. He'd never called her that early in her life. He said he needed her to drive him into the city, right away, and not to ask him why, and could she please come.
 
@@ -108,7 +108,7 @@ She took her hand away from her mouth.
 
 * * *
 
-She drove. I want that on the record. Claire Whitcombe drove, and I sat in the passenger seat of her pickup, with her vet's kit rattling in the back, and Freda followed us in our car, two hours west, over the Blue Ridge, into the Shenandoah Valley, to a small town with a courthouse and a college and a main street of old brick buildings with mountains standing up at both ends of it. She drove the way she'd watched that horse: carefully, not fast, all the way.
+She drove. I want that on the record. Claire Whitcombe drove, and I sat in the passenger seat of her pickup, with her vet's kit rattling in the back, and Freda in the narrow back seat behind us, two hours west, over the Blue Ridge, into the Shenandoah Valley, to a small town with a courthouse and a college and a main street of old brick buildings with mountains standing up at both ends of it. She drove the way she'd watched that horse: carefully, not fast, all the way.
 
 He lived in a little white frame house on a side street, near the college, with a porch and a big garage behind it with the door rolled up. He was in the garage when we pulled up. I saw him before he saw me.
 
@@ -132,7 +132,7 @@ He looked at me for a long moment. And then something happened to his face that 
 
 * * *
 
-We sat in his kitchen, after. Claire and him and me. Freda had come up the drive and stood in the garage door, uncertain, and he'd looked at her and said, "You're the daughter. You were ten," and she'd said yes, and he'd said, "I'm sorry," and she'd said, "It's okay," in a voice that meant it mostly was, and gone to sit on the porch, where she could hear.
+We sat in his kitchen, after. Claire and him and me. Freda had climbed out of the truck and stood in the garage door, uncertain, and he'd looked at her and said, "You're the daughter. You were ten," and she'd said yes, and he'd said, "I'm sorry," and she'd said, "It's okay," in a voice that meant it mostly was, and gone to sit on the porch, where she could hear.
 
 He made grilled cheese. In a black iron pan, on an old gas stove, with tomato soup from a can heated in a little saucepan beside it. He didn't ask if we wanted any. He made four, and put them on four plates, and sent one out to Freda on the porch, and sat down with us at his kitchen table.
 
@@ -166,7 +166,7 @@ The boxes were in Gerald Whitcombe's barn, in Middleburg, Claire said, in the lo
 
 "My real one." He told it to me. Across his kitchen table, at last. He'd never needed to before. He'd always just been the man in the booth.
 
-I didn't write it down. I've never written it down, and I'm not going to now. He says I may. He says I should. He says it doesn't matter anymore, and that he'd like it in the paper, and it will be, when the paper's ready, in black and white, under mine.
+I didn't write it down. I've never written it down, and I'm not going to now. He says I may. He says I should. He says it doesn't matter anymore, and that he'd like it in the paper, and it was, on the fifteenth of August, in black and white, under mine.
 
 But in my notebook, and here, he's still what he was the first night I came home from the diner and opened a fresh page and needed something to call him. A man who mended old books, and kept copies of everything, and folded his napkin into smaller and smaller squares while he talked, and smoothed it flat again with the side of his thumb.
 
@@ -174,9 +174,9 @@ Bookbinder.
 
 * * *
 
-Freda drove us home. It was dark by the time we came back over the mountains. She drove carefully, not fast, the whole way, with both hands on the wheel, and I sat beside her with the window down and the night air coming in, and didn't say anything for a long time.
+Claire drove us back over the mountains in the dark, to the diner on Route 7, where our car had sat all day. Freda drove us home from there. She drove carefully, not fast, the whole way, with both hands on the wheel, and I sat beside her with the window down and the night air coming in, and didn't say anything for a long time.
 
-"Mom," Freda said, somewhere east of Front Royal.
+"Mom," Freda said, somewhere past Leesburg.
 
 "Mm."
 

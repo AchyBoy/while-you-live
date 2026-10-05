@@ -28,7 +28,7 @@ I put the groceries down on the counter.
 
 "You did say."
 
-"So." She dragged the cursor to the third thumbnail on the list. *Spring Lecture, Three Years Ago.* "Watch this. It's at thirty-eight forty."
+"So." She dragged the cursor to the third thumbnail on the list. *Spring Lecture, 2024.* "Watch this. It's at thirty-eight forty."
 
 She took the headphones off and unplugged them, and turned the sound up, and pressed play.
 
@@ -98,13 +98,13 @@ It was easy, now I knew where to stand. Claire Whitcombe had kept her name. She 
 
 She had no record of anything. Of course she didn't. She'd been the one who stayed in the car.
 
-I wrote it all down on a fresh page under her name, and then I sat with my hand flat on it for a long time, the way I'd sat in the reading room with my hand over the foreword.
+I wrote it all down on a fresh page under her name, and then I sat with my hand flat on it for a long time, the way I'd sat in a library reading room in May, with my hand over a page in an old auction catalog.
 
 "You should go," Freda said from the couch. She was supposed to be asleep. "Tomorrow. Before she finds out."
 
 "Finds out what?"
 
-"That somebody's looking. People always find out. Maddie's mom found out about me and Maddie's lab in like a day."
+"That somebody's looking. People always find out. Maddie's mom found out about the thing with Maddie's chemistry lab in like a day."
 
 "She won't find out," I said. "I'm not going tomorrow."
 
@@ -116,7 +116,7 @@ Because of what he'd said. Because the man who was laughing was used to being be
 
 Freda was quiet on the couch for a while. Then she said, into the dark, "Can I tell him? In my letter. That it was me that found her."
 
-She'd been writing to him since the spring. Short letters, on lined paper, folded in thirds. He wrote back. I'd never read either side, and I wasn't going to.
+She'd written to him a few times, since the spring. Short letters, on lined paper, folded in thirds. He wrote back. I'd never read either side, and I wasn't going to.
 
 "Yes," I said. "You should tell him it was you."
 

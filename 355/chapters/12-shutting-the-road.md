@@ -26,7 +26,7 @@ So we did small things. Beckwith did most of them. He had the authority and the 
 
 The first thing was the paper.
 
-An officer from the Commandant's office, a polite young lieutenant with a clipboard and a cold, went round the shops in the city that sold good writing paper. All of them. Stationers, printers, the dry goods men who kept a few quires among the cloth. He told each of them the same thing, pleasantly. That because of the war, and the shortage of paper, and certain irregularities that had come to the notice of headquarters, the Commandant would be grateful to know, from now on, the name of anybody who bought writing paper by the quire or the ream to carry out of the city. Purely for the record. Nothing more. He wrote the shopkeeper's name on his clipboard, thanked him, and left.
+An officer from the Commandant's office, a polite young lieutenant with a writing board and a cold, went round the shops in the city that sold good writing paper. All of them. Stationers, printers, the dry goods men who kept a few quires among the cloth. He told each of them the same thing, pleasantly. That because of the war, and the shortage of paper, and certain irregularities that had come to the notice of headquarters, the Commandant would be grateful to know, from now on, the name of anybody who bought writing paper by the quire or the ream to carry out of the city. Purely for the record. Nothing more. He wrote the shopkeeper's name on his writing board, thanked him, and left.
 
 That was all. He didn't search anything. He didn't threaten anybody. He went to fourteen shops in two days, and in every one of them, he left behind a man who now knew that the army had begun to wonder about paper.
 
@@ -40,11 +40,11 @@ Fifty-five miles from the ferry to Setauket, along the north shore of the Island
 
 Beckwith changed it. Not much. A sentry where there hadn't been one, at a bridge near Huntington. A picket moved half a mile down the road from where everybody knew it was. A troop of the Seventeenth Dragoons riding out along the north shore on an exercise, through Setauket and out the other side, and back again three days later, for no reason anybody could see. A deserter's story, let slip on purpose in a Jamaica tavern by one of Beckwith's men, that headquarters had a list of names on the north shore. There was no list. There didn't need to be.
 
-And a rumor. That was the best of them, and it was mine. That two whole regiments were to be put into winter quarters in Setauket itself, next season. Two regiments, in a village of a few hundred people. Every house with soldiers in the kitchen. Every barn with an officer's horse in it. Every cove on the harbor with a sentry. It wasn't decided. Nobody had decided it. But a quartermaster's clerk on the north shore was asked to look into the forage there, and how many cords of wood the village could furnish, and he asked about it, loudly, at every farm, and the farmers asked each other, and by the beginning of March everybody in Setauket was certain it was coming.
+And a rumor. That was the best of them, and half of it was mine. It had started on its own, in the winter. A quartermaster's clerk on the north shore had been asked to look into the forage at Setauket, and how many cords of wood the village could furnish, and he'd asked about it, loudly, at every farm, and by the middle of March the farmers were telling each other that two whole regiments were to be put into winter quarters in Setauket itself, next season. Two regiments, in a village of a few hundred people. Every house with soldiers in the kitchen. Every barn with an officer's horse in it. Every cove on the harbor with a sentry. It wasn't decided. Nobody had decided it. All I did was make sure it didn't die. A word in a Jamaica tavern. A question from a dragoon at a Setauket well. The same clerk, sent back in April to count the barns again.
 
-I read the letter, a long time afterward, that their man in Setauket wrote in the middle of March. Two regiments, he told Tallmadge, were to be stationed there. And then: *If it should take place it will I fear entirely ruin our correspondence.*
+I read the letter, a long time afterward, that their man in Setauket wrote in the middle of March, when the rumor was still new. Two regiments, he told Tallmadge, were to be stationed there. And then: *If it should take place it will I fear entirely ruin our correspondence.*
 
-I can't tell you how I felt when I read that. Two hundred years later, in a library, in a reading room, with my gloves on. I'd made that sentence happen. I'd sat in a cold office with my finger on a map and made a frightened farmer in Setauket write it down.
+I can't tell you how I felt when I read that. Two hundred years later, in a library, in a reading room, with my gloves on. I hadn't started that fear. But I'd sat in a cold office with my finger on a map and made sure it lasted all spring.
 
 * * *
 
@@ -66,7 +66,7 @@ He came back over the ferry eleven days later. No paper. And the next time, thre
 
 The paper stopped in the middle of April.
 
-I didn't know why. I didn't know anything then except what I could see from the ferry: that the carter still came, with his rum and his sugar and his nutmeg, but never again that spring with a parcel the shape of a quire. That the rumors about Setauket went round the north shore and came back to us bigger. That the dragoons rode out and rode back. That the polite lieutenant's clipboard had fourteen names on it and not one purchase of paper by the quire.
+I didn't know why. I didn't know anything then except what I could see from the ferry: that the carter still came, with his rum and his sugar and his nutmeg, but never again that spring with a parcel the shape of a quire. That the rumors about Setauket went round the north shore and came back to us bigger. That the dragoons rode out and rode back. That the polite lieutenant's writing board had fourteen names on it and not one purchase of paper by the quire.
 
 And that the widow at the top of the ferry stairs on the city side had a full dozen eggs in her two rows every morning I passed that May. Every one of them. I noticed it, as I noticed everything. I remember thinking her business must be very bad, and buying an extra two, once or twice, because I felt sorry for her.
 
@@ -78,7 +78,7 @@ And on the nineteenth of May, at his headquarters in Jersey, George Washington s
 
 Dropped. Washington's own word. His best spies in New York, his only real eyes inside the city, dropped. For two months, from the middle of April to the middle of July, nothing came out of New York to Washington by that road. Not a word. In the spring of 1780, while Clinton was taking Charleston and the war was going worse for the rebels than it ever had or would again.
 
-Nobody was hanged. Nobody was arrested. Nobody was searched to the skin or held to a flame. Nobody ever knew who'd done it, on either side. A polite lieutenant had gone round some shops with a clipboard, and a troop of horse had ridden through a village and back, and a clerk had asked about firewood, and a Black man had stroked a horse at a ferry landing. And Washington's best spies had stopped writing to him.
+Nobody was hanged. Nobody was arrested. Nobody was searched to the skin or held to a flame. Nobody on the other side ever knew who'd done it. A polite lieutenant had gone round some shops with a writing board, and a troop of horse had ridden through a village and back, and a clerk had asked about firewood, and a Black man had stroked a horse at a ferry landing. And Washington's best spies had stopped writing to him.
 
 That was the best work I did in that war, Ms. Barnett. Better than the ice. Better than any of it. I've never been prouder of anything than of the things in that war that nobody ever knew happened.
 
@@ -92,7 +92,7 @@ I didn't say anything for a while. The fan ticked round on the counter. I had wr
 
 "Washington got other news," I said finally. "Didn't he? From somewhere."
 
-"He did." He let the shade fall. "He opened another road, through Staten Island, with other people. It was slower, and it was worse, and it didn't see what the man in the city saw." He came back to the table. "I'm not going to tell you I won the war that spring. I won a road. That's all. For two months." He sat down. "But I won it without a single person in that whole chain coming to harm. And I'd never managed that before, in any life. Not once. I'd always had to break something."
+"He did." He let the shade fall. "He opened another road, through Staten Island, with other people. It was slower, and it was worse, and it didn't see what the man in the city saw." He came back to the table. "I'm not going to tell you I won the war that spring. I won a road. That's all. For two months." He sat down. "But I won it without a single person in that whole chain coming to harm. That's rare enough, in any life, that I count them."
 
 "And the eggs," I said.
 
