@@ -194,7 +194,7 @@ Freda read it upside down. Then she looked at me.
 
 * * *
 
-I read it to him on the porch, on the Thursday. The last Thursday of August. The light was already different, the way it gets at the end of summer, lower and more golden, with the long shadows coming early across the field.
+I read it to him on the porch, on the Thursday. The last Thursday of August. The light was already different, the way it gets at the end of summer, lower and more golden, with the long shadows coming early across the field. I said the date into the recorders before anything else, because I always do. *Session forty-four. Thursday, August twenty-sixth.*
 
 I gave him the card first, before the words, the way I always do now. He held it in the sun for a long time and looked at the hand. He touched the place where the pen had gone through.
 
@@ -221,6 +221,22 @@ I didn't understand. And then I did, and I felt it go down my arms.
 Freda, on the top step, had gone completely still.
 
 He looked out at the field. The swallows were going over it low, in long curves, the way they do at the end of August, feeding before they leave.
+
+"I'd like to ask you for two small things," he said, still watching them. "And I'd like you not to ask me why. Not today."
+
+"All right."
+
+"Don't ever change your email. Or your telephone number. People do, these days, every few years, for no reason at all. Don't."
+
+I almost laughed. It was such an old man's thing to ask. "I've had the same number for eighteen years."
+
+"Keep it for eighteen more." He turned his head and looked at me, and he wasn't smiling. "And the second thing. If you ever get a letter, or one of those emails, from somebody you don't know, from anywhere, however young they sound, and it starts with the number of a session, read it to the end."
+
+"Which session?"
+
+"The last one we had," he said. "Whichever that turns out to be. You'll know it. You write them all down."
+
+Freda had turned round on the step and was looking at him. He didn't look at her. He looked at me until I nodded. Then he looked back out at the field, and the swallows, and the long gold light going across it toward the trees.
 
 "Bring a bigger notebook," he said.
 
