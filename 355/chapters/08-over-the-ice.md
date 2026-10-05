@@ -32,6 +32,12 @@ The question was how to get there without being heard. Lord Stirling had come ac
 
 I showed him. South, along the island's own shore, close in, where the snow lay thick on the ice and swallowed the sound. Then across the narrow water at the south end of the bay, not to the Point but below it, to a place called Trembly's Point, where the marsh came down to the shore and nobody kept a guard because nobody could imagine an army landing in a salt marsh. No sleighs. Men on foot, and the cavalry walking their horses, with sacking on the hooves. No bells. No torches. No talking. Then up through the marsh to the town in the last hour before light, and take the guard in their beds, and the officers with them, and come away by the same road before the country woke.
 
+Beckwith asked me what it was for. It was a fair question. There were men in the city who wanted it for nothing but revenge.
+
+"Prisoners, sir," I said. "Alive. Every man you take out of his bed is a man you can trade for one of ours in a rebel jail, and half the Loyalists on that island have a brother in one. A man asleep in his bed can't be shot, and he can't shoot anybody either. If they hear us coming, it's a fight in the streets, with women at the windows. If they don't, it's a theft." I'd thought about it a long time. "That's the whole of the plan, sir. Quiet enough that nobody has to fire."
+
+Beckwith looked at me for a moment, and then he nodded, slowly. I think it was the first time I ever saw him like anything.
+
 It was a good plan. I want to say that plainly. It was the best plan anybody made that winter, on either side. It went right to the end. It was what happened at the end that wasn't mine.
 
 * * *
