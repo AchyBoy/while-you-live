@@ -50,7 +50,7 @@ They were not men who expected to take advice from anybody, and certainly not fr
 
 Hoyt said he'd supposed Brewster was visiting his mother.
 
-"He's waiting for something to be brought down to him," I said. "And while he's waiting, he can't move. He's got to stay where he said he'd be. He's got to be there when they come. That's the only time Brewster's ever in one place for twenty-four hours, with his boat drawn up on the shore and his men asleep in the grass."
+"He's waiting for something to be brought down to him," I said. "And while he's waiting, he can't move. He's got to stay where he said he'd be. He's got to be there when they come. That's the one time you know Brewster has to stay in one place for twenty-four hours, with his boat drawn up on the shore and his men asleep in the grass."
 
 Glover was looking at me differently by then.
 

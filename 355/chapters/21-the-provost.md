@@ -94,7 +94,7 @@ Ever serviceable. That was my ferryman. With one eye, and my blanket, and his mo
 
 They let him out after Christmas. Nobody had ever been able to say what he'd done. He went back to the ferry and worked the sweeps till he died.
 
-And that was the end of it. The road was shut. The man in the city had gone to the country. The man in Setauket was afraid to go to New York. The boats were watched, and some of them were taken. The ring that had written to Washington every two weeks all summer was silent, all that winter. Nobody was hanged. Nobody was ever going to be.
+And that was the end of it. The road was shut. The man in the city had gone to the country. The man in Setauket was afraid to go to New York. The boats were watched, and some of them were taken. The ring that had written to Washington every two weeks all summer was silent, all that winter. Nobody was hanged. Not by anything I gave them.
 
 * * *
 

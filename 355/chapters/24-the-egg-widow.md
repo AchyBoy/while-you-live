@@ -60,7 +60,7 @@ He stopped. The rain was steady on the roof. Freda had come and sat down, finall
 
 I went back to the shed by the North River that night, and lay down on my bed with my coat over me, and shut my eyes, and went back.
 
-You've never had eyes like Caesar's. Nobody has. I can't make you understand what it was like. The nearest I can come is this: imagine every day of your life were a book on a shelf, and you could take any one of them down and open it at any page and the page would be there, exactly as his eyes had seen it, every word, every face, the light on it. Only what he saw. Never what he heard. But all of that. And imagine that you'd never once taken down most of the books, because you hadn't known there was anything in them worth reading.
+You've never had eyes like Caesar's. Nobody has. I can't make you understand what it was like. The nearest I can come is this: imagine every day of your life were a book on a shelf, and you could take any one of them down and open it at any page and the page would be there, exactly as his eyes had seen it, every word, every face, the light on it. What his eyes had seen came back whole. Sounds didn't, not like that. But the seeing did. All of it. And imagine that you'd never once taken down most of the books, because you hadn't known there was anything in them worth reading.
 
 I took them down. All night. One after another.
 
@@ -78,7 +78,7 @@ Now I went through them all again. Every morning Caesar's eyes had caught that c
 
 I'd counted them every time I passed, for a year and a half. I couldn't help it. I counted everything. And I'd never once asked myself why a woman who sold eggs by the dozen started some mornings with one missing.
 
-She'd been standing at the top of the only road out of the city, in plain sight, telling them. One egg gone: there's something to carry today. A full basket: there's nothing; stay home. Every carter and boatman and courier on that road had only to walk past her cart on his way to the boat, and look at her basket, and he'd know. And nobody had to say a word. Nobody had to carry a scrap of paper. Hill could search them all to the skin.
+She'd been standing at the top of their road out of the city, in plain sight, telling them. One egg gone: there's something to carry today. A full basket: there's nothing; stay home. Every carter and boatman and courier on that road had only to walk past her cart on his way to the boat, and look at her basket, and he'd know. And nobody had to say a word. Nobody had to carry a scrap of paper. Hill could search them all to the skin.
 
 The cleanest thing I ever saw in that war. From either side.
 
