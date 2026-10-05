@@ -68,7 +68,7 @@ There were perhaps a dozen shops in the city that sold good writing paper. Stati
 
 I watched what came out of those shops, and where it went, for three weeks.
 
-And I watched the ferry. That was the end of every road east. Everything that went to Long Island went over the ferry, and everything that went over the ferry went past me, sooner or later, if I stood at the top of the stairs long enough. I stood there a great deal, that March. The widow had her cart back at the top of the stairs as soon as the ice was gone, with her eggs and her butter and her little iron pot of coals for the cold mornings. I bought eggs from her twice a week, as I had before, and put them inside my shirt, and stood and watched the people waiting for the boat. She had eleven, one of those mornings. I remember thinking she'd had a slow week. I didn't buy any that day. I had enough.
+And I watched the ferry. That was where the road east began. Not everything bound for Long Island went over the ferry, but nearly everything that went on a man's own legs did, and everything that went over the ferry went past me, sooner or later, if I stood at the top of the stairs long enough. I stood there a great deal, that March. The widow had her cart back at the top of the stairs as soon as the ice was gone, with her eggs and her butter and her little iron pot of coals for the cold mornings. I bought eggs from her twice a week, as I had before, and put them inside my shirt, and stood and watched the people waiting for the boat. She had eleven, one of those mornings. I remember thinking she'd had a slow week. I didn't buy any that day. I had enough.
 
 * * *
 
