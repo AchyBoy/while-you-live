@@ -2,6 +2,8 @@
 
 ## Chapter 8: Over the Ice
 
+That afternoon, after the eggs, he wanted the porch again. The rain had stopped by then, and the boards were steaming a little where the sun came through. He sat on the bench with his tea and looked at the wet field for a while, and when he spoke, it wasn't about Gerald Whitcombe at all.
+
 *January 1780*
 
 I said I'd give you one clean one first, and I have. The next two aren't clean. I'm going to tell them anyway, and I'm going to tell you exactly what my part in them was, no more and no less, and you can decide what you think. That's the bargain.
@@ -58,7 +60,7 @@ We went back across the ice in the gray light with fifty prisoners and both buil
 
 [now]
 
-He stopped. We were back on the porch by then; the rain had cleared and the boards were drying in patches. He'd brought his tea out with him, and he set it down on the rail.
+He stopped. The boards were drying in patches now, and the steam had gone off them. He'd brought his tea out with him, and he set it down on the rail.
 
 "You said it wasn't yours," I said. "The end."
 
