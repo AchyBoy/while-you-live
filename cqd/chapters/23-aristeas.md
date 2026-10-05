@@ -116,7 +116,7 @@ It was a Greek name. Old. He said it slowly, carefully, in a way that was not qu
 
 "Aristeas," he said.
 
-I didn't write it down. I don't know why. I had written down everything he had said to me for seven months. I sat with my pen in my hand and didn't write it, and I think he saw that, and I think it was the right thing to have done.
+I wrote it down. Slowly, on a page by itself, the way I had written down everything he had said to me for seven months. He watched me do it, and didn't say anything, and I think he was glad.
 
 "Aristeas," I said. Badly. I put the weight in the wrong place.
 
