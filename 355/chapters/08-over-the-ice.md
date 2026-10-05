@@ -2,7 +2,7 @@
 
 ## Chapter 8: Over the Ice
 
-That afternoon, after the eggs, he wanted the porch again. The rain had stopped by then, and the boards were steaming a little where the sun came through. He sat on the bench with his tea and looked at the wet field for a while, and when he spoke, it wasn't about Gerald Whitcombe at all.
+After the eggs, he wanted the porch again. The rain had stopped by then, and the boards were steaming a little where the sun came through. He sat on the bench with his tea and looked at the wet field for a while, and when he spoke, it wasn't about Gerald Whitcombe at all.
 
 *January 1780*
 

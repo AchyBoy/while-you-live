@@ -2,6 +2,46 @@
 
 ## Chapter 9: Five Rockets
 
+That night, at home, after the drive back, I did something I hadn't done all week.
+
+I didn't look at Gerald Whitcombe.
+
+I sat at the kitchen table with my six pages and a highlighter, and I went through them again, and I highlighted every other person in them. Every single one. The road-widening people. The president of the historical society. His late wife, Margaret, who taught piano. The funeral home. The horse rescue in Purcellville. The daughter, Claire, of Loudoun County. Two grandsons, no names. A neighbor who'd sold him six acres of pasture in the nineties. A man from the library foundation who'd introduced him at the talk.
+
+Fourteen names. I wrote them in a column on a fresh page. Then I sat and looked at them, and I couldn't make any of them get into a car.
+
+Freda came in at ten from her father's, where she went on Thursdays now, by agreement, from four until nine, and he drove her home and waited at the curb until she was inside and the porch light had gone off and on again, which had been his own idea, and which I'd been more touched by than I'd let him see. She dropped her bag by the door and came and stood behind my chair, as she always does, and read my column over my shoulder, as she always does.
+
+"Who are they?"
+
+"People who know Gerald Whitcombe."
+
+"The laugh guy." She leaned on the back of my chair. "Why?"
+
+"Because one of them might have been in the car."
+
+I told her what Tom had said. Not all of it. The person who wasn't laughing. The twenty-seven minutes. Who drives a man of seventy-three into the city. She listened with her chin on the top of my head, which she hasn't been tall enough to do for very long, and which she does now whenever she can, because she knows I can't stop her.
+
+"That's a really good question," she said, when I'd finished.
+
+"I know. I can't answer it."
+
+"Can I see the video again?"
+
+"You've seen it."
+
+"I saw the laugh," Freda said. "We were all watching for the laugh. Mrs. Dunleavy had her eyes shut." She came round the table and pulled her laptop out of her bag. "I want to watch the whole thing. All forty minutes. The beginning and the questions and the end." She opened it. "Everybody always leaves off the end. That's where the people are."
+
+I looked at her.
+
+"What people?"
+
+"I don't know yet," Freda said. "That's why I want to watch it." She put her big white headphones on, and found the video, and dragged the little slider all the way back to the beginning, and hit play.
+
+I watched her watch it for a while. Then I went and put the kettle on, and when I came back with the tea she had her elbows on the table and her chin in her hands, and on the screen a white-haired man in a bow tie was standing at a lectern in front of a slide of a water-stained letter, and she wasn't watching him at all. She was watching the edges.
+
+* * *
+
 Freda watched the lecture four times that week, all forty minutes, start to finish, and found nothing.
 
 She watched the beginning, where a man from the library foundation came to the lectern and read a very long introduction off a card. She watched the slides. She watched the questions at the end, all six of them, and the faces of the people asking them, as far as the camera showed them, which wasn't far. She watched the last ninety seconds, after the applause, where the camera stayed on for no reason and people stood up and put on their coats and a woman in the second row dropped her program. She made notes, in a document on her laptop with a title I wasn't allowed to see. On Wednesday night she shut the laptop and said, in a voice I knew from her chemistry homework, that it was a stupid video and the camera person was an idiot and she was going to bed.
