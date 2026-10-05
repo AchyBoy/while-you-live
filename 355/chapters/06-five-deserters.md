@@ -94,7 +94,7 @@ They stayed all the next day, looking at us, and another night after it. By then
 
 Almost nobody died. That's the thing I want you to write down, Ms. Barnett. Three thousand men came across the ice to fight, and the fight never happened, and almost nobody on either side died of it. Not a single one of the five boys who came across barefoot that morning. Not a single one of Rudd's men. Not, as far as I ever heard, a single one of Lord Stirling's, though some of them lost their toes.
 
-It's the cleanest win I ever had. In that life or any other.
+It's the cleanest win I ever had. There have been two others like it, in all that time, where nobody died. Only two. I'll tell you about them some day.
 
 * * *
 
