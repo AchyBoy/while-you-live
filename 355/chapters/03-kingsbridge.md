@@ -6,6 +6,8 @@ He'd made the tea before I got there, and it was already on the kitchen table in
 
 "Kingsbridge," he said. "June. The middle of the night."
 
+* * *
+
 *June 1779*
 
 The Hessian who found me that night was about nineteen, and frightened, and trying very hard not to look it, and I liked him at once.
