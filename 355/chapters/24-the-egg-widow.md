@@ -86,7 +86,7 @@ The cleanest thing I ever saw in that war. From either side.
 
 And the third thing.
 
-I went back. Back past all of it, back into the summer before, the summer I came in, to a morning in late August of '79 at Mr. Hill's new table on the Brooklyn landing. A morning I'd told your mother about, Freda, months ago, because I remember everything and can't leave anything out. A thin anxious farmer of about thirty, in a brown coat, coming off the boat from the city. And his wife on his arm, a little older than him. In a gray cloak and a plain cap. Scolding him the whole way up to the table about what he'd paid in the city for a pound of tea.
+I went back. Back past all of it, back into the summer before, the summer I came in, to a morning in late August of '79 at Mr. Hill's new table on the Brooklyn landing. A morning I'd told your mother about, Freda, months ago, because I remember everything and can't leave anything out. A thin anxious farmer of about thirty, in a brown coat, coming off the boat from the city. And his wife on his arm. In a gray cloak and a plain cap. Scolding him the whole way up to the table about what he'd paid in the city for a pound of tea.
 
 I took that page down and looked at her face.
 

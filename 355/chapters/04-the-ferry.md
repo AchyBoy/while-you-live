@@ -84,11 +84,55 @@ It was the first round of the game, and I didn't even know that I'd won it. I di
 
 I watched that table a good deal, the rest of that summer. Sometimes, when I'd crossed with a party, I stood near it on purpose while I waited for the boat back, and I watched Hill work.
 
-He wasn't good at it. He was a clerk, not a hunter. He opened the letters and read them, and found nothing in them, because the letters said nothing, because anybody clever enough to be worth catching wasn't going to put anything in a letter that a clerk at a ferry table could read. He turned out baskets. He made men take off their boots. He never once looked at the women.
+He wasn't good at it. He was a clerk, not a hunter. He opened the letters and read them, and found nothing in them, because the letters said nothing, because anybody clever enough to be worth catching wasn't going to put anything in a letter that a clerk at a ferry table could read. He turned out baskets. He made men take off their boots.
 
-I saw a young man searched very hard there, one morning in September. Thin, pale, sweating, with a satchel. Hill had him empty it on the table, and turned every paper over twice, and held the letters up to the light, and found nothing, and let him go. The young man went off up the Brooklyn road without looking back, and I watched him all the way down, and I thought, *that is a man who has just been very lucky*. I never saw him again. I don't know his name. I've often thought I'd like to.
+I'll give you one morning. The end of August. You can stand beside me for it, the way I stood there, and you'll see what I mean about Hill.
 
-And I saw a farmer and his wife go through, one morning in late August, coming off the boat from the city. I'm only telling you because I remember everything, and I can't leave it out. He was about thirty, thin, anxious, in a brown coat, with the look of a man who's never been anywhere and doesn't like it. She was on his arm, a little older than him, in a gray cloak and a plain cap, scolding him the whole way up to the table about what he'd paid in the city for a pound of tea. Hill opened their basket, and found tea and a loaf of sugar and a bolt of calico, and the wife told him what she thought of men who put their hands in other people's sugar, at some length. Hill was glad to see them go. So was everybody in the line. I laughed, I think. Most people did.
+I'd come over with a party taking cattle out to Flatbush, and the cattle were gone up the road and I was waiting for the boat back, at the Brooklyn landing, on an upturned crate by the wall of the ferry house. Nobody looks at a Black man on a crate. I had a piece of bread. I ate it slowly. The sun was already hot on the water.
+
+Hill had his table at the top of the landing, where the boats came in from the city, with a soldier on either side of him and a ledger and an inkpot, and a long face like a man with a toothache he'd had for years. The first boat of the morning was coming across, low in the water, the boatmen leaning on the long sweeps.
+
+Here's the first thing I'd learned, watching that table. You don't watch faces. Everybody's face is ready for Mr. Hill. They've had the whole crossing to get it ready. You watch hands.
+
+The boat bumped the landing and they came up the steps. A woman with a goose under her arm. Two officers' servants with a trunk between them. A big farmer who'd sold his butter in the city and was carrying home the money in a purse round his neck, and touching it, every few steps, as if it might have flown off. Hill took the purse off him and counted it, and gave it back, and the farmer counted it again, right there at the table, and Hill sighed.
+
+Then a young man. Thin, pale, in a good coat too heavy for August, with a leather satchel over his shoulder. He came up the steps with his face perfectly calm. His hands weren't calm. One of them had the satchel strap in a grip that had turned the knuckles white, and the other one kept going to the front of his coat and stopping, halfway, and going back to his side, as if it had remembered something and then remembered it mustn't.
+
+Hill saw the coat, not the hands. But the coat was enough for Hill. He had the young man empty the satchel onto the table. Papers. Letters. A book. He opened every letter and read it, slowly, moving his lips. He held them up, one at a time, to the sun, to see if anything was written between the lines. He had the young man take off his coat, and turned out the pockets, and felt along the seams. He had him take off his boots, and turned them upside down, and knocked them on the table. A soldier ran his hand along the inside of each one.
+
+Nothing.
+
+The young man stood there in his stockings on the hot boards with his arms folded, and his face never moved once. But I saw his right hand, under his left elbow, opening and closing. Opening and closing.
+
+"Go on," Hill said at last, and pushed the papers back across the table at him. "Go on, go on."
+
+The young man put his boots on, and his coat, and gathered his papers, and went off up the Brooklyn road, not fast, not slow, and didn't look back. Not once.
+
+I looked back for him. At the boat. The boatmen were sweeping it out for the return, and one of them swept a little drift of something out from under the stern seat, where the young man had been sitting, and over the side into the water. Paper. Wet, and torn very small. A dozen pieces, maybe. They floated a moment on the green water by the steps, and then the tide took them under the landing.
+
+I didn't know what it meant. I'm telling you exactly what I knew. I knew a man had sat on that seat for the whole crossing with something in his hands, and come up the steps with nothing in them. I put it away, the way I put everything away. It was months before I understood it, and a long time after that before I read, in their own letters, what one of their couriers had done that summer rather than be searched with it on him.
+
+The second boat came in. And off it, up the steps, came a farmer and his wife.
+
+He was about thirty, thin, anxious, in a brown coat, with the look of a man who's never been anywhere and doesn't like it. She was on his arm, in a gray cloak and a plain cap. And she was scolding him. She'd been scolding him, by the sound of it, the whole way across the river. About a pound of tea. What he'd paid for it in the city. What it would have cost in Setauket if he'd had the sense to wait. How her sister had told her he'd be cheated, and her sister was right, her sister was always right.
+
+I watched his hands. Of course I did. They were the worst hands on that landing all morning. Thin, red, and shaking, and the right one kept going flat against the front of his brown coat, over the chest, and staying there. That was a man who was frightened of Hill, I thought. Not of the sun or the crowd or the price of tea. Of Hill.
+
+I was about to think the next thing. I could feel it coming. And then she put the basket down on Hill's table with a bang, herself, before he could ask for it, and said, "There. Look in it, then. Look in it. Put your hands in other people's sugar, like a dog."
+
+Every head on that landing turned to her.
+
+Mine did too.
+
+Hill opened the basket. Tea, a loaf of sugar, a bolt of calico. She told him what she thought of men who put their hands in other people's sugar while their own wives sat at home. She told him at some length. She told the soldiers. She told a sergeant who'd been waiting for the next boat and hadn't said anything. People started to laugh. I laughed. Hill went red to the ears, and shut the basket, and said, "Madam, go on, for God's sake, go on," and the soldiers stood aside and let them through.
+
+He never searched the husband. Nobody looked at the husband's hands again. I didn't. I'd lost them.
+
+They went off up the road, arm in arm, and I could hear her still going, about the tea, until they turned the corner by the tavern.
+
+A woman went through after them with a skirt as wide as a cart, and Hill didn't look at her at all. He never did look at the women. I noticed it that morning, and filed it, the way I filed everything, as a fault in Mr. Hill. I didn't once think of it as a fault that might be in me.
+
+The boat back was ready. I finished my bread and went down the steps.
 
 * * *
 
