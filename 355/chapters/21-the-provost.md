@@ -82,11 +82,109 @@ And the third thing. The one I want to tell you properly.
 
 There was a man who helped them. Not one of the ring. One of the people around it, who carried a thing here and there, who held a horse, who kept a letter in his house for a night. Every chain has people like that. They're never in the books. They're never in anybody's books. He was a ferryman on the Brooklyn ferry, an old man with one eye, who'd worked the sweeps on those flat boats for thirty years. I'd watched him all year. I'd watched him take a folded paper from the carter, once, in the spring, and put it inside his hat, and give it to somebody on the Brooklyn side. I'd never done anything about it. I'd been saving him.
 
-In the first week of November, after the shutters, I gave him to DeLancey. They had to see one of their own taken and not hanged. Taken, so they'd stop. Not hanged, so I could live with it.
+In the first week of November, after the shutters, I gave him to DeLancey.
 
-Not as a spy. I was very careful. As a man who'd been seen carrying letters for persons unknown. DeLancey had him taken up at the ferry stairs and put in the Provost. And they questioned him, and he said nothing. Nothing at all. He said he was an old man who rowed a boat, and he'd carried a great many things for a great many people in thirty years, and he couldn't remember any of them, and he was sorry. He said it for three weeks. They didn't hurt him. I'd asked DeLancey not to, and DeLancey had looked at me as if I were mad, and then, I think because André would have, agreed.
+I'd thought about it for three days. I'd gone down to the ferry stairs every morning and watched him bring the first boat over, and gone back up the hill and said nothing, and on the fourth morning I went to the long table under the window and stood in front of it until DeLancey looked up.
 
-I went to see him in the Provost. Twice. I brought him a blanket, because it was cold, and bread, and once a little tobacco. He looked at me through the bars with his one eye and knew perfectly well who'd put him there, I think. And he took the blanket. And he said thank you. And he said nothing else, to me or to anybody, ever.
+"There's a ferryman on the Brooklyn boats, sir," I said. "An old man. One eye."
+
+He put his pen down. "Is he one of them?"
+
+"I didn't say that, sir."
+
+"Then what are you saying?"
+
+"That I've seen him carry a letter for men who didn't want it carried openly. Once, in the spring. From a carter to a man on the Brooklyn side. Inside his hat."
+
+"Once."
+
+"Once that I saw, sir."
+
+He sat back and looked at me the way a man looks at a horse somebody's trying to sell him. "In the spring. And you've sat on it since the spring."
+
+"Yes, sir."
+
+"Why?"
+
+Because I was saving him. I didn't say that. "Because he's worth nothing to you on his own, sir. He doesn't know who writes the letters. He doesn't know who reads them. He rows a boat. But every one of the people who write them has stood in his boat. If he's taken up, they'll all know it by dinner."
+
+"And they'll stop."
+
+"They'll stop, sir."
+
+He picked the pen up again and turned it in his fingers. "A man who carries rebel letters across a river in time of war is a spy, Freeman. That's a hanging matter. You've only to say so. I'd have him tried by the end of the week."
+
+I'd known he'd say it. I'd known since the morning in the cedars that somebody would say it to me one day, across a table, and I'd thought about what I'd answer. None of it was any use, now that he had.
+
+"I can't swear to what was in it, sir," I said. "I saw a folded paper. It might have been a bill of lading. It might have been a love letter." I made myself look at him, and not at the drawing board in the corner. "He's to be taken up as a man seen carrying letters for persons unknown. That's what I saw. That's all I'll say I saw."
+
+"That's a very small charge."
+
+"Yes, sir. It's meant to be."
+
+They had to see one of their own taken and not hanged. Taken, so they'd stop. Not hanged, so I could live with it. That was the line, and I drew it on DeLancey's table that morning with my own mouth, as carefully as André ever drew anything on that board. And I knew, standing there, that it was only ever going to be as good as DeLancey's patience. And DeLancey didn't have much.
+
+He wrote something down. "The ferry stairs," he said. "Tomorrow." And then, without looking up, "You'll want to be there, I suppose."
+
+"Yes, sir."
+
+* * *
+
+They took him a little after seven.
+
+It was a gray morning with a chop on the river and the tide running hard out, and the first boat had come over late because of it. I was at the top of the stairs among the crowd, with my hands in my coat. The egg cart was where it always was. I didn't look at it. I never did.
+
+He was on the bottom step, in the weed, making his boat fast. He had the line round the post and he was swearing at the tide, under his breath, the way he swore at it every morning, as if it were an old dog that should have known better. He threw the last turn of the line without looking at it. Thirty years. His hands didn't need him for that anymore.
+
+Four soldiers came down the stairs past me. Not hurrying. A sergeant and three men, the way you'd send men to fetch a cask.
+
+He heard their boots on the stone. He finished the knot first. Then he straightened, slowly, with one hand on the post, and looked up at them with his one eye. And then past them. Up the stairs, at the crowd.
+
+At me.
+
+I don't know how he knew. I'd never spoken to him. I'd crossed in his boat a dozen times and paid my penny and looked at the water. But he looked up those stairs over the sergeant's shoulder and found me among thirty people, and I watched him understand it. Not wonder. Understand. It went across his face and was gone, the way a gull's shadow goes across the water.
+
+And he saw that I'd seen it.
+
+He didn't say anything. He didn't point. He let the sergeant take his arm, and he came up the stairs between them, an old man's climb, one step and then the next, and when he came level with me at the top he didn't look at me again. He'd done all his looking from the bottom.
+
+I stood there with my hands in my coat. Six feet from him.
+
+Not six weeks before, I'd stood six feet from Arnold on the Broadway, holding a horse, and done nothing, and hated myself for it all the way home. This was the same nothing. I'd done it again. Only this time I was the reason the man walking past me was walking where he was.
+
+* * *
+
+They questioned him, and he said nothing. Nothing at all. He said he was an old man who rowed a boat, and he'd carried a great many things for a great many people in thirty years, and he couldn't remember any of them, and he was sorry. He said it for three weeks. They didn't hurt him. I'd asked DeLancey not to, and DeLancey had looked at me as if I were mad, and then, I think because André would have, agreed.
+
+I went to see him in the Provost. Twice.
+
+I'd never been inside it. I'd spent a year and a half walking the long way round it. It stood on the Commons, three floors of gray stone with a cupola on top, and every Black man in that city knew somebody who'd gone in through its gate and come out without his papers, or hadn't come out. I had a pass with DeLancey's name on it in my coat, and I took it out at the gate, and the turnkey read it, and then looked at me for a long moment over the top of it, the way you'd look at a man who'd come in early for his own cell.
+
+It was the last week of November, and cold. I had a blanket over my arm, a good gray wool one I'd paid too much for, and a loaf wrapped in a cloth.
+
+They kept him on the ground floor, in a long room with a grate across the end of it and straw on the flags and a dozen men in it, and a smell I won't describe to you, Freda, because you're eating. He was sitting by himself against the wall under the one window, with his knees up and his arms round them, in the same coat he'd had on at the stairs.
+
+He saw me before I'd got to the grate. He didn't get up. I stood there with the blanket, and he sat there and looked at me with his one eye, and neither of us said anything.
+
+He knew. I knew that he knew. And there wasn't a word in the English language that either of us could say about it, in that room, with a turnkey ten feet behind me and a dozen men on the straw listening to every breath.
+
+So I said, "It's cold."
+
+He looked at the blanket for a long time.
+
+I thought about what DeLancey could do, any day he liked. A bad week. A letter from Clinton. Another officer of ours hanged somewhere up the river. The small charge would become a large one in an afternoon, and the man in front of me would go up a ladder on the Commons because I'd stood at a table and pointed at him. I'd drawn my line very carefully. It was still my line, and he was the one standing on it.
+
+He got up. Slowly, with a hand on the wall. He came to the grate and put his hand through it, and I gave him the blanket, and then the bread.
+
+"Thank you," he said.
+
+I waited. I wanted him to say something else. I wanted him to curse me, or ask me why, or ask me anything at all, so that I could answer it. I had answers. I'd had them ready since the stairs.
+
+He didn't. He went back to his place under the window and put the blanket round his shoulders and sat down again, and turned his eye to the window, and that was all. I stood at the grate till the turnkey rattled his keys.
+
+I think I'd brought that blanket as much for me as for him. He knew that too. He took it anyway, because it was cold.
+
+The second time, I brought bread again, and a little tobacco. He had the blanket round him. He took them, and nodded, and said thank you. And he said nothing else, to me or to anybody, ever.
 
 The man in Setauket wrote to Tallmadge in the middle of November. *Several of our dear friends were imprisoned,* he wrote. *In particular one that hath been ever serviceable to this correspondence. This step so dejected the spirits of C. Junr.,* he wrote, meaning the man in the city, *that he resolved to leave New York for a time.*
 
