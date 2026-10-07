@@ -70,6 +70,16 @@ I believed him. I'd have believed him without the words. I looked at his feet in
 
 "Come with me," I said. "Walk where I walk. Don't stop. I'll take you to a fire."
 
+It was a mile back to the shore, and it took us most of an hour. The smallest of them, a red-haired boy with nothing at all on his feet but the rags, kept stopping. Not because he was tired. Every so often he'd look down at the ice between his feet as if he'd only just noticed what he was standing on.
+
+Halfway across, the ice sang. The long low note came from somewhere up the Kill and ran at us and under us and away, and all five of them stopped dead, and the red-haired boy went down on his knees and put both hands flat on the ice, as if he could hold it still.
+
+"Tide," I said. "Just the tide, lifting it."
+
+He looked up at me. I don't think he believed me. I'd said it the way the driver had, I realized. For both of us. But I held out my hand, and after a moment he took it, and his hand was so cold it didn't feel like a hand at all. I walked him the rest of the way like that, the way you'd walk a child across a street. He didn't let go till we reached the shore.
+
+The others called him Davy.
+
 * * *
 
 I didn't take them to Rudd.
