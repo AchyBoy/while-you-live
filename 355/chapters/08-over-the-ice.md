@@ -44,25 +44,77 @@ It was a good plan. I want to say that plainly. It was the best plan anybody mad
 
 They went on the night of the twenty-fifth. About four hundred men, mostly Jersey Volunteers, under their lieutenant colonel, Abraham Van Buskirk, a Dutch doctor from Bergen County who'd raised a battalion of his own neighbors for the King, and a troop of the Seventeenth Light Dragoons. I went with them as the guide.
 
-We went down the island's shore in the dark, close in, on the soft snow. It worked. It was like walking on wool. Four hundred men, and the loudest thing on the bay was the ice singing its long note under us now and then, and the breath of the horses. We crossed at the narrows below Trembly's Point and came up through the frozen marsh with the reeds crackling round our knees, and nobody heard us. At four in the morning we were in the streets of Elizabethtown, and the guard was in its beds, and the officers were in theirs.
+Van Buskirk found me at the edge of the ice before we started, in the dark, while the companies were forming up on the snow behind us with their breath smoking.
 
-They took about fifty prisoners. Some officers, some militiamen, and a few men who were only in the wrong house. Almost nobody fired a shot. The rebel guard came out of the houses with their hands up and their breeches in their hands. It was over in twenty minutes. It was everything Beckwith had wanted.
+"You're Beckwith's man," he said. He was a tall, stooped, tired-looking man, more doctor than soldier, with a muffler wound up to his ears. "He says you can get four hundred men across two miles of ice without a sound."
 
-And then somebody set fire to the church.
+"Not without a sound, sir. Without a sound they can hear."
+
+He looked at me. Then he almost smiled. "That'll do," he said. "Lead on."
+
+We went down the island's shore in the dark, close in, on the soft snow. It worked. It was like walking on wool. Every so often the ice sang its long note under us, and the whole column stopped without being told, four hundred men frozen in the dark like deer, and then went on. A sergeant behind me was praying under his breath, the same three words over and over. Nobody told him to stop.
+
+At the narrows below Trembly's Point I held up my hand and the column bunched behind me.
+
+"Here, sir," I said to Van Buskirk, low. "Straight across, a quarter mile. Then the marsh. The reeds will crackle. Don't let them hurry it. A man who hurries through reeds sounds like a cow."
+
+He passed it back, whispered, man to man. *Don't hurry it. Sounds like a cow.* I heard it go all the way down the column, and somebody, far back, snorted, and somebody else hissed at him.
+
+We came up through the frozen marsh with the reeds round our knees, and nobody heard us. At four in the morning we were at the edge of Elizabethtown, in the lee of a barn, looking down a street of dark houses with snow on the roofs, and one light, in one window, at the far end, where the guard was.
 
 * * *
 
-I'll tell you what I saw. I've thought about it for two hundred and forty-seven years and I can't make it more than what it was.
+"The guardhouse first," I said. "And the houses with officers in them. I'll show you which. Take them in their beds."
 
-There was a Presbyterian meeting house in the middle of the town. A big wooden building with a tall steeple, the finest building in Elizabethtown. The rebels had used it as a barracks, and before that, the Loyalists said, its minister had preached rebellion from the pulpit every Sunday since '75 and rung its bell to call out the militia. The Loyalists hated it more than any building in Jersey. Some of them had sat in its pews as boys.
+"And if they fight?"
 
-When the prisoners were being collected in the street, a party of men came down the street with torches. They weren't Van Buskirk's regulars, the Volunteers. They were Loyalist militia from the island who'd come along on their own account, the way the Jersey farmers had followed Lord Stirling, men whose farms had been stripped the week before. And they went into the meeting house, and a few minutes later there was light in the windows, and then there was light coming out of the windows, and then the steeple was burning like a candle against the dark.
+"They won't, sir, if they're asleep. A man in his shirt with his breeches in his hand doesn't fight. He asks what time it is."
 
-Van Buskirk came running. I heard him. He was shouting at them to put it out, in Dutch and English both, that he hadn't ordered it, that they were to put it out at once. Nobody did. Nobody could have, by then, with buckets and snow. And while he was shouting at them, somebody else set fire to the courthouse across the green.
+It went exactly like that. I want you to know it went exactly like that, because of what came after. The guard was asleep round its stove, all but one man, who was sitting in a chair by the window with his musket across his knees and his head on his chest, and who woke up with a Volunteer's hand over his mouth and stared at us over it with his eyes enormous. The officers came out of the houses with their hands up and their breeches in their hands. One of them did ask what time it was. A woman stood in a doorway in her nightgown with a candle and screamed at us, and a Volunteer said, "Go back to bed, Mrs. Hetfield, nobody's going to hurt him," and she stopped screaming and stared at the Volunteer, because she knew him. They'd been to the same church.
 
-I stood in the street and watched them burn. There was nothing I could do. I was a Black man with a guide's paper in a town full of armed white men with their blood up. If I'd so much as touched one of those torches they'd have thrown me in after it.
+Twenty minutes. Fifty prisoners. I don't think three shots were fired in the whole town.
 
-We went back across the ice in the gray light with fifty prisoners and both buildings still burning behind us, and you could see the glow of them from the middle of the bay, from Staten Island, from the Battery in the city, the people told me afterward. The rebels said it all over Jersey for the rest of the war: that the King's men had come across the ice in the night and burned a house of God. They were right. They had.
+I stood in the street with Van Buskirk while they were being collected, in a line, in the snow, in whatever they'd snatched up on the way out, and he let out his breath and said, very quietly, "By God, that was clean."
+
+"Yes, sir."
+
+"We'll be back on the island before they've lit their fires." He turned to give the order to form up.
+
+That was when the torches came down the street.
+
+* * *
+
+They weren't his men. They weren't Volunteers. They were Loyalist militia from Staten Island who'd come across behind us on their own account, the way the Jersey farmers had followed Lord Stirling, twenty or thirty of them, men whose farms had been stripped ten days before. They'd brought pitch and straw in sacks, which tells you they'd decided before they ever set foot on the ice. They walked straight past the prisoners without looking at them, toward the meeting house in the middle of the town, the big Presbyterian meeting house with the white steeple, where the minister had preached rebellion every Sunday since '75 and rung the bell to call out the militia.
+
+I went after them. I don't know what I thought I was going to do. I caught up with the last man at the meeting house steps, a thick, bearded man with a torch in one hand and a sack in the other, and I said, "The Colonel's orders are prisoners. Nothing else. He said nothing burns."
+
+He turned round and looked at me. At my face. Then at the paper I was holding out, with Beckwith's note on it. He didn't look at the paper long.
+
+"That's the bell," he said, and pointed up with his torch at the dark steeple. "That bell rang the night they came for my brother. They hanged him off his own barn. You want to tell me about orders?" He looked at me again, slowly, up and down. "You want to tell me anything at all?"
+
+I didn't. I want you to understand that. I stood on the bottom step and didn't say another word, because I was a Black man with a guide's paper in a town full of armed white men with their blood up, and if I'd put my hand on that torch, they'd have thrown me in after it, and Van Buskirk would have written to Beckwith that his guide had been killed in the confusion.
+
+He went up the steps and through the door. A few minutes later there was light in the windows. Then there was light coming out of the windows.
+
+Van Buskirk came running. I heard him before I saw him, shouting in Dutch and English both, *put it out, put it out, I did not order this, put it out at once*, and his own officers running behind him with buckets they'd taken from somebody's well. It was no good. Nobody could have put it out, by then, with buckets and snow. The steeple caught, and went up like a candle, and the whole street turned orange, and the prisoners in their line in the snow turned round to look at it, every one, the way people turn to look at a house they were born in.
+
+And while Van Buskirk was shouting, somebody else set fire to the courthouse across the green.
+
+* * *
+
+We went back across the ice in the gray light, the way we'd come, and it was nothing like the way we'd come.
+
+Coming, we'd been four hundred men holding their breath. Going back, we were four hundred men and fifty prisoners, and a town on fire behind us, and nobody was quiet anymore. The prisoners walked between the files in their shirts and stockings, with their arms wrapped round themselves, and the Volunteers guarding them were men from the same county, some from the same streets, and they knew each other's names, and nobody used them.
+
+Behind us the whole country was waking. A drum started in Elizabethtown, and then another, further off, and then the alarm gun, and then the bells of every church still standing along that shore, one after another, as if the towers were passing the news down the coast. By the time we were out past the marsh, there were men at the edge of the ice behind us, militia, firing after us in the half-dark. Too far. The balls fell short and skipped across the ice like stones a boy throws on a pond. Nobody was hit. But every man in that column flinched at every shot, me with them, and the ice under all that weight sang and sang, and twice it cracked, sharp, like a branch, somewhere out to the side, and four hundred men stopped dead, and then went on.
+
+There was a boy among the prisoners, sixteen at most, taken off a cot in the guardhouse without his boots. By the middle of the bay he couldn't feel his feet. He was walking on the sides of them, and he fell twice. The second time I got him up and took the horse blanket off my own shoulders and put it round him, and he looked at me, at my face, as if he couldn't work out what I was.
+
+"Whose are you?" he said. His teeth were going so hard he could barely get it out.
+
+"My own," I said. "Walk."
+
+He walked. And when I looked back over my shoulder from the middle of that frozen bay, with the boy leaning on me and the bells still going on the Jersey shore, the steeple was down, and the glow of the two fires stood up over the town like a second sunrise, red and wrong. You could see it from Staten Island, the people told me afterward, and from the Battery in the city. The rebels said it all over Jersey for the rest of the war: that the King's men had come across the ice in the night and burned a house of God. They were right. They had.
 
 * * *
 
