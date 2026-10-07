@@ -96,6 +96,32 @@ His clerk stopped writing. Robinson didn't turn round to look at his map. He did
 
 He looked at me with a different sort of attention then. Not suspicion, exactly. More the look a man gives a field he has driven past for years, when he notices for the first time that it's better land than he thought.
 
+But Robinson wasn't a man to trust one look. He folded his hands on the table.
+
+"The Purdy farm," he said. "On the Bedford road, above the pond. Who's living there now?"
+
+I knew he knew. It was a question with the answer already in his pocket.
+
+"Nobody, sir. Old Mr. Purdy went over to Connecticut in the winter, with his cattle. His son's out with the militia. They put a tenant in, a man called Haight, but he left in May. There's a dog that still goes back to it."
+
+The clerk looked at Robinson. Robinson looked at me.
+
+"Pines Bridge. How many men?"
+
+"Thirty, sir, most nights. Fewer at haying. They change over on a Thursday."
+
+"Who commands them?"
+
+"I don't know, sir. I never saw him close. A tall man on a gray horse."
+
+That was the one that did it, I think. A man who's come in to sell himself will always give you a name. He'll make one up if he has to. I didn't have one, so I didn't give one.
+
+He asked me one more. A lane behind the Mile Square, he said, with a mill on it. Whose mill?
+
+"There's no mill on that lane, sir. There's a ford, and a smithy that's shut up. The mill's on the next lane over. Ward's."
+
+He was quiet a moment. Then he said to the clerk, without looking at him, "A fresh sheet."
+
 "Tell me the rest," he said. "Everything you passed. Every house, and who's in it now."
 
 It took me two hours. I gave him every farm between Bedford and Kingsbridge, all of them, the way Caesar had known them from twenty years of being sent down those roads, and everything I had added to it myself in the six months I'd been in him. Who'd gone over to the rebels and who was only pretending, for safety. Which houses had men in them who'd been out with the militia and which had men hiding in the cellar from it. Where the rebel guard boats lay up on the river, and which widow on the Sawmill River took in their wounded. The clerk filled six sheets. Robinson listened to all of it without interrupting, and at the end he sat for a moment, quite still, and then stood up and took a quill and went to his own map on the wall, and moved the picket from the crossroads to the Hammond place, and drew a small neat line through the bridge at Odell's.
