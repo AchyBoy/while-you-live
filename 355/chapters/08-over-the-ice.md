@@ -50,7 +50,7 @@ Sergeant Dirck Van Orden was fifty, Dutch, from Hackensack, and said about ten w
 
 "Four hundred men in one man's boots," Kipp whispered. "That's a trick I'd pay to see."
 
-"You're about to see it for nothing," Van Orden said. That was three of his ten.
+"You'll see it," Van Orden said. That was three of his ten.
 
 * * *
 
@@ -72,7 +72,7 @@ Van Orden put his hand on Kipp's shoulder, once, and took it away. Kipp shut his
 
 * * *
 
-At the narrows below the Point I held up my fist, and the column bunched behind me in the dark.
+At the narrows below the Point I stopped, and Van Orden, behind me, held up his fist, and the column bunched behind us in the dark. That was how it went all night. I showed Van Orden. Van Orden showed them.
 
 Across the water, a quarter mile off, the Jersey shore was a long black line. Somewhere along it, a dog was barking. Not at us. At the cold, at the night, the way dogs do. It had been barking the whole time we'd been on the ice.
 
@@ -92,7 +92,7 @@ Then the dog started again. Further along. Barking at something else.
 
 Kipp let his breath out so hard it smoked. "I hate that dog."
 
-"Love that dog," Van Orden said. "That dog is our friend."
+"Good dog," Van Orden said.
 
 We crossed.
 
@@ -150,7 +150,7 @@ The guard was asleep round its stove, all but the man with the lantern, who woke
 
 A woman came to a doorway in her nightgown with a candle and screamed. One of the Volunteers stepped up to her, a big man with a red face, and said, quite gently, "Go back to bed, Mrs. Hetfield. Nobody's going to hurt him." And she stopped screaming, and stared at him, because she knew him. They'd sat in the same church.
 
-Twenty minutes. Fifty prisoners. I don't believe three shots were fired in the whole town.
+Twenty minutes. Fifty prisoners. Not a shot fired. A scuffle at the guardhouse door, where one man wouldn't let go of his musket till two Volunteers sat on him, and that was all.
 
 They lined the prisoners up in the snow in the middle of the street, in whatever they'd snatched up on the way out. Van Buskirk stood beside me and watched them, and let out a long breath, and said, very quietly, "By God, Freeman. That was clean."
 
@@ -162,19 +162,17 @@ Kipp touched my sleeve.
 
 "Freeman," he said. And he wasn't whispering anymore, and he wasn't joking.
 
-Torches were coming down the street.
+There was light in the windows of the meeting house.
 
 * * *
 
-They weren't ours. Not Van Buskirk's. Loyalist militia from the island, twenty or thirty of them, who'd come across behind us on their own, the way the Jersey farmers had followed Lord Stirling. Men whose farms had been stripped ten days ago. They had sacks over their shoulders, and when the first one passed me I smelled what was in them. Pitch.
+It wasn't ours. Loyalist militia from the island, twenty or thirty of them, had come across the ice behind us on their own, the way the Jersey farmers had followed Lord Stirling. Men whose farms had been stripped ten days before. Nobody had known they were there. They hadn't needed a guide. They'd had four hundred men's trail to follow, one trail, trodden flat, all the way through the marsh. And while we were taking the guard, they'd gone round us in the dark, straight to the big Presbyterian meeting house with the white steeple in the middle of the town, where the minister had preached rebellion every Sunday since '75 and rung the bell to call out the militia. They had sacks over their shoulders. When the wind came round, I smelled what had been in them. Pitch.
 
-They walked straight past the prisoners without looking at them, toward the meeting house in the middle of the town. The big Presbyterian meeting house with the white steeple, where the minister had preached rebellion every Sunday since '75 and rung the bell to call out the militia.
+Van Buskirk had seen it when I did. He was already shouting, in Dutch and English both, *put it out, put it out, I did not order this, put it out at once*, and his officers were running with buckets they'd snatched from somebody's well. Van Orden ran with them. So did I.
 
-"Oh, no," Kipp said. "No, no."
+There was a thick bearded man at the foot of the meeting house steps, with a torch in his hand, standing in front of the door as if it were his own. I got there before the buckets did. I said, "The Colonel's orders are prisoners. Nothing else. Nothing burns."
 
-I went after them. I don't know what I thought I'd do. I caught the last man at the foot of the meeting house steps, a thick bearded man with a torch in one hand and a sack in the other, and I said, "The Colonel's orders are prisoners. Nothing else. Nothing burns."
-
-He turned round. He looked at me. At my face. Then at the paper I was holding out, with Beckwith's note on it. He didn't look at the paper long.
+He looked at me. At my face. Then at the paper I was holding out, with Beckwith's note on it. He didn't look at the paper long.
 
 "That bell," he said, and he pointed up at the dark steeple with his torch, "rang the night they came for my brother. They hanged him off his own barn door." He looked at me again, slowly, up and down. "You want to tell me about orders?" Very quietly. "You want to tell me anything at all?"
 
@@ -182,21 +180,17 @@ I didn't.
 
 I want you to understand why. I was a Black man with a guide's paper in a town full of armed white men with their blood up. If I'd put my hand on that torch, they'd have thrown me in after it, and Van Buskirk would have written to Beckwith that his guide had been killed in the confusion, and Beckwith would have believed him, because it would have been very nearly true.
 
-He went up the steps and in through the door.
-
-A minute later there was light in the windows. Then there was light coming out of the windows.
-
-Van Buskirk came running. I heard him before I saw him, shouting in Dutch and English both, *put it out, put it out, I did not order this, put it out at once*, and his officers behind him with buckets they'd snatched from somebody's well. Van Orden ran with them. Kipp didn't. Kipp stood in the middle of the street beside me and watched.
-
-Nobody could have put it out by then, with buckets and snow. The steeple caught and went up like a candle. The whole street turned orange. And the prisoners in their line in the snow turned round, every one of them, to look at it, the way people turn to look at a house they were born in.
+He stepped aside for the buckets. He could afford to. Nobody could have put it out by then, with buckets and snow. The steeple caught and went up like a candle. The whole street turned orange. And the prisoners in their line in the snow turned round, every one of them, to look at it, the way people turn to look at a house they were born in.
 
 While Van Buskirk was still shouting, somebody set fire to the courthouse across the green.
 
-"We did that," Kipp said beside me. Not loud.
+Kipp hadn't moved from the middle of the street. I went back and stood beside him.
 
-"No," I said. "We brought them here."
+"We did that," he said. Not loud.
 
-He looked at me. He was nineteen. "What's the difference?"
+"No," I said. "We didn't know they were behind us."
+
+"Four hundred men in one man's boots," Kipp said. He was nineteen. "You made a road anybody could follow."
 
 I didn't have an answer for him. I've had two hundred and forty-seven years to think of one, and I still don't.
 
@@ -214,15 +208,19 @@ The first ball skipped past ten yards to my left and went skittering away across
 
 "They're shooting at the bay," Van Orden said. "The bay will be fine." The only joke I ever heard him make.
 
-The ice sang under all that weight, over and over. Twice it cracked, sharp, like a branch, somewhere off to the side, and four hundred men stopped dead, and then went on.
+The ice sang under all that weight, over and over. Twice it cracked, sharp, like a branch, somewhere off to the side, and four hundred men stopped dead, and then picked up the pace.
 
-There was a boy among the prisoners, sixteen at most, taken off a cot in the guardhouse without his boots. By the middle of the bay he couldn't feel his feet. He was walking on the sides of them, and he fell, and got up, and fell again. The second time, I got him up, and took the horse blanket off my own shoulders, and put it round him. He looked at me, at my face, as if he couldn't work out what I was.
+There was a boy among the prisoners, sixteen at most, taken off a cot in the guardhouse without his boots. By the middle of the bay he couldn't feel his feet. He was walking on the sides of them, and he fell, and got up, and fell again. The second time, I sat him down on the ice, took the horse blanket off my own shoulders, cut strips from it with my knife, and bound his feet. He looked at me, at my face, as if he couldn't work out what I was.
 
 "Whose are you?" he said. His teeth were going so hard he could barely get it out.
 
-"My own," I said. "Walk."
+"My own," I said. "Lean on me. Walk."
 
-He walked. Kipp came up on his other side, without a word, and took his arm. And when I looked back over my shoulder from the middle of that frozen bay, with the boy between us and the bells still going on the Jersey shore, the steeple was down, and the glow of the two fires stood up over the town like a second sunrise, red and wrong.
+He walked. Kipp came up on his other side and took his arm, and looked at his face, and swore, very softly.
+
+"I know his mother," Kipp said, to nobody. "She sold us cider. Before."
+
+The boy didn't look at him. Kipp didn't let go. And when I looked back over my shoulder from the middle of that frozen bay, with the boy between us and the bells still going on the Jersey shore, the steeple was down, and the glow of the two fires stood up over the town like a second sunrise, red and wrong.
 
 You could see it from Staten Island, the people told me afterward, and from the Battery in the city. The rebels said it all over Jersey for the rest of the war: that the King's men had come across the ice in the night and burned a house of God.
 
@@ -236,7 +234,7 @@ He stopped. The boards were drying in patches now, and the steam had gone off th
 
 "You said it wasn't yours," I said. "The end."
 
-"It wasn't. I didn't light it. I didn't order it. The man who did order the raid tried to stop it, and couldn't." He looked at me. "And the road those men walked to the church that night, across the ice, through the marsh, in the dark, so quietly that nobody heard them coming, was mine. I made it. I was very proud of it." He was quiet. "I'm not asking you to forgive anybody. I'm telling you what happened. You can do something useful with a road, Ms. Barnett, and somebody else will always be waiting at the end of it with a torch. I learned that in Elizabethtown, and I've never once been able to unlearn it."
+"It wasn't. I didn't light it. I didn't order it. The man who did order the raid tried to stop it, and couldn't." He looked at me. "And the road those men walked to the church that night, across the ice, through the marsh, in the dark, so quietly that nobody heard them coming, was mine. I made it. I was very proud of it." He was quiet. "I'm not asking you to forgive anybody. I'm telling you what happened. You can build a road for a good reason, Ms. Barnett, and you don't get to choose who walks down it. I learned that in Elizabethtown. I've built a good many roads since. I think about it every time."
 
 "Was there another one?" I said. "That night."
 
