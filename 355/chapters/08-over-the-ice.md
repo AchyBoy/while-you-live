@@ -42,79 +42,191 @@ It was a good plan. I want to say that plainly. It was the best plan anybody mad
 
 * * *
 
-They went on the night of the twenty-fifth. About four hundred men, mostly Jersey Volunteers, under their lieutenant colonel, Abraham Van Buskirk, a Dutch doctor from Bergen County who'd raised a battalion of his own neighbors for the King, and a troop of the Seventeenth Light Dragoons. I went with them as the guide.
+They went on the night of the twenty-fifth. About four hundred men, mostly Jersey Volunteers, under their lieutenant colonel, Abraham Van Buskirk, a Dutch doctor from Bergen County who'd raised a battalion of his own neighbors for the King, and a troop of the Seventeenth Light Dragoons. I went at the front, as the guide. Van Buskirk gave me two of his men to keep me company, or to keep an eye on me. I never asked which.
 
-Van Buskirk found me at the edge of the ice before we started, in the dark, while the companies were forming up on the snow behind us with their breath smoking.
+Sergeant Dirck Van Orden was fifty, Dutch, from Hackensack, and said about ten words a night. Ezra Kipp was nineteen, from Bergen Point, and couldn't have said ten words a night if you'd paid him.
 
-"You're Beckwith's man," he said. He was a tall, stooped, tired-looking man, more doctor than soldier, with a muffler wound up to his ears. "He says you can get four hundred men across two miles of ice without a sound."
+"Step where I step," I said, at the edge of the ice. "One trail. Not four hundred."
 
-"Not without a sound, sir. Without a sound they can hear."
+"Four hundred men in one man's boots," Kipp whispered. "That's a trick I'd pay to see."
 
-He looked at me. Then he almost smiled. "That'll do," he said. "Lead on."
-
-We went down the island's shore in the dark, close in, on the soft snow. It worked. It was like walking on wool. Every so often the ice sang its long note under us, and the whole column stopped without being told, four hundred men frozen in the dark like deer, and then went on. A sergeant behind me was praying under his breath, the same three words over and over. Nobody told him to stop.
-
-At the narrows below Trembly's Point I held up my hand and the column bunched behind me.
-
-"Here, sir," I said to Van Buskirk, low. "Straight across, a quarter mile. Then the marsh. The reeds will crackle. Don't let them hurry it. A man who hurries through reeds sounds like a cow."
-
-He passed it back, whispered, man to man. *Don't hurry it. Sounds like a cow.* I heard it go all the way down the column, and somebody, far back, snorted, and somebody else hissed at him.
-
-We came up through the frozen marsh with the reeds round our knees, and nobody heard us. At four in the morning we were at the edge of Elizabethtown, in the lee of a barn, looking down a street of dark houses with snow on the roofs, and one light, in one window, at the far end, where the guard was.
+"You're about to see it for nothing," Van Orden said. That was three of his ten.
 
 * * *
 
-"The guardhouse first," I said. "And the houses with officers in them. I'll show you which. Take them in their beds."
+We went down the island's shore close in, where the snow lay thick on the ice. It was like walking on wool. You could hear the man behind you breathing and nothing else. For a mile, nobody said a word.
+
+Then the ice sang.
+
+It started somewhere out in the bay, a long low note, like a wet finger round the rim of a glass the size of the harbor, and it ran toward us, and under us, and away. The whole column stopped without being told. Four hundred men, frozen on the snow like deer.
+
+"Is that the ice," Kipp breathed, "or my knees?"
+
+"The tide," I said. "Lifting it."
+
+"Does the tide know there's four hundred of us standing on it?"
+
+"It does now."
+
+Van Orden put his hand on Kipp's shoulder, once, and took it away. Kipp shut his mouth. We went on.
+
+* * *
+
+At the narrows below the Point I held up my fist, and the column bunched behind me in the dark.
+
+Across the water, a quarter mile off, the Jersey shore was a long black line. Somewhere along it, a dog was barking. Not at us. At the cold, at the night, the way dogs do. It had been barking the whole time we'd been on the ice.
+
+It stopped.
+
+Kipp's hand came onto my sleeve. "Why'd it stop?"
+
+"I don't know."
+
+"You told Beckwith the ice talks. What's it saying now?"
+
+"It's saying be quiet, Kipp."
+
+We waited. A minute. Two. My feet had stopped hurting a long time before, which is the bad kind of not hurting. Van Orden was looking at the shore with his head a little on one side, the way a farmer looks at weather.
+
+Then the dog started again. Further along. Barking at something else.
+
+Kipp let his breath out so hard it smoked. "I hate that dog."
+
+"Love that dog," Van Orden said. "That dog is our friend."
+
+We crossed.
+
+* * *
+
+The marsh came up to meet us below Trembly's Point, frozen reeds as high as a man's chest, and every one of them crackled when you touched it.
+
+"Slowly," I said. "Pass it back. A man who hurries through reeds sounds like a cow."
+
+Kipp passed it back. I heard it go down the column behind us in the dark, whisper by whisper, man to man. *Slowly. Sounds like a cow.* Somewhere far back, somebody snorted. Somebody else hissed at him. And four hundred men went through that marsh like cows that had been told about it, which is to say a good deal better than cows.
+
+At four in the morning we were in the lee of a barn at the edge of Elizabethtown, looking down a street of dark houses with snow on their roofs. One light, at the far end, in a window. The guardhouse.
+
+Van Buskirk came up beside me, stooped, with his muffler round his ears.
+
+"Well, Freeman?"
+
+"The guard first, sir. Then the houses with the officers in them. I'll show you which. Take them in their beds."
 
 "And if they fight?"
 
-"They won't, sir, if they're asleep. A man in his shirt with his breeches in his hand doesn't fight. He asks what time it is."
-
-It went exactly like that. I want you to know it went exactly like that, because of what came after. The guard was asleep round its stove, all but one man, who was sitting in a chair by the window with his musket across his knees and his head on his chest, and who woke up with a Volunteer's hand over his mouth and stared at us over it with his eyes enormous. The officers came out of the houses with their hands up and their breeches in their hands. One of them did ask what time it was. A woman stood in a doorway in her nightgown with a candle and screamed at us, and a Volunteer said, "Go back to bed, Mrs. Hetfield, nobody's going to hurt him," and she stopped screaming and stared at the Volunteer, because she knew him. They'd been to the same church.
-
-Twenty minutes. Fifty prisoners. I don't think three shots were fired in the whole town.
-
-I stood in the street with Van Buskirk while they were being collected, in a line, in the snow, in whatever they'd snatched up on the way out, and he let out his breath and said, very quietly, "By God, that was clean."
-
-"Yes, sir."
-
-"We'll be back on the island before they've lit their fires." He turned to give the order to form up.
-
-That was when the torches came down the street.
+"A man in his shirt with his breeches in his hand doesn't fight, sir. He asks what time it is."
 
 * * *
 
-They weren't his men. They weren't Volunteers. They were Loyalist militia from Staten Island who'd come across behind us on their own account, the way the Jersey farmers had followed Lord Stirling, twenty or thirty of them, men whose farms had been stripped ten days before. They'd brought pitch and straw in sacks, which tells you they'd decided before they ever set foot on the ice. They walked straight past the prisoners without looking at them, toward the meeting house in the middle of the town, the big Presbyterian meeting house with the white steeple, where the minister had preached rebellion every Sunday since '75 and rung the bell to call out the militia.
+We went down the street in two files, close to the houses, in their shadow.
 
-I went after them. I don't know what I thought I was going to do. I caught up with the last man at the meeting house steps, a thick, bearded man with a torch in one hand and a sack in the other, and I said, "The Colonel's orders are prisoners. Nothing else. He said nothing burns."
+Fifty yards from the guardhouse, the door opened.
 
-He turned round and looked at me. At my face. Then at the paper I was holding out, with Beckwith's note on it. He didn't look at the paper long.
+Light came out across the snow, yellow and wide. A man stepped into it with a lantern held out in front of him and his musket over his shoulder, and stood on the step, looking at the night.
 
-"That's the bell," he said, and pointed up with his torch at the dark steeple. "That bell rang the night they came for my brother. They hanged him off his own barn. You want to tell me about orders?" He looked at me again, slowly, up and down. "You want to tell me anything at all?"
+Everybody stopped. Nobody went flat; there was no snow deep enough in that street to go flat in. Forty men stood against the fronts of the houses in the dark, ten yards outside the edge of his light, and held their breath.
 
-I didn't. I want you to understand that. I stood on the bottom step and didn't say another word, because I was a Black man with a guide's paper in a town full of armed white men with their blood up, and if I'd put my hand on that torch, they'd have thrown me in after it, and Van Buskirk would have written to Beckwith that his guide had been killed in the confusion.
+"He's seen us," Kipp whispered, without moving his lips.
 
-He went up the steps and through the door. A few minutes later there was light in the windows. Then there was light coming out of the windows.
+"He hasn't."
 
-Van Buskirk came running. I heard him before I saw him, shouting in Dutch and English both, *put it out, put it out, I did not order this, put it out at once*, and his own officers running behind him with buckets they'd taken from somebody's well. It was no good. Nobody could have put it out, by then, with buckets and snow. The steeple caught, and went up like a candle, and the whole street turned orange, and the prisoners in their line in the snow turned round to look at it, every one, the way people turn to look at a house they were born in.
+"How do you know?"
 
-And while Van Buskirk was shouting, somebody else set fire to the courthouse across the green.
+"He's still holding the lantern."
+
+The sentry yawned. A huge yawn. He set the lantern on the step and turned his back to us, and fumbled with the front of his breeches, and relieved himself into the snow beside the door with a long sigh of satisfaction that I could hear from fifty yards.
+
+Kipp made a sound. I don't know what sound. It was very small, and it was either laughter or prayer, and Van Orden's hand came down over his mouth from behind before it could become anything else.
+
+The sentry picked up his lantern, and went in, and shut the door.
+
+Van Buskirk let his breath out beside me. "Now," he said. "Now."
+
+* * *
+
+It went exactly as I'd said it would. I want you to know that, because of what came after.
+
+The guard was asleep round its stove, all but the man with the lantern, who woke up for the second time that night with a Volunteer's hand over his mouth, staring at us over it with his eyes enormous. The officers came out of their houses with their hands up and their breeches in their hands. One of them did ask what time it was. Kipp told him a quarter past four, very politely, and the officer said "Thank you," and then looked as though he wished he hadn't.
+
+A woman came to a doorway in her nightgown with a candle and screamed. One of the Volunteers stepped up to her, a big man with a red face, and said, quite gently, "Go back to bed, Mrs. Hetfield. Nobody's going to hurt him." And she stopped screaming, and stared at him, because she knew him. They'd sat in the same church.
+
+Twenty minutes. Fifty prisoners. I don't believe three shots were fired in the whole town.
+
+They lined the prisoners up in the snow in the middle of the street, in whatever they'd snatched up on the way out. Van Buskirk stood beside me and watched them, and let out a long breath, and said, very quietly, "By God, Freeman. That was clean."
+
+"Yes, sir."
+
+"We'll be on the island before they've lit their fires." He turned to give the order.
+
+Kipp touched my sleeve.
+
+"Freeman," he said. And he wasn't whispering anymore, and he wasn't joking.
+
+Torches were coming down the street.
+
+* * *
+
+They weren't ours. Not Van Buskirk's. Loyalist militia from the island, twenty or thirty of them, who'd come across behind us on their own, the way the Jersey farmers had followed Lord Stirling. Men whose farms had been stripped ten days ago. They had sacks over their shoulders, and when the first one passed me I smelled what was in them. Pitch.
+
+They walked straight past the prisoners without looking at them, toward the meeting house in the middle of the town. The big Presbyterian meeting house with the white steeple, where the minister had preached rebellion every Sunday since '75 and rung the bell to call out the militia.
+
+"Oh, no," Kipp said. "No, no."
+
+I went after them. I don't know what I thought I'd do. I caught the last man at the foot of the meeting house steps, a thick bearded man with a torch in one hand and a sack in the other, and I said, "The Colonel's orders are prisoners. Nothing else. Nothing burns."
+
+He turned round. He looked at me. At my face. Then at the paper I was holding out, with Beckwith's note on it. He didn't look at the paper long.
+
+"That bell," he said, and he pointed up at the dark steeple with his torch, "rang the night they came for my brother. They hanged him off his own barn door." He looked at me again, slowly, up and down. "You want to tell me about orders?" Very quietly. "You want to tell me anything at all?"
+
+I didn't.
+
+I want you to understand why. I was a Black man with a guide's paper in a town full of armed white men with their blood up. If I'd put my hand on that torch, they'd have thrown me in after it, and Van Buskirk would have written to Beckwith that his guide had been killed in the confusion, and Beckwith would have believed him, because it would have been very nearly true.
+
+He went up the steps and in through the door.
+
+A minute later there was light in the windows. Then there was light coming out of the windows.
+
+Van Buskirk came running. I heard him before I saw him, shouting in Dutch and English both, *put it out, put it out, I did not order this, put it out at once*, and his officers behind him with buckets they'd snatched from somebody's well. Van Orden ran with them. Kipp didn't. Kipp stood in the middle of the street beside me and watched.
+
+Nobody could have put it out by then, with buckets and snow. The steeple caught and went up like a candle. The whole street turned orange. And the prisoners in their line in the snow turned round, every one of them, to look at it, the way people turn to look at a house they were born in.
+
+While Van Buskirk was still shouting, somebody set fire to the courthouse across the green.
+
+"We did that," Kipp said beside me. Not loud.
+
+"No," I said. "We brought them here."
+
+He looked at me. He was nineteen. "What's the difference?"
+
+I didn't have an answer for him. I've had two hundred and forty-seven years to think of one, and I still don't.
 
 * * *
 
 We went back across the ice in the gray light, the way we'd come, and it was nothing like the way we'd come.
 
-Coming, we'd been four hundred men holding their breath. Going back, we were four hundred men and fifty prisoners, and a town on fire behind us, and nobody was quiet anymore. The prisoners walked between the files in their shirts and stockings, with their arms wrapped round themselves, and the Volunteers guarding them were men from the same county, some from the same streets, and they knew each other's names, and nobody used them.
+Nobody was quiet now. Fifty prisoners walked between the files in their shirts and stockings with their arms wrapped round themselves, and the Volunteers who guarded them were men from the same county, some from the same streets, and they knew each other's names, and nobody used them.
 
-Behind us the whole country was waking. A drum started in Elizabethtown, and then another, further off, and then the alarm gun, and then the bells of every church still standing along that shore, one after another, as if the towers were passing the news down the coast. By the time we were out past the marsh, there were men at the edge of the ice behind us, militia, firing after us in the half-dark. Too far. The balls fell short and skipped across the ice like stones a boy throws on a pond. Nobody was hit. But every man in that column flinched at every shot, me with them, and the ice under all that weight sang and sang, and twice it cracked, sharp, like a branch, somewhere out to the side, and four hundred men stopped dead, and then went on.
+Behind us the country was waking. A drum in Elizabethtown, then another further off, then the alarm gun, then the bells of every church still standing along that shore, one after another, tower to tower, passing the news down the coast. By the time we were past the marsh, there were militia at the edge of the ice behind us, firing after us in the half-dark.
 
-There was a boy among the prisoners, sixteen at most, taken off a cot in the guardhouse without his boots. By the middle of the bay he couldn't feel his feet. He was walking on the sides of them, and he fell twice. The second time I got him up and took the horse blanket off my own shoulders and put it round him, and he looked at me, at my face, as if he couldn't work out what I was.
+The first ball skipped past ten yards to my left and went skittering away across the ice like a stone a boy throws on a pond.
+
+"They're shooting at us," Kipp said.
+
+"They're shooting at the bay," Van Orden said. "The bay will be fine." The only joke I ever heard him make.
+
+The ice sang under all that weight, over and over. Twice it cracked, sharp, like a branch, somewhere off to the side, and four hundred men stopped dead, and then went on.
+
+There was a boy among the prisoners, sixteen at most, taken off a cot in the guardhouse without his boots. By the middle of the bay he couldn't feel his feet. He was walking on the sides of them, and he fell, and got up, and fell again. The second time, I got him up, and took the horse blanket off my own shoulders, and put it round him. He looked at me, at my face, as if he couldn't work out what I was.
 
 "Whose are you?" he said. His teeth were going so hard he could barely get it out.
 
 "My own," I said. "Walk."
 
-He walked. And when I looked back over my shoulder from the middle of that frozen bay, with the boy leaning on me and the bells still going on the Jersey shore, the steeple was down, and the glow of the two fires stood up over the town like a second sunrise, red and wrong. You could see it from Staten Island, the people told me afterward, and from the Battery in the city. The rebels said it all over Jersey for the rest of the war: that the King's men had come across the ice in the night and burned a house of God. They were right. They had.
+He walked. Kipp came up on his other side, without a word, and took his arm. And when I looked back over my shoulder from the middle of that frozen bay, with the boy between us and the bells still going on the Jersey shore, the steeple was down, and the glow of the two fires stood up over the town like a second sunrise, red and wrong.
+
+You could see it from Staten Island, the people told me afterward, and from the Battery in the city. The rebels said it all over Jersey for the rest of the war: that the King's men had come across the ice in the night and burned a house of God.
+
+They were right. They had.
 
 * * *
 
